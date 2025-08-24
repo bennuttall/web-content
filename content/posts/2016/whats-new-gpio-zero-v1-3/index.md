@@ -2,7 +2,7 @@
 [started](https://github.com/RPi-Distro/python-gpiozero/commit/272747238f54aa9939a88872a1c1324321de3810)
 the GPIO Zero project. We now have a core team of three (Dave Jones, Andrew Scheller and me). There
 have been 587 commits, we've released four major versions, and [published a
-book](https://bennuttall.com/simple-electronics-gpio-zero-book/). The library has great coverage of
+book](/blog/2016/08/simple-electronics-gpio-zero-book/). The library has great coverage of
 GPIO devices, and contains features I never even dreamed of. In the last year I've delivered
 workshops and given talks about it at conferences and events around the UK, the US and even in
 [Russia](https://speakerdeck.com/bennuttall/physical-computing-with-python-and-raspberry-pi-pycon-russia).

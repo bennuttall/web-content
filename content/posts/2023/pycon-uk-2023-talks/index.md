@@ -1,5 +1,5 @@
 I was back in Cardiff for PyCon UK recently and gave a talk on a BBC project I've been working on,
-called *Live Highlights*. I'm not doing as many conference [talks](https://bennuttall.com/talks/) as
+called *Live Highlights*. I'm not doing as many conference [talks](/talks/) as
 I used to – this is my only one of the year!
 
 I spoke about how we prototyped an idea and built it up to be used in audience-facing trials:

@@ -9,7 +9,7 @@ updates. So this can be something in between Twitter and a blog :)
 
 Look out for more of my content:
 
-- [on my blog](https://bennuttall.com/)
+- [on my blog](/)
 - [on Twitter](https://twitter.com/ben_nuttall)
 - [on opensource.com](https://opensource.com/users/bennuttall)
 - [on raspberrypi.org](https://www.raspberrypi.org/blog/author/bennuttall/)

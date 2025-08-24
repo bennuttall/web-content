@@ -1,10 +1,10 @@
 Trace is a Parkour gathering in the peak district organised by Jason Matten and Dave Sedgley. The
 first proper one was last year ([Trace Gathering
-2007](https://bennuttall.com/trace-gathering-2007/)) and we had a smaller one
+2007](/blog/2007/08/trace-gathering-2007/)) and we had a smaller one
 the year before called the [Northern Parkour Gathering
-2006](https://bennuttall.com/northern-parkour-gathering-2006/). I
+2006](/blog/2006/07/northern-parkour-gathering-2006/). I
 came back a few days early from my trip to the [Spanish
-Pyrenees](https://bennuttall.com/pyrenees-2008/) for this event and it was well
+Pyrenees](/blog/2008/07/pyrenees-2008/) for this event and it was well
 worth it. This year was HUGE as there were 250 places available as the entire campsite at Edale was
 booked out for us, so there were about twice as many attendees as last year (and about 5 times more
 than 06), which I felt played against us at times. It was too big. The rain fell throughout the week

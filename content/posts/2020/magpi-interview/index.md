@@ -1,7 +1,7 @@
 Issue #91 of the official Raspberry Pi magazine, *The MagPi*, has just been published and it
 features an interview with me, about my time at the Foundation (and a bit before), letting the
 community know what I'm [moving on to at the
-BBC](https://bennuttall.com/goodbye-raspberry-pi-hello-bbc/).
+BBC](/blog/2020/01/goodbye-raspberry-pi-hello-bbc/).
 
 <figure class="wp-block-image size-large">
 <a href="https://magpi.raspberrypi.org/issues/91"><img src="images/MagPi91-5-700x287.png"

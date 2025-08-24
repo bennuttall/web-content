@@ -99,7 +99,7 @@ project using Markdown.
 ## PyCon Ireland – Dublin
 
 I submitted a proposal to PyCon Ireland and it was accepted, which gave me the chance to visit
-Ireland again ([I went in 2011](https://bennuttall.com/limerick-2011/ "Limerick 2011")).
+Ireland again ([I went in 2011](/blog/2011/07/limerick-2011/ "Limerick 2011")).
 
 I gave my talk *Pioneering the Future of Computing Education* – you'll find the [slides on
 slideshare.](http://www.slideshare.net/bennuttall/pioneering-the-future-of-computing-education-pycon-ireland)

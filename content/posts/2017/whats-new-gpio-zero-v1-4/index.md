@@ -1,5 +1,5 @@
 It's been a while since [the last GPIO Zero
-release](https://bennuttall.com/whats-new-gpio-zero-v1-3/), so it's with great pleasure I announce
+release](/blog/2016/09/whats-new-gpio-zero-v1-3/), so it's with great pleasure I announce
 [v1.4 is here](https://pypi.python.org/pypi/gpiozero/1.4.0). Upgrade now on your Raspberry Pi:
 
 ```

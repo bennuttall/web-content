@@ -106,8 +106,8 @@ people the finished product. Here is a selection of the projects I worked on at 
 
 Throughout the year I continued to run the [Manchester Raspberry Jam](http://mcrraspjam.org.uk/).
 This started in July 2012 and I ran one every month since then, skipping just two (March, for the
-[Jamboree](https://bennuttall.com/raspberry-jamboree-2013/ "Raspberry Jamboree 2013"), and September
-when I was in [Berlin](https://bennuttall.com/berlin-2013/ "Berlin 2013")) which we usually had
+[Jamboree](/blog/2013/03/raspberry-jamboree-2013/ "Raspberry Jamboree 2013"), and September
+when I was in [Berlin](/blog/2013/09/berlin-2013/ "Berlin 2013")) which we usually had
 around 30 – 60 people attending. The Manchester Jam was the first in the UK and they soon spread all
 over the country and the rest of the world. The events I ran were very practical focused, and we
 regularly had a range of people attending – including young people and families, and everyone was
@@ -223,7 +223,7 @@ I also attended an event at Manchester University for STEM Ambassadors to be int
 Raspberry Pi. After meeting the coordinators of STEMNET, we discussed the idea of running a
 Raspberry Jam for schools – and so over several emails and phone calls, we put an event together,
 invited schools to attend and ran the first [STEM Raspberry
-Jam](https://bennuttall.com/stem-raspberry-jam-pilot/ "STEM Raspberry Jam Pilot"). This kickstarted
+Jam](/blog/2013/04/stem-raspberry-jam-pilot/ "STEM Raspberry Jam Pilot"). This kickstarted
 Raspberry Pi activity in the STEM network of the North West and there have since been a number of
 Raspberry Pi sessions run by the STEM team with a team of trained Ambassadors – in schools and
 colleges around the North West, introducing young people to programming and making projects with the
@@ -267,7 +267,7 @@ after launch it was [featured on the Raspberry Pi blog](http://www.raspberrypi.o
 which sent out subscriber count through the roof. We then sought sponsorship to continue running at
 the new capacity, and developed new features as time passed. I worked on the website, the newsletter
 and the generator over time, and wrote up a [full account of its
-evolution](https://bennuttall.com/pi-weekly-evolution-dream-job/ "Pi Weekly – MVP, Evolution and My Dream Job")
+evolution](/blog/2013/11/pi-weekly-evolution-dream-job/ "Pi Weekly – MVP, Evolution and My Dream Job")
 on my blog. At the end of 2013, we'd sent out 28 issues and had over 5,600 subscribers. This week,
 Pi Weekly was [translated in to French](http://www.raspfr.org/fr/news/pi-weekly-29) by a Pi
 enthusiast with a Raspberry Pi news website.
@@ -401,7 +401,7 @@ from [github.com/bennuttall](http://github.com/bennuttall) on 4th January 2014.
 ## Bravery Award
 
 I was also presented with an award for the [river
-rescue](https://bennuttall.com/hero-kayakers/ "Hero Kayakers Rescue Whitewater Dinghy Man") I
+rescue](/blog/2012/10/hero-kayakers/ "Hero Kayakers Rescue Whitewater Dinghy Man") I
 conducted the previous September with friends from the canoe club. We each received the Chief Fire
 Officer's Commendation for bravery at a presentation in the Ramsbottom Fire Station. See the
 articles from the Manchester Evening News: [Award for Brave Kayakers who Saved Man's

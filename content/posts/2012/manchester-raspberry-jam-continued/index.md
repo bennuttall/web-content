@@ -1,5 +1,5 @@
 I've now hosted four Raspberry Jams in Manchester. I [posted about the first and
-second](https://bennuttall.com/manchester-raspberry-jam), here's a summary of what went on at III &
+second](/blog/2012/07/manchester-raspberry-jam/), here's a summary of what went on at III &
 IV.
 
 The August Manchester Raspberry Jam kicked off when [Kat](http://twitter.com/BinaryKitten) opened up

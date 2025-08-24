@@ -83,7 +83,7 @@ on their blog (and looking now I recognise some of the names on that site); one 
 2007 when my parkour group was [filmed for a regional TV show](/blog/2007/08/trace-gathering-2007/)
 which was [broadcast in 2008](/2008/01/us-on-bbc-inside-out/); another in 2009 where we were
 [auditioned for a TV programme](/blog/2009/04/lots-of-training-and-a-session-with-the-bbc/) about
-intelligence stereotypes. One time I had an [eventful kayaking trip](https://bennuttall.com/blog/2012/10/hero-kayakers/)
+intelligence stereotypes. One time I had an [eventful kayaking trip](/blog/2012/10/hero-kayakers/)
 which was [covered by BBC News](https://www.bbc.co.uk/news/uk-england-manchester-19735175). I even
 posted about [the death of Ronnie Corbett](/blog/2016/03/fork-handles/) in 2016, and related this to
 [GitHub](https://github.com/bennuttall/handles).

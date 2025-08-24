@@ -7,7 +7,7 @@ new friendly Python API called <a href="https://gpiozero.readthedocs.org/">GPIO 
 
 ![](images/leds.jpg)
 
-I recently wrote about [Raspberry Pi Zero](https://bennuttall.com/blog/2016/11/raspberry-pi-zero),
+I recently wrote about [Raspberry Pi Zero](/blog/2016/11/raspberry-pi-zero),
 the $5 computer
 and latest edition to the world of affordable hardware. Although the names are similar, the GPIO
 Zero and Raspberry Pi Zero projects are unrelated and are not coupled. The GPIO Zero library is made

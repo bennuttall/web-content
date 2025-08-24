@@ -4,7 +4,7 @@ atmosphere and culture around the city. Another friend [Sam](http://twitter.com/
 moved here, and he loves it too. There seemed to be a thriving tech scene, and there's plenty of
 interesting things to see — so I thought I'd take my summer holiday there this year. I wanted to go
 alone too — just for the adventure of getting about and discovering interesting things by myself. I
-remembered my trip to the [Spanish Pyrenees](https://bennuttall.com/pyrenees-2008/ "Pyrenees 2008")
+remembered my trip to the [Spanish Pyrenees](/blog/2008/07/pyrenees-2008/ "Pyrenees 2008")
 back in 2008 and how I had to make it across the breadth of Spain by public transport on my own,
 with no real plan, in order to make it back for my flight, and how I met a bunch of cool people
 along the way. I was really seeking some adventure like this. And I'll be writing the post as I go

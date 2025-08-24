@@ -1,7 +1,7 @@
 *My review of the Google OnHub router, and some tips on setting up advanced options like port
 forwarding.*
 
-While in the US for a [trip](https://bennuttall.com/all-things-open-raspberry-pi-everyone/) in
+While in the US for a [trip](/blog/2016/12/all-things-open-raspberry-pi-everyone/) in
 October, I decided to pick up a [Google OnHub](https://on.google.com/hub/) router, which is only
 available in America, and has since been superseded by [Google
 WiFi](https://madeby.google.com/wifi/), also only available in America. There are two different

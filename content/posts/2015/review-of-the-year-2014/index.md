@@ -1,5 +1,5 @@
 Last December I started my job at the Raspberry Pi Foundation and this time last year, having just
-completed my first month, I wrote my [review of 2013](https://bennuttall.com/2013-in-review/) and
+completed my first month, I wrote my [review of 2013](/blog/2014/01/2013-in-review/) and
 all the events which led up to that move. Here is a round-up of all that's happened since then.
 
 ## Talks & Conferences

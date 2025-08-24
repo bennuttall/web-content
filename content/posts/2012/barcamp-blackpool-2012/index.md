@@ -39,7 +39,7 @@ topics but with getting tied up in conversation with various people – includin
 [Magma](http://twitter.com/magma_digital), I didn't make it along to any talks in the morning. While
 chatting with [Jack](http://twitter.com/JackWeirdy), I spontaneously decided to put down a talk I'd
 given at the first [Manchester Raspberry
-Jam](https://bennuttall.com/manchester-raspberry-jam/ "Manchester Raspberry Jam"), but unfortunately
+Jam](/blog/2012/07/manchester-raspberry-jam/ "Manchester Raspberry Jam"), but unfortunately
 I didn't have the slides with me – so I'll save it for another time. While chatting,
 [Martin](http://twitter.com/martinrue) brought up the fact that (in his opinion) I want to swap my
 Android phone for an iPhone, and I explained to the group that it wasn't true, and obviously they
@@ -111,7 +111,7 @@ joke was just to say good morning to me in the morning. So now, most days, I get
 with 'MORNING BEN'. Usually in the morning, which is ironic. And with the iPhone thing that's now
 caught on, why not add that in? And call me a
 [hero](https://bennuttall.com/wp-content/uploads/2012/10/hero.jpg), like the [papers did last
-week](https://bennuttall.com/hero-kayakers/ "Hero Kayakers Rescue Whitewater Dinghy Man"):
+week](/blog/2012/10/hero-kayakers/ "Hero Kayakers Rescue Whitewater Dinghy Man"):
 
 > [#Morning](https://twitter.com/search/%23Morning) [#Hero](https://twitter.com/search/%23Hero)
 > @[ben_nuttall](https://twitter.com/ben_nuttall) ! How is your

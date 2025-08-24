@@ -21,7 +21,7 @@ Award (which requires the completion of the D of E Gold amongst other accomplish
 time and finally received my certificate from the [Chief
 Scout](http://en.wikipedia.org/wiki/Chief_Scout)[ Peter
 Duncan](http://en.wikipedia.org/wiki/Peter_Duncan_(actor)) last month (see [this
-post](https://bennuttall.com/london-baby/ "London, baby!")).
+post](/blog/2008/10/london-baby/ "London, baby!")).
 
 The Bronze & Silver certificates are merely posted out but the Gold ones are presented at a special
 ceremony with Prince Philip in presence. I had an invitation (the poshest invitation you've ever
