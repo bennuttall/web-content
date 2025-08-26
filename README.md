@@ -11,7 +11,7 @@ This repo contains content, static files and
 ## Licences
 
 Text content of posts in [content/posts](content/posts/) is Copyright Ben Nuttall, licenced under
-[CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+[CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
 
 The site template and static files are copyright Ben Nuttall, with the exception of static files
 from [WordPress](https://wordpress.org/) and [Foundation](https://get.foundation/).
