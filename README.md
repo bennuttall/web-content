@@ -1,7 +1,7 @@
 # Web content
 
 The source of web content for my website [bennuttall.com](https://bennuttall.com) which is built
-using a static site generator at [github.com/bennuttall/blog]
+using a static site generator at [github.com/bennuttall/blog](https://github.com/bennuttall/blog)
 
 ## Content
 
