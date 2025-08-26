@@ -97,8 +97,8 @@ footer {
 }
 
 footer .row {
-  padding: 0 2px;
-  line-height: 40px;
+  padding: 1em;
+  line-height: 1.5em;
 }
 
 footer a {
