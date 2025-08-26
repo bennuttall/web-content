@@ -3,8 +3,9 @@ ago I've moved between platforms and redesigned the layout several times over.
 
 This time I decided to go for a static site build, which means not requiring managing WordPress
 plugins and updates, or running PHP on my server. It'll also perform a lot better if I get another
-big hit, like [The surreal experience of my first developer job](/blog/2021/04/the-surreal-experience-of-my-first-developer-job/)
-which sat at the top of Hacker News for a whole day.
+big hit, like [The surreal experience of my first developer
+job](/blog/2021/04/the-surreal-experience-of-my-first-developer-job/) which sat at the top of
+[Hacker News](https://news.ycombinator.com/item?id=28058816) for a whole day.
 
 My regular site revamping has been documented over the years...
 
@@ -54,22 +55,27 @@ of open source tools available.
 
 I used [Chameleon](https://chameleon.readthedocs.io/en/latest/),
 [Pydantic](https://docs.pydantic.dev/latest/), [markdown](https://pypi.org/project/Markdown/),
-[pyyaml](https://pypi.org/project/PyYAML/) and [BeautifulSoup](https://pypi.org/project/beautifulsoup4/).
+[pyyaml](https://pypi.org/project/PyYAML/) and
+[BeautifulSoup](https://pypi.org/project/beautifulsoup4/).
 
-The source code for the site generator is available on my [GitHub](https://github.com/bennuttall/blog).
+The source code for the site generator is available on my GitHub. I called it
+[Beemo](https://github.com/bennuttall/beemo) and I've released it to PyPI. I'll try to make it more
+generalised to be useful to others.
 
 ## Content
 
-I wrote a script to pull all the posts from my WordPress site via its JSON API, keeping their
-titles, slugs and tags along with the content. I used [pandoc](https://pandoc.org/) to mangle the
-HTML content; [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) to extract the images; and
+I wrote a [script](https://gist.github.com/bennuttall/5505efe6f52b875e4c4a547374af5bfb) to pull all
+the posts from my WordPress site via its JSON API, keeping their titles, slugs and tags along with
+the content. I used [pandoc](https://pandoc.org/) to mangle the HTML content;
+[BeautifulSoup](https://pypi.org/project/beautifulsoup4/) to extract the images; and
 [imagemagick](https://imagemagick.org/) to resize them. I ran the same script on my abandoned
 *Tooling Tuesday* blog, a separate WordPress instance, to bring those posts in too.
 
-I also copied the source of some of the article I wrote for [opensource.com](https://opensource.com/)
-which stopped running a couple of years ago. I had another look through my old Blogger account, and
-found a few really old posts I wanted to preserve, like [Athletics?](/blog/2008/09/athletics/) and 
-[My Received Files](/blog/2007/01/my-received-files/) so I've ported those over too.
+I also copied the source of some of the article I wrote for
+[opensource.com](https://opensource.com/) which stopped running a couple of years ago. I had another
+look through my old Blogger account, and found a few really old posts I wanted to preserve, like
+[Athletics?](/blog/2008/09/athletics/) and [My Received Files](/blog/2007/01/my-received-files/) so
+I've ported those over too.
 
 ## BBC
 
@@ -77,8 +83,8 @@ One thing that struck me while looking back at the content is the number of old 
 [bbc](/blog/tags/bbc/) or [bbc news](/blog/tags/bbc-news/), either written about or referencing
 BBC News articles, or about BBC TV shows.
 
-One was about an [event](/blog/2012/04/hack-to-the-future/) I was involved with which
-[BBC R&D wrote up](https://www.bbc.co.uk/blogs/researchanddevelopment/2012/04/teaching-coding-to-kids-at-hac.shtml)
+One was about an [event](/blog/2012/04/hack-to-the-future/) I was involved with which [BBC R&D wrote
+up](https://www.bbc.co.uk/blogs/researchanddevelopment/2012/04/teaching-coding-to-kids-at-hac.shtml)
 on their blog (and looking now I recognise some of the names on that site); one was about a time in
 2007 when my parkour group was [filmed for a regional TV show](/blog/2007/08/trace-gathering-2007/)
 which was [broadcast in 2008](/2008/01/us-on-bbc-inside-out/); another in 2009 where we were
