@@ -1,8 +1,7 @@
 # Web content
 
 The source of web content for my website [bennuttall.com](https://bennuttall.com) which is built
-using a static site generator called
-[github.com/bennuttall/beemo](https://github.com/bennuttall/beemo)
+using my own static site generator called [beemo](https://github.com/bennuttall/beemo).
 
 ## Content
 
