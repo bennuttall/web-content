@@ -7,17 +7,17 @@ If you would like me to speak at your event, please contact me by email: ben [at
 Some of the conferences I've spoken at:
 
 - **EuroPython** [2014](https://www.youtube.com/watch?v=24eDPoJvmnI), [2015](https://www.youtube.com/watch?v=X-85QhLeTHI), [2017](https://www.youtube.com/watch?v=nJi2KKvD-PU), [2018](https://www.youtube.com/watch?v=pRtpXzS2Weo), [2019](https://www.youtube.com/watch?v=MJePVWbu5g4), [2020](https://www.youtube.com/watch?v=qgM2md7TsEA), [2021](https://www.youtube.com/watch?v=JfrqKOO0Yoc), [2022](https://www.youtube.com/watch?v=tMJCcXSxVdw)
-- **PyCon UK** [2014](https://www.youtube.com/watch?v=A2w3hg9PTwE), [2015](https://www.youtube.com/watch?v=RC2Knd7PxfE), 2016, [2017](https://www.youtube.com/watch?v=g9bwrWjAXEk), [2018](https://www.youtube.com/watch?v=T2R1JAnL7-I), [2019](https://www.youtube.com/watch?v=xAry28g1N-0), [2022](https://www.youtube.com/c/PyconUKSoc/videos), [2023](https://www.youtube.com/watch?v=UEGMR0oCOqI)
-- **PyCon Ireland** 2014  
-- **EuroSciPy** 2014 (keynote)  
-- **Python San Sebastian** 2014 (keynote)  
-- **NorDevCon** 2015  
-- **PyCon Russia** [2016](https://www.youtube.com/watch?v=M2pDCNkRoM8) (keynote)  
+- **PyCon UK** [2014](https://www.youtube.com/watch?v=A2w3hg9PTwE), [2015](https://www.youtube.com/watch?v=RC2Knd7PxfE), 2016, [2017](https://www.youtube.com/watch?v=g9bwrWjAXEk), [2018](https://www.youtube.com/watch?v=T2R1JAnL7-I), [2019](https://www.youtube.com/watch?v=xAry28g1N-0), [2022](https://www.youtube.com/watch?v=LIy964OVRKw), [2023](https://www.youtube.com/watch?v=UEGMR0oCOqI)
+- **PyCon Ireland** 2014
+- **EuroSciPy** 2014 (keynote)
+- **Python San Sebastian** 2014 (keynote)
+- **NorDevCon** 2015
+- **PyCon Russia** [2016](https://www.youtube.com/watch?v=M2pDCNkRoM8) (keynote)
 - **FOSDEM** [2017](https://www.youtube.com/watch?v=vtsi6IS6D3s)
-- **All Things Open** 2017, 2018, 2020  
-- **Remote Python Pizza** 2020  
-- **EBU BroadThinking** 2021  
-- **Open Source 101** [2021](https://www.youtube.com/watch?v=MNPw0kHdpN4)  
+- **All Things Open** 2017, 2018, [2020](https://www.youtube.com/watch?v=hCcP4NBexFU)
+- **Remote Python Pizza** 2020
+- **EBU BroadThinking** 2021
+- **Open Source 101** [2021](https://www.youtube.com/watch?v=MNPw0kHdpN4)
 - **PackagingCon** [2021](https://www.youtube.com/watch?v=nH99MZEUJSE)
 
 ## Upcoming
@@ -56,7 +56,7 @@ Some of the conferences I've spoken at:
 
 | Talk title | Event | Location | Date | Slides | Video |
 |----|----|----|----|----|----|
-| Tools for maintaining an open source project | All Things Open 2020 | Remote | 20 October 2020 | [slides](https://speakerdeck.com/bennuttall/tools-for-maintaining-an-open-source-project) |  |
+| Tools for maintaining an open source project | All Things Open 2020 | Remote | 20 October 2020 | [slides](https://speakerdeck.com/bennuttall/tools-for-maintaining-an-open-source-project) | [video](https://www.youtube.com/watch?v=hCcP4NBexFU) |
 | piwheels: a Python package repository for Raspberry Pi (lightning talk) | EuroPython 2020 | Remote | 23 July 2020 | [slides](https://speakerdeck.com/bennuttall/piwheels-a-python-package-repository-for-raspberry-pi-d6ec4a27-eb0f-4c64-ad64-9e9b846cfc1d) |  |
 | Tools for maintaining an open source Python project | EuroPython 2020 | Remote | 23 July 2020 | [slides](https://speakerdeck.com/bennuttall/tools-for-maintaining-an-open-source-python-project) | [video](https://www.youtube.com/watch?v=qgM2md7TsEA) |
 | piwheels: a Python package repository for Raspberry Pi | Remote Python Pizza | Remote | 25 April 2020 | [slides](https://speakerdeck.com/bennuttall/piwheels-a-python-package-repository-for-raspberry-pi) |  |
@@ -71,10 +71,12 @@ Some of the conferences I've spoken at:
 | Astro Pi: Python on the International Space Station | PyData Cambridge | Cambridge, UK | 26 June 2019 | [slides](https://speakerdeck.com/bennuttall/astro-pi-at-pydata-cambridge) |  |
 | Maintaining an open source Python library | London Raspberry Pint | London, UK | 26 March 2019 | [slides](https://speakerdeck.com/bennuttall/maintaining-an-open-source-python-library) | [video](https://skillsmatter.com/skillscasts/13660-handy-tools-for-running-maintaining-an-open-source-project) |
 
-### 2018 (6)
+### 2018 (8)
 
 | Talk title | Event | Location | Date | Slides | Video |
 |----|----|----|----|----|----|
+| 6 years of Raspberry Pi (lightning talk) | All Things Open 2018 | Raleigh, North Carolina, USA | [slides](https://speakerdeck.com/bennuttall/6-years-of-raspberry-pi) | [video](https://www.youtube.com/watch?v=QlAnApndvx0) |
+| Raspberry Pi for developers and makers | All Things Open 2018 | Raleigh, North Carolina, USA | [slides](https://speakerdeck.com/bennuttall/raspberry-pi-for-developers-and-makers) |  |
 | Programming paradigms for physical computing and IoT | PyCon UK 2018 | Cardff, UK | 18 September 2018 | [slides](https://speakerdeck.com/bennuttall/programming-paradigms-for-physical-computing-and-iot) | [video](https://www.youtube.com/watch?v=T2R1JAnL7-I) |
 | Why I run my own Python package repository | PyCon UK 2018 | Cardff, UK | 16 September 2018 | [slides](https://speakerdeck.com/bennuttall/why-i-run-my-own-python-package-repository) | [video](https://youtu.be/7w_qgGZM4ao?t=303) |
 | Programming paradigms for physical computing and IoT | EuroPython 2018 | Edinburgh, UK | 27 July 2018 | [slides](https://speakerdeck.com/bennuttall/programming-paradigms-for-physical-computing-and-iot-1) | [video](https://www.youtube.com/watch?v=pRtpXzS2Weo) |
