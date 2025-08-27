@@ -75,8 +75,8 @@ Some of the conferences I've spoken at:
 
 | Talk title | Event | Location | Date | Slides | Video |
 |----|----|----|----|----|----|
-| 6 years of Raspberry Pi (lightning talk) | All Things Open 2018 | Raleigh, North Carolina, USA | [slides](https://speakerdeck.com/bennuttall/6-years-of-raspberry-pi) | [video](https://www.youtube.com/watch?v=QlAnApndvx0) |
-| Raspberry Pi for developers and makers | All Things Open 2018 | Raleigh, North Carolina, USA | [slides](https://speakerdeck.com/bennuttall/raspberry-pi-for-developers-and-makers) |  |
+| Raspberry Pi for developers and makers | All Things Open 2018 | Raleigh, North Carolina, USA | 23 October 2018 | [slides](https://speakerdeck.com/bennuttall/raspberry-pi-for-developers-and-makers) |  |
+| 6 years of Raspberry Pi (lightning talk) | All Things Open 2018 | Raleigh, North Carolina, USA | 21 October 2018 | [slides](https://speakerdeck.com/bennuttall/6-years-of-raspberry-pi) | [video](https://www.youtube.com/watch?v=QlAnApndvx0) |
 | Programming paradigms for physical computing and IoT | PyCon UK 2018 | Cardff, UK | 18 September 2018 | [slides](https://speakerdeck.com/bennuttall/programming-paradigms-for-physical-computing-and-iot) | [video](https://www.youtube.com/watch?v=T2R1JAnL7-I) |
 | Why I run my own Python package repository | PyCon UK 2018 | Cardff, UK | 16 September 2018 | [slides](https://speakerdeck.com/bennuttall/why-i-run-my-own-python-package-repository) | [video](https://youtu.be/7w_qgGZM4ao?t=303) |
 | Programming paradigms for physical computing and IoT | EuroPython 2018 | Edinburgh, UK | 27 July 2018 | [slides](https://speakerdeck.com/bennuttall/programming-paradigms-for-physical-computing-and-iot-1) | [video](https://www.youtube.com/watch?v=pRtpXzS2Weo) |
