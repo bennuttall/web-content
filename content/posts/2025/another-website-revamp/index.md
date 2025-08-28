@@ -59,8 +59,9 @@ I used [Chameleon](https://chameleon.readthedocs.io/en/latest/),
 [BeautifulSoup](https://pypi.org/project/beautifulsoup4/).
 
 The source code for the site generator is available on my GitHub. I called it
-[Beemo](https://github.com/bennuttall/beemo) and I've released it to PyPI. I'll try to make it more
-generalised to be useful to others.
+[Beemo](https://github.com/bennuttall/beemo) and I've released it to
+[PyPI](https://pypi.org/project/beemo/). I'll try to make it more generalised to be useful to
+others.
 
 ## Content
 
