@@ -110,6 +110,11 @@ pre {
   border: 2px solid #159ed5;
 }
 
+.postmeta {
+  color: #77777a;
+  font-size: 0.8em;
+}
+
 blockquote p {
   font-style: italic;
 }

@@ -14,9 +14,11 @@
     <div>
       <div class="row">
         <div class="small-12 columns">
-          <div><a href="/blog/">Blog</a> &raquo; <a href="/blog/${post.published.year}">${post.published.year}</a> &raquo; <a href="/blog/${post.published.strftime('%Y/%m')}/">${post.published.strftime("%B")}</a></div>
-          <div>Published <time datetime="${post.published.isoformat(timespec='seconds')}" title="${post.published.isoformat(timespec='seconds')}">${post.published.strftime("%-d %B %Y")}</time></div>
-          <div tal:condition="post.modified_diff">Modified <time datetime="${post.modified.isoformat(timespec='seconds')}" title="${post.modified.isoformat(timespec='seconds')}">${post.modified.strftime("%-d %B %Y")}</time></div>
+          <div class="postmeta">
+            <div><a href="/blog/">Blog</a> &raquo; <a href="/blog/${post.published.year}">${post.published.year}</a> &raquo; <a href="/blog/${post.published.strftime('%Y/%m')}/">${post.published.strftime("%B")}</a></div>
+            <div>Published <time datetime="${post.published.isoformat(timespec='seconds')}" title="${post.published.isoformat(timespec='seconds')}">${post.published.strftime("%-d %B %Y")}</time></div>
+            <div tal:condition="post.modified_diff">Modified <time datetime="${post.modified.isoformat(timespec='seconds')}" title="${post.modified.isoformat(timespec='seconds')}">${post.modified.strftime("%-d %B %Y")}</time></div>
+          </div>
           <h1 tal:content="structure post.title"></h1>
         </div>
       </div>
