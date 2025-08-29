@@ -1,0 +1,6 @@
+posts_dir: content/posts
+pages_dir: content/pages
+static_dir: static
+templates_dir: templates
+blog_root: blog
+output_dir: www

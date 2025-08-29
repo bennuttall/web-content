@@ -1,14 +1,14 @@
 <div metal:use-macro="layout">
   <div metal:fill-slot="head" tal:omit-tag="1">
-    <meta name="description" content="${description}" />
+    <meta name="description" content="Ben Nuttall's blog archive" />
     <meta property="og:url" content="https://bennuttall.com/${link}/" />
-    <meta property="og:title" content="${html_title}" />
-    <meta property="og:description" content="${description}" />
-    <meta name="twitter:title" content="${html_title}" />
-    <meta name="twitter:description" content="${description}" />
+    <meta property="og:title" content="${title}" />
+    <meta property="og:description" content="Ben Nuttall's blog archive" />
+    <meta name="twitter:title" content="${title}" />
+    <meta name="twitter:description" content="Ben Nuttall's blog archive" />
   </div>
 
-  <div metal:fill-slot="title" tal:omit-tag="1">${html_title}</div>
+  <div metal:fill-slot="title" tal:omit-tag="1">${title}</div>
 
   <section metal:fill-slot="content">
     <div>

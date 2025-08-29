@@ -206,5 +206,33 @@ figcaption a, figcaption a:hover {
 }
 
 figure {
-  margin: 0 0 20px 0;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.wp-block-image {
+  display: table;
+  margin: 20px auto;
+}
+
+.wp-block-image img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.wp-block-image figcaption {
+  display: table-caption;
+  caption-side: bottom;
+  padding: 5px 2px;
+  background: #159ed5;
+  text-align: center;
+  font-size: 14px;
+  border: 0;
+  border-top: 0;
+  color: white;
+}
+
+figcaption a:link, figcaption a:hover {
+  color: white;
 }

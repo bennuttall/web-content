@@ -2,19 +2,19 @@
   <div metal:fill-slot="head" tal:omit-tag="1">
     <meta name="description" content="Tags index for Ben Nuttall's blog posts" />
     <meta property="og:url" content="https://bennuttall.com/blog/tags/" />
-    <meta property="og:title" content="${html_title}" />
-    <meta property="og:description" content="${description}" />
-    <meta name="twitter:title" content="${html_title}" />
-    <meta name="twitter:description" content="${description}" />
+    <meta property="og:title" content="Tags" />
+    <meta property="og:description" content="Tags index for Ben Nuttall's blog posts" />
+    <meta name="twitter:title" content="Tags" />
+    <meta name="twitter:description" content="Tags index for Ben Nuttall's blog posts" />
   </div>
 
-  <div metal:fill-slot="title" tal:omit-tag="1">${html_title}</div>
+  <div metal:fill-slot="title" tal:omit-tag="1">Tags</div>
 
   <section metal:fill-slot="content">
     <div>
       <div class="row">
         <div class="small-12 columns">
-          <h1>${title}</h1>
+          <h1>Tags</h1>
         </div>
       </div>
       <div class="row">
