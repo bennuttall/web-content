@@ -18,7 +18,7 @@ doing more in future!
 Click through to the [video](https://www.youtube.com/watch?v=uBF5ewOcPQE) and you'll see chapter
 markings along the way.
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uBF5ewOcPQE?si=LPJHw3M519OHPqlH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 

@@ -47,7 +47,7 @@ This was the first Python conference I'd attended, and my first major conference
 
 Here's the video of my talk *Pioneering the Future of Computing Education*:
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/24eDPoJvmnI?si=N0kOS6dRt2d1xgFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
@@ -69,7 +69,7 @@ interesting and engaging and particularly how they can be used in science educat
 
 Here's the video of my talk *Python Programming in Science Education*:
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c8Qor1WD2kE?si=j9ljWLZ4WmuoyLJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
@@ -81,7 +81,7 @@ slideshare](http://www.slideshare.net/bennuttall/euroscipy-python-programming-in
 I'd always wanted to go to PyCon UK, but with a normal developer job (and not in Python) it would
 have meant taking time off work to go.
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A2w3hg9PTwE?si=4Jfh_qRMHrMQz_KO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 

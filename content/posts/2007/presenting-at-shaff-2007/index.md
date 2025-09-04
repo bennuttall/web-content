@@ -58,4 +58,6 @@ ShAFF event with Wine & Canapés I was invited to. It's absolutely brilliant, it
 without making you want to not bother, so just take my word for it and check it out. Very skillful –
 *Balancing Point*:
 
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0kJ77p8xG_8?si=_J0GoHGXFvT_hMLJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>

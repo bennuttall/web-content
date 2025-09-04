@@ -7,6 +7,6 @@
 
 ~ [Don't Copy That Floppy, Wikipedia](http://en.wikipedia.org/wiki/Don't_Copy_That_Floppy)
 
-<figure class="wp-block-image">
+<>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/up863eQKGUI?si=hGtMcnkpArtt47vx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>

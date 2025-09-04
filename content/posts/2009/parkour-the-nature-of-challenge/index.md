@@ -15,24 +15,24 @@ watch and learn.
 
 **Part 1:**
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Poph6Jmc688?si=cgWjJl1oh2Rx9va5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
 **Part 2:**
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NYi8r5bUuo4?si=x31N01s-QwkAbXjV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
 **Part 3:**
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_l_F_RFdBc?si=EmVtJj0Wdq0X5MZp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
 **Part 4:**
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TNYltTLYKhU?si=CLFHuUTgcHzeVvol" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>

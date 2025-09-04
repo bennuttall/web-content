@@ -164,4 +164,6 @@ An uber huge thanks to Dave for organising this whole gathering weekend. I know 
 spoke to enjoyed it and learned from the other attendees. Well done, Dave. It was a fantastic event!
 Thanks.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AYKhO5t6AG0?si=85E8gj__jkpbmrx1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AYKhO5t6AG0?si=Ahak49JXpbANllnp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>

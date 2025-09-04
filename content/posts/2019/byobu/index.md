@@ -45,7 +45,7 @@ There are a *lot* of features I don't use regularly or at all. The most common o
 
 You'll learn more visually by watching this video:
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NawuGmcvKus?si=q1bYgxRibII9g41q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 

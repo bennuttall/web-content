@@ -22,7 +22,7 @@ Smith](https://twitter.com/ManchesterBudo), [Jack Wearden](https://twitter.com/J
 myself. We introduced ourselves and discussed what Jams are, how they work and what we think about
 them, and answered questions from the audience:
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vmJToV0VKTw?si=MrVU2a_-CGires2L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
@@ -68,7 +68,7 @@ likes of [Paul Beech](https://twitter.com/guru), Rob Bishop and Pete Lomas! As o
 has guided her along the way, I'm very proud of her for giving this talk and can say she did so
 professionally – a thoroughly enjoyable talk. Now watch it!
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a35XINnYFtA?si=m1-ik4QK2nUmu7xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
@@ -108,6 +108,6 @@ Centre](http://jamboree.bytemark.co.uk/))
 
 Update: here's a video summing up the Jamboree:
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_lGow-nxrY?si=fDzMjabFJOWcV3dj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>

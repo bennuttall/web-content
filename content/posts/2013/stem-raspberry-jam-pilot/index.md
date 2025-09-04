@@ -42,7 +42,7 @@ real world geeks – now popular figures such as Mark Zuckerberg! I talked about
 donating £500,000 to improve STEM education in the UK](http://www.bbc.co.uk/news/business-21747206),
 and how he's now learning to code!
 
-<figure class="wp-block-image">
+<figure>
 <iframe frameborder="0" height="389" loading="lazy" src="https://docs.google.com/presentation/d/1t1fp-lJGberkgSEdYEmB5dZD6xGz53CJgiKDizERB30/embed?start=false&amp;loop=false&amp;delayms=3000" width="480"></iframe>
 <figcaption><i>Raspberry Why?</i></figcaption>
 </figure>

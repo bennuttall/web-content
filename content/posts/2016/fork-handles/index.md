@@ -2,7 +2,7 @@ I was sad to hear the [news of the death of Ronnie Corbett](https://www.bbc.co.u
 I've always been a huge fan of *The Two Ronnies* and much of the other work the duo had done both
 together and individually.
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gi_6SaqVQSw?si=lF9UO6QWLSo0jIi1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 

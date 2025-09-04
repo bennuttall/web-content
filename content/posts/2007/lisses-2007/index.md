@@ -125,7 +125,7 @@ we could get on another coach and we could get another one an hour later but we 
 for the tickets, which was more than we'd paid online for the return journey! We managed to get home
 on that next coach no problem.
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8nThFKp55zk?si=ZW5ycBHpus71yDLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 

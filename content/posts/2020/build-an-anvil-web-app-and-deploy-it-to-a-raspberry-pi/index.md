@@ -15,7 +15,7 @@ sizes="auto, (max-width: 862px) 100vw, 862px" width="862" height="768" />
 Click through to the [video](https://www.youtube.com/watch?v=2B7tWrW5XkA) and you'll see chapter
 markings along the way.
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2B7tWrW5XkA?si=GWY8LNiw34A8q8cp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 

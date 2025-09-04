@@ -7,6 +7,6 @@ pinout, HATs, GPIO Zero, Remote GPIO, Picamera, Energenie, Sense HAT, Astro Pi a
 view the <a href="https://speakerdeck.com/bennuttall/python-and-raspberry-pi-fosdem-2017">slides</a>,
 and watch the video here:
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vtsi6IS6D3s?si=xWGr1DpxhtGRnJhH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>

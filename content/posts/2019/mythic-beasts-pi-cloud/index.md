@@ -76,6 +76,6 @@ width="998" height="359" /></a>
 Update: I've now also made a [screencast](https://www.youtube.com/watch?v=V4vMPjdYsdc) of this
 process:
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V4vMPjdYsdc?si=yjwJv_vUU5_wMoRp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>

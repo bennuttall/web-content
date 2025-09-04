@@ -9,7 +9,7 @@ space*](http://opensource.com/education/15/4/uk-students-compete-chance-have-the
 This piece was featured in the website's weekly [top
 5](http://opensource.com/life/15/4/weekly-top-5-april-10):
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GewI2J-suUc?si=D2sbcDOcPdIySwZL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 

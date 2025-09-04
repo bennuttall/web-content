@@ -22,13 +22,13 @@ In 2021 I worked on:
 
 Here's our 2021 highlights video:
 
-<figure class="wp-block-embed">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j8Ig20Nkfqw?si=eqU4xbJH4BJUYiiD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
 I also gave a talk about mosromgr and our work on R4 Today at EuroPython:
 
-<figure class="wp-block-embed">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JfrqKOO0Yoc?si=XjjDwQImh_-sArUS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 

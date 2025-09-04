@@ -12,7 +12,7 @@ of the moderators, columnists and contributors.
 I was asked to give a lightning talk, and I decided to speak about the Raspberry Pi Foundation's
 mission: what we do, how we do it, and where we're at now! Here's the video of the talk (3m20s):
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fuAkRui5ngs?si=TIP-l1TX3cUL0Pem" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 

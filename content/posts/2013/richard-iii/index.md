@@ -18,7 +18,7 @@ BBC News: [Richard III dig: DNA confirms bones are king](http://www.bbc.co.uk/ne
 
 Baldrick nails it:
 
-<figure class="wp-block-image">
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/olrJwB0XdnM?si=QdmTfP2BR_OS8Ubr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
   
