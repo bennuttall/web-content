@@ -7,7 +7,7 @@ If you would like me to speak at your event, please contact me by email: ben [at
 Some of the conferences I've spoken at:
 
 - **EuroPython** [2014](https://www.youtube.com/watch?v=24eDPoJvmnI), [2015](https://www.youtube.com/watch?v=X-85QhLeTHI), [2017](https://www.youtube.com/watch?v=nJi2KKvD-PU), [2018](https://www.youtube.com/watch?v=pRtpXzS2Weo), [2019](https://www.youtube.com/watch?v=MJePVWbu5g4), [2020](https://www.youtube.com/watch?v=qgM2md7TsEA), [2021](https://www.youtube.com/watch?v=JfrqKOO0Yoc), [2022](https://www.youtube.com/watch?v=tMJCcXSxVdw)
-- **PyCon UK** [2014](https://www.youtube.com/watch?v=A2w3hg9PTwE), [2015](https://www.youtube.com/watch?v=RC2Knd7PxfE), 2016, [2017](https://www.youtube.com/watch?v=g9bwrWjAXEk), [2018](https://www.youtube.com/watch?v=T2R1JAnL7-I), [2019](https://www.youtube.com/watch?v=xAry28g1N-0), [2022](https://www.youtube.com/watch?v=LIy964OVRKw), [2023](https://www.youtube.com/watch?v=UEGMR0oCOqI)
+- **PyCon UK** [2014](https://www.youtube.com/watch?v=A2w3hg9PTwE), [2015](https://www.youtube.com/watch?v=RC2Knd7PxfE), 2016, [2017](https://www.youtube.com/watch?v=g9bwrWjAXEk), [2018](https://www.youtube.com/watch?v=T2R1JAnL7-I), [2019](https://www.youtube.com/watch?v=xAry28g1N-0), [2022](https://www.youtube.com/watch?v=LIy964OVRKw), [2023](https://www.youtube.com/watch?v=UEGMR0oCOqI), 2025
 - **PyCon Ireland** 2014
 - **EuroSciPy** 2014 (keynote)
 - **Python San Sebastian** 2014 (keynote)
@@ -22,9 +22,16 @@ Some of the conferences I've spoken at:
 
 ## Upcoming
 
-- Pydantic workshop at [PyCon UK 2025](https://2025.pyconuk.org/) in Manchester
+None
 
 ## Past
+
+### 2025 (2)
+
+| Talk title | Event | Location | Date | Slides | Video |
+|----|----|----|----|----|----|
+| Data Modelling with Pydantic (workshop) | PyCon UK 2025 | Manchester, UK | 21 September 2025 | [link](https://github.com/bennuttall/pydantic-workshop) |  |
+| Make a splat-a-cat game with pgzero (young coders workshop) | PyCon UK 2025 | Manchester, UK | 20 September 2025 | | |
 
 ### 2023 (2)
 
