@@ -5,5 +5,6 @@ A selection of my open source projects:
 - [hostedpi](https://github.com/piwheels/hostedpi)
 - [mosromgr](https://github.com/bbc/mosromgr)
 - [pyjokes](https://github.com/pyjokes/pyjokes)
+- [beemo](https://github.com/bennuttall/beemo)
 
 See more on my GitHub profile: [github.com/bennuttall](https://github.com/bennuttall/)
