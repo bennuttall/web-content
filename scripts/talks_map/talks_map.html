@@ -1,0 +1,1631 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_4e19a52a1686e1849396550320844b1c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_4e19a52a1686e1849396550320844b1c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_4e19a52a1686e1849396550320844b1c = L.map(
+                "map_4e19a52a1686e1849396550320844b1c",
+                {
+                    center: [54.5, -3.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_6ac74d9ddd6ec97c66cb8af8d83f93f2 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_6ac74d9ddd6ec97c66cb8af8d83f93f2.addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+            var marker_041cdcf98631bb61da6aa5fabc4e561b = L.marker(
+                [53.479489, -2.245115],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_c6a7b619f06613a529bed1b3a240d8d2 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_802aecbc9b1a6a26ece03631aeae9e36 = $(`<div id="html_802aecbc9b1a6a26ece03631aeae9e36" style="width: 100.0%; height: 100.0%;"><div><strong>Manchester, UK</strong><br><br><strong>Data Modelling with Pydantic (workshop)</strong><br>PyCon UK 2025<br>21 September 2025<br><a href="https://github.com/bennuttall/pydantic-workshop">Slides</a><br><hr><strong>Make a splat-a-cat game with pgzero (young coders workshop)</strong><br>PyCon UK 2025<br>20 September 2025<br><hr><strong>Traffic Lights controller with gpiozero and guizero</strong><br>Manchester CoderDojo<br>12 March 2017<br><hr><strong>Traffic Lights controller with gpiozero and guizero</strong><br>Manchester Raspberry Jam<br>11 March 2017<br><hr><strong>Bringing digital making to your library with Raspberry Pi</strong><br>Code Green - Cracking the Code<br>8 November 2016<br><a href="https://speakerdeck.com/bennuttall/bringing-digital-making-to-your-library-with-raspberry-pi">Slides</a><br><hr><strong>The Raspberry Pi Community</strong><br>Picademy @ Google Manchester<br>22 March 2016<br><a href="https://speakerdeck.com/bennuttall/the-raspberry-pi-community">Slides</a><br><hr><strong>Physical Computing with Scratch and Python</strong><br>Picademy @ Google Manchester<br>21 March 2016<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-scratch-and-python">Slides</a><br><hr><strong>Physical Computing with Scratch and Python</strong><br>Picademy @ Google Manchester<br>13 March 2016<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-scratch-and-python">Slides</a><br><hr><strong>Raspberry Pi in Education</strong><br>Barcamp Manchester 2014<br>19 October 2014<br><a href="http://www.slideshare.net/bennuttall/raspberry-pi-in-education-barcamp-manchester">Slides</a><br><hr><strong>Blimps (slideshow karaoke)</strong><br>Barcamp Manchester 2014<br>18 October 2014<br><a href="http://www.slideshare.net/saurabhpalan/blimps?qid=d051f8d5-e78f-4ca6-a8d3-fefa9bd2dc9e">Slides</a><br><hr><strong>Raspberry Pi in Science Education</strong><br>IMA North West<br>14 October 2014<br><a href="http://www.slideshare.net/bennuttall/raspberry-pi-in-science-education-ima-nw">Slides</a><br><hr><strong>Getting Started with Raspberry Pi</strong><br>Manchester Girl Geeks Barcamp 2014<br>31 May 2014<br><hr><strong>Raspberry Jams Panel Discussion</strong><br>Raspberry Jamboree 2014<br>1 March 2014<br><hr><strong>Pioneering the Future of Computing Education</strong><br>Raspberry Jamboree 2014<br>1 March 2014<br><a href="https://speakerdeck.com/bennuttall/pioneering-the-future-of-computing-education">Slides</a><br><hr><strong>Python Picamera Workshop</strong><br>Raspberry Jamboree 2014<br>28 February 2014<br><a href="https://docs.google.com/presentation/d/1dff9FncSLGcmBLHdfOSGlAMSm6XSompNOf_8vm5eCy4/edit#slide=id.p">Slides</a><br><hr><strong>Raspberry Pi</strong><br>Hyper Island<br>25 February 2014<br><a href="https://docs.google.com/presentation/d/1huYytXcClaLbt6ohjKrl2VWENA3bBAFKddJqt9vipZo/present#slide=id.g2bfcc2f6e_11">Slides</a><br><hr><strong>Raspberry Pi News / My Last Jam</strong><br>Manchester Raspberry Jam XVI<br>16 November 2013<br><a href="https://docs.google.com/presentation/d/18sIdgSFgueSJH5PWxEtIMZpTrAhbJynX9r5Qp0Ajk7k/present#slide=id.g11f7a23c7_032">Slides</a> | <a href="http://www.youtube.com/watch?v=egFOwDKnsHI">Video</a><br><hr><strong>Raspberry Pi & Manchester Raspberry Jam</strong><br>Madlab<br>16 October 2013<br><a href="https://docs.google.com/presentation/d/1q-Tc35GRJvCYloi2pPW5nFMJgTqA85J3CIKX4nJx4xQ/present#slide=id.ge34ffa37_010">Slides</a><br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam XV<br>12 October 2013<br><a href="https://docs.google.com/presentation/d/1cFirdW3Du27OsC39FtuNDEo5ITTFELdqykcx6_P0mjA/present#slide=id.p">Slides</a><br><hr><strong>Raspberry Pi & Raspberry Jams</strong><br>PHP North West User Group<br>6 August 2013<br><a href="https://docs.google.com/presentation/d/1OCL2wXurifAVgLkul8MbY69SYYTzp0a0O4gY6IYH4KE/present#slide=id.ge34ffa37_010">Slides</a><br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam XIV<br>13 July 2013<br><a href="https://docs.google.com/presentation/d/1LVqz_KR3JSInHTW0IsEGZd1mQ3ipj3obg7Gaf4H6a1g/present#slide=id.p">Slides</a><br><hr><strong>Digital Skills Web Workshop</strong><br>Digital Skills for Women<br>30 June 2013<br><a href="https://docs.google.com/presentation/d/1dxHlWNerG9NhmPgMceSl3-hNBRb6W4-RFXPBDKYqDpw/present#slide=id.p">Slides</a><br><hr><strong>Playing with your Twitter Archive in MongoDB</strong><br>Manchester MongoDB User group<br>10 June 2013<br><a href="https://docs.google.com/presentation/d/1L7jYElv3QPRl9eD3P4gK8vcJJ0rP5lQB8Av6_pfetRw/present#slide=id.p">Slides</a><br><hr><strong>Webcams and the Raspberry Pi Camera Module</strong><br>Manchester Raspberry Jam XII<br>2 June 2013<br><a href="https://docs.google.com/presentation/d/15bjkIGN39HEtQNAxcdiXxtOFK463vKIiZ6AF7pe8nEk/edit#slide=id.ge0e42192_022">Slides</a><br><hr><strong>Python Intro</strong><br>Manchester Raspberry Jam XII<br>2 June 2013<br><hr><strong>Raspberry Pi Weather Station</strong><br>Manchester Raspberry Jam XII<br>1 June 2013<br><a href="https://docs.google.com/presentation/d/1KMvhShz034NayMW58dwPTqrJsRMTc8HbSCtbdyUCo60/present#slide=id.p">Slides</a><br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam XII<br>1 June 2013<br><a href="https://docs.google.com/presentation/d/1EydImod-0jn8-rRqIwiJZfJC9yT72y3Wd8gOYzjoMbI/present#slide=id.p">Slides</a><br><hr><strong>Intro to MongoDB</strong><br>Python North West User Group<br>16 May 2013<br><a href="https://docs.google.com/presentation/d/1gLCq7JiGnULKRQopcINVko688z60Rw4s4-qKFs5UFxg/present#slide=id.p">Slides</a><br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam XI<br>11 May 2013<br><a href="https://docs.google.com/presentation/d/1gT5N8GAdGj7WB7IcL6Ox-vy9pxOwFx73toLY9MO0Tas/present#slide=id.p">Slides</a><br><hr><strong>MongoDB for Developers Course Review</strong><br>Manchester MongoDB User Group<br>29 April 2013<br><a href="https://docs.google.com/presentation/d/1gkC6nQGvq6REoHdKCb9OW_CJBcGoihb3CgvKncDjubE/present#slide=id.p">Slides</a><br><hr><strong>Free Software Culture</strong><br>Ubuntu & Upstream Unconference<br>21 April 2013<br><a href="https://docs.google.com/presentation/d/17eVj5WJ9ox5bd-I6-kjI5jx3de1mRk0aJWlWDdAWVYQ/present#slide=id.p">Slides</a><br><hr><strong>Build a Python Learning Tool</strong><br>Python North West User Group<br>18 April 2013<br><a href="https://docs.google.com/presentation/d/1Q7Xu3-Z_tM0a1PpjA7SEdBPtl-q3VjQQaM8bd_a2t3E/present#slide=id.p">Slides</a><br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam X<br>13 April 2013<br><a href="https://docs.google.com/presentation/d/13KTYrcVeJjwJtqHzva_RlHV7Un_sR9dV-7_-In0XCaM/present#slide=id.p">Slides</a><br><hr><strong>Python Intro Workshop</strong><br>STEM Raspberry Jam<br>18 March 2013<br><hr><strong>Raspberry Why?</strong><br>STEM Raspberry Jam<br>18 March 2013<br><a href="https://docs.google.com/presentation/d/1t1fp-lJGberkgSEdYEmB5dZD6xGz53CJgiKDizERB30/present#slide=id.p">Slides</a><br><hr><strong>Free Software Culture</strong><br>Manchester Girl Geeks Barcamp 2013<br>16 March 2013<br><a href="https://docs.google.com/presentation/d/1gn7qcgRGeKnC2vsn56Jj46u0ghk1xb0kRB1bJNOvR3g/present#slide=id.p">Slides</a> | <a href="http://www.youtube.com/watch?v=encStyzRmhA">Video</a><br><hr><strong>Raspberry Jam panel discussion</strong><br>Raspberry Jamboree 2013<br>9 March 2013<br><a href="http://www.youtube.com/watch?v=vmJToV0VKTw">Video</a><br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam IX<br>17 February 2013<br><a href="https://docs.google.com/presentation/d/1F8LKdzYVN-bil6huzQznfMYh0AtOXvm5fXlODHyrTOE/present#slide=id.p">Slides</a><br><hr><strong>About Manchester Raspberry Jam</strong><br>Raspberry Pi STEM Ambassador Workshop<br>17 January 2013<br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam VIII<br>12 January 2013<br><a href="https://docs.google.com/presentation/d/1LN-qOQVJaXVuxQtk8ysrTOg2jyWvx98yGAzl_C1v9R4/present#slide=id.p">Slides</a><br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam VII<br>9 December 2012<br><a href="https://docs.google.com/presentation/d/1Aat10JOlSQT8vhvgBEUoJvIcZHqabtTynfVKF2pPuKM/present#slide=id.p">Slides</a><br><hr><strong>Python and SciPy Performance on the Raspberry Pi</strong><br>Python North West User Group<br>22 November 2012<br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam VI<br>11 November 2012<br><a href="https://docs.google.com/presentation/d/13Ll-Ve2WVm1CKQSTxMccMu0RCwUvSa5h_nApPbLTpfw/present#slide=id.p">Slides</a><br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam V<br>20 October 2012<br><a href="https://docs.google.com/presentation/d/1WcuH-3dQykrENf-Vn7YI4CN_hm1M4mo0vUA1ruEoCSY/present#slide=id.p">Slides</a><br><hr><strong>About Manchester Raspberry Jam</strong><br>BCS/IET Young Professionals’ Lecture<br>18 October 2012<br><hr><strong>Getting Excited about Python</strong><br>Manchester Metropolitan University<br>28 September 2012<br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam IV<br>8 September 2012<br><a href="https://docs.google.com/presentation/d/1Nb8TmAKJKnhV5wabaEQMYzk1mP82-zyjrv4dFd02Sr8/present#slide=id.p">Slides</a><br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam III<br>11 August 2012<br><a href="https://docs.google.com/presentation/d/1XRgwWkCucXkT6krJFBxnzfaHogLYvkTjuyDOwvSFx4Y/present#slide=id.p">Slides</a><br><hr><strong>Lightning Intro to Python</strong><br>PHP North West User Group<br>7 August 2012<br><a href="https://docs.google.com/presentation/d/1HNJuRs5IM3AO3UoVvOvlQg1qfn853FzUg2Dpsu1ZI1Y/present#slide=id.p">Slides</a><br><hr><strong>Raspberry Pi News</strong><br>Manchester Raspberry Jam II<br>14 July 2012<br><a href="https://docs.google.com/presentation/d/1NE1fu2dJa53EEDCxYl6DTdvuWmmVqNfNoa1uhW18iSo/present#slide=id.p">Slides</a><br><hr><strong>My Generation</strong><br>Manchester Raspberry Jam I<br>9 June 2012<br><hr><strong>Preston CodeJo Review & Recap</strong><br>Ubuntu & Upstream Unconference<br>28 April 2012<br><hr><strong>University Education</strong><br>PHP North West Conference (unconference track)<br>8 October 2011<br><a href="http://prezi.com/dirfob5ht4hp/university-education-the-good-the-bad-and-the-ugly/">Slides</a><br><hr><strong>Data Visualisation</strong><br>PHP North West User Group<br>1 August 2011<br><hr><strong>Data Visualisation</strong><br>Manchester Metropolitan University<br>11 May 2011<br></div></div>`)[0];
+                popup_c6a7b619f06613a529bed1b3a240d8d2.setContent(html_802aecbc9b1a6a26ece03631aeae9e36);
+            
+        
+
+        marker_041cdcf98631bb61da6aa5fabc4e561b.bindPopup(popup_c6a7b619f06613a529bed1b3a240d8d2)
+        ;
+
+        
+    
+    
+            marker_041cdcf98631bb61da6aa5fabc4e561b.bindTooltip(
+                `<div>
+                     Manchester, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_d2454e70ae607191c124ab06107bd2f4 = L.marker(
+                [51.481655, -3.179193],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_6301cdf14771b1d4737f0ec7b37874f9 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_64a0610d9df4489a438c3b62c64ccc3a = $(`<div id="html_64a0610d9df4489a438c3b62c64ccc3a" style="width: 100.0%; height: 100.0%;"><div><strong>Cardiff, UK</strong><br><br><strong>Numeronyms are obnoxious! (lightning talk)</strong><br>PyCon UK 2023<br>24 September 2023<br><a href="https://speakerdeck.com/bennuttall/numeronyms-are-obnoxious">Slides</a> | <a href="https://www.youtube.com/watch?v=chxsC2WYNTE&t=3677s">Video</a><br><hr><strong>Live Highlights in BBC iPlayer</strong><br>PyCon UK 2023<br>23 September 2023<br><a href="https://speakerdeck.com/bennuttall/live-highlights-in-bbc-iplayer">Slides</a> | <a href="https://www.youtube.com/watch?v=UEGMR0oCOqI">Video</a><br><hr><strong>Rapid prototyping in BBC News with Python and AWS</strong><br>PyCon UK 2022<br>17 September 2022<br><a href="https://speakerdeck.com/bennuttall/rapid-prototyping-in-bbc-news-with-python-and-aws-1e304ba7-9e51-4e16-8785-cf0ad177f157">Slides</a> | <a href="https://www.youtube.com/watch?v=LIy964OVRKw">Video</a><br><hr><strong>Astro Pi: Python on the International Space Station</strong><br>PyCon UK<br>13 September 2019<br><a href="https://speakerdeck.com/bennuttall/astro-pi-at-pycon-uk">Slides</a> | <a href="https://www.youtube.com/watch?v=xAry28g1N-0">Video</a><br><hr><strong>Programming paradigms for physical computing and IoT</strong><br>PyCon UK 2018<br>18 September 2018<br><a href="https://speakerdeck.com/bennuttall/programming-paradigms-for-physical-computing-and-iot">Slides</a> | <a href="https://www.youtube.com/watch?v=T2R1JAnL7-I">Video</a><br><hr><strong>Why I run my own Python package repository</strong><br>PyCon UK 2018<br>16 September 2018<br><a href="https://speakerdeck.com/bennuttall/why-i-run-my-own-python-package-repository">Slides</a> | <a href="https://youtu.be/7w_qgGZM4ao?t=303">Video</a><br><hr><strong>piwheels: a faster Python package repository for Raspberry Pi</strong><br>PyCon UK<br>29 October 2017<br><a href="https://speakerdeck.com/bennuttall/piwheels-pyconuk">Slides</a> | <a href="https://www.youtube.com/watch?v=g9bwrWjAXEk">Video</a><br><hr><strong>Designing a zero-boilerplate library for Raspberry Pi GPIO</strong><br>PyCon UK<br>18 September 2016<br><a href="https://github.com/waveform80/presentations/blob/master/gpiozero/index.html">Slides</a><br></div></div>`)[0];
+                popup_6301cdf14771b1d4737f0ec7b37874f9.setContent(html_64a0610d9df4489a438c3b62c64ccc3a);
+            
+        
+
+        marker_d2454e70ae607191c124ab06107bd2f4.bindPopup(popup_6301cdf14771b1d4737f0ec7b37874f9)
+        ;
+
+        
+    
+    
+            marker_d2454e70ae607191c124ab06107bd2f4.bindTooltip(
+                `<div>
+                     Cardiff, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_826582c946c85cbd019bec2ae42a03c8 = L.marker(
+                [53.349379, -6.260559],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_6b56fea91fa4b622cde3e2fdd03140a1 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_ccdff16ef0fc1e021bfce922509c5b75 = $(`<div id="html_ccdff16ef0fc1e021bfce922509c5b75" style="width: 100.0%; height: 100.0%;"><div><strong>Dublin, Ireland</strong><br><br><strong>Rapid prototyping in BBC News with Python and AWS</strong><br>EuroPython 2022<br>15 July 2022<br><a href="https://speakerdeck.com/bennuttall/europython-00f8b800-426c-4ec0-ae0e-d6a2e2bbfd0a">Slides</a> | <a href="https://www.youtube.com/watch?v=tMJCcXSxVdw">Video</a><br><hr><strong>Pioneering the future of computing education</strong><br>PyCon Ireland 2014<br>11 October 2014<br><a href="http://www.slideshare.net/bennuttall/pioneering-the-future-of-computing-education-pycon-ireland">Slides</a><br></div></div>`)[0];
+                popup_6b56fea91fa4b622cde3e2fdd03140a1.setContent(html_ccdff16ef0fc1e021bfce922509c5b75);
+            
+        
+
+        marker_826582c946c85cbd019bec2ae42a03c8.bindPopup(popup_6b56fea91fa4b622cde3e2fdd03140a1)
+        ;
+
+        
+    
+    
+            marker_826582c946c85cbd019bec2ae42a03c8.bindTooltip(
+                `<div>
+                     Dublin, Ireland
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_031b953d643ae4049930dde2189077df = L.marker(
+                [43.005946, -123.892591],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_753afff401416fe3993c23f2a57cb1c9 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_f4f29bd8dbe6a78abcd799eb72e31eaf = $(`<div id="html_f4f29bd8dbe6a78abcd799eb72e31eaf" style="width: 100.0%; height: 100.0%;"><div><strong>Remote</strong><br><br><strong>Running a Python Package Index for Raspberry Pi</strong><br>PackagingCon 2021<br>10 November 2021<br><a href="https://speakerdeck.com/bennuttall/running-a-python-package-index-for-raspberry-pi">Slides</a> | <a href="https://www.youtube.com/watch?v=nH99MZEUJSE">Video</a><br><hr><strong>From Acorns to Raspberries</strong><br>Durham University Software Development Bootcamp<br>26 October 2021<br><a href="https://speakerdeck.com/bennuttall/from-acorns-to-raspberries">Slides</a><br><hr><strong>Innovation in the newsroom</strong><br>EuroPython 2021<br>28 July 2021<br><a href="https://speakerdeck.com/bennuttall/innovation-in-the-newsroom">Slides</a> | <a href="https://www.youtube.com/watch?v=JfrqKOO0Yoc">Video</a><br><hr><strong>Innovation in the newsroom</strong><br>Cambridge Python User Group<br>6 July 2021<br><a href="https://speakerdeck.com/bennuttall/innovation-in-the-newsroom-mos-running-order-manager">Slides</a><br><hr><strong>Manage your own Pi Cloud with hostedpi</strong><br>Raspberry Pint<br>30 March 2021<br><a href="https://speakerdeck.com/bennuttall/manage-your-own-pi-cloud-with-hostedpi">Slides</a> | <a href="https://www.youtube.com/watch?v=9wNYRF5DGdk">Video</a><br><hr><strong>How to market your open source project</strong><br>Open Source 101<br>30 March 2021<br><a href="https://speakerdeck.com/bennuttall/how-to-market-your-open-source-project">Slides</a> | <a href="https://www.youtube.com/watch?v=MNPw0kHdpN4">Video</a><br><hr><strong>Object Based Media</strong><br>EBU BroadThinking<br>23 March 2021<br><hr><strong>Tools for maintaining an open source project</strong><br>All Things Open 2020<br>20 October 2020<br><a href="https://speakerdeck.com/bennuttall/tools-for-maintaining-an-open-source-project">Slides</a> | <a href="https://www.youtube.com/watch?v=hCcP4NBexFU">Video</a><br><hr><strong>piwheels: a Python package repository for Raspberry Pi (lightning talk)</strong><br>EuroPython 2020<br>23 July 2020<br><a href="https://speakerdeck.com/bennuttall/piwheels-a-python-package-repository-for-raspberry-pi-d6ec4a27-eb0f-4c64-ad64-9e9b846cfc1d">Slides</a><br><hr><strong>Tools for maintaining an open source Python project</strong><br>EuroPython 2020<br>23 July 2020<br><a href="https://speakerdeck.com/bennuttall/tools-for-maintaining-an-open-source-python-project">Slides</a> | <a href="https://www.youtube.com/watch?v=qgM2md7TsEA">Video</a><br><hr><strong>piwheels: a Python package repository for Raspberry Pi</strong><br>Remote Python Pizza<br>25 April 2020<br><a href="https://speakerdeck.com/bennuttall/piwheels-a-python-package-repository-for-raspberry-pi">Slides</a><br></div></div>`)[0];
+                popup_753afff401416fe3993c23f2a57cb1c9.setContent(html_f4f29bd8dbe6a78abcd799eb72e31eaf);
+            
+        
+
+        marker_031b953d643ae4049930dde2189077df.bindPopup(popup_753afff401416fe3993c23f2a57cb1c9)
+        ;
+
+        
+    
+    
+            marker_031b953d643ae4049930dde2189077df.bindTooltip(
+                `<div>
+                     Remote
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_09542be716e6e5e3b42ab90b1407b650 = L.marker(
+                [47.558108, 7.587826],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_4da54eb9287ee30c35fd12b020f80220 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_82eb29ff6065a3a44cd4f7805b6709d2 = $(`<div id="html_82eb29ff6065a3a44cd4f7805b6709d2" style="width: 100.0%; height: 100.0%;"><div><strong>Basel, Switzerland</strong><br><br><strong>Astro Pi: Python on the International Space Station</strong><br>EuroPython 2019<br>12 July 2019<br><a href="https://speakerdeck.com/bennuttall/astro-pi-at-europython-2019">Slides</a> | <a href="https://www.youtube.com/watch?v=MJePVWbu5g4">Video</a><br></div></div>`)[0];
+                popup_4da54eb9287ee30c35fd12b020f80220.setContent(html_82eb29ff6065a3a44cd4f7805b6709d2);
+            
+        
+
+        marker_09542be716e6e5e3b42ab90b1407b650.bindPopup(popup_4da54eb9287ee30c35fd12b020f80220)
+        ;
+
+        
+    
+    
+            marker_09542be716e6e5e3b42ab90b1407b650.bindTooltip(
+                `<div>
+                     Basel, Switzerland
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_e9fd2743a99e56dd30de0edd059599e1 = L.marker(
+                [52.205531, 0.118664],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_e71b2f036bd394b68842ce75e499e518 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_157b47d8d14bb71a5ba486cb7ebea295 = $(`<div id="html_157b47d8d14bb71a5ba486cb7ebea295" style="width: 100.0%; height: 100.0%;"><div><strong>Cambridge, UK</strong><br><br><strong>Astro Pi: Python on the International Space Station</strong><br>Cambridge Python User Group<br>2 July 2019<br><a href="https://speakerdeck.com/bennuttall/astro-pi-at-campug">Slides</a><br><hr><strong>Astro Pi: Python on the International Space Station</strong><br>PyData Cambridge<br>26 June 2019<br><a href="https://speakerdeck.com/bennuttall/astro-pi-at-pydata-cambridge">Slides</a><br><hr><strong>Hello world: a brief history of programming</strong><br>An Evening of Unnecessary Detail (Cambridge Science Festival)<br>17 March 2018<br><a href="https://speakerdeck.com/bennuttall/hello-world-a-brief-history-of-programming">Slides</a><br><hr><strong>Raspberry Pi Zero GPIO expander (lightning talk)</strong><br>Cambridge Python User Group<br>5 December 2017<br><hr><strong>piwheels: a faster Python package repository for Raspberry Pi users</strong><br>CamJam<br>14 October 2017<br><a href="https://speakerdeck.com/bennuttall/piwheels-camjam">Slides</a> | <a href="https://www.youtube.com/watch?v=WUFk7XYGVDI">Video</a><br><hr><strong>piwheels</strong><br>Cambridge Python User Group<br>1 August 2017<br><a href="https://speakerdeck.com/bennuttall/piwheels-campug">Slides</a><br><hr><strong>Remote GPIO workshop</strong><br>Raspberry Jam @ Pi Towers<br>1 July 2017<br><a href="https://speakerdeck.com/bennuttall/remote-gpio">Slides</a><br><hr><strong>Raspberry Jam panel</strong><br>Raspberry Pi Big Birthday Weekend<br>5 March 2017<br><a href="https://www.youtube.com/watch?v=2e2f-RxEY7k">Video</a><br><hr><strong>Build a traffic lights controller with gpiozero and guizero</strong><br>Raspberry Pi Big Birthday Weekend<br>4 March 2017<br><hr><strong>GPIO Zero</strong><br>Raspberry Pi Big Birthday Weekend<br>4 March 2017<br><a href="https://speakerdeck.com/bennuttall/gpio-zero-2">Slides</a> | <a href="https://www.youtube.com/watch?v=1PLPnwK_dRY">Video</a><br><hr><strong>Snapchat selfies</strong><br>Raspberry Jam @ Pi Towers<br>14 January 2017<br><hr><strong>GPIO Music Box</strong><br>Raspberry Jam @ Pi Towers<br>14 January 2017<br><hr><strong>Traffic Lights controller with gpiozero and guizero</strong><br>Raspberry Jam @ Pi Towers<br>14 January 2017<br><a href="https://speakerdeck.com/bennuttall/traffic-lights-controller-with-gpiozero-and-guizero">Slides</a><br><hr><strong>Physical Computing with Python and Raspberry Pi</strong><br>Cambridge Python user group<br>10 January 2017<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-python-and-raspberry-pi-campug">Slides</a><br><hr><strong>Sense HAT workshop</strong><br>Pi Towers Raspberry Jam<br>15 October 2016<br><a href="https://speakerdeck.com/bennuttall/sense-hat-workshop">Slides</a><br><hr><strong>Python Picamera with GPIO Zero</strong><br>Pi Towers Raspberry Jam<br>15 October 2016<br><a href="https://speakerdeck.com/bennuttall/python-picamera-with-gpio-zero-2">Slides</a><br><hr><strong>Raspberry Jam</strong><br>Pi Towers Raspberry Jam<br>15 October 2016<br><a href="https://speakerdeck.com/bennuttall/pi-towers-raspberry-jam">Slides</a><br><hr><strong>Raspberry Jam</strong><br>Raspberry Jam workshop<br>1 October 2016<br><a href="https://speakerdeck.com/bennuttall/raspberry-jam-workshop">Slides</a><br><hr><strong>The Journey of a Raspberry Pi Creative Technologist</strong><br>Raspberry Pi Creative Technologists final weekend<br>24 April 2016<br><a href="https://speakerdeck.com/bennuttall/the-journey-of-a-raspberry-pi-creative-technologist">Slides</a><br><hr><strong>Raspberry Pi and the community</strong><br>Cambridge Code Club meetup<br>19 April 2016<br><a href="https://speakerdeck.com/bennuttall/raspberry-pi-and-the-community-cambridge-code-club-meetup">Slides</a><br><hr><strong>The Raspberry Pi Community</strong><br>Picademy @ Google Manchester<br>14 March 2016<br><a href="https://speakerdeck.com/bennuttall/the-raspberry-pi-community">Slides</a><br><hr><strong>GPIO Zero with CamJam Edu Kit 1</strong><br>Raspberry Pi 4th Birthday Party<br>6 March 2016<br><a href="https://speakerdeck.com/bennuttall/gpio-zero-with-camjam-edu-kit-1">Slides</a><br><hr><strong>Physical Computing with GPIO Zero</strong><br>Raspberry Pi 4th Birthday Party<br>6 March 2016<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-gpio-zero-4">Video</a><br><hr><strong>The Raspberry Jam Community</strong><br>Raspberry Pi 4th Birthday Party<br>5 March 2016<br><a href="https://speakerdeck.com/bennuttall/the-raspberry-jam-community">Slides</a><br><hr><strong>Abstraction 101</strong><br>Raspberry Pi 4th Birthday Party<br>5 March 2016<br><a href="https://speakerdeck.com/bennuttall/abstraction-101">Slides</a><br><hr><strong>Developing a Friendly Python API for Physical Computing</strong><br>Cambridge Python User Group<br>5 January 2016<br><a href="https://speakerdeck.com/bennuttall/gpio-zero-developing-a-friendly-python-api-for-physical-computing-campug">Slides</a><br><hr><strong>Building a Python API for Raspberry Pi Hardware</strong><br>CamJam<br>12 September 2015<br><a href="https://speakerdeck.com/bennuttall/building-a-python-api-for-raspberry-pi-hardware">Slides</a> | <a href="https://www.youtube.com/watch?v=iPsULlTQDls">Video</a><br><hr><strong>Getting started with Python Picamera</strong><br>Picademy \#9<br>13 July 2015<br><a href="http://www.slideshare.net/bennuttall/picademy-python-picamera-workshop">Slides</a><br><hr><strong>Python for PHP Developers</strong><br>PHP Cambridge User Group<br>23 June 2015<br><a href="http://www.slideshare.net/bennuttall/python-for-php-developers">Slides</a><br><hr><strong>Getting started with Python Picamera</strong><br>Picademy \#8<br>27 April 2015<br><a href="http://www.slideshare.net/bennuttall/picademy-python-picamera-workshop">Slides</a><br><hr><strong>Hands on Raspberry Pi</strong><br>Raspberry Pi Creative Technologists Induction Weekend<br>18 April 2015<br><a href="https://docs.google.com/presentation/d/1dNuSJ1VRSaqvNSwppO2MxqN7aRHI2kthOD33xMG0IFc/">Slides</a><br><hr><strong>Pecha Kucha</strong><br>Raspberry Pi Creative Technologists Induction Weekend<br>18 April 2015<br><a href="http://www.slideshare.net/bennuttall/ben-nuttall-creative-technologists-pecha-kucha">Slides</a><br><hr><strong>Raspberry Pi Foundation Intro</strong><br>Raspberry Pi Creative Technologists Induction Weekend<br>18 April 2015<br><a href="http://www.slideshare.net/bennuttall/raspberry-pi-intro-for-creative-technologists">Slides</a><br><hr><strong>Raspberry Pi Education Team panel</strong><br>Raspberry Pi Birthday Weekend<br>28 February 2015<br><hr><strong>Raspberry Jams panel</strong><br>Raspberry Pi Birthday Weekend<br>28 February 2015<br><hr><strong>Python Picamera Workshop</strong><br>Picademy \#7<br>16 February 2015<br><a href="http://www.slideshare.net/bennuttall/picademy-picamera-intro-workshop">Slides</a><br><hr><strong>Python Picamera Workshop</strong><br>Picademy \#5<br>27 October 2014<br><a href="http://www.slideshare.net/bennuttall/picademy-picamera-intro-workshop">Slides</a><br><hr><strong>Python Programming in Science Education (keynote)</strong><br>EuroSciPy 2014<br>30 August 2014<br><a href="http://www.slideshare.net/bennuttall/euroscipy-python-programming-in">Slides</a> | <a href="https://www.youtube.com/watch?v=c8Qor1WD2kE">Video</a><br><hr><strong>GitHub in Education</strong><br>Picademy \#3<br>14 July 2014<br><a href="http://www.slideshare.net/bennuttall/picademy-github">Slides</a><br><hr><strong>Python Picamera Workshop</strong><br>Picademy \#3<br>14 July 2014<br><a href="https://docs.google.com/presentation/d/1dff9FncSLGcmBLHdfOSGlAMSm6XSompNOf_8vm5eCy4/edit#slide=id.p">Slides</a><br><hr><strong>Python Picamera Workshop</strong><br>CamJam<br>5 July 2014<br><a href="https://docs.google.com/presentation/d/1dff9FncSLGcmBLHdfOSGlAMSm6XSompNOf_8vm5eCy4/edit#slide=id.p">Slides</a><br><hr><strong>Contributing to Raspberry Pi Learning on GitHub</strong><br>CamJam<br>5 July 2014<br><a href="http://www.slideshare.net/bennuttall/contributingithub">Slides</a> | <a href="https://www.youtube.com/watch?v=094EH2kWe0g">Video</a><br><hr><strong>GitHub in Education</strong><br>Picademy \#2<br>16 June 2014<br><a href="http://www.slideshare.net/bennuttall/picademy-github">Slides</a><br><hr><strong>Python Picamera Workshop</strong><br>Picademy \#2<br>16 June 2014<br><a href="https://docs.google.com/presentation/d/1dff9FncSLGcmBLHdfOSGlAMSm6XSompNOf_8vm5eCy4/edit#slide=id.p">Slides</a><br><hr><strong>Raspberry Pi Lego Animation workshop</strong><br>CodeClub Event<br>12 June 2014<br><hr><strong>GitHub in Education</strong><br>Picademy \#1<br>14 April 2014<br><hr><strong>Python Picamera Workshop</strong><br>Picademy \#1<br>14 April 2014<br><a href="https://docs.google.com/presentation/d/1dff9FncSLGcmBLHdfOSGlAMSm6XSompNOf_8vm5eCy4/edit#slide=id.p">Slides</a><br></div></div>`)[0];
+                popup_e71b2f036bd394b68842ce75e499e518.setContent(html_157b47d8d14bb71a5ba486cb7ebea295);
+            
+        
+
+        marker_e9fd2743a99e56dd30de0edd059599e1.bindPopup(popup_e71b2f036bd394b68842ce75e499e518)
+        ;
+
+        
+    
+    
+            marker_e9fd2743a99e56dd30de0edd059599e1.bindTooltip(
+                `<div>
+                     Cambridge, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_ae6c65abef5509590e65c1b614151fa0 = L.marker(
+                [51.489334, -0.144055],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_ae61cbb304fb227a39d40323c0fbf1d2 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_b740b050888ccfc684d7287ae90f51bd = $(`<div id="html_b740b050888ccfc684d7287ae90f51bd" style="width: 100.0%; height: 100.0%;"><div><strong>London, UK</strong><br><br><strong>Maintaining an open source Python library</strong><br>London Raspberry Pint<br>26 March 2019<br><a href="https://speakerdeck.com/bennuttall/maintaining-an-open-source-python-library">Slides</a> | <a href="https://skillsmatter.com/skillscasts/13660-handy-tools-for-running-maintaining-an-open-source-project">Video</a><br><hr><strong>Programming paradigms for physical computing and IoT</strong><br>London Raspberry Pint<br>24 April 2018<br><a href="https://speakerdeck.com/bennuttall/programming-paradigms-for-physical-computing-and-iot">Slides</a><br><hr><strong>Infra-red bird box workshop</strong><br>Scouts digital day<br>14 April 2018<br><a href="https://speakerdeck.com/bennuttall/infra-red-bird-box">Slides</a><br><hr><strong>Snapchat Photobooth</strong><br>Bett 2017<br>25 January 2017<br><hr><strong>Code Club Raspberry Jams update</strong><br>Code Club UK Day<br>24 November 2016<br><a href="https://speakerdeck.com/bennuttall/code-club-raspberry-jams-update">Slides</a><br><hr><strong>Physical computing for beginners with GPIO Zero</strong><br>Bett 2016<br>20 January 2016<br><a href="https://speakerdeck.com/bennuttall/physical-computing-for-beginners-with-gpio-zero">Slides</a><br><hr><strong>Pecha Kucha</strong><br>Raspberry Pi Creative Technologists Hack Weekend<br>17 October 2015<br><hr><strong>Physical computing with GPIO Zero</strong><br>London Coding Evening<br>15 October 2015<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-gpio-zero">Slides</a><br><hr><strong>Getting Started with Minecraft Pi</strong><br>BETT 2015<br>23 January 2015<br><hr><strong>Getting Started with Python Picamera</strong><br>BETT 2015<br>22 January 2015<br><hr><strong>Raspberry Pi Demos</strong><br>BETT 2014<br>22 January 2014<br></div></div>`)[0];
+                popup_ae61cbb304fb227a39d40323c0fbf1d2.setContent(html_b740b050888ccfc684d7287ae90f51bd);
+            
+        
+
+        marker_ae6c65abef5509590e65c1b614151fa0.bindPopup(popup_ae61cbb304fb227a39d40323c0fbf1d2)
+        ;
+
+        
+    
+    
+            marker_ae6c65abef5509590e65c1b614151fa0.bindTooltip(
+                `<div>
+                     London, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_07ab8a519c13d73b9f2447409af587b2 = L.marker(
+                [35.780398, -78.639099],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_fb3413e69393b435432edc5f38b4c9af = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_4e0bb8a8d7abab8b8c49fee99bfe4f6a = $(`<div id="html_4e0bb8a8d7abab8b8c49fee99bfe4f6a" style="width: 100.0%; height: 100.0%;"><div><strong>Raleigh, North Carolina, USA</strong><br><br><strong>Raspberry Pi for developers and makers</strong><br>All Things Open 2018<br>23 October 2018<br><a href="https://speakerdeck.com/bennuttall/raspberry-pi-for-developers-and-makers">Slides</a><br><hr><strong>6 years of Raspberry Pi (lightning talk)</strong><br>All Things Open 2018<br>21 October 2018<br><a href="https://speakerdeck.com/bennuttall/6-years-of-raspberry-pi">Slides</a> | <a href="https://www.youtube.com/watch?v=QlAnApndvx0">Video</a><br><hr><strong>Physical Computing with Raspberry Pi</strong><br>All Things Open 2017<br>23 October 2017<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-python-and-raspberry-pi-all-things-open-2017">Slides</a><br><hr><strong>Raspberry Pi for Everyone</strong><br>All Things Open 2016<br>27 October 2016<br><a href="https://speakerdeck.com/bennuttall/raspberry-pi-for-everyone">Slides</a> | <a href="https://www.youtube.com/watch?v=fuAkRui5ngs">Video</a><br><hr><strong>Raspberry Pi US Tour Talk</strong><br>Code in the Classroom<br>7 August 2014<br><a href="http://www.slideshare.net/bennuttall/raleigh-38567100">Slides</a> | <a href="https://www.youtube.com/watch?v=OkIeJxjP3yA">Video</a><br></div></div>`)[0];
+                popup_fb3413e69393b435432edc5f38b4c9af.setContent(html_4e0bb8a8d7abab8b8c49fee99bfe4f6a);
+            
+        
+
+        marker_07ab8a519c13d73b9f2447409af587b2.bindPopup(popup_fb3413e69393b435432edc5f38b4c9af)
+        ;
+
+        
+    
+    
+            marker_07ab8a519c13d73b9f2447409af587b2.bindTooltip(
+                `<div>
+                     Raleigh, North Carolina, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_cebd511903c73dff93a67fdab460dea1 = L.marker(
+                [55.953346, -3.188375],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_7a0f6841e82a4e005fefb1f9c319cf8b = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_dbc0c6c8cd1c635721596b0731b986cc = $(`<div id="html_dbc0c6c8cd1c635721596b0731b986cc" style="width: 100.0%; height: 100.0%;"><div><strong>Edinburgh, UK</strong><br><br><strong>Programming paradigms for physical computing and IoT</strong><br>EuroPython 2018<br>27 July 2018<br><a href="https://speakerdeck.com/bennuttall/programming-paradigms-for-physical-computing-and-iot-1">Slides</a> | <a href="https://www.youtube.com/watch?v=pRtpXzS2Weo">Video</a><br></div></div>`)[0];
+                popup_7a0f6841e82a4e005fefb1f9c319cf8b.setContent(html_dbc0c6c8cd1c635721596b0731b986cc);
+            
+        
+
+        marker_cebd511903c73dff93a67fdab460dea1.bindPopup(popup_7a0f6841e82a4e005fefb1f9c319cf8b)
+        ;
+
+        
+    
+    
+            marker_cebd511903c73dff93a67fdab460dea1.bindTooltip(
+                `<div>
+                     Edinburgh, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_d939f1a30168cf0afa057344db70dc30 = L.marker(
+                [51.280028, 1.080253],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_47a80c7f0d351b24405155700c2258f4 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_f1727d1d9f6d7f9d238d1f06f43825f1 = $(`<div id="html_f1727d1d9f6d7f9d238d1f06f43825f1" style="width: 100.0%; height: 100.0%;"><div><strong>Canterbury, UK</strong><br><br><strong>Raspberry Pi Desktop OS</strong><br>Oggcamp 2017<br>20 August 2017<br><a href="https://speakerdeck.com/bennuttall/rpd-oggcamp">Slides</a><br><hr><strong>piwheels: a faster Python package repository for Raspberry Pi users</strong><br>Oggcamp 2017<br>19 August 2017<br><a href="https://speakerdeck.com/bennuttall/piwheels-oggcamp">Slides</a><br></div></div>`)[0];
+                popup_47a80c7f0d351b24405155700c2258f4.setContent(html_f1727d1d9f6d7f9d238d1f06f43825f1);
+            
+        
+
+        marker_d939f1a30168cf0afa057344db70dc30.bindPopup(popup_47a80c7f0d351b24405155700c2258f4)
+        ;
+
+        
+    
+    
+            marker_d939f1a30168cf0afa057344db70dc30.bindTooltip(
+                `<div>
+                     Canterbury, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_5f497c9b808e6c2ac1550328a7fb4d54 = L.marker(
+                [52.37308, 4.892453],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_73946f260370fd97918bd1de8abb2124 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_4a82a5969ca6324124bdda5d4342c745 = $(`<div id="html_4a82a5969ca6324124bdda5d4342c745" style="width: 100.0%; height: 100.0%;"><div><strong>Amsterdam, Netherlands</strong><br><br><strong>GPIO Zero</strong><br>AmsterJam<br>9 September 2017<br><a href="https://speakerdeck.com/bennuttall/gpio-zero-amsterjam">Slides</a><br></div></div>`)[0];
+                popup_73946f260370fd97918bd1de8abb2124.setContent(html_4a82a5969ca6324124bdda5d4342c745);
+            
+        
+
+        marker_5f497c9b808e6c2ac1550328a7fb4d54.bindPopup(popup_73946f260370fd97918bd1de8abb2124)
+        ;
+
+        
+    
+    
+            marker_5f497c9b808e6c2ac1550328a7fb4d54.bindTooltip(
+                `<div>
+                     Amsterdam, Netherlands
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_fe87d10d4831554b3ce2ff6fc49f304d = L.marker(
+                [43.946543, 12.630749],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_edba92ef5ca2ca13d333e2ac137c9956 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_104dd13d9bb4bf28a26289a268a3ea18 = $(`<div id="html_104dd13d9bb4bf28a26289a268a3ea18" style="width: 100.0%; height: 100.0%;"><div><strong>Rimini, Italy</strong><br><br><strong>Physical Computing with Python and Raspberry Pi</strong><br>EuroPython 2017<br>14 July 2017<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-python-and-raspberry-pi-europython-2017">Slides</a> | <a href="https://www.youtube.com/watch?v=nJi2KKvD-PU">Video</a><br><hr><strong>piwheels (lightning talk)</strong><br>EuroPython 2017<br>13 July 2017<br><a href="https://speakerdeck.com/bennuttall/piwheels-lightning-talk">Slides</a> | <a href="https://youtu.be/zC2_hGYQuuk?t=1256">Video</a><br></div></div>`)[0];
+                popup_edba92ef5ca2ca13d333e2ac137c9956.setContent(html_104dd13d9bb4bf28a26289a268a3ea18);
+            
+        
+
+        marker_fe87d10d4831554b3ce2ff6fc49f304d.bindPopup(popup_edba92ef5ca2ca13d333e2ac137c9956)
+        ;
+
+        
+    
+    
+            marker_fe87d10d4831554b3ce2ff6fc49f304d.bindTooltip(
+                `<div>
+                     Rimini, Italy
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_bbee2a277ce409e0af14e1161eef6c1c = L.marker(
+                [50.846557, 4.351697],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_7cfa01dc52d8416d292cf16f3fae2957 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_ec461446a4e09096a89cb33607b08726 = $(`<div id="html_ec461446a4e09096a89cb33607b08726" style="width: 100.0%; height: 100.0%;"><div><strong>Brussels, Belgium</strong><br><br><strong>Raspberry Pi and Python</strong><br>FOSDEM 2017<br>5 February 2017<br><a href="https://speakerdeck.com/bennuttall/python-and-raspberry-pi-fosdem-2017">Slides</a> | <a href="https://ftp.heanet.ie/mirrors/fosdem-video/2017/UD2.120/python_raspberry_pi.mp4">Video</a><br></div></div>`)[0];
+                popup_7cfa01dc52d8416d292cf16f3fae2957.setContent(html_ec461446a4e09096a89cb33607b08726);
+            
+        
+
+        marker_bbee2a277ce409e0af14e1161eef6c1c.bindPopup(popup_7cfa01dc52d8416d292cf16f3fae2957)
+        ;
+
+        
+    
+    
+            marker_bbee2a277ce409e0af14e1161eef6c1c.bindTooltip(
+                `<div>
+                     Brussels, Belgium
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_55af6212334a81afbce9de4c4a28cb57 = L.marker(
+                [55.861155, -4.250169],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_d0f3cf31715bc9d6f6a86dc6b9f786b0 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_f309d74600c3750152521df3ab9be46f = $(`<div id="html_f309d74600c3750152521df3ab9be46f" style="width: 100.0%; height: 100.0%;"><div><strong>Glasgow, UK</strong><br><br><strong>Raspberry Jam</strong><br>Glasgow Raspberry Jam<br>8 October 2016<br><a href="https://speakerdeck.com/bennuttall/glasgow-raspberry-jam">Slides</a><br></div></div>`)[0];
+                popup_d0f3cf31715bc9d6f6a86dc6b9f786b0.setContent(html_f309d74600c3750152521df3ab9be46f);
+            
+        
+
+        marker_55af6212334a81afbce9de4c4a28cb57.bindPopup(popup_d0f3cf31715bc9d6f6a86dc6b9f786b0)
+        ;
+
+        
+    
+    
+            marker_55af6212334a81afbce9de4c4a28cb57.bindTooltip(
+                `<div>
+                     Glasgow, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_5d24569344dad5d6c1fecc750dcc99ae = L.marker(
+                [55.625578, 37.606392],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_ce98efeabff320e3b5533c7f4592045e = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_609e24205b47edc8dba6b6220b321cd9 = $(`<div id="html_609e24205b47edc8dba6b6220b321cd9" style="width: 100.0%; height: 100.0%;"><div><strong>Moscow, Russia</strong><br><br><strong>Physical computing with Python and Raspberry Pi (keynote)</strong><br>Pycon Russia 2016<br>4 July 2016<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-python-and-raspberry-pi-pycon-russia">Slides</a> | <a href="https://www.youtube.com/watch?v=M2pDCNkRoM8">Video</a><br></div></div>`)[0];
+                popup_ce98efeabff320e3b5533c7f4592045e.setContent(html_609e24205b47edc8dba6b6220b321cd9);
+            
+        
+
+        marker_5d24569344dad5d6c1fecc750dcc99ae.bindPopup(popup_ce98efeabff320e3b5533c7f4592045e)
+        ;
+
+        
+    
+    
+            marker_5d24569344dad5d6c1fecc750dcc99ae.bindTooltip(
+                `<div>
+                     Moscow, Russia
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_8fed156e640b91a590d37efb7b9f3178 = L.marker(
+                [51.421479, -0.206403],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_c4a185f54a0d05892265318c37fcc981 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_bcc964f8087ee1380afa1e0ba33e7a69 = $(`<div id="html_bcc964f8087ee1380afa1e0ba33e7a69" style="width: 100.0%; height: 100.0%;"><div><strong>Wimbledon, UK</strong><br><br><strong>Raspberry Pi and the Community</strong><br>Wimbledon Raspberry Jam<br>26 June 2016<br><a href="https://speakerdeck.com/bennuttall/raspberry-pi-and-the-community-wimbledon-jam">Slides</a><br></div></div>`)[0];
+                popup_c4a185f54a0d05892265318c37fcc981.setContent(html_bcc964f8087ee1380afa1e0ba33e7a69);
+            
+        
+
+        marker_8fed156e640b91a590d37efb7b9f3178.bindPopup(popup_c4a185f54a0d05892265318c37fcc981)
+        ;
+
+        
+    
+    
+            marker_8fed156e640b91a590d37efb7b9f3178.bindTooltip(
+                `<div>
+                     Wimbledon, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_72960c586748c4151e874265897f3a34 = L.marker(
+                [37.389389, -122.08321],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_6416693ff24c1d9b88130e82003a7297 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_f1c47201413565e51b6335990b239855 = $(`<div id="html_f1c47201413565e51b6335990b239855" style="width: 100.0%; height: 100.0%;"><div><strong>Mountain View, California, USA</strong><br><br><strong>Python Picamera with GPIO Zero</strong><br>Picademy USA<br>27 February 2016<br><a href="https://speakerdeck.com/bennuttall/python-picamera-with-gpio-zero-picademy-usa">Slides</a><br></div></div>`)[0];
+                popup_6416693ff24c1d9b88130e82003a7297.setContent(html_f1c47201413565e51b6335990b239855);
+            
+        
+
+        marker_72960c586748c4151e874265897f3a34.bindPopup(popup_6416693ff24c1d9b88130e82003a7297)
+        ;
+
+        
+    
+    
+            marker_72960c586748c4151e874265897f3a34.bindTooltip(
+                `<div>
+                     Mountain View, California, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_d0a5b0a07d2672543941d7ca3ef98a08 = L.marker(
+                [53.407199, -2.99168],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_a58b4ea651df22a2212f587e83ba051a = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_8da73834512d691da360e7abe784670f = $(`<div id="html_8da73834512d691da360e7abe784670f" style="width: 100.0%; height: 100.0%;"><div><strong>Liverpool, UK</strong><br><br><strong>Physical computing with GPIO Zero</strong><br>Oggcamp 2015<br>1 November 2015<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-gpio-zero-oggcamp">Slides</a><br><hr><strong>Plantpot Greenhouse Workshop</strong><br>Build Your Own<br>11 July 2015<br><hr><strong>Plantpot Greenhouse Workshop</strong><br>Build Your Own<br>27 June 2015<br></div></div>`)[0];
+                popup_a58b4ea651df22a2212f587e83ba051a.setContent(html_8da73834512d691da360e7abe784670f);
+            
+        
+
+        marker_d0a5b0a07d2672543941d7ca3ef98a08.bindPopup(popup_a58b4ea651df22a2212f587e83ba051a)
+        ;
+
+        
+    
+    
+            marker_d0a5b0a07d2672543941d7ca3ef98a08.bindTooltip(
+                `<div>
+                     Liverpool, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_2c2b78c250922a31837c4526b8a367e7 = L.marker(
+                [52.572577, -0.242734],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_268a6c8bd902cf957ecb674cc42a8aa1 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_4e41e263a38f8f0fc318b594e2b766e3 = $(`<div id="html_4e41e263a38f8f0fc318b594e2b766e3" style="width: 100.0%; height: 100.0%;"><div><strong>Peterborough, UK</strong><br><br><strong>Physical computing with GPIO Zero</strong><br>Peterborough Raspberry Jam<br>24 October 2015<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-gpio-zero-peterborough-raspberry-jam">Slides</a><br><hr><strong>Physical computing with GPIO Zero</strong><br>Peterborough Coding Evening<br>20 October 2015<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-gpio-zero-peterborough-coding-evening">Slides</a><br></div></div>`)[0];
+                popup_268a6c8bd902cf957ecb674cc42a8aa1.setContent(html_4e41e263a38f8f0fc318b594e2b766e3);
+            
+        
+
+        marker_2c2b78c250922a31837c4526b8a367e7.bindPopup(popup_268a6c8bd902cf957ecb674cc42a8aa1)
+        ;
+
+        
+    
+    
+            marker_2c2b78c250922a31837c4526b8a367e7.bindTooltip(
+                `<div>
+                     Peterborough, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_f2835ea4287b3417a666f5629e35d8fc = L.marker(
+                [52.408181, -1.510477],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_78de8047efabdfaa3e8b4cbc333059d5 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_0f97ac4a8f94224b5f1a39bb0bc92df7 = $(`<div id="html_0f97ac4a8f94224b5f1a39bb0bc92df7" style="width: 100.0%; height: 100.0%;"><div><strong>Coventry, UK</strong><br><br><strong>The story of pyjokes</strong><br>PyCon UK 2015<br>19 September 2015<br><a href="https://speakerdeck.com/bennuttall/the-story-of-pyjokes">Slides</a><br><hr><strong>Physical computing with Python and Raspberry Pi</strong><br>PyCon UK 2015<br>18 September 2015<br><a href="https://speakerdeck.com/bennuttall/physical-computing-with-python-and-raspberry-pi-pyconuk-2015">Slides</a> | <a href="https://www.youtube.com/watch?v=RC2Knd7PxfE">Video</a><br><hr><strong>PyPi (not that one) \[Python on Pi\]</strong><br>PyCon UK 2014<br>21 September 2014<br><a href="http://www.slideshare.net/bennuttall/pypi-not-that-one-python-on-pi-pyconuk-2014">Slides</a> | <a href="https://www.youtube.com/watch?v=A2w3hg9PTwE">Video</a><br></div></div>`)[0];
+                popup_78de8047efabdfaa3e8b4cbc333059d5.setContent(html_0f97ac4a8f94224b5f1a39bb0bc92df7);
+            
+        
+
+        marker_f2835ea4287b3417a666f5629e35d8fc.bindPopup(popup_78de8047efabdfaa3e8b4cbc333059d5)
+        ;
+
+        
+    
+    
+            marker_f2835ea4287b3417a666f5629e35d8fc.bindTooltip(
+                `<div>
+                     Coventry, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_3964ec00dec248b5fe24fae1fb1dfb6a = L.marker(
+                [59.437242, 24.75728],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_e08297dffcae48de014ee3d2f0cd8080 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_8e754e5b5d8603eea639249596754e8a = $(`<div id="html_8e754e5b5d8603eea639249596754e8a" style="width: 100.0%; height: 100.0%;"><div><strong>Tallinn, Estonia</strong><br><br><strong>Teach, Learn and Make with Raspberry Pi</strong><br>Raspberry Pi in Estonia Launch<br>7 September 2015<br><a href="https://speakerdeck.com/bennuttall/teach-learn-and-make-with-raspberry-pi-estonia-seminar">Slides</a><br><hr><strong>Raspberry Pi in Estonia</strong><br>Raspberry Pi in Estonia Launch<br>7 September 2015<br><a href="https://www.youtube.com/watch?v=CvHOO5MNW7s">Video</a><br><hr><strong>Introduction to Raspberry Pi (Secondary)</strong><br>Raspberry Pi in Estonia Launch<br>7 September 2015<br><a href="https://speakerdeck.com/bennuttall/raspberry-pi-in-estonia-secondary">Slides</a><br><hr><strong>Introduction to Raspberry Pi (Primary)</strong><br>Raspberry Pi in Estonia Launch<br>7 September 2015<br><a href="https://speakerdeck.com/bennuttall/raspberry-pi-in-estonia-primary">Slides</a><br><hr><strong>Teach, Learn and Make with Raspberry Pi (webinar)</strong><br>Informatics Summer School<br>21 August 2015<br><a href="https://speakerdeck.com/bennuttall/teach-learn-and-make-with-raspberry-pi-estonia-webinar">Slides</a><br><hr><strong>Raspberry Pi</strong><br>Garage48<br>10 February 2015<br><hr><strong>Raspberry Pi for startups</strong><br>Startup Incubator<br>10 February 2015<br><a href="http://www.slideshare.net/bennuttall/raspberry-pi-for-startups-estonia">Slides</a><br><hr><strong>Raspberry Pi</strong><br>British Embassy in Tallinn<br>10 February 2015<br><a href="http://www.slideshare.net/bennuttall/raspberry-pi-estonia">Slides</a><br></div></div>`)[0];
+                popup_e08297dffcae48de014ee3d2f0cd8080.setContent(html_8e754e5b5d8603eea639249596754e8a);
+            
+        
+
+        marker_3964ec00dec248b5fe24fae1fb1dfb6a.bindPopup(popup_e08297dffcae48de014ee3d2f0cd8080)
+        ;
+
+        
+    
+    
+            marker_3964ec00dec248b5fe24fae1fb1dfb6a.bindTooltip(
+                `<div>
+                     Tallinn, Estonia
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_6ab81b74d9211b48a12a3f8aab34d8d1 = L.marker(
+                [43.263002, -2.935004],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_944b8508213d10612b2c2c39e077da76 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_9faeef4578970fe65209c76086e94ae5 = $(`<div id="html_9faeef4578970fe65209c76086e94ae5" style="width: 100.0%; height: 100.0%;"><div><strong>Bilbao, Spain</strong><br><br><strong>Physical computing with Python and Raspberry Pi</strong><br>EuroPython 2015<br>23 July 2015<br><a href="http://www.slideshare.net/bennuttall/physical-computing-with-python-and-raspberry-pi">Slides</a> | <a href="https://www.youtube.com/watch?v=X-85QhLeTHI">Video</a><br></div></div>`)[0];
+                popup_944b8508213d10612b2c2c39e077da76.setContent(html_9faeef4578970fe65209c76086e94ae5);
+            
+        
+
+        marker_6ab81b74d9211b48a12a3f8aab34d8d1.bindPopup(popup_944b8508213d10612b2c2c39e077da76)
+        ;
+
+        
+    
+    
+            marker_6ab81b74d9211b48a12a3f8aab34d8d1.bindTooltip(
+                `<div>
+                     Bilbao, Spain
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_a9563321db1cc89dd2a1a1526cae85c3 = L.marker(
+                [53.380663, -1.470228],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_0a068d579cb7ef389e3f7bfd2e2fae53 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_8b761e04b0057a6ba8b32f5f9423590f = $(`<div id="html_8b761e04b0057a6ba8b32f5f9423590f" style="width: 100.0%; height: 100.0%;"><div><strong>Sheffield, UK</strong><br><br><strong>Pecha Kucha</strong><br>Raspberry Pi Creative Technologists Hack Weekend<br>18 July 2015<br><a href="https://docs.google.com/presentation/d/1t8w0pA6FwRjRYPjnjZOb_OCCIQWDw-ctdhCWWsySvJ0/edit?usp=sharing">Slides</a><br><hr><strong>Picamera, Flask and the Twitter API workshop</strong><br>Raspberry Pi Creative Technologists Hack Weekend<br>18 July 2015<br><a href="http://www.slideshare.net/bennuttall/sheffield-workshop">Slides</a><br><hr><strong>Fractal Geometry</strong><br>Barcamp Sheffield<br>16 April 2011<br></div></div>`)[0];
+                popup_0a068d579cb7ef389e3f7bfd2e2fae53.setContent(html_8b761e04b0057a6ba8b32f5f9423590f);
+            
+        
+
+        marker_a9563321db1cc89dd2a1a1526cae85c3.bindPopup(popup_0a068d579cb7ef389e3f7bfd2e2fae53)
+        ;
+
+        
+    
+    
+            marker_a9563321db1cc89dd2a1a1526cae85c3.bindTooltip(
+                `<div>
+                     Sheffield, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_83a0c5112edc592dba4c8b248b7f010e = L.marker(
+                [53.965658, -1.074305],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_4e5dedbd5c5307aeffd28dc78604d260 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_604fdd8756e3b9d504312a9d2250ecb1 = $(`<div id="html_604fdd8756e3b9d504312a9d2250ecb1" style="width: 100.0%; height: 100.0%;"><div><strong>York, UK</strong><br><br><strong>Getting started with Python Picamera</strong><br>Picademy North<br>26 May 2015<br><a href="http://www.slideshare.net/bennuttall/picademy-python-picamera-workshop">Slides</a><br><hr><strong>Webcams and the Raspberry Pi Camera Module</strong><br>York Raspberry Jam<br>8 June 2013<br><a href="https://docs.google.com/presentation/d/15bjkIGN39HEtQNAxcdiXxtOFK463vKIiZ6AF7pe8nEk/edit#slide=id.ge0e42192_022">Slides</a><br><hr><strong>Python Intro Workshop</strong><br>York Raspberry Jam<br>8 June 2013<br></div></div>`)[0];
+                popup_4e5dedbd5c5307aeffd28dc78604d260.setContent(html_604fdd8756e3b9d504312a9d2250ecb1);
+            
+        
+
+        marker_83a0c5112edc592dba4c8b248b7f010e.bindPopup(popup_4e5dedbd5c5307aeffd28dc78604d260)
+        ;
+
+        
+    
+    
+            marker_83a0c5112edc592dba4c8b248b7f010e.bindTooltip(
+                `<div>
+                     York, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_2feb1ce1ace8c6e3df14ea1e1eb33fce = L.marker(
+                [37.779259, -122.419329],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_69ea07cab5f0c6bc06b615410c6a065f = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_409102481ecfbe8419bb1ac25ecc2740 = $(`<div id="html_409102481ecfbe8419bb1ac25ecc2740" style="width: 100.0%; height: 100.0%;"><div><strong>San Francisco, CA, USA</strong><br><br><strong>Build your product around the best supported mini computer in the world</strong><br>Maker Faire Bay Area<br>16 May 2015<br><a href="http://www.slideshare.net/bennuttall/build-your-product-around-the-best-supported-mini-computer-in-the-world-raspberry-pi-maker-faire-bay-area-2015">Slides</a><br></div></div>`)[0];
+                popup_69ea07cab5f0c6bc06b615410c6a065f.setContent(html_409102481ecfbe8419bb1ac25ecc2740);
+            
+        
+
+        marker_2feb1ce1ace8c6e3df14ea1e1eb33fce.bindPopup(popup_69ea07cab5f0c6bc06b615410c6a065f)
+        ;
+
+        
+    
+    
+            marker_2feb1ce1ace8c6e3df14ea1e1eb33fce.bindTooltip(
+                `<div>
+                     San Francisco, CA, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_b21d6cee6c7f7ac004976e309e3957de = L.marker(
+                [52.628558, 1.292395],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_460de155022a23caf822820384a3a53c = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_a76415ac877c4eddfe005bce16ab84c4 = $(`<div id="html_a76415ac877c4eddfe005bce16ab84c4" style="width: 100.0%; height: 100.0%;"><div><strong>Norwich, UK</strong><br><br><strong>How Raspberry Pi (an Educational Charity) Funds Itself without Rattling a Tin</strong><br>NorDevCon<br>20 February 2015<br><a href="http://www.slideshare.net/bennuttall/how-raspberry-pi-an-educational-charity-funds-itself-without-ratlling-a-tin-nordev-2015">Slides</a><br></div></div>`)[0];
+                popup_460de155022a23caf822820384a3a53c.setContent(html_a76415ac877c4eddfe005bce16ab84c4);
+            
+        
+
+        marker_b21d6cee6c7f7ac004976e309e3957de.bindPopup(popup_460de155022a23caf822820384a3a53c)
+        ;
+
+        
+    
+    
+            marker_b21d6cee6c7f7ac004976e309e3957de.bindTooltip(
+                `<div>
+                     Norwich, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_2199615ca5172514b48ded7c3936b799 = L.marker(
+                [43.322422, -1.983889],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_d9d3de479ca1bd8db151140eaaef0052 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_82f182076e2c8b4a937a6280d5188b62 = $(`<div id="html_82f182076e2c8b4a937a6280d5188b62" style="width: 100.0%; height: 100.0%;"><div><strong>San Sebastian, Spain</strong><br><br><strong>Documenting your project with mkdocs</strong><br>PySS 2014<br>28 September 2014<br><hr><strong>Python on Pi (keynote)</strong><br>PySS 2014<br>27 September 2014<br><a href="http://www.slideshare.net/bennuttall/python-on-pi-keynote-at-pyss14">Slides</a><br></div></div>`)[0];
+                popup_d9d3de479ca1bd8db151140eaaef0052.setContent(html_82f182076e2c8b4a937a6280d5188b62);
+            
+        
+
+        marker_2199615ca5172514b48ded7c3936b799.bindPopup(popup_d9d3de479ca1bd8db151140eaaef0052)
+        ;
+
+        
+    
+    
+            marker_2199615ca5172514b48ded7c3936b799.bindTooltip(
+                `<div>
+                     San Sebastian, Spain
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_4db72cab7a2b92edd4022f8631cc0f73 = L.marker(
+                [41.731306, -111.834914],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_ef42d17b19b0e04fe062624fe9d49590 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_591f5300f4455d8b50ca4c654663bb79 = $(`<div id="html_591f5300f4455d8b50ca4c654663bb79" style="width: 100.0%; height: 100.0%;"><div><strong>Logan, UT, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>Utah State University<br>20 August 2014<br><a href="http://www.slideshare.net/bennuttall/usa-raspberry-pi-tour-utah">Slides</a> | <a href="http://1560811.mediaspace.kaltura.com/media/Raspberry+Pi+Demo+2014/0_gpn9nvyq">Video</a><br></div></div>`)[0];
+                popup_ef42d17b19b0e04fe062624fe9d49590.setContent(html_591f5300f4455d8b50ca4c654663bb79);
+            
+        
+
+        marker_4db72cab7a2b92edd4022f8631cc0f73.bindPopup(popup_ef42d17b19b0e04fe062624fe9d49590)
+        ;
+
+        
+    
+    
+            marker_4db72cab7a2b92edd4022f8631cc0f73.bindTooltip(
+                `<div>
+                     Logan, UT, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_464fd654fc31c3ca1c49903e1bc21862 = L.marker(
+                [40.233729, -111.658709],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_4e3da86eb676017ffc7df0ee94a93972 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_dccace784afb5f745f2aa3402c848d43 = $(`<div id="html_dccace784afb5f745f2aa3402c848d43" style="width: 100.0%; height: 100.0%;"><div><strong>Provo, UT, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>Provo Web Academy<br>19 August 2014<br><a href="http://www.slideshare.net/bennuttall/usa-raspberry-pi-tour-utah">Slides</a><br></div></div>`)[0];
+                popup_4e3da86eb676017ffc7df0ee94a93972.setContent(html_dccace784afb5f745f2aa3402c848d43);
+            
+        
+
+        marker_464fd654fc31c3ca1c49903e1bc21862.bindPopup(popup_4e3da86eb676017ffc7df0ee94a93972)
+        ;
+
+        
+    
+    
+            marker_464fd654fc31c3ca1c49903e1bc21862.bindTooltip(
+                `<div>
+                     Provo, UT, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_8ee9816673e666fbb7be045aa3203513 = L.marker(
+                [39.739236, -104.984862],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_4878e4c92aff971321a07abefac14bd7 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_e6acfa36509f75e57a813dd50ced03ff = $(`<div id="html_e6acfa36509f75e57a813dd50ced03ff" style="width: 100.0%; height: 100.0%;"><div><strong>Denver, CO, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>denhac<br>17 August 2014<br><a href="http://www.slideshare.net/bennuttall/denver-38574945">Slides</a><br><hr><strong>Raspberry Pi US Tour Talk</strong><br>TinkerMill<br>17 August 2014<br><a href="http://www.slideshare.net/bennuttall/denver-38574945">Slides</a><br></div></div>`)[0];
+                popup_4878e4c92aff971321a07abefac14bd7.setContent(html_e6acfa36509f75e57a813dd50ced03ff);
+            
+        
+
+        marker_8ee9816673e666fbb7be045aa3203513.bindPopup(popup_4878e4c92aff971321a07abefac14bd7)
+        ;
+
+        
+    
+    
+            marker_8ee9816673e666fbb7be045aa3203513.bindTooltip(
+                `<div>
+                     Denver, CO, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_14329b0209ae2b257f63666bcad8b8fb = L.marker(
+                [32.057242, -107.728652],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_9b342f73cd8801b1eef7a4ec92792a0e = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_a8475c3d72016d9bf0796cf8240c2cda = $(`<div id="html_a8475c3d72016d9bf0796cf8240c2cda" style="width: 100.0%; height: 100.0%;"><div><strong>Colombia, MO, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>MoreNET<br>16 August 2014<br><a href="http://watch.more.net/media/raspberry-pi-at-morenet-august-16-2014">Video</a><br></div></div>`)[0];
+                popup_9b342f73cd8801b1eef7a4ec92792a0e.setContent(html_a8475c3d72016d9bf0796cf8240c2cda);
+            
+        
+
+        marker_14329b0209ae2b257f63666bcad8b8fb.bindPopup(popup_9b342f73cd8801b1eef7a4ec92792a0e)
+        ;
+
+        
+    
+    
+            marker_14329b0209ae2b257f63666bcad8b8fb.bindTooltip(
+                `<div>
+                     Colombia, MO, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_30ce3eff0fa1d8c51fbc5990619de762 = L.marker(
+                [38.628028, -90.191015],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_3c346418276d6d1e868c97622e03444a = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_ddd3e73a844e093d5aceaef2537b6ec3 = $(`<div id="html_ddd3e73a844e093d5aceaef2537b6ec3" style="width: 100.0%; height: 100.0%;"><div><strong>St. Louis, MO, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>Arch Reactor Hackerspace<br>15 August 2014<br><a href="http://www.slideshare.net/bennuttall/arch-reactor-raspberry-pi">Slides</a><br><hr><strong>Raspberry Pi US Tour Talk</strong><br>St. John Vianney High School<br>15 August 2014<br><a href="http://www.slideshare.net/bennuttall/st-louis-vianney">Slides</a><br></div></div>`)[0];
+                popup_3c346418276d6d1e868c97622e03444a.setContent(html_ddd3e73a844e093d5aceaef2537b6ec3);
+            
+        
+
+        marker_30ce3eff0fa1d8c51fbc5990619de762.bindPopup(popup_3c346418276d6d1e868c97622e03444a)
+        ;
+
+        
+    
+    
+            marker_30ce3eff0fa1d8c51fbc5990619de762.bindTooltip(
+                `<div>
+                     St. Louis, MO, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_e1af1fd3226a6a45c509140a07694692 = L.marker(
+                [38.254238, -85.759407],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_0c20832eb3b2f72e1d15b7356f0e1d73 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_160425ffe438ae5bacb4396448a0c180 = $(`<div id="html_160425ffe438ae5bacb4396448a0c180" style="width: 100.0%; height: 100.0%;"><div><strong>Louisville, KY, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>FirstBuild<br>14 August 2014<br><hr><strong>Raspberry Pi US Tour Talk</strong><br>LVL1<br>14 August 2014<br><a href="http://www.slideshare.net/bennuttall/lvl1-raspberry-pi">Slides</a><br></div></div>`)[0];
+                popup_0c20832eb3b2f72e1d15b7356f0e1d73.setContent(html_160425ffe438ae5bacb4396448a0c180);
+            
+        
+
+        marker_e1af1fd3226a6a45c509140a07694692.bindPopup(popup_0c20832eb3b2f72e1d15b7356f0e1d73)
+        ;
+
+        
+    
+    
+            marker_e1af1fd3226a6a45c509140a07694692.bindTooltip(
+                `<div>
+                     Louisville, KY, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_f9212dedbceae91de2e734bdc935df80 = L.marker(
+                [35.243697, -89.350071],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_18c5a0910ffc066f5e6f58611ce0c1cc = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_9150bd7fb8a0c181dbbc2f3ec567abc3 = $(`<div id="html_9150bd7fb8a0c181dbbc2f3ec567abc3" style="width: 100.0%; height: 100.0%;"><div><strong>Somerville, TN, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>Fayette Academy<br>13 August 2014<br><a href="http://www.slideshare.net/bennuttall/fayette-academy-raspberry-pi">Slides</a><br></div></div>`)[0];
+                popup_18c5a0910ffc066f5e6f58611ce0c1cc.setContent(html_9150bd7fb8a0c181dbbc2f3ec567abc3);
+            
+        
+
+        marker_f9212dedbceae91de2e734bdc935df80.bindPopup(popup_18c5a0910ffc066f5e6f58611ce0c1cc)
+        ;
+
+        
+    
+    
+            marker_f9212dedbceae91de2e734bdc935df80.bindTooltip(
+                `<div>
+                     Somerville, TN, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_df3be76030f84b2535d0e093ae867c9a = L.marker(
+                [33.396708, -86.159714],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_3f22d7ad289f7679b458f6857ab0d40d = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_92b5e0b6c4b165b0f346290a43b6a19d = $(`<div id="html_92b5e0b6c4b165b0f346290a43b6a19d" style="width: 100.0%; height: 100.0%;"><div><strong>Talladega, AL, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>R L Young Elementary School<br>12 August 2014<br><a href="http://www.slideshare.net/bennuttall/rbms-38568117">Slides</a><br></div></div>`)[0];
+                popup_3f22d7ad289f7679b458f6857ab0d40d.setContent(html_92b5e0b6c4b165b0f346290a43b6a19d);
+            
+        
+
+        marker_df3be76030f84b2535d0e093ae867c9a.bindPopup(popup_3f22d7ad289f7679b458f6857ab0d40d)
+        ;
+
+        
+    
+    
+            marker_df3be76030f84b2535d0e093ae867c9a.bindTooltip(
+                `<div>
+                     Talladega, AL, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_67b7603b267e43fdc41aa0c2543946ea = L.marker(
+                [35.045722, -85.309488],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_3a3f27bff6131e4442e86df5815ce07f = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_de113c4400fbc834fc3bd16eefb71578 = $(`<div id="html_de113c4400fbc834fc3bd16eefb71578" style="width: 100.0%; height: 100.0%;"><div><strong>Chattanooga, TN, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>Red Bank Middle School<br>11 August 2014<br><a href="http://www.slideshare.net/bennuttall/raspberry-pi-red-bank-middle-school">Slides</a><br></div></div>`)[0];
+                popup_3a3f27bff6131e4442e86df5815ce07f.setContent(html_de113c4400fbc834fc3bd16eefb71578);
+            
+        
+
+        marker_67b7603b267e43fdc41aa0c2543946ea.bindPopup(popup_3a3f27bff6131e4442e86df5815ce07f)
+        ;
+
+        
+    
+    
+            marker_67b7603b267e43fdc41aa0c2543946ea.bindTooltip(
+                `<div>
+                     Chattanooga, TN, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_228e7eb2edc0166ebaebe96cf7b4898d = L.marker(
+                [33.956639, -83.989007],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_76b48b22a55d1aa713db608f7b88150f = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_10b4fd9005e7c82106cd012ca2af3b42 = $(`<div id="html_10b4fd9005e7c82106cd012ca2af3b42" style="width: 100.0%; height: 100.0%;"><div><strong>Lawrenceville, GA, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>Geekspace Gwinnett<br>10 August 2014<br><a href="http://www.slideshare.net/bennuttall/geekspace-gwinnett-raspberry-pi">Slides</a><br></div></div>`)[0];
+                popup_76b48b22a55d1aa713db608f7b88150f.setContent(html_10b4fd9005e7c82106cd012ca2af3b42);
+            
+        
+
+        marker_228e7eb2edc0166ebaebe96cf7b4898d.bindPopup(popup_76b48b22a55d1aa713db608f7b88150f)
+        ;
+
+        
+    
+    
+            marker_228e7eb2edc0166ebaebe96cf7b4898d.bindTooltip(
+                `<div>
+                     Lawrenceville, GA, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_31a9141ec4bc911dd45d9b9a532b136c = L.marker(
+                [35.227209, -80.843083],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_ee8aebc192a0770450d568f882bdf298 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_2f0923ae934446941d0f654d1eddcdad = $(`<div id="html_2f0923ae934446941d0f654d1eddcdad" style="width: 100.0%; height: 100.0%;"><div><strong>Charlotte, NC, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>UNC Charlotte<br>8 August 2014<br><a href="http://www.slideshare.net/bennuttall/raleigh-38567100">Slides</a><br></div></div>`)[0];
+                popup_ee8aebc192a0770450d568f882bdf298.setContent(html_2f0923ae934446941d0f654d1eddcdad);
+            
+        
+
+        marker_31a9141ec4bc911dd45d9b9a532b136c.bindPopup(popup_ee8aebc192a0770450d568f882bdf298)
+        ;
+
+        
+    
+    
+            marker_31a9141ec4bc911dd45d9b9a532b136c.bindTooltip(
+                `<div>
+                     Charlotte, NC, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_314feed98fab2b8bc2b6709db488e567 = L.marker(
+                [38.895037, -77.036543],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_4c3b7f91e9cd3111ad6d883e91bd26f6 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_f9dd380bef44c345f2e9dba467080464 = $(`<div id="html_f9dd380bef44c345f2e9dba467080464" style="width: 100.0%; height: 100.0%;"><div><strong>Washington, DC, USA</strong><br><br><strong>Python on Pi</strong><br>DC Python / Django District<br>6 August 2014<br><a href="http://www.slideshare.net/bennuttall/dc-python-python-on-pi">Slides</a><br></div></div>`)[0];
+                popup_4c3b7f91e9cd3111ad6d883e91bd26f6.setContent(html_f9dd380bef44c345f2e9dba467080464);
+            
+        
+
+        marker_314feed98fab2b8bc2b6709db488e567.bindPopup(popup_4c3b7f91e9cd3111ad6d883e91bd26f6)
+        ;
+
+        
+    
+    
+            marker_314feed98fab2b8bc2b6709db488e567.bindTooltip(
+                `<div>
+                     Washington, DC, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_fbf0ffa566a7543b2dad447fdab6a47f = L.marker(
+                [40.712728, -74.006015],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_3423c97b092b18c3e6b2485a1cdd8673 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_a2442d628680a5f663ba0b3a834b45cd = $(`<div id="html_a2442d628680a5f663ba0b3a834b45cd" style="width: 100.0%; height: 100.0%;"><div><strong>New York City, NY, USA</strong><br><br><strong>Raspberry Pi US Tour Talk</strong><br>STEM Ladder<br>5 August 2014<br><a href="http://www.slideshare.net/bennuttall/nyc-stemladder-raspberry-pi-usa-tour">Slides</a><br></div></div>`)[0];
+                popup_3423c97b092b18c3e6b2485a1cdd8673.setContent(html_a2442d628680a5f663ba0b3a834b45cd);
+            
+        
+
+        marker_fbf0ffa566a7543b2dad447fdab6a47f.bindPopup(popup_3423c97b092b18c3e6b2485a1cdd8673)
+        ;
+
+        
+    
+    
+            marker_fbf0ffa566a7543b2dad447fdab6a47f.bindTooltip(
+                `<div>
+                     New York City, NY, USA
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_b14926cecae97fcd3726c145c37b31e3 = L.marker(
+                [52.517389, 13.395131],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_ba0e636a5e5b3bee5c4a99e6f661dfa7 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_27bf449b6f553291e69581470b7ba15c = $(`<div id="html_27bf449b6f553291e69581470b7ba15c" style="width: 100.0%; height: 100.0%;"><div><strong>Berlin, Germany</strong><br><br><strong>Pioneering the Future of Computing Education</strong><br>EuroPython 2014<br>24 July 2014<br><a href="http://www.slideshare.net/bennuttall/pioneering-the-future-of-computing-education">Slides</a> | <a href="https://www.youtube.com/watch?v=24eDPoJvmnI">Video</a><br><hr><strong>Raspberry Pi & Manchester Raspberry Jam</strong><br>Linux Works<br>19 September 2013<br><a href="https://docs.google.com/presentation/d/1mtmHHvlau5LAR-4MtvNDRSBouh0vDtymXlf3fs6QVng/present#slide=id.ge34ffa37_010">Slides</a><br><hr><strong>Raspberry Pi & Manchester Raspberry Jam</strong><br>Geek2Geek<br>17 September 2013<br><a href="https://docs.google.com/presentation/d/1mtmHHvlau5LAR-4MtvNDRSBouh0vDtymXlf3fs6QVng/present#slide=id.ge34ffa37_010">Slides</a><br></div></div>`)[0];
+                popup_ba0e636a5e5b3bee5c4a99e6f661dfa7.setContent(html_27bf449b6f553291e69581470b7ba15c);
+            
+        
+
+        marker_b14926cecae97fcd3726c145c37b31e3.bindPopup(popup_ba0e636a5e5b3bee5c4a99e6f661dfa7)
+        ;
+
+        
+    
+    
+            marker_b14926cecae97fcd3726c145c37b31e3.bindTooltip(
+                `<div>
+                     Berlin, Germany
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_dcb8db622fa8f70b82d3c07529568701 = L.marker(
+                [51.899569, -2.071156],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_15c3a2b90d86854f37780d35ab8330dd = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_771dd952c04befa6afbf399eaa57e0fe = $(`<div id="html_771dd952c04befa6afbf399eaa57e0fe" style="width: 100.0%; height: 100.0%;"><div><strong>Cheltenham, UK</strong><br><br><strong>Raspberry Pi Lego Animation workshop</strong><br>Cheltenham Science Festival<br>7 June 2014<br></div></div>`)[0];
+                popup_15c3a2b90d86854f37780d35ab8330dd.setContent(html_771dd952c04befa6afbf399eaa57e0fe);
+            
+        
+
+        marker_dcb8db622fa8f70b82d3c07529568701.bindPopup(popup_15c3a2b90d86854f37780d35ab8330dd)
+        ;
+
+        
+    
+    
+            marker_dcb8db622fa8f70b82d3c07529568701.bindTooltip(
+                `<div>
+                     Cheltenham, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_b00e5088c4e95491ac7ab2fa7935e41c = L.marker(
+                [53.817944, -3.050981],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_752b26361d4ecbc817a31540abb6c5c4 = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_efbbf0522448d1662b3e63e029d14ba2 = $(`<div id="html_efbbf0522448d1662b3e63e029d14ba2" style="width: 100.0%; height: 100.0%;"><div><strong>Blackpool, UK</strong><br><br><strong>Internet Blocking Panel Discussion</strong><br>Barcamp Blackpool<br>28 July 2013<br><hr><strong>Intro to MongoDB</strong><br>Barcamp Blackpool<br>27 July 2013<br><a href="https://docs.google.com/presentation/d/1cxc4vAe77WdHKM6FYmxi_Ne1oa877HCyYViEGGD0m30/present#slide=id.p">Slides</a><br><hr><strong>Raspberry Pi & Raspberry Jams</strong><br>Barcamp Blackpool<br>27 July 2013<br><a href="https://docs.google.com/presentation/d/1g4IZGc9NRP6_tiTNGt91dAF8lW4dEeYoIxmYy2pkJ_g/present#slide=id.p">Slides</a><br></div></div>`)[0];
+                popup_752b26361d4ecbc817a31540abb6c5c4.setContent(html_efbbf0522448d1662b3e63e029d14ba2);
+            
+        
+
+        marker_b00e5088c4e95491ac7ab2fa7935e41c.bindPopup(popup_752b26361d4ecbc817a31540abb6c5c4)
+        ;
+
+        
+    
+    
+            marker_b00e5088c4e95491ac7ab2fa7935e41c.bindTooltip(
+                `<div>
+                     Blackpool, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_ac04f5e3393b08e4db356ce284e91de3 = L.marker(
+                [53.099615, -2.441463],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_a64d9dadc34f0135c9552c586b5afe7e = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_d2e3a06a999e27ec97b049466f3dbe0a = $(`<div id="html_d2e3a06a999e27ec97b049466f3dbe0a" style="width: 100.0%; height: 100.0%;"><div><strong>Crewe, UK</strong><br><br><strong>Raspberry Pi – the £30 computer</strong><br>Maths Jam Conference<br>17 November 2012<br><a href="https://docs.google.com/presentation/d/13Ll-Ve2WVm1CKQSTxMccMu0RCwUvSa5h_nApPbLTpfw/present#slide=id.p">Slides</a><br></div></div>`)[0];
+                popup_a64d9dadc34f0135c9552c586b5afe7e.setContent(html_d2e3a06a999e27ec97b049466f3dbe0a);
+            
+        
+
+        marker_ac04f5e3393b08e4db356ce284e91de3.bindPopup(popup_a64d9dadc34f0135c9552c586b5afe7e)
+        ;
+
+        
+    
+    
+            marker_ac04f5e3393b08e4db356ce284e91de3.bindTooltip(
+                `<div>
+                     Crewe, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_5888f21633eb757de58424a19bc0a801 = L.marker(
+                [53.759336, -2.699272],
+                {
+}
+            ).addTo(map_4e19a52a1686e1849396550320844b1c);
+        
+    
+        var popup_e5a8785abf1b528f456531cae592995b = L.popup({
+  "maxWidth": 450,
+});
+
+        
+            
+                var html_c0bccc1cc83ebe8332234066f0117bbd = $(`<div id="html_c0bccc1cc83ebe8332234066f0117bbd" style="width: 100.0%; height: 100.0%;"><div><strong>Preston, UK</strong><br><br><strong>Nontransitive Dice</strong><br>Hack To The Future<br>11 February 2012<br></div></div>`)[0];
+                popup_e5a8785abf1b528f456531cae592995b.setContent(html_c0bccc1cc83ebe8332234066f0117bbd);
+            
+        
+
+        marker_5888f21633eb757de58424a19bc0a801.bindPopup(popup_e5a8785abf1b528f456531cae592995b)
+        ;
+
+        
+    
+    
+            marker_5888f21633eb757de58424a19bc0a801.bindTooltip(
+                `<div>
+                     Preston, UK
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
