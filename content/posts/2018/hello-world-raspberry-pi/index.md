@@ -3,7 +3,9 @@ programming. It's the first thing you learn in a new programming language, and
 it's the way you test something out, or check to see if something's working
 because it's usually the simplest way of testing simple functionality.
 
-![](images/ebenjava1.jpg)
+<figure class="wp-block-image">
+<img src="images/ebenjava1.jpg" />
+</figure>
 
 Warriors of programming language wars often cite their own language's "hello
 world" against that of another, saying theirs is *shorter* or *more concise*
@@ -29,13 +31,17 @@ programming language. The "hello world" for Scratch is simple - and very visual!
 
 1. Drag a **say Hello!** block into the workspace on the right
 
-    ![](images/scratch2-1.png)
+    <figure class="wp-block-image">
+    <img src="images/scratch2-1.png" />
+    </figure>
 
 1. Change the text to `Hello world`
 
 1. Click on the block to run the code
 
-![](images/scratch2-2.png)
+<figure class="wp-block-image">
+<img src="images/scratch2-2.png" />
+</figure>
 
 ## 2. Python
 
@@ -48,15 +54,15 @@ possible.
 
 1. Enter the following code:
 
-    ```python
-    print("Hello world")
-    ```
+    <pre><code class="language-python">print("Hello world")</code></pre>
 
 1. Save the file as `hello3.py`
 
 1. Click the **Run** button
 
-![](images/python3-1.png)
+<figure class="wp-block-image">
+<img src="images/python3-1.png" />
+</figure>
 
 ## 3. Ruby / Sonic Pi
 
@@ -68,13 +74,13 @@ a form of Ruby.
 
 1. Enter the following code:
 
-    ```bash
-    puts "Hello world"
-    ```
+    <pre><code class="language-ruby">puts "Hello world"</code></pre>
 
 1. Press **Run**
 
-![](images/sonic-pi-1.png)
+<figure class="wp-block-image">
+<img src="images/sonic-pi-1.png" />
+</figure>
 
 Unfortunately, "hello world" does not do Sonic Pi justice in the
 slightest, but after you've finished this article you should check out its
@@ -87,9 +93,7 @@ Alternatively, write Ruby code in a text editor and run it in the Terminal:
 
 1. Enter the following code:
 
-    ```bash
-    puts "Hello world"
-    ```
+    <pre><code class="language-ruby">puts "Hello world"</code></pre>
 
 1. Save the file as `hello.rb` in the home directory
 
@@ -97,11 +101,13 @@ Alternatively, write Ruby code in a text editor and run it in the Terminal:
 
 1. Run the following command:
 
-    ```bash
-    ruby hello.rb
-    ```
+```bash
+ruby hello.rb
+```
 
-![](images/ruby-1.png)
+<figure class="wp-block-image">
+<img src="images/ruby-1.png" />
+</figure>
 
 ## 4. JavaScript
 
@@ -116,13 +122,13 @@ web browser using the Web Inspector console, but it still counts!
 
 1. Enter the following code:
 
-    ```python
-    console.log("Hello world")
-    ```
+    <pre><code class="language-javascript">console.log("Hello world")</code></pre>
 
 1. Press **Enter** to run
 
-![](images/javascript-1.png)
+<figure class="wp-block-image">
+<img src="images/javascript-1.png" />
+</figure>
 
 You can also install NodeJS on the Raspberry Pi, and write server-side
 JavaScript, but that's not available in the standard Raspbian image.
@@ -138,9 +144,7 @@ programming script.
 
 1. Enter the following code:
 
-    ```bash
-    echo "Hello world"
-    ```
+    <pre><code class="language-bash">echo "Hello world"</code></pre>
 
 1. Save the file as `hello.sh` in the home directory
 
@@ -148,11 +152,13 @@ programming script.
 
 1. Run the following command:
 
-    ```bash
-    bash hello.sh
-    ```
+```bash
+bash hello.sh
+```
 
-![](images/bash-1.png)
+<figure class="wp-block-image">
+<img src="images/bash-1.png" />
+</figure>
 
 Note you'd usually see a "hashbang" at the top of the script (`#!/bin/bash`) but
 since I'm calling this script directly using the `bash` command, it's not
@@ -172,13 +178,11 @@ fun...
 
 1. Enter the following code:
 
-    ```java
-    public class Hello {
+    <pre><code class="language-java">public class Hello {
         public static void main(String[] args) {
             System.out.println("Hello world");
         }
-    }
-    ```
+    }</code></pre>
 
 1. Save the file as `Hello.java` in the home directory
 
@@ -186,12 +190,14 @@ fun...
 
 1. Run the following commands:
 
-    ```bash
-    javac Hello.java
-    java Hello
-    ```
+```bash
+javac Hello.java
+java Hello
+```
 
-![](images/java-1.png)
+<figure class="wp-block-image">
+<img src="images/java-1.png" />
+</figure>
 
 I could *almost* remember the "hello world" for Java off the top of my head, but
 not quite. I always forget where the `String[] args` bit goes, but it's obvious
@@ -210,13 +216,11 @@ started with "hello world":
 
 1. Enter the following code:
 
-    ```c
-    #include <stdio.h>
+    <pre><code class="language-python">#include <stdio.h>
 
     int main() {
         printf("Hello world\n");
-    }
-    ```
+    }</code></pre>
 
 1. Save the file as `hello.c` in the home directory
 
@@ -224,12 +228,14 @@ started with "hello world":
 
 1. Run the following commands:
 
-    ```bash
-    gcc -o hello hello.c
-    ./hello
-    ```
+```bash
+gcc -o hello hello.c
+./hello
+```
 
-![](images/c-1.png)
+<figure class="wp-block-image">
+<img src="images/c-1.png" />
+</figure>
 
 Note that in the previous examples, only one command was required to run the
 code, e.g. `python3 hello.py` or `ruby hello.rb` because these languages are interpreted rather than compiled (actually Python is compiled at runtime but
@@ -251,15 +257,13 @@ of your operating system will be written in C++ too.
 
 1. Enter the following code:
 
-    ```cpp
-    #include <iostream>
+    <pre><code class="language-cpp">#include <iostream>
     using namespace std;
 
     int main()
     {
         cout << "Hello world\n";
-    }
-    ```
+    }</code></pre>
 
 1. Save the file as `hello.cpp` in the home directory
 
@@ -267,12 +271,14 @@ of your operating system will be written in C++ too.
 
 1. Run the following commands:
 
-    ```bash
-    g++ -o hellopp hello.cpp
-    ./hellocpp
-    ```
+```bash
+g++ -o hellopp hello.cpp
+./hellocpp
+```
 
-![](images/cpp-1.png)
+<figure class="wp-block-image">
+<img src="images/cpp-1.png" />
+</figure>
 
 Readers familiar with C/C++ will notice I have not included the main function
 return values in my examples. This is intentional as to remove boilerplate which
@@ -287,9 +293,7 @@ way of understanding its "hello world" program. So far so good!
 
 1. Enter the following code:
 
-    ```bash
-    print "Hello world\n"
-    ```
+    <pre><code class="language-bash">print "Hello world\n"</code></pre>
 
 1. Save the file as `hello.pl` in the home directory
 
@@ -297,11 +301,13 @@ way of understanding its "hello world" program. So far so good!
 
 1. Run the following command:
 
-    ```bash
-    perl hello.sh
-    ```
+```bash
+perl hello.sh
+```
 
-![](images/perl-1.png)
+<figure class="wp-block-image">
+<img src="images/perl-1.png" />
+</figure>
 
 Again, I learned Perl at university, but unlike Java I have managed to
 *successfully* avoid it.
@@ -324,22 +330,22 @@ some fun hacking your virtual world with code.
 
 1. Enter the following code:
 
-    ```python
-    from mcpi.minecraft import Minecraft
+    <pre><code class="language-python">from mcpi.minecraft import Minecraft
 
     mc = Minecraft.create()
 
-    mc.postToChat("Hello world")
-    ```
+    mc.postToChat("Hello world")</code></pre>
 
 1. Save the file as `hellomc.py`
 
 1. Click the **Run** button
 
-![](images/mcpi-1.png)
+<figure class="wp-block-image">
+<img src="images/mcpi-1.png" />
+</figure>
 
 Finally, let's look at the Sense HAT Emulator. This tool provides a graphical representation of the
-Sense HAT, en add-on board for Raspberry Pi made especially to go to space for reasons explained in
+Sense HAT, an add-on board for Raspberry Pi made especially to go to space for reasons explained in
 [this article](https://opensource.com/education/15/4/uk-students-compete-chance-have-their-raspberry-pi-code-run-space).
 
 The `sense_emu` Python library is identical to the `sense_hat` library except
@@ -349,19 +355,19 @@ of hardware. Since the Sense HAT includes an 8x8 LED display, we can use its
 
 1. Open another tab in Thonny and enter the following code:
 
-    ```python
-    from sense_emu import SenseHat
+    <pre><code class="language-python">from sense_emu import SenseHat
 
     sense = SenseHat()
 
-    sense.show_message("Hello world")
-    ```
+    sense.show_message("Hello world")</code></pre>
 
 1. Save the file as `sense.py`
 
 1. Click the **Run** button
 
-![](images/sense-emu-1.png)
+<figure class="wp-block-image">
+<img src="images/sense-emu-1.png" />
+</figure>
 
 ## More
 
