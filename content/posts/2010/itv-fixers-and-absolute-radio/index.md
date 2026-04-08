@@ -5,7 +5,7 @@ routines & rituals; things they do all the time, without questioning. People wer
 and tweeting in saying things like they always put their left sock on before their right, or that
 they always eat food in a particular order (crisps: large to small; skittles: yellow first; etc.),
 when they changed the volume on the TV it would have to be even or a multiple of 5, and other things
-like that. I sent Dave [a tweet]((http://twitter.com/Ben_Nuttall/status/9424927426))
+like that. I sent Dave [a tweet](http://twitter.com/Ben_Nuttall/status/9424927426)
 saying **I don't have lucky numbers, but criticise people whose lucky numbers are non-prime...**
 thinking little of it at the time. A couple of hours later I
 happened to check my ReTweets (my tweets, retweeted by others) and noticed that several people had
