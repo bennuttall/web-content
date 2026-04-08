@@ -91,8 +91,7 @@ this, but two common use cases are for a homemade security camera or to monitor 
 
 The [Raspberry Pi camera module](https://www.raspberrypi.org/products/camera-module-v2/) is a
 brilliant accessory. It provides full HD photo and video, lots of advanced configuration, and is
-[easy to](/life/15/6/raspberry-pi-camera-projects)
-[program](/life/15/6/raspberry-pi-camera-projects). The [infrared
+easy to program. The [infrared
 camera](https://www.raspberrypi.org/products/pi-noir-camera-v2/) is ideal for this kind of use, and
 with an infrared LED (which the Pi can control) you can see in the dark!
 
