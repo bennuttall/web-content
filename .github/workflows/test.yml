@@ -27,6 +27,4 @@ jobs:
       - name: Build the site
         env:
           BEEMO_CONFIG: config.yml
-        run: |
-          mkdir www
-          beemo
+        run: beemo build

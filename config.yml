@@ -1,6 +1,17 @@
-posts_dir: content/posts
-pages_dir: content/pages
-static_dir: static
 templates_dir: templates
-blog_root: blog
-output_dir: www
+csv_dir: csv
+
+build:
+  posts_dir: content/posts
+  pages_dir: content/pages
+  static_dir: static
+  blog_root: blog
+  output_dir: www
+
+logs:
+  logs_dir: apache2
+  pattern: "bennuttall.com-access*"
+
+analytics:
+  output_dir: analytics
+  base_url: https://bennuttall.com
