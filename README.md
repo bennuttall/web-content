@@ -13,11 +13,11 @@ This repo contains content, static files and
 Requires [beemo](https://github.com/bennuttall/beemo) with the `logs` extra installed.
 
 ```bash
-make build          # build the site
-make logs           # process Apache logs into CSV
-make analytics         # generate analytics report
-make serve          # serve the site locally on port 8000
-make serve-analytics   # serve the analytics report on port 8001
+make build            # build the site
+make logs             # process Apache logs into CSV
+make analytics        # generate analytics site
+make serve            # serve the site locally on port 8000
+make serve-analytics  # serve the analytics site locally on port 8000
 ```
 
 ## Licences
