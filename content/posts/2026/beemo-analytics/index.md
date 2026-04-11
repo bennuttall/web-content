@@ -21,8 +21,8 @@ My process with Claude is to start by giving it some background context, pointin
 libraries and things I want it to observe, then iterate by guiding it to do one task at a time with
 a clear goal, reviewing the approach — the same way I would build something myself. I wish I'd been
 committing along the way — and it would probably make sense to store the prompts along with the
-commit message, otherwise you end up with very large commits you can't easily wind back or
-investigate regressions.
+commit message, otherwise you end up with very large diffs you can't easily review, wind back or
+investigate regressions. I need to get better at that.
 
 If I want to explore an idea but don't know exactly what I want, that's when I'm less prescriptive.
 Once we'd built the log parsing how I wanted, I wondered if Claude could turn it into an analytics
@@ -32,7 +32,7 @@ site by itself — I let it have a go:
 
 I had no opinions about how it should lay out the HTML, CSS and JavaScript, or which graphing
 library to use — or even what I wanted it to include. But what it did produce looked ideal — simple
-and modern design repoting on numbers, graphs, and lists of pages.
+and modern design reporting on numbers, graphs, and lists of pages.
 
 I then wanted to see if we could integrate this with Beemo:
 
@@ -63,8 +63,9 @@ logs        Process Apache log gz files into CSV.
 analytics   Generate HTML analytics site from log CSVs.
 ```
 
-We iterated on some finer details, what to exclude, separating page hits with blog posts and things
-like tag and archive pages, colouring the bot user agent bars in grey, 
+We iterated on some finer details — what to exclude, separating page hits with blog posts and things
+like tag and archive pages, date and number formatting, and colouring the bot user agent bars in
+grey.
 
 I finished things off, added a [readthedocs](https://beemo.readthedocs.io/) site and prepared a new
 release for PyPI, and configured it to automatically build the analytics site on my web server.
