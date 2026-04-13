@@ -1,6 +1,6 @@
 I've now run two Raspberry Pi events in Manchester, affectionately known as the Raspberry Jam. The
 first in June, which was the first Raspberry Jam in the UK, and which [featured on the Raspberry Pi
-Foundation's website](http://www.raspberrypi.org/archives/1396) where we gained recognition for
+Foundation's website](https://www.raspberrypi.org/blog/raspberry-jam/) where we gained recognition for
 getting people together to share ideas, demonstrate what we've been doing with the Pi, and getting
 kids interested in building games and writing code as well as inspiring people all over the UK (and
 the world) to set up their own groups. Continuing the success of the Jam, our second event took
