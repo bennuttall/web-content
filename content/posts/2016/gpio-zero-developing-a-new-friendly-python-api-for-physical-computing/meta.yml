@@ -11,4 +11,5 @@ tags:
 - raspberry-pi
 - raspberry-pi-foundation
 - dave-jones
+- talks
 title: 'GPIO Zero: Developing a new friendly Python API for Physical Computing'
