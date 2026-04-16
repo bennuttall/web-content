@@ -20,7 +20,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="small-12 medium-8 columns entry-content">
+        <div class="small-12 columns entry-content">
           <div tal:content="structure page.html"></div>
         </div>
       </div>

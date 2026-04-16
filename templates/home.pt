@@ -1,7 +1,7 @@
 <div metal:use-macro="layout">
   <div metal:fill-slot="head" tal:omit-tag="1">
     <meta name="description" content="The homepage of software engineer Ben Nuttall" />
-    <meta property="og:url" content="https://bennuttall.com/" />
+    <meta property="og:url" content="${site.config.base_url}/" />
     <meta property="og:title" content="${page.title}" />
     <meta property="og:description" content="The homepage of software engineer Ben Nuttall" />
     <meta name="twitter:title" content="${page.title}" />
@@ -27,7 +27,7 @@
       <div class="small-12 medium-8 columns">
         <h2>Latest blog posts</h2>
       </div>
-      <div class="small-12 medium-8 columns" tal:repeat="post posts[:5]">
+      <div class="small-12 medium-8 columns" tal:repeat="post site.posts[:5]">
         <time datetime="${post.published.isoformat(timespec='seconds')}" title="${post.published.isoformat(timespec='seconds')}">${post.published.strftime("%-d %B %Y")}</time>
         <h2><a href="/${post.link}" tal:content="structure post.title"></a></h2>
         <p tal:content="structure post.excerpt"></p>
