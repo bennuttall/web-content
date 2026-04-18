@@ -1,5 +1,6 @@
-templates_dir: templates
 csv_dir: csv
+templates_dir: templates
+base_url: https://bennuttall.com
 
 build:
   posts_dir: content/posts
@@ -14,4 +15,4 @@ logs:
 
 analytics:
   output_dir: analytics
-  base_url: https://bennuttall.com
+  manifest_path: www/manifest.json

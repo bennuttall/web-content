@@ -1,5 +1,4 @@
 published: '2026-04-11T22:54:39+01:00'
-slug: beemo-analytics
 tags:
 - python
 - blogging
@@ -11,3 +10,4 @@ tags:
 - open-source
 - dave-jones
 title: Beemo Analytics
+og_image: images/beemo.png
