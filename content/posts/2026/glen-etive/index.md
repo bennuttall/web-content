@@ -92,7 +92,7 @@ all successfully made our way down it without issue!
 
 <figure class="wp-block-image">
 <img src="images/etive-after-ra-falls.jpg" />
-<figcaption>Right angle falls</figcaption>
+<figcaption>Right after the falls</figcaption>
 </figure>
 
 Here's the video of me doing it:
