@@ -86,7 +86,7 @@ before the drop, so you've got to make sure you don't capsize right above it!
 <figcaption>Right angle falls</figcaption>
 </figure>
 
-It looked extremely daunting - but the right angle is what worries you. You're expecting it to catch
+It looked extremely daunting — but the right angle is what worries you. You're expecting it to catch
 you and send you down the fall backwards or upside-down, which is a little terrifying. Anyway, we
 all successfully made our way down it without issue!
 
