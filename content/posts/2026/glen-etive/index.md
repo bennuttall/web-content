@@ -1,4 +1,4 @@
-I realised I hadn't blogged anything outdoorsy for an awful long time. I used to occasionally post
+I realised I hadn't blogged anything outdoorsy for an awfully long time. I used to occasionally post
 about [travels](/blog/tags/travel) and [adventures](/blog/tags/adventure), or my
 [kayaking](/blog/tags/kayaking) in general, but I guess I haven't done anything blogworthy in a
 while.
@@ -15,7 +15,7 @@ I haven't paddled a lot in [Scotland](/blog/tags/scotland). Just the
 both just over the Scottish border. I managed to drop my phone in the river on the Esk last year -
 luckily and bizarrely it was found two weeks later by a fly fisherman who managed to access my
 emergency contacts on the lock screen. I *just happened* to be in Scotland at the time, and arranged
-to pick up my phone from him in Langham on the way home, before I'd got around to replacing it.
+to pick up my phone from him in Langholm on the way home, before I'd got around to replacing it.
 
 <figure class="wp-block-image">
 <img src="images/found-lost-phone.jpg" />
@@ -24,11 +24,11 @@ to pick up my phone from him in Langham on the way home, before I'd got around t
 
 Big shout out to the maker of the [waterproof case](https://www.amazon.co.uk/dp/B06Y21DLWB?th=1)!
 
-A bunch of us went for a weekend trip to the Scottish highlands last month. We were especially
+A bunch of us went for a weekend trip to the Scottish Highlands last month. We were especially
 excited about doing the [River
 Etive](https://www.ukriversguidebook.co.uk/rivers/scotland/west-highlands/river-etive-triple-falls-to-the-allt-achaorainn/)
 in the stunningly beautiful [Glen Etive](https://en.wikipedia.org/wiki/Glen_Etive) near [Glen
-Coe](https://en.wikipedia.org/wiki/Glen_Coe) in the Scottish highlands. I've been wanting to do it
+Coe](https://en.wikipedia.org/wiki/Glen_Coe) in the Scottish Highlands. I've been wanting to do it
 for many years but never had the chance. It's a river that's full of exciting drops with names like
 "letterbox", "ski jump", "twist and shout", "crack of doom" and "crack of dawn". I've always been
 envious of the amazing photos I've seen of people running what I now know is called "[right angle
@@ -60,9 +60,9 @@ We drove a few minutes to the river in the stunning Glen Etive:
 <figcaption>Glen Etive</figcaption>
 </figure>
 
-The river starts with three consequtive drops called "triple falls". A great way to warm up! Only
-one of us in the group had paddled the Etive before, but Connah has read up on all the features and
-we stopped and looked at everything to make sure we were prepared. Here's a video of me on triple
+The river starts with three consecutive drops called "triple falls". A great way to warm up! Only
+one of us in the group had paddled the Etive before, but Connah had read up on all the features, so
+we stopped to scout everything to make sure we were prepared. Here's a video of me on triple
 falls: [https://www.youtube.com/shorts/-pzJEMfXEcw](https://www.youtube.com/shorts/-pzJEMfXEcw)
 
 <figure class="wp-block-image">
