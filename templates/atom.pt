@@ -17,6 +17,6 @@
     <updated>${post.modified.isoformat(timespec="seconds")}</updated>
     <category tal:repeat="tag post.tags" term="${tag}" />
     <summary><![CDATA[${structure:post.excerpt}]]></summary>
-    <content type="html"><![CDATA[${structure:post.html}]]></content>
+    <content type="html"><![CDATA[${structure:post.html_atom_safe}]]></content>
   </entry>
 </feed>
