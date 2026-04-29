@@ -4,7 +4,7 @@ I've had a blog since 2006. I started using
 space at blogspot.com.
 
 <figure class="wp-block-image">
-<img src="images/blogspot.png" />
+<img src="images/blogspot.webp" />
 <figcaption>I can still log in to my blogspot account and see the old posts – although it changed a
 lot at some point! I wonder if anyone still uses it...</figcaption>
 </figure>
@@ -16,7 +16,7 @@ younger, that any opportunity to write or tweak code/styles/markup to personalis
 then, and it was a wonderful learning experience.
 
 <figure class="wp-block-image">
-<img src="images/snowdonia.png" />
+<img src="images/snowdonia.webp" />
 <figcaption>A slightly broken snapshot of my blogspot site from 2007</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ elsewhere. I packed up, exported my posts and undertook the rite-of-passage of a
 developer that is building your own CMS to power your personal site.
 
 <figure class="wp-block-image">
-<img src="images/blogger.jpg" />
+<img src="images/blogger.webp" />
 <figcaption>My Blogger t-shirt, circa 2007. <a
 href="https://www.flickr.com/photos/shanerounce/1018974796/">Photo</a> by <a
 href="https://twitter.com/srounce/">Shane Rounce</a>.</figcaption>
@@ -45,7 +45,7 @@ experience at the time. It was these skills, not my degree, that led to my emplo
 graduation.
 
 <figure class="wp-block-image">
-<img src="images/brown.png" />
+<img src="images/brown.webp" />
 </figure>
 
 ## Enter WordPress
@@ -76,7 +76,7 @@ blog posts it was clear I needed to differentiate paragraph text from inline cod
 code blocks.
 
 <figure class="wp-block-image">
-<img src="images/blue.png" />
+<img src="images/blue.webp" />
 <figcaption>The bennuttall.com that never was</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ I'd just use that as a starting point, and change the colours. So I did that las
 is! I've also rolled it out to my new-ish [*Tooling Tuesday*](https://tooling.bennuttall.com/) blog.
 
 <figure class="wp-block-image">
-<img src="images/bn-foundation.png" />
+<img src="images/bn-foundation.webp" />
 <figcaption>The new normal</figcaption>
 </figure>
 

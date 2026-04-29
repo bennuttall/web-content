@@ -5,7 +5,7 @@ and see which versions there are, what files are available, and things like rele
 Python versions are supported:
 
 <figure class="wp-block-image">
-<img src="images/numpy-project-page-1024x546.png" />
+<img src="images/numpy-project-page-1024x546.webp" />
 </figure>
 
 But if I want to be able to write a program to access this data, I can use the JSON API instead of
@@ -22,7 +22,7 @@ You can open up the JSON for numpy in your browser by heading to its URL. Firefo
 like this:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2021-03-07-22-00-41.png" />
+<img src="images/Screenshot-from-2021-03-07-22-00-41.webp" />
 </figure>
 
 You can open up `info`, `releases` and `urls` to inspect the contents within. Or you can load it
@@ -40,27 +40,27 @@ Once you have the data (calling `.json()` provides you with a
 can inspect it:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2021-03-07-22-46-21.png" />
+<img src="images/Screenshot-from-2021-03-07-22-46-21.webp" />
 </figure>
 
 Open up `releases` and inspect the keys inside it:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2021-03-07-22-58-50-1024x206.png" />
+<img src="images/Screenshot-from-2021-03-07-22-58-50-1024x206.webp" />
 </figure>
 
 This shows that `releases` is a dictionary with version numbers as keys. Pick one (say, the latest
 one) and inspect that:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2021-03-07-23-29-21.png" />
+<img src="images/Screenshot-from-2021-03-07-23-29-21.webp" />
 </figure>
 
 Each release is a list – the one we're looking at contains 24 items. But what is each item? Since
 it's a list, we can index the first one and take a look:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2021-03-07-23-29-54-1024x323.png" />
+<img src="images/Screenshot-from-2021-03-07-23-29-54-1024x323.webp" />
 </figure>
 
 This item is a dictionary containing details about a particular file. So each of the 24 items in the
@@ -79,7 +79,7 @@ for version, files in data['releases'].items():
 ```
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2021-03-07-23-46-34.png" />
+<img src="images/Screenshot-from-2021-03-07-23-46-34.webp" />
 </figure>
 
 ## piwheels
@@ -104,7 +104,7 @@ available on piwheels, so we include a list of all known releases, some basic in
 of files we have:
 
 <figure class="wp-block-image size-large">
-<img src="images/Screenshot-from-2021-03-07-23-58-43.png" />
+<img src="images/Screenshot-from-2021-03-07-23-58-43.webp" />
 </figure>
 
 Similarly to the previous PyPI example, you could create a script to analyse the API contents, for
@@ -126,7 +126,7 @@ for version, info in package['releases'].items():
 Also, each file contains some metadata:
 
 <figure class="wp-block-image size-large">
-<img src="images/Screenshot-from-2021-03-08-00-03-11.png" />
+<img src="images/Screenshot-from-2021-03-08-00-03-11.webp" />
 </figure>
 
 One particularly useful thing here is the `apt_dependencies` field which lists the apt packages

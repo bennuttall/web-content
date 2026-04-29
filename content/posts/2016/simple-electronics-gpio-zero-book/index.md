@@ -1,7 +1,7 @@
 Today the *MagPi* team released a new publication: *Simple Electronics with GPIO Zero*.
 
 <figure class="wp-block-image">
-<a href="https://www.raspberrypi.org/magpi/gpio-zero-essentials/"><img src="images/Essentials-07-GPIO-ZERO_Flat_Cover-212x300.jpg" /></a>
+<a href="https://www.raspberrypi.org/magpi/gpio-zero-essentials/"><img src="images/Essentials-07-GPIO-ZERO_Flat_Cover-212x300.webp" /></a>
 </figure>
 
 This 100-page book takes you from the basics, like lighting an LED, all the way to building projects
@@ -14,7 +14,7 @@ print](https://thepihut.com/collections/magpi/products/magpi-essentials-simple-e
 All proceeds go towards the Raspberry Pi Foundation's education programmes.
 
 <figure class="wp-block-image">
-<img src="images/GPIOZeroSpread-300x213.png" />
+<img src="images/GPIOZeroSpread-300x213.webp" />
 </figure>
 
 I've been amazed with how the GPIO Zero project has grown. There have been three major releases (a

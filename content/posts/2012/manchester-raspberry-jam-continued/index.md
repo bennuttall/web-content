@@ -119,58 +119,58 @@ Madlab for hosting the events. I really don't know how we'd do this if the space
 		</style>
 <div class="gallery galleryid-200 gallery-columns-3 gallery-size-thumbnail" id="gallery-30"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-10.50.26-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-10.50.26-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-10.55.46-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-10.55.46-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-11.37.00-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-11.37.00-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-12.48.20-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-12.48.20-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-13.21.46-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-13.21.46-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-13.40.23-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-13.40.23-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-14.11.28-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-14.11.28-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-14.44.33-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-14.44.33-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-14.44.53-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-14.44.53-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-17.10.27-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-17.10.27-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-12-22.53.13-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-12-22.53.13-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2012-09-08-10.53.09-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2012-09-08-10.53.09-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-08-10.53.29-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-08-10.53.29-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-08-12.17.20-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-08-12.17.20-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-08-15.19.11-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-08-15.19.11-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/A2Qrzg_CIAAUNF--150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/A2Qrzg_CIAAUNF--150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/A2RAI30CEAEjldQ-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/A2RAI30CEAEjldQ-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/A2Sr-y5CYAASMwd-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/A2Sr-y5CYAASMwd-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/>
 </div>
 </p>

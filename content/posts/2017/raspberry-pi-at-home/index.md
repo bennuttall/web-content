@@ -4,7 +4,7 @@ programming and maker skills in the classroom and the hackspace, and it has plen
 applications in the workplace and in factories. I'm going to introduce five projects you might want
 to build in your own home.
 
-![](images/home.png)
+![](images/home.webp)
 
 ## Media center
 
@@ -22,9 +22,9 @@ much more lightweight. All you have to do is choose a distribution, download the
 on an SD card (or just use [NOOBS](https://www.raspberrypi.org/downloads/noobs/)), boot it up, and
 you're ready to go.
 
-![](images/libreelec.png)
+![](images/libreelec.webp)
 
-![](images/osmc.png)
+![](images/osmc.webp)
 
 Before proceeding you'll need to decide which Raspberry Pi model to use. These distributions will work
 on any Pi (1, 2, 3, or Zero), and video playback will essentially be matched on each of these. Apart
@@ -49,7 +49,7 @@ address (for example, `ssh pi@123.45.56.78`). If you have a domain name, you can
 subdomain to point to this IP address, so you don't have to remember it (for example, 
 `ssh <pi@home.mydomain.com>`).
 
-![](images/ssh.png)
+![](images/ssh.webp)
 
 However, if you're going to expose a Raspberry Pi to the internet, you should be very careful not to
 put your network at risk. There are a few simple procedures you can follow to make it sufficiently
@@ -118,14 +118,14 @@ stream on the internet, requires you to open two ports.
 Once you have web streaming set up, you can position the camera where you want it. I have one set up
 to keep an eye on my pet tortoise:
 
-![](images/tortoise.jpg)
+![](images/tortoise.webp)
 
 If you want to be able to control where the camera actually points, you can do so using servos. A
 neat solution is to use Pimoroni's [Pan-Tilt HAT](https://shop.pimoroni.com/products/pan-tilt-hat),
 which allows you to move the camera easily in two dimensions. To integrate this with pistreaming,
 see the project's [pantilthat branch](https://github.com/waveform80/pistreaming/tree/pantilthat).
 
-![](images/pan-tilt.gif)
+![](images/pan-tilt.webp)
 
 If you want to position your Pi outside, you'll need a waterproof enclosure and some way of getting
 power to the Pi. PoE (Power-over-Ethernet) cables can be a good way of achieving this.
@@ -159,7 +159,7 @@ Adafruit's [Onion Pi](https://learn.adafruit.com/onion-pi/overview) is a
 [Tor](https://www.torproject.org/) proxy that makes your web traffic anonymous, allowing you to use
 the internet free of snoopers and any kind of surveillance. Follow Adafruit's tutorial on setting up
 Onion Pi and you're on your way to a peaceful anonymous browsing experience.
-![](images/onion-pi.jpg)
+![](images/onion-pi.webp)
 
 You can install a Raspberry Pi on your network that intercepts all web traffic and filters out any
 advertising. Simply download the [Pi-hole](https://pi-hole.net/) software onto the Pi, and all

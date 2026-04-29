@@ -128,49 +128,49 @@ up to train together soon. All the best, guys. Stay safe (and I hope your arm is
 		</style>
 <div class="gallery galleryid-1238 gallery-columns-3 gallery-size-thumbnail" id="gallery-42"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0921.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0921.resized-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0926.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0926.resized-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0929.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0929.resized-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0935.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0935.resized-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_0936.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_0936.resized-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0944.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0944.resized-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0947.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0947.resized-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0945.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0945.resized-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0962.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0962.resized-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0954.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0954.resized-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0980.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0980.resized-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0974.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0974.resized-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0985.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0985.resized-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0982.resized-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0982.resized-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/n761565042_3654872_5783-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/n761565042_3654872_5783-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/>
 </div>
 </p>

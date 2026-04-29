@@ -44,7 +44,7 @@ know it was him. You can view it
 > It's probably not obvious to anyone else that it's me. But it is you know...
 
 <figure class="wp-block-image">
-<img src="images/streetview.jpg" />
+<img src="images/streetview.webp" />
 </figure>
 
 Lastly, [Chrome Experiments](http://www.chromeexperiments.com/) (I realise I talked about them in

@@ -3,7 +3,7 @@ of Raspberry Pi people and products — launched a unique service back in 2016: 
 what they call their "[Pi Cloud](https://www.mythic-beasts.com/order/rpi)".
 
 <figure class="wp-block-image">
-<a href="https://www.mythic-beasts.com/order/rpi"><img src="images/picloud.png" /></a>
+<a href="https://www.mythic-beasts.com/order/rpi"><img src="images/picloud.webp" /></a>
 </figure>
 
 When I developed the first version of [piwheels](https://www.piwheels.org/), it made sense to make
@@ -24,7 +24,7 @@ I just finished off a revamp of the library, including using
 [Typer](https://typer.tiangolo.com/).
 
 <figure class="wp-block-image">
-<img src="images/hostedpi.png" />
+<img src="images/hostedpi.webp" />
 <figcaption>The new piwheels CLI in all its glory</figcaption>
 </figure>
 

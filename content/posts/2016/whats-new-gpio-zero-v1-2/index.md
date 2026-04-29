@@ -79,7 +79,7 @@ even created GPIO Zero projects related to this – using the Travis CI API to s
 status on [traffic lights](https://github.com/RPi-Distro/python-gpiozero/issues/191).
 
 <figure class="wp-block-image">
-<img src="images/trafficlights-248x300.jpeg" />
+<img src="images/trafficlights-248x300.webp" />
 </figure>
 
 ## What's new?
@@ -112,7 +112,7 @@ desk lamp rather than an LED) and the button set to trigger the light to come on
 light switch!
 
 <figure class="wp-block-image">
-<img src="images/energenie.jpeg" />
+<img src="images/energenie.webp" />
 </figure>
 
 ### LineSensor
@@ -153,7 +153,7 @@ while True:
 ```
 
 <figure class="wp-block-image">
-<img src="images/distancesensor-300x300.jpeg" />
+<img src="images/distancesensor-300x300.webp" />
 </figure>
 
 There's also one of these in CamJam Kit 3 and they're popular for various projects not limited to
@@ -166,7 +166,7 @@ board](https://ryanteck.uk/raspberry-pi/114-snowpi-the-gpio-snowman-for-raspberr
 made by Ryan Walmsley. It's a snowman with LEDs for eyes, one for the nose, and three for each arm.
 
 <figure class="wp-block-image">
-<img src="images/snowpi-the-gpio-snowman-for-raspberry-pi.jpg" />
+<img src="images/snowpi-the-gpio-snowman-for-raspberry-pi.webp" />
 </figure>
 
 Simple to program using nine individual LED objects but we crafted a neater interface:
@@ -362,7 +362,7 @@ for free from
 [raspberrypi.org/education/downloads/](https://www.raspberrypi.org/education/downloads/)
 
 <figure class="wp-block-image">
-<img src="images/GPIO_Zero_Cheatsheet.png" />
+<img src="images/GPIO_Zero_Cheatsheet.webp" />
 </figure>
 
 ## What's next?
@@ -403,7 +403,7 @@ vast majority of the code base (and the feature set). I can't thank him enough f
 work he's done on the library.
 
 <figure class="wp-block-image">
-<a href="https://github.com/RPi-Distro/python-gpiozero/graphs/contributors"><img src="images/gpiozero-commits-700x426.png" /></a>
+<a href="https://github.com/RPi-Distro/python-gpiozero/graphs/contributors"><img src="images/gpiozero-commits-700x426.webp" /></a>
 </figure>
 
 Thanks also to [Andrew Scheller](https://github.com/lurch), who's made some great contributions to

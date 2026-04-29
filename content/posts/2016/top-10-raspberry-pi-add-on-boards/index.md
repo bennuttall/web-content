@@ -23,7 +23,7 @@ and has a brilliant quality Sony sensor. There is a visible light version, and a
 version. The IR version lets you see in the dark when you have an infra-red light source. IR cameras
 are commonly used in wildlife and plant photography.
 
-![](images/camera_v2.jpg)
+![](images/camera_v2.webp)
 
 ## Sense HAT
 
@@ -32,7 +32,7 @@ was sent to the International Space Station with European Space Agency (ESA) ast
 and used in experiments coded by school children as part of the Astro Pi competition. The Sense HAT
 packs an 8x8 colour LED matrix and a set of environmental sensors.
 
-![](images/AstroPiRainbow.jpg)
+![](images/AstroPiRainbow.webp)
 
 Similarly, a new board from Pimoroni, the [Enviro pHAT](https://shop.pimoroni.com/products/enviro-phat),
 is handy for collecting environmental sensor data. It is not a full sized HAT as it is made for the
@@ -45,13 +45,13 @@ an 8x8 LED matrix. However, the LEDs are bigger and more spread out, so they fil
 There are no sensors, so this board is perfect for displaying information, patterns, animations, and
 status indicators.
 
-![](images/Unicorn_Still_4_large.jpg)
+![](images/Unicorn_Still_4_large.webp)
 
 Pimoroni also has a Pi Zero sized board, the [Unicorn
 pHAT](https://shop.pimoroni.com/collections/raspberry-pi/products/unicorn-phat), with 8x4 pixels,
 and a tiny 1x8 board called [Blinkt!](https://shop.pimoroni.com/products/blinkt)
 
-![](images/blinkt.jpg)
+![](images/blinkt.webp)
 
 If you don't need great big full colour LEDs, another of my favourites is the [Ciseco
 PiLITEr](https://shop.pimoroni.com/products/pi-liter-8-led-strip-for-the-raspberry-pi), a small
@@ -71,7 +71,7 @@ robotics and other motor projects. It is a Zero sized board, and you can program
 Zero](https://gist.github.com/bennuttall/20ab5f93c5f830276fdae3bf1d74cb94) application programming
 interface (API).
 
-![](images/motozero.jpg)
+![](images/motozero.webp)
 
 You should also check out the [CamJam Edu Kit
 3](https://thepihut.com/products/camjam-edukit-3-robotics), which features a two-motor controller
@@ -85,7 +85,7 @@ HAT](https://ryanteck.uk/hats/1-traffichat-0635648607122.html) displays the stan
 colors of red, yellow and green. It also includes a button and a buzzer, and is easy to program with
 GPIO Zero.
 
-![](images/traffichat.jpg)
+![](images/traffichat.webp)
 
 If you don't need the button and buzzer, or you need access to the GPIO pins, you can use a [Pi
 Traffic Light](https://lowvoltagelabs.com/products/pi-traffic/) or
@@ -100,7 +100,7 @@ eight analog inputs to your Raspberry Pi. The Pi's GPIO pins are digital, so you
 analogue-to-digital converter (ADC) to connect analog devices. You can use an ADC chip on a
 breadboard, but the wiring can be messy, so the Analog Zero is a great improvement.
 
-![](images/RasPiO-Analog-Zero.jpg)
+![](images/RasPiO-Analog-Zero.webp)
 
 Using the Analog Zero with GPIO Zero makes it easier to program analog inputs like potentiometers
 and light sensors.
@@ -112,7 +112,7 @@ H](https://rasp.io/prohat/)[AT](https://rasp.io/prohat/), which provides a bread
 HAT, with the GPIO pins broken out in numerical order. Additionally, the Pro HAT protects the pins
 so you can use LEDS directly without having to add resistors.
 
-![](images/prohat-leds.jpg)
+![](images/prohat-leds.webp)
 
 ## Adafruit Capacitive Touch HAT
 
@@ -120,7 +120,7 @@ Adafruit make some great boards for the Raspberry Pi, including their [Capacitiv
 HAT](https://www.adafruit.com/products/2340). It is a simple way of reading capacitive touch inputs
 from the Pi, meaning you can make your own fruit drum kit!
 
-![](images/adafruit-cap-touch.gif)
+![](images/adafruit-cap-touch.webp)
 
 ## Skywriter HAT
 
@@ -128,7 +128,7 @@ The [Skywriter HAT](https://shop.pimoroni.com/products/skywriter-hat) from Pimor
 hand gestures to control things. Start simple and make a Theremin, or go full steam and automate
 your house with a host of gestures.
 
-![](images/skywriter.jpg)
+![](images/skywriter.webp)
 
 ## Energenie Pi-mote
 
@@ -136,6 +136,6 @@ Energenie makes products for controlling power sockets with remote controls. The
 board](https://energenie4u.co.uk/catalogue/product/ENER314) controls power sockets remotely. Connect
 with devices using GPIO Zero, and write code to turn them on and off under particular circumstances.
 
-![](images/energenie.jpg)
+![](images/energenie.webp)
 
-![](images/energenie-sockets.jpg)
+![](images/energenie-sockets.webp)

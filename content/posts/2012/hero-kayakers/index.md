@@ -4,7 +4,7 @@ the park the rain began again, and as we approached the bank to put on, the wate
 and running very fast:
 
 <figure class="wp-block-image">
-<img src="images/DSCF1012.jpg" />
+<img src="images/DSCF1012.webp" />
 </figure>
 
 We got on and within a couple of minutes we hit the gorge section, which I would say was pushing
@@ -12,11 +12,11 @@ grade four. Not particularly technical, but rather severe in its volume, with ve
 rapids:
 
 <figure class="wp-block-image">
-<img src="images/DSCF1015.jpg" />
+<img src="images/DSCF1015.webp" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/DSCF1016.jpg" />
+<img src="images/DSCF1016.webp" />
 </figure>
 
 About half way through the gorge we spotted something orange ahead, as we got closer we noticed it
@@ -68,7 +68,7 @@ The rescue people told us he had described his craft as an "inflatable dinghy". 
 the team and eventually we headed back to our car.
 
 <figure class="wp-block-image">
-<img src="images/DSCF1020.jpg" />
+<img src="images/DSCF1020.webp" />
 </figure>
 
 Thanks a lot to the fire service who really helped us get this man to safety. Excellent service and
@@ -140,7 +140,7 @@ Also here's a photo of today's Manchester Evening News with the picture the fire
 three of us:
 
 <figure class="wp-block-image">
-<img src="images/hero-966x1024.jpg" />
+<img src="images/hero-966x1024.webp" />
 </figure>
 
 <p>
@@ -164,49 +164,49 @@ three of us:
 		</style>
 <div class="gallery galleryid-328 gallery-columns-3 gallery-size-thumbnail" id="gallery-29"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1005-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1005-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1008-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1008-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1009-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1009-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1010-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1010-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1011-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1011-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1012-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1012-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1015-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1015-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1016-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1016-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1017-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1017-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1020-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1020-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/emysi-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/emysi-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/ram_kayakers_smalljpg_497x350-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/ram_kayakers_smalljpg_497x350-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF1018.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF1018.resized-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3781.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3781.resized-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3788.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3788.resized-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/>
 </div>
 </p>
@@ -214,7 +214,7 @@ three of us:
 Update 9th May 2013: We received an award from the fire service.
 
 <figure class="wp-block-image">
-<img src="images/ram_kayakers_smalljpg_497x350.jpg" />
+<img src="images/ram_kayakers_smalljpg_497x350.webp" />
 <figcaption>Receiving the Chief Fire Officer's Commendation for bravery at a presentation in the Ramsbottom Fire Station</figcaption>
 </figure>
 

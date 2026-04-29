@@ -8,7 +8,7 @@ The pre-barcamp social was held at the West Coast Rock Café, where
 [Ash](http://twitter.com/wisemonkeyash) had a 20oz steak. Don't believe me? Here it is:
 
 <figure class="wp-block-image">
-<img src="images/reobm.jpg" />
+<img src="images/reobm.webp" />
 </figure>
 
 We had some laughs and I discussed music with [Alex](http://twitter.com/alexturgid) (aka "The Error
@@ -28,7 +28,7 @@ watched me enter my phone's unlock pattern, and told me he had. He also went rou
 identities:
 
 <figure class="wp-block-image">
-<img src="images/freakyclown.jpg" />
+<img src="images/freakyclown.webp" />
 </figure>
 
 Following an intro talk from the utterly amazing organisers [Lally](http://twitter.com/lallyd) and
@@ -73,7 +73,7 @@ do anything like that...
 This was followed by more drinking and a couple of games of [Werewolf](http://werewolv.es/):
 
 <figure class="wp-block-image">
-<img src="images/tyefy-1024x768.jpg" />
+<img src="images/tyefy-1024x768.webp" />
 </figure>
 
 I've never played Werewolf before, and the rules weren't explained before we started playing, so I
@@ -96,7 +96,7 @@ talked about [Adventure Time](http://en.wikipedia.org/wiki/Adventure_Time). I th
 Rubik's Cube so fast it fell apart in my hands:
 
 <figure class="wp-block-image">
-<img src="images/rubiks-cube.jpg" />
+<img src="images/rubiks-cube.webp" />
 </figure>
 
 A few people asked me what the reason behind the emerging micro meme 'MORNING BEN' they had
@@ -146,40 +146,40 @@ it? Probably [here](http://www.youtube.com/watch?v=gWJIQm9qH-w).
 		</style>
 <div class="gallery galleryid-321 gallery-columns-3 gallery-size-thumbnail" id="gallery-28"><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/image_1272446197-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/image_1272446197-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/76086560-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/76086560-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/ij6yz-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/ij6yz-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/kdgch-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/kdgch-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/ohovyq-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/ohovyq-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/reobm-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/reobm-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/tyefy-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/tyefy-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/vdmtj-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/vdmtj-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-28-22.06.58-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-28-22.06.58-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-29-10.56.49-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-29-10.56.49-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-29-12.50.57-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-29-12.50.57-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-30-12.16.42-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-30-12.16.42-150x150.webp" width="125"/>
 </dt></dl>
 <br style="clear: both"/>
 </div>

@@ -18,7 +18,7 @@ Ronacher](https://twitter.com/mitsuhiko), the creator of the [Flask](http://flas
 framework.
 
 <figure class="wp-block-image">
-<img src="images/13667748_1131333196912808_853115358146502008_o-700x467.jpg" />
+<img src="images/13667748_1131333196912808_853115358146502008_o-700x467.webp" />
 </figure>
 
 Here's the video of my talk on *Physical computing with Python and Raspberry Pi*. I spoke about the

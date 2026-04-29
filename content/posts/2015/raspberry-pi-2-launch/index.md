@@ -40,7 +40,7 @@ RS Components trying to get a page I could place an order, that in 2015 I was th
 for the Raspberry Pi website for the launch of Raspberry Pi 2!
 
 <figure class="wp-block-image">
-<img src="images/raspberry-pi-2-launch-website-700x597.png" />
+<img src="images/raspberry-pi-2-launch-website-700x597.webp" />
 </figure>
 
 Prior to the launch I had a conversation with Pete from our web hosts [Mythic

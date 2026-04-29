@@ -20,7 +20,7 @@ week before on Twitter [@MATLAB](http://twitter.com/MATLAB) posted a picture of 
 
 And so I looked inside the parcel to see if there was anything else. There was a letter:
 
-<img src="images/IMAG0049-1024x613.jpg" title="Matlab Rubik&#39;s Cube and Letter"
+<img src="images/IMAG0049-1024x613.webp" title="Matlab Rubik&#39;s Cube and Letter"
 class="aligncenter size-large wp-image-55" decoding="async" loading="lazy" width="600"
 height="359" />
 

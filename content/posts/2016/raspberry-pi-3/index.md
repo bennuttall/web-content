@@ -8,7 +8,7 @@ original Pi 1. Many people will be pleased to hear that the Raspberry Pi 3 also 
 Wi-Fi and Bluetooth, greatly improving the device's connectivity. The new device goes on sale today
 at the usual price of $35.
 
-![](images/pi3.jpg)
+![](images/pi3.webp)
 
 ## What's new?
 
@@ -18,7 +18,7 @@ can connect a Bluetooth mouse and keyboard, or any other Bluetooth-enabled devic
 these wireless technologies means you don't need to buy extra USB dongles and use up any of the USB
 ports and avoid using a hub.
 
-![](images/pi3-diag.jpg)
+![](images/pi3-diag.webp)
 
 The Pi 3 boots in a matter of seconds, an improvement even on the Pi 2, which was much faster than
 Pi 1. Once you're at the desktop, the Pi 3 is noticeably slicker and applications like the web
@@ -28,7 +28,7 @@ A small but handy change is the microSD card slot, which was previously a push-p
 now push-pull (like on the Pi Zero). This means you can't accidentally pop it out while adjusting
 your cables.
 
-![](images/pi3-case-top.jpg)
+![](images/pi3-case-top.webp)
 
 ## Get started
 

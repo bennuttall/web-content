@@ -20,19 +20,19 @@ In the last two months I've attended and spoken at five Python conferences aroun
 		</style>
 <div class="gallery galleryid-1960 gallery-columns-5 gallery-size-thumbnail" id="gallery-2"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/euroscipy-125x125.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/euroscipy-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/pyconie-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/pyconie-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/pyconuk-125x125.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/pyconuk-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/europython-125x125.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/europython-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/pyss-125x125.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/pyss-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/>
 </div>
 
@@ -55,7 +55,7 @@ You'll find the [slides on
 slideshare](http://www.slideshare.net/bennuttall/pioneering-the-future-of-computing-education)
 
 <figure class="wp-block-image">
-<img src="images/ep2014-badge-225x300.jpg" />
+<img src="images/ep2014-badge-225x300.webp" />
 </figure>
 
 ## EuroSciPy – Cambridge

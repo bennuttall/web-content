@@ -4,7 +4,7 @@ make sure we eat our own dog food by hosting the website on new Raspberry Pi har
 launches.
 
 <figure class="wp-block-image">
-<img src="images/uknof-ipv6-shortage.png" class="wp-image-149" decoding="async" loading="lazy"
+<img src="images/uknof-ipv6-shortage.webp" class="wp-image-149" decoding="async" loading="lazy"
 sizes="auto, (max-width: 600px) 100vw, 600px" width="600" height="322" />
 <figcaption>Pete Stevens of Mythic Beasts – don't get him started on IPv4</figcaption>
 </figure>
@@ -16,18 +16,18 @@ options: PXE. You get partitioned some disk space on an NFS mount, and this cont
 files. 10GB is the default, but you can get more if you want.
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2019-07-01-17-58-44-1024x621.png" class="wp-image-144"
+<img src="images/Screenshot-from-2019-07-01-17-58-44-1024x621.webp" class="wp-image-144"
 decoding="async" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" width="1024"
 height="621" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2019-07-01-17-59-42.png" class="wp-image-145" decoding="async"
+<img src="images/Screenshot-from-2019-07-01-17-59-42.webp" class="wp-image-145" decoding="async"
 loading="lazy" sizes="auto, (max-width: 727px) 100vw, 727px" width="727" height="384" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2019-07-01-18-03-36.png" class="wp-image-146" decoding="async"
+<img src="images/Screenshot-from-2019-07-01-18-03-36.webp" class="wp-image-146" decoding="async"
 loading="lazy" sizes="auto, (max-width: 720px) 100vw, 720px" width="720" height="298" />
 </figure>
 
@@ -37,7 +37,7 @@ IPv4to-v6 proxy so that each Pi doesn't need its own IPv4 address (that would co
 a Pi!).
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2019-07-01-18-39-37.png" class="wp-image-143" decoding="async"
+<img src="images/Screenshot-from-2019-07-01-18-39-37.webp" class="wp-image-143" decoding="async"
 loading="lazy" sizes="auto, (max-width: 734px) 100vw, 734px" width="734" height="632" />
 </figure>
 
@@ -46,7 +46,7 @@ distro or version. You can choose between Raspbian Jessie, Stretch and Buster, a
 Bionic. As of today, the default is Buster.
 
 <figure class="wp-block-image">
-<img src="images/2019-07-01-184513_5760x1080_scrot.png" class="wp-image-142" decoding="async"
+<img src="images/2019-07-01-184513_5760x1080_scrot.webp" class="wp-image-142" decoding="async"
 loading="lazy" sizes="auto, (max-width: 716px) 100vw, 716px" width="716" height="321" />
 </figure>
 
@@ -68,7 +68,7 @@ database back to a Pi, as long as it's one with plenty of RAM!
 [Get your cloud Pi now!](https://www.mythic-beasts.com/order/rpi)
 
 <figure class="wp-block-image">
-<a href="https://www.mythic-beasts.com/order/rpi"><img src="images/mythic-beasts-pi-hosting.png"
+<a href="https://www.mythic-beasts.com/order/rpi"><img src="images/mythic-beasts-pi-hosting.webp"
 class="wp-image-147" decoding="async" loading="lazy" sizes="auto, (max-width: 998px) 100vw, 998px"
 width="998" height="359" /></a>
 </figure>

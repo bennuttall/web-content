@@ -15,7 +15,7 @@ end of the year), following the G1 (aka HTC Dream) which was exclusive to T-Mobi
 go for the G1 until I heard about its successor - a better phone on a better nework!
 
 <figure class="wp-block-image">
-<img src="images/htcmagic.jpg" />
+<img src="images/htcmagic.webp" />
 </figure>
 
 Within minutes of having the Magic perform simple tasks at the touch of my finger, I was enraptured

@@ -8,7 +8,7 @@ the Pi's CPU temperature, and includes a "joke" button which tells you a joke (u
 [pyjokes](https://pyjok.es/)):
 
 <figure class="wp-block-image">
-<img src="images/screenshot.png" class="wp-image-179" decoding="async" loading="lazy"
+<img src="images/screenshot.webp" class="wp-image-179" decoding="async" loading="lazy"
 sizes="auto, (max-width: 862px) 100vw, 862px" width="862" height="768" />
 </figure>
 

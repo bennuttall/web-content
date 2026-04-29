@@ -33,6 +33,6 @@ It'll be sad to leave Blogger - I've always been proud to say I use Blogger and 
 a blogger. I've been using it for nearly 5 years now, and I've even got the t-shirt:
 
 <figure class="wp-block-image">
-<img src="images/blogger.jpg" />
+<img src="images/blogger.webp" />
 <figcaption>Photo by Shane Rounce</figcaption>
 </figure>

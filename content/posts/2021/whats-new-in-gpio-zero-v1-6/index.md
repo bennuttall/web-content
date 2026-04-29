@@ -33,7 +33,7 @@ led.source = scaled_half(rotor.values)
 ```
 
 <figure class="wp-block-image">
-<img src="images/rotary-encoder.jpg" />
+<img src="images/rotary-encoder.webp" />
 </figure>
 
 ## Multi-segment displays
@@ -44,7 +44,7 @@ including multiplexed multi-character displays. There's even a "font" interface 
 create custom character maps:
 
 <figure class="wp-block-image">
-<img src="images/7seg_multi_bb-700x309.png" />
+<img src="images/7seg_multi_bb-700x309.webp" />
 </figure>
 
 ## Pibrella
@@ -52,7 +52,7 @@ create custom character maps:
 This seems like an odd thing to add in 2021, but we had a pull request for it, so why not?
 
 <figure class="wp-block-image">
-<img src="images/pibrella.png" />
+<img src="images/pibrella.webp" />
 </figure>
 
 One interesting thing about our interface to it is the way the input and output channels are exposed
@@ -106,11 +106,11 @@ The `pinout` command line tool GPIO Zero provides includes neat ASCII art diagra
 and board layout of the Pi model you're on. We just added layouts for the Pi 400 and CM4:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2021-04-02-23-50-15.png" />
+<img src="images/Screenshot-from-2021-04-02-23-50-15.webp" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2021-04-02-23-51-57.png" />
+<img src="images/Screenshot-from-2021-04-02-23-51-57.webp" />
 </figure>
 
 ## Using BOARD numbering (under-the-hood) for add-on boards

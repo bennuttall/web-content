@@ -46,55 +46,55 @@ people the finished product. Here is a selection of the projects I worked on at 
 		</style>
 <div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-3"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/laf-150x150.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/laf-150x150.webp" width="125"/>
 </dt>
 <dd class="wp-caption-text gallery-caption" id="gallery-3-970">
 				Literature Across Frontiers
 				</dd></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/diabetes-150x150.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/diabetes-150x150.webp" width="125"/>
 </dt>
 <dd class="wp-caption-text gallery-caption" id="gallery-3-969">
 				Help Beat Diabetes
 				</dd></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/fallow-150x150.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/fallow-150x150.webp" width="125"/>
 </dt>
 <dd class="wp-caption-text gallery-caption" id="gallery-3-961">
 				Fallow Café
 				</dd></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/prolificnorth-150x150.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/prolificnorth-150x150.webp" width="125"/>
 </dt>
 <dd class="wp-caption-text gallery-caption" id="gallery-3-907">
 				Prolific North
 				</dd></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/incognito-150x150.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/incognito-150x150.webp" width="125"/>
 </dt>
 <dd class="wp-caption-text gallery-caption" id="gallery-3-904">
 				Incognito
 				</dd></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/home-150x150.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/home-150x150.webp" width="125"/>
 </dt>
 <dd class="wp-caption-text gallery-caption" id="gallery-3-902">
 				Home MCR
 				</dd></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/haelo-150x150.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/haelo-150x150.webp" width="125"/>
 </dt>
 <dd class="wp-caption-text gallery-caption" id="gallery-3-901">
 				Haelo
 				</dd></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/creativetourist-150x150.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/creativetourist-150x150.webp" width="125"/>
 </dt>
 <dd class="wp-caption-text gallery-caption" id="gallery-3-900">
 				Creative Tourist
 				</dd></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/compcomms-150x150.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/compcomms-150x150.webp" width="125"/>
 </dt>
 <dd class="wp-caption-text gallery-caption" id="gallery-3-899">
 				Comprehensive Communications
@@ -140,22 +140,22 @@ recorded](http://mcrraspjam.org.uk/jam-16-videos/) by a volunteer AV Team (thank
 		</style>
 <div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-4"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/8536533874_22634b3169_o.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/8536533874_22634b3169_o.resized-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/BPCekVbCMAE7ZD9-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/BPCekVbCMAE7ZD9-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_2030.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_2030.resized-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_2040.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_2040.resized-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2013-07-13-16.01.00.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2013-07-13-16.01.00.resized-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2013-07-13-13.49.43.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2013-07-13-13.49.43.resized-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/>
 </div>
 </p>
@@ -206,13 +206,13 @@ the many people who helped her along the way – and given her the chance to shi
 		</style>
 <div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-5"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/BFB3rybCYAAnngX-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/BFB3rybCYAAnngX-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_6409-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_6409-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2013-03-09-15.44.07.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2013-03-09-15.44.07.resized-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/>
 </div>
 </p>
@@ -250,10 +250,10 @@ Raspberry Pi.
 		</style>
 <div class="gallery galleryid-1761 gallery-columns-2 gallery-size-thumbnail" id="gallery-6"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/Stem-33-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/Stem-33-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/Stem-13-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/Stem-13-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/>
 </div>
 </p>
@@ -303,13 +303,13 @@ website and set up a Pi Weekly style newsletter we now send out to parents and s
 		</style>
 <div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-7"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/20131208-_MG_0729-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/20131208-_MG_0729-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/mcrcoderdojo-team-1038x576-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/mcrcoderdojo-team-1038x576-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/11456435666_bc502ba274_b-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/11456435666_bc502ba274_b-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/>
 </div>
 </p>
@@ -352,13 +352,13 @@ groups in Berlin.
 		</style>
 <div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-8"><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/809478229-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/809478229-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/BFecPaWCQAASu_9-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/BFecPaWCQAASu_9-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/vlcsnap-2013-04-13-00h19m41s85-125x125.png" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/vlcsnap-2013-04-13-00h19m41s85-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/>
 </div>
 </p>
@@ -379,7 +379,7 @@ Salamander). See the changelog on
 [launchpad](https://launchpad.net/ubuntu/+source/guake/+changelog).
 
 <figure class="wp-block-image">
-<img src="images/guake-fix1.png" />
+<img src="images/guake-fix1.webp" />
 </figure>
 
 I also fixed minor bugs in a number of smaller projects such as the [Python
@@ -393,7 +393,7 @@ Weekly](https://github.com/bennuttall/piweekly).
 My (public) GitHub contributions of 2013:
 
 <figure class="wp-block-image">
-<img src="images/bn-github-2013.png" />
+<img src="images/bn-github-2013.webp" />
 </figure>
 
 from [github.com/bennuttall](http://github.com/bennuttall) on 4th January 2014.
@@ -430,13 +430,13 @@ Award](http://www.manchesterfire.gov.uk/updates/news/09may2013_brave_river_rescu
 		</style>
 <div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-9"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3781.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3781.resized-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3788.resized-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3788.resized-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/ram_kayakers_smalljpg_497x350-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/ram_kayakers_smalljpg_497x350-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/>
 </div>
 </p>
@@ -474,22 +474,22 @@ success, and a great chance for me to show the Foundation what I've been buildin
 		</style>
 <div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-10"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/team-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/team-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/ben-opening-talk-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/ben-opening-talk-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/clive-bullet-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/clive-bullet-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/jam-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/jam-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/cake3-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/cake3-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/10902018066_8456108310_b-125x125.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/10902018066_8456108310_b-125x125.webp" width="125"/>
 </dt></dl><br style="clear: both"/>
 </div>
 </p>
@@ -499,7 +499,7 @@ my test a week before I moved to Cambridge – although I didn't get a car until
 Finally at the age of 25 I am no longer a pedestrian!
 
 <figure class="wp-block-image">
-<img src="images/ben-pass-test-168x300.jpg" />
+<img src="images/ben-pass-test-168x300.webp" />
 </figure>
 
 My role at the Foundation will be in development and outreach. Initially I'll be working on a revamp

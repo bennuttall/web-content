@@ -47,7 +47,7 @@ buttons, the motor values change accordingly, and when you click the middle butt
 `(0, 0)`.
 
 <figure class="wp-block-image">
-<img src="images/sense-emu-mock-robot.png" />
+<img src="images/sense-emu-mock-robot.webp" />
 </figure>
 
 Now, to run this on a Raspberry Pi, I just made a few small adjustments:

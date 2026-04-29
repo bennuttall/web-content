@@ -11,7 +11,7 @@ let other people access it, all the time keeping the session alive.
 
 <div class="wp-block-image">
 <figure class="aligncenter is-resized">
-<img src="images/byobu.png" />
+<img src="images/byobu.webp" />
 <figcaption>Byobu is named for <em>a Japanese term for decorative, multi-panel screens that serve as
 folding room dividers</em>, which I think is quite fitting.</figcaption>
 </figure>
@@ -60,7 +60,7 @@ it – multiple jobs running, a window left in a particular directory, running a
 user, that kind of thing.
 
 <figure class="wp-block-image">
-<img src="images/byobu-screenshot.png"  />
+<img src="images/byobu-screenshot.webp"  />
 </figure>
 
 It's handy for development on Raspberry Pis too. You can launch byobu on the desktop, run a command,

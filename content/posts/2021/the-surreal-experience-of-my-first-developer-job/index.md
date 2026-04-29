@@ -19,14 +19,14 @@ alarm bells, but hey, I was young and naive.
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large">
-<img src="images/app-start-factory-700x396.jpg" class="wp-image-2817" decoding="async"
+<img src="images/app-start-factory-700x396.webp" class="wp-image-2817" decoding="async"
 loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" width="700" height="396" />
 </figure>
 </div>
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large">
-<img src="images/Screenshot-from-2021-04-12-00-11-40-700x422.png" class="wp-image-2812"
+<img src="images/Screenshot-from-2021-04-12-00-11-40-700x422.webp" class="wp-image-2812"
 decoding="async" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" width="700"
 height="422" />
 <figcaption>Clifton Business Park, Salford. The real factory of dreams.</figcaption>
@@ -66,7 +66,7 @@ my first day as a full-time employee.
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large">
-<img src="images/IMAG0392-700x419.jpg" class="wp-image-2811" decoding="async" loading="lazy"
+<img src="images/IMAG0392-700x419.webp" class="wp-image-2811" decoding="async" loading="lazy"
 sizes="auto, (max-width: 700px) 100vw, 700px" width="700" height="419" />
 <figcaption>My desk. A desktop PC running Windows. Google+ and the original Tweetdeck.
 Beer.</figcaption>
@@ -104,7 +104,7 @@ finally got to go home.
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large">
-<img src="images/6947133526_acc07f111a_b-700x525.jpg" class="wp-image-2815" decoding="async"
+<img src="images/6947133526_acc07f111a_b-700x525.webp" class="wp-image-2815" decoding="async"
 loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" width="700" height="525" />
 <figcaption>The shooting range game</figcaption>
 </figure>
@@ -124,7 +124,7 @@ getting paid to do so.
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large">
-<img src="images/appstart-liam-alex-700x466.jpg" class="wp-image-2827" decoding="async"
+<img src="images/appstart-liam-alex-700x466.webp" class="wp-image-2827" decoding="async"
 loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" width="700" height="466" />
 <figcaption>Alex McDaid (beard) and Liam Daly</figcaption>
 </figure>
@@ -132,7 +132,7 @@ loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" width="700" height=
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large">
-<img src="images/MEN-12.10.jpg" class="wp-image-2826" decoding="async" loading="lazy"
+<img src="images/MEN-12.10.webp" class="wp-image-2826" decoding="async" loading="lazy"
 sizes="auto, (max-width: 540px) 100vw, 540px" width="540" height="480" />
 <figcaption>Coverage from the Manchester Evening News, which you can still <a
 href="https://www.manchestereveningnews.co.uk/business/innovation/appstart-launches-online-arcade-skill-872914">read
@@ -146,7 +146,7 @@ run as his "placement year" at uni.
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large">
-<img src="images/skillbuy-700x341.png" class="wp-image-2814" decoding="async" loading="lazy"
+<img src="images/skillbuy-700x341.webp" class="wp-image-2814" decoding="async" loading="lazy"
 sizes="auto, (max-width: 700px) 100vw, 700px" width="700" height="341" />
 <figcaption>Skill Buy</figcaption>
 </figure>
@@ -173,7 +173,7 @@ himself "he's not talking to me like that" and declared to the room that he was 
 Andrew's shit" and stormed out.
 
 <figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2818" data-full-url="https://bennuttall.com/wp-content/uploads/2021/04/new-skillbuy.png" data-id="2818" data-link="https://bennuttall.com/?attachment_id=2818" decoding="async" height="438" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" src="images/new-skillbuy-700x438.png" width="700"/></figure></li><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2819" data-full-url="https://bennuttall.com/wp-content/uploads/2021/04/gameplay.png" data-id="2819" data-link="https://bennuttall.com/?attachment_id=2819" decoding="async" height="438" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" src="images/gameplay-700x438.png" width="700"/></figure></li><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2820" data-full-url="https://bennuttall.com/wp-content/uploads/2021/04/lifechanging.png" data-id="2820" data-link="https://bennuttall.com/?attachment_id=2820" decoding="async" height="438" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" src="images/lifechanging-700x438.png" width="700"/></figure></li></ul></figure>
+<ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2818" data-full-url="https://bennuttall.com/wp-content/uploads/2021/04/new-skillbuy.png" data-id="2818" data-link="https://bennuttall.com/?attachment_id=2818" decoding="async" height="438" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" src="images/new-skillbuy-700x438.webp" width="700"/></figure></li><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2819" data-full-url="https://bennuttall.com/wp-content/uploads/2021/04/gameplay.png" data-id="2819" data-link="https://bennuttall.com/?attachment_id=2819" decoding="async" height="438" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" src="images/gameplay-700x438.webp" width="700"/></figure></li><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2820" data-full-url="https://bennuttall.com/wp-content/uploads/2021/04/lifechanging.png" data-id="2820" data-link="https://bennuttall.com/?attachment_id=2820" decoding="async" height="438" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" src="images/lifechanging-700x438.webp" width="700"/></figure></li></ul></figure>
 
 We'd launched the site, and they'd started running Facebook ads promoting it. Alex even ordered a
 load of printed materials and signs to put up. I remember once, when giving me a lift home, he
@@ -189,7 +189,7 @@ and *surely* that would be enough time to build up the site user base.
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large">
-<img src="images/IMAG0420-700x419.jpg" class="wp-image-2816" decoding="async" loading="lazy"
+<img src="images/IMAG0420-700x419.webp" class="wp-image-2816" decoding="async" loading="lazy"
 sizes="auto, (max-width: 700px) 100vw, 700px" width="700" height="419" />
 <figcaption>We ran a stall at the university fresher's fair to try to get some student interest. We
 ran a special game where people played "Avoid the Hangover" on a projected screen to win "a mountain
@@ -238,7 +238,7 @@ forwarded to me by Alex:
 <div class="wp-block-image">
 
 <figure class="aligncenter size-large">
-<img src="images/skips-700x532.png" class="wp-image-2825" decoding="async" loading="lazy"
+<img src="images/skips-700x532.webp" class="wp-image-2825" decoding="async" loading="lazy"
 sizes="auto, (max-width: 700px) 100vw, 700px" width="700" height="532" />
 <figcaption>One day, Andrew brought in a friend who had his own skip company – and he introduced me
 and said I would make him a website for his skip company.</figcaption>
@@ -262,7 +262,7 @@ found the company [Twitter](https://twitter.com/AppStartUK),
 [YouTube](https://www.youtube.com/user/AppstartLtd/videos) accounts are still live and it's all
 there:
 
-<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2821" data-id="2821" decoding="async" height="960" loading="lazy" sizes="auto, (max-width: 626px) 100vw, 626px" src="images/pigs-might-fly-beetham.jpg" width="626"/></figure></li><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2822" data-id="2822" data-link="https://bennuttall.com/?attachment_id=2822" decoding="async" height="525" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" src="images/6961450183_c8dc8a4019_o-700x525.png" width="700"/></figure></li><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2823" data-id="2823" data-link="https://bennuttall.com/?attachment_id=2823" decoding="async" height="960" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="images/6944229240_414b883bcc_o.jpg" width="640"/></figure></li><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2824" data-full-url="https://bennuttall.com/wp-content/uploads/2021/04/6640985605_f8fdcc9fc6_o.jpg" data-id="2824" data-link="https://bennuttall.com/?attachment_id=2824" decoding="async" height="370" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" src="images/6640985605_f8fdcc9fc6_o-700x370.jpg" width="700"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2821" data-id="2821" decoding="async" height="960" loading="lazy" sizes="auto, (max-width: 626px) 100vw, 626px" src="images/pigs-might-fly-beetham.webp" width="626"/></figure></li><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2822" data-id="2822" data-link="https://bennuttall.com/?attachment_id=2822" decoding="async" height="525" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" src="images/6961450183_c8dc8a4019_o-700x525.webp" width="700"/></figure></li><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2823" data-id="2823" data-link="https://bennuttall.com/?attachment_id=2823" decoding="async" height="960" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="images/6944229240_414b883bcc_o.webp" width="640"/></figure></li><li class="blocks-gallery-item"><figure><img alt="" class="wp-image-2824" data-full-url="https://bennuttall.com/wp-content/uploads/2021/04/6640985605_f8fdcc9fc6_o.jpg" data-id="2824" data-link="https://bennuttall.com/?attachment_id=2824" decoding="async" height="370" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" src="images/6640985605_f8fdcc9fc6_o-700x370.webp" width="700"/></figure></li></ul></figure>
 
 A point of contention was that Andrew wanted them to knock out as many apps as possible, and wait to
 see if any of them got traction. But they wanted to choose an idea and spend a few months working on
@@ -308,7 +308,7 @@ strange and the story seems so surreal, so I felt like writing about it.
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large">
-<img src="images/skillbuy-archive-org-700x73.png" class="wp-image-2835" decoding="async"
+<img src="images/skillbuy-archive-org-700x73.webp" class="wp-image-2835" decoding="async"
 loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" width="700" height="73" />
 <figcaption>The history of Skill Buy over the years – provided by archive.org</figcaption>
 </figure>

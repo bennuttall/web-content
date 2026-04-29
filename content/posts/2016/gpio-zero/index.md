@@ -5,7 +5,7 @@ motor. If you've done anything like this before, you probably did it with Python
 used in countless projects. There's now an even simpler way to interact with physical components: a
 new friendly Python API called <a href="https://gpiozero.readthedocs.org/">GPIO Zero</a>.
 
-![](images/leds.jpg)
+![](images/leds.webp)
 
 I recently wrote about [Raspberry Pi Zero](/blog/2015/raspberry-pi-zero/),
 the $5 computer
@@ -19,7 +19,7 @@ so on. GPIO Zero is built on top of this and provides a collection of simple int
 components, so rather than setting pin 2 high to turn on an LED, you have an LED object and you turn
 it on.
 
-![](images/raspio-portsplus.jpg)
+![](images/raspio-portsplus.webp)
 
 ## Getting started
 
@@ -30,7 +30,7 @@ purpose and the rest are general purpose. Refer to
 <a href="https://pinout.xyz/">pinout.xyz</a> for more information, or use a
 <a href="https://rasp.io/portsplus/">port label</a>:
 
-![](images/led-gpio17.png)
+![](images/led-gpio17.webp)
 
 Blink an LED with the following code:
 
@@ -89,7 +89,7 @@ full color control.
 There's even an interface for TrafficLights. Provide the pin numbers the red, amber, and green
 lights are connected to, then control with:
 
-![](images/pi-traffic.jpg)
+![](images/pi-traffic.webp)
 
 ```python
 lights = TrafficLights(2, 3, 4)
@@ -108,7 +108,7 @@ and so on.
 The simplest input device is a push button, and the interface provided makes it easy to control
 programs with button presses:
 
-![](images/tactile-push-button.png)
+![](images/tactile-push-button.webp)
 
 ```python
 from gpiozero import Button
@@ -183,7 +183,7 @@ before turning back to red, in the usual way.
 Swapping out a button for another input device, such as a basic sensor, can open up a world of
 interesting projects. Instead of a button, use a motion sensor:
 
-![](images/pir-module.png)
+![](images/pir-module.webp)
 
 ```python
 from gpiozero import MotionSensor
@@ -280,7 +280,7 @@ lights.leds[4].blink()
 
 The Ryanteck TrafficHAT:
 
-![](images/traffichat.jpg)
+![](images/traffichat.webp)
 
 ```python
 from gpiozero import TrafficHat
@@ -300,7 +300,7 @@ defined within the class.
 
 Connect up two motors and make a chassis and you have yourself a Raspberry Pi robot:
 
-![](images/budgetroboticskit.png)
+![](images/budgetroboticskit.webp)
 
 ```python
 from gpiozero import Robot

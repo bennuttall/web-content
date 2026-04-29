@@ -19,7 +19,7 @@ friend Mark about Googlewhacks, we had a go and within minutes, saw those magic 
 of 1 for...", and here it is:
 
 <figure class="wp-block-image">
-<img src="images/googlewhack1.png" />
+<img src="images/googlewhack1.webp" />
 </figure>
 
 I was over the moon with this! It's a beauty! It was my very first Googlewhack! It obeys all the
@@ -29,7 +29,7 @@ it registered under my name and to make sure they recognised it as a real google
 A couple of days later I had another go and BANG! Another googlewhack! See for yourself:
 
 <figure class="wp-block-image">
-<img src="images/googlewhack2.png" />
+<img src="images/googlewhack2.webp" />
 </figure>
 
 And so I registered this one too. My name's in the Whack Stack twice now. My tactic is

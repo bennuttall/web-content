@@ -31,7 +31,7 @@ sudo snap install fast
 ```
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2019-06-05-21-35-07.png" class="wp-image-116" decoding="async"
+<img src="images/Screenshot-from-2019-06-05-21-35-07.webp" class="wp-image-116" decoding="async"
 loading="lazy" sizes="auto, (max-width: 734px) 100vw, 734px" width="734" height="290" />
 </figure>
 
@@ -76,7 +76,7 @@ using the IP address of the server.
 <div class="wp-block-image">
 
 <figure class="aligncenter">
-<img src="images/Screenshot-from-2019-06-05-21-40-51-1024x168.png" class="wp-image-117"
+<img src="images/Screenshot-from-2019-06-05-21-40-51-1024x168.webp" class="wp-image-117"
 decoding="async" loading="lazy" sizes="auto, (max-width: 1024px) 100vw, 1024px" width="1024"
 height="168" />
 </figure>
@@ -89,7 +89,7 @@ recently put in Cat6 ethernet around my house so I get up to 1Gbps speeds from m
 but a much lower speed on WiFi connections:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2019-06-05-19-58-58.png" class="wp-image-119" decoding="async"
+<img src="images/Screenshot-from-2019-06-05-19-58-58.webp" class="wp-image-119" decoding="async"
 loading="lazy" sizes="auto, (max-width: 931px) 100vw, 931px" width="931" height="716" />
 </figure>
 
@@ -100,7 +100,7 @@ desktop PC gets 46Gbps and my (newer) laptop gets over 60Gbps as they have SSDs!
 <div class="wp-block-image">
 
 <figure class="aligncenter">
-<img src="images/Screenshot-from-2019-06-05-20-13-34.png" class="wp-image-115" decoding="async"
+<img src="images/Screenshot-from-2019-06-05-20-13-34.webp" class="wp-image-115" decoding="async"
 loading="lazy" sizes="auto, (max-width: 734px) 100vw, 734px" width="734" height="236" />
 </figure>
 

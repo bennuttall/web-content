@@ -7,7 +7,7 @@ Zero](https://gpiozero.readthedocs.io/en/stable/) Python library to use it. And 
 can easily set this up on an Ubuntu PC, not just Raspberry Pi Desktop.
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2017-12-13-22-51-04.png" />
+<img src="images/Screenshot-from-2017-12-13-22-51-04.webp" />
 </figure>
 
 ## What is it?
@@ -126,7 +126,7 @@ export GPIOZERO_PIN_FACTORY=pigpio
 Now when you use GPIO Zero within Python, connections will be to the Pi Zero:
 
 <figure class="wp-block-image">
-<img src="images/rpd-pi-zero-gpiozero.png" />
+<img src="images/rpd-pi-zero-gpiozero.webp" />
 </figure>
 
 Set your environment variables as above, and use python/python3/ipython at the command line, or an
@@ -139,7 +139,7 @@ export PIGPIO_ADDR=fe80::1%usb0
 ```
 
 <figure class="wp-block-image">
-<img src="images/rpd-gpiozero.png" />
+<img src="images/rpd-gpiozero.webp" />
 </figure>
 
 ## Scratch too
@@ -148,7 +148,7 @@ Scratch 2 is now included in Raspbian and Raspberry Pi Desktop x86. This include
 which uses pigpio. The x86 version has been adapted to allow access to Pi Zeros over USB:
 
 <figure class="wp-block-image">
-<img src="images/rpd-scratch2-gpio.png" />
+<img src="images/rpd-scratch2-gpio.webp" />
 </figure>
 
 ## Multiple Pi Zeros?
@@ -186,7 +186,7 @@ pause()
 Scratch 2 contains a dropdown for `usb0` to `usb3`:
 
 <figure class="wp-block-image">
-<img src="images/2017-12-14-013214_1600x900_scrot.png" />
+<img src="images/2017-12-14-013214_1600x900_scrot.webp" />
 </figure>
 
 But as I say, it doesn't work yet.
@@ -219,7 +219,7 @@ it also uses pigpio for GPIO. However, it seems to be hard-coded to use localhos
 doesn't seem accessible. Perhaps this will be addressed in a future release.
 
 <figure class="wp-block-image">
-<img src="images/pi-zero-laptop.jpg" />
+<img src="images/pi-zero-laptop.webp" />
 </figure>
 
 ## Workshops

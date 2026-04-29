@@ -27,11 +27,11 @@ seeing if there were walk-in tickets available, and we ended up seeing the show,
 fun.
 
 <figure class="wp-block-image">
-<img src="images/bridgewater-hall.jpg" />
+<img src="images/bridgewater-hall.webp" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/eric-idle.jpg" />
+<img src="images/eric-idle.webp" />
 </figure>
 
 The conference opened with the usual introduction, which included Becky Smith unveiling the new
@@ -40,7 +40,7 @@ bee](https://en.wikipedia.org/wiki/Symbols_of_Manchester#Worker_bee) representin
 by volunteers to make the conference happen:
 
 <figure class="wp-block-image">
-<img src="images/pyconuk-manchester-logo.jpg" />
+<img src="images/pyconuk-manchester-logo.webp" />
 </figure>
 
 The opening keynote was a brilliant commentary on the history, growth and development of Python's
@@ -51,14 +51,14 @@ rich and complex ecosystem since the launch of Python 3:
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/hynek-python-is-fine.jpg" />
+<img src="images/hynek-python-is-fine.webp" />
 </figure>
 
 The second day included the young coders day in the workshop space. Here's a photo of me running the
 workshop:
 
 <figure class="wp-block-image">
-<img src="images/pgzero-workshop.jpg" />
+<img src="images/pgzero-workshop.webp" />
 <figcaption><a href="https://www.flickr.com/photos/203482025@N06/54799967120/in/album-72177720329149392">Photo</a> by Mark Hawkins</figcaption>
 </figure>
 
@@ -73,12 +73,12 @@ they've made with Python or telling everyone what they enjoyed or found difficul
 manage to make the audience smile, laugh and applaud like mad.
 
 <figure class="wp-block-image">
-<img src="images/young-coders-day.jpg" />
+<img src="images/young-coders-day.webp" />
 <figcaption><a href="https://www.flickr.com/photos/203482025@N06/54800924813/in/album-72177720329149392">Photo</a> by Mark Hawkins</figcaption>
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/big-hands.jpg" />
+<img src="images/big-hands.webp" />
 <figcaption>In Big Hands with Eloisa and Ben</figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ available on GitHub if you want to have a go yourself:
 [https://github.com/bennuttall/pydantic-workshop](https://github.com/bennuttall/pydantic-workshop)
 
 <figure class="wp-block-image">
-<img src="images/pydantic-workshop.jpg" />
+<img src="images/pydantic-workshop.webp" />
 <figcaption><a href="https://www.flickr.com/photos/203482025@N06/54802069465/in/album-72177720329168007">Photo</a> by Mark Hawkins</figcaption>
 </figure>
 

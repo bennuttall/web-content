@@ -3,7 +3,7 @@ It's a graphical diff tool, so if you've ever used **diff** and struggled to mak
 output, **meld** is here to help.
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2020-03-01-22-12-10.png" />
+<img src="images/Screenshot-from-2020-03-01-22-12-10.webp" />
 </figure>
 
 This is a brilliant description from the project's website:
@@ -30,7 +30,7 @@ changes between them, you could run the `diff` command on them to see the differ
 terminal:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2020-03-01-22-16-28.png" />
+<img src="images/Screenshot-from-2020-03-01-22-16-28.webp" />
 </figure>
 
 This example shows the differences between `conway1.py` and `conway2.py`:
@@ -47,7 +47,7 @@ meld conway1.py conway2.py
 ```
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2020-03-01-22-01-02-1024x579.png" />
+<img src="images/Screenshot-from-2020-03-01-22-01-02-1024x579.webp" />
 </figure>
 
 Much clearer!
@@ -60,7 +60,7 @@ window.
 You can even compare and edit three different files:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2020-03-01-22-03-11-1024x579.png" />
+<img src="images/Screenshot-from-2020-03-01-22-03-11-1024x579.webp" />
 </figure>
 
 Hopefully, you're using a version control system like **git**. If so, your changes aren't between
@@ -69,7 +69,7 @@ meld understands this and if you run `meld conway.py` where `conway.py` is known
 you any changes made since the last git commit:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2020-03-01-22-01-52-1024x579.png" />
+<img src="images/Screenshot-from-2020-03-01-22-01-52-1024x579.webp" />
 </figure>
 
 Here you can see changes made in the current version (on the right) and the repository version
@@ -79,7 +79,7 @@ If you run `meld .` you'll see all the changes in the directory (or the whole re
 in the root of it):
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2020-03-01-22-37-42.png" />
+<img src="images/Screenshot-from-2020-03-01-22-37-42.webp" />
 </figure>
 
 Here you can see a single file modified, another file unversioned (that means it's new to git so I
@@ -89,5 +89,5 @@ by icons along the top.
 You can also compare two directories which is sometimes handy too:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2020-03-01-22-28-11.png" />
+<img src="images/Screenshot-from-2020-03-01-22-28-11.webp" />
 </figure>

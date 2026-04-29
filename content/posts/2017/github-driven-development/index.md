@@ -23,7 +23,7 @@ on GitHub or contributing to a small open source project, you'll probably mange 
 bit further.
 
 <figure class="wp-block-image">
-<img src="images/git-cli.png" />
+<img src="images/git-cli.webp" />
 </figure>
 
 ## Use issues as a development roadmap
@@ -54,7 +54,7 @@ quickly, by me or another team member. Sometimes the issue stays open for a long
 discussion on the issue will drive decisions.
 
 <figure class="wp-block-image">
-<img src="images/gpiozero-yaml.png" />
+<img src="images/gpiozero-yaml.webp" />
 </figure>
 
 This approach is not dissimilar to [test-driven
@@ -81,7 +81,7 @@ both informs and documents decision making so that future contributors and stake
 full context about the state of the project.
 
 <figure class="wp-block-image">
-<img src="images/lurch.png" />
+<img src="images/lurch.webp" />
 </figure>
 
 ## Use checklists to split issues into parts
@@ -96,7 +96,7 @@ by any user with push rights to the repository. This can be a great way of split
 multiple parts and having each of them checked off individually.
 
 <figure class="wp-block-image">
-<img src="images/checkboxes.png" />
+<img src="images/checkboxes.webp" />
 </figure>
 
 ## Don't be afraid to ask
@@ -111,7 +111,7 @@ with a solution that made my suggestion possible, and which turned out to be rea
 the project.
 
 <figure class="wp-block-image">
-<img src="images/fanboi.png" />
+<img src="images/fanboi.webp" />
 </figure>
 
 On the other hand, if he'd said "no, that's not possible" and closed the issue, it wouldn't have
@@ -138,7 +138,7 @@ git commit -am "Add user dashboard, close issue #1"
 then the issue gets closed automatically. For example:
 
 <figure class="wp-block-image">
-<img src="images/waveform.png" />
+<img src="images/waveform.webp" />
 </figure>
 
 You can use the same convention in a pull request. When a pull request is created, it gets a number
@@ -160,7 +160,7 @@ and so on. You can even use labels to show the difficulty of each issue to make 
 contributors to choose something to start working on.
 
 <div class="wp-block-image">
-    <img src="images/labels.png">
+    <img src="images/labels.webp">
 </div>
 
 Without labels, contributors might make the mistake of tackling a complex issue requiring a deep
@@ -181,7 +181,7 @@ problems in the future and (in the example case) ensures they won't assume GitHu
 formats their pasted-in code.
 
 <figure class="wp-block-image">
-<img src="images/issue-with-code.png" />
+<img src="images/issue-with-code.webp" />
 </figure>
 
 GitHub also allows you to lock issues, so if someone is repeatedly replying to a closed issue or
@@ -229,7 +229,7 @@ can lead to disgruntled community members. Even if you're not going to deal with
 right away, just send a quick reply saying thanks.
 
 <figure class="wp-block-image">
-<img src="images/pull-request.png" />
+<img src="images/pull-request.webp" />
 </figure>
 
 Remember, pull requests are issues too, so they have an issue number, and you can close a pull
@@ -267,7 +267,7 @@ directory](https://github.com/blog/2111-issue-and-pull-request-templates)) in a 
 request, a link to your policy will be shown.
 
 <figure class="wp-block-image">
-<img src="images/contributing.png" />
+<img src="images/contributing.webp" />
 </figure>
 
 ## Provide developer documentation
@@ -278,7 +278,7 @@ assume they're as technical as you are—make it easy for people to get started 
 learn more. Write documentation as you go along, and keep it up to date.
 
 <figure class="wp-block-image">
-<img src="images/readthedocs.png" />
+<img src="images/readthedocs.webp" />
 </figure>
 
 However, documentation isn't just for users. If you've ever tried to contribute to another project,

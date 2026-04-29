@@ -49,7 +49,7 @@ could do it. I rather enjoyed it.
 Before I left I got a picture of the three of us (for't blog):
 
 <figure class="wp-block-image">
-<img src="images/img006-300x225.jpg" />
+<img src="images/img006-300x225.webp" />
 </figure>
 
 So that's how I got to be sat in The Eagle, typing this blog post on my phone. I'm at home now

@@ -14,7 +14,7 @@ click somewhere to split the screen (vertically or horizontally). Then you can t
 individually, or choose the option to broadcast to all windows, or to a group.
 
 <figure class="wp-block-image">
-<img src="images/terminator-2.png" />
+<img src="images/terminator-2.webp" />
 <figcaption>Accessing and controlling two machines at once with terminator</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ back on when you're ready.
 I often use terminator for managing piwheels build servers:
 
 <figure class="wp-block-image">
-<img src="images/terminator-8.png" />
+<img src="images/terminator-8.webp" />
 </figure>
 
 It's a very handy tool for certain jobs – good to know about!

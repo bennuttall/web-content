@@ -6,7 +6,7 @@ the usual price of $35. That price gets you the standard 1GB RAM, or you can pay
 $45 for the 2GB model or $55 for the 4GB model - premium priced models a first
 for Raspberry Pi.
 
-![](images/raspberry-pi-4.jpg)
+![](images/raspberry-pi-4.webp)
 
 The specs at-a-glance:
 
@@ -26,7 +26,7 @@ The specs at-a-glance:
 - Power over Ethernet pins
 - Full compatibility with all previous Raspberry Pi models
 
-![](images/raspberry-pi-4-case.jpg)
+![](images/raspberry-pi-4-case.webp)
 
 ## USB and networking
 
@@ -34,7 +34,7 @@ The Raspberry Pi 4 has the benefit of USB3, as it's powered by a USB Type C
 cable and provides two USB3 ports as well as two USB2 ports. You can now connect
 USB3 hard drives and other peripherals and make use of faster connectivity.
 
-![](images/raspberry-pi-4-usb.jpg)
+![](images/raspberry-pi-4-usb.webp)
 
 The BCM2835-based chip used in Raspberry Pi 1 to 3 only provided one native USB
 port, and no ethernet, so on the board there's always been a USB hub that
@@ -79,7 +79,7 @@ the new Pi supports OpenGL ES 3 means it made sense for any software work on
 the Pi 4 to target Raspbian Buster. Buster brings a few user interface tweaks
 and a whole host of software upgrades, including Python 3.7.
 
-![](images/raspbian-buster.png)
+![](images/raspbian-buster.webp)
 
 It had previously been indicated that the Raspberry Pi 4 would be another year
 away, but luckily, the chip design turned out to be ready for production much

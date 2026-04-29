@@ -22,11 +22,11 @@ probably worth getting. Once my flips arsenal contains those four I'll be happy 
 ensure to maintain them. Some pictures of me wallflipping:
 
 <figure class="wp-block-image">
-<img src="images/wallflip.jpg" />
+<img src="images/wallflip.webp" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/wallflip-dual.jpg" />
+<img src="images/wallflip-dual.webp" />
 </figure>
 
 Then came the Saturday jam; Gordon & I arrived at Castlefield to find Dave leading the group through

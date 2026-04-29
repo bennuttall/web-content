@@ -139,26 +139,26 @@ get feedback from some teachers, but probably have it ready for the release afte
 some friends asking for their opinion:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2016-01-05-00-30-09-700x249.png" />
+<img src="images/Screenshot-from-2016-01-05-00-30-09-700x249.webp" />
 </figure>
 
 I got a positive response from them all, and decided to press on. Dave (author of picamera) said he
 had a few minor observations:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2016-01-05-00-58-16.png" />
+<img src="images/Screenshot-from-2016-01-05-00-58-16.webp" />
 </figure>
 
 And he continued...
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2016-01-05-01-02-46.png" />
+<img src="images/Screenshot-from-2016-01-05-01-02-46.webp" />
 </figure>
 
 Then the next day...
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2016-01-10-16-24-16.png" />
+<img src="images/Screenshot-from-2016-01-10-16-24-16.webp" />
 </figure>
 
 As well as using GitHub issues for sourcing ideas feedback, I decided to also create a Google Doc to
@@ -170,14 +170,14 @@ I posted an issue on GitHub asking for [suggestions for a
 name](https://github.com/RPi-Distro/python-gpiozero/issues/4):
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2016-01-04-23-54-23-700x310.png" />
+<img src="images/Screenshot-from-2016-01-04-23-54-23-700x310.webp" />
 </figure>
 
 I then had the idea to borrow the *Zero* from PyGame Zero, seeing as I was sharing the philosophy of
 removing boilerplate to make it easier for use in education:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2016-01-04-23-54-37-700x276.png" />
+<img src="images/Screenshot-from-2016-01-04-23-54-37-700x276.webp" />
 </figure>
 
 [Les](https://twitter.com/biglesp) replied, suggesting "PiZero?". Note the timing. This was before
@@ -682,13 +682,13 @@ anything could be possible. I almost didn't submit the issue as I thought it was
 impossible:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2016-01-05-00-12-37-700x346.png" />
+<img src="images/Screenshot-from-2016-01-05-00-12-37-700x346.webp" />
 </figure>
 
 I was thrilled to see Dave's reply:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2016-01-11-22-38-05-700x252.png" />
+<img src="images/Screenshot-from-2016-01-11-22-38-05-700x252.webp" />
 </figure>
 
 A few comments of discussion later and he had an implementation plan, which soon became a pull

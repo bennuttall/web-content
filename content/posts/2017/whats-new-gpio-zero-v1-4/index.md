@@ -114,7 +114,7 @@ remote_hat3 = TrafficHat(pin_factory=factory3)
 The flow for a device electing a pin factory is as follows:
 
 <figure class="wp-block-image">
-<a href="https://gpiozero.readthedocs.io/en/stable/api_pins.html"><img src="images/device_pin_flowchart.png" /></a>
+<a href="https://gpiozero.readthedocs.io/en/stable/api_pins.html"><img src="images/device_pin_flowchart.webp" /></a>
 </figure>
 
 Read more in the [pins API documentation](https://gpiozero.readthedocs.io/en/stable/api_pins.html).
@@ -127,7 +127,7 @@ article](https://www.raspberrypi.org/magpi/remote-control-gpio-raspberry-pi-gpio
 from the magazine](https://bennuttall.com/wp-content/uploads/2017/07/remote-gpio.pdf)
 
 <figure class="wp-block-image">
-<img src="images/remote-gpio-700x495.png" />
+<img src="images/remote-gpio-700x495.webp" />
 </figure>
 
 ### Mock pin
@@ -177,7 +177,7 @@ information. A guy named Steward Adcock joined our sprint table at PyCon UK last
 there was something easy he could dip into. I suggested producing a command-line tool for pinout and
 he helped get it started. Et voila:
 
-[<img src="images/pinout-pi3.png" class="aligncenter wp-image-2349 size-full" decoding="async"
+[<img src="images/pinout-pi3.webp" class="aligncenter wp-image-2349 size-full" decoding="async"
 loading="lazy" sizes="auto, (max-width: 507px) 100vw, 507px" width="507" height="812" />](http://gpiozero.readthedocs.io/en/v1.4.0/cli_tools.html#pinout)It
 works on any Pi model, and gives you the correct pinout for the Pi you're on. Run it on your Pi:
 
@@ -195,7 +195,7 @@ $ GPIOZERO_PIN_FACTORY=mock pinout -r 9000c1
 The great thing about `pinout` is that anyone can use it – regardless of whether they're using GPIO
 Zero or Python, it's just a stand-alone tool. Again, this was featured in *The MagPi #60:*
 
-<img src="images/pinout-212x300.png" class="aligncenter wp-image-2347 size-medium" decoding="async"
+<img src="images/pinout-212x300.webp" class="aligncenter wp-image-2347 size-medium" decoding="async"
 loading="lazy" sizes="auto, (max-width: 212px) 100vw, 212px" width="212" height="300" />
 
 ## STATUS
@@ -277,7 +277,7 @@ led.source = bd.values
 
 i.e. the LED is lit when the blue dot is pressed
 
-[<img src="images/blue_dot_feature_small.png" class="aligncenter size-full wp-image-2354"
+[<img src="images/blue_dot_feature_small.webp" class="aligncenter size-full wp-image-2354"
 decoding="async" loading="lazy" sizes="auto, (max-width: 506px) 100vw, 506px" width="506"
 height="247" />](http://bluedot.readthedocs.io/)
 

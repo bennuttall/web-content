@@ -23,7 +23,7 @@ use the arrow keys to navigate), hit the alt key and you get a little command pr
 (Head Up Display), pin app icons to the Unity bar, drag them to where you want them to stay. Hold
 down the super key and you get a list of shortcuts.
 
-<img src="images/unity-1024x575.png" class="aligncenter size-large wp-image-742" decoding="async"
+<img src="images/unity-1024x575.webp" class="aligncenter size-large wp-image-742" decoding="async"
 loading="lazy" width="700" height="393" alt="unity" />
 
 Personally I'm a huge fan of workspaces, and I usually have a particular setup of windows

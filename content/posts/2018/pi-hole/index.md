@@ -1,7 +1,7 @@
 Got an old Raspberry Pi lying around? Hate seeing ads while browsing the web? pi-hole is an open-source software project that blocks ads for all devices on your home network by routing all advertising servers into nowhere. What's best is it takes just a few minutes to set up.
 
 <div class="wp-block-image">
-<img src="images/pi-hole-banner.png" />
+<img src="images/pi-hole-banner.webp" />
 </div>
 
 pi-hole blocks over 100,000 ad-serving domains, it blocks advertisements on any device (including mobiles, tablets and PCs), and because it completely blocks ads rather than just hide them, this improves overall network performance (because ads are never downloaded). You can monitor performance and statistics in a web interface, and there's even an API you can use.
@@ -19,7 +19,7 @@ You don't need a recent Raspberry Pi model - an older one will do the job, as lo
 First of all, you'll probably want to install Raspbian Stretch Lite onto an SD card. The card should be at least 4GB (the full desktop Raspbian image requires at least 8GB but the Lite image is, well, lighter). You can use the full Raspbian desktop image if you prefer, but as this is going to be running as a headless application, you don't need anything more.
 
 <div class="wp-block-image">
-<img src="images/raspbian-downloads.png" />
+<img src="images/raspbian-downloads.webp" />
 </div>
 
 Using your main PC, download the Raspbian Stretch Lite image from the Raspberry Pi website. Now unzip it to extract the `.img` file within, and you'll write this image to your SD card. It doesn't matter if the SD card is blank or not, as everything on it will be wiped.
@@ -27,7 +27,7 @@ Using your main PC, download the Raspbian Stretch Lite image from the Raspberry 
 If you're using Linux, the easiest way to write the image is using the command line tool `dd`. Alternatively, you can use cross-platform software [Etcher](https://etcher.io/).
 
 <div class="wp-block-image">
-<img src="images/etcher.png" />
+<img src="images/etcher.webp" />
 </div>
 
 Once your SD card image has burned, you can insert it into your Raspberry Pi, connect a keyboard, monitor and ethernet cable, and then plug in the power. After the initial setup, the Pi won't need the keyboard or monitor. If you're experienced working with the Pi headless, you can [enable SSH](https://www.raspberrypi.org/blog/a-security-update-for-raspbian-pixel/) and set it up [remotely](https://www.raspberrypi.org/documentation/remote-access/ssh/README.md).
@@ -53,7 +53,7 @@ Your Raspberry Pi is now running a DNS server, and you can tell your router to u
 Look for DHCP/DNS settings under LAN settings, and set your primary DNS server to the IP address of the pi-hole. It should look something like these:
 
 <div class="wp-block-image">
-<img src="images/pi-hole-dns.png" />
+<img src="images/pi-hole-dns.webp" />
 </div>
 
 See the [pi-hole discourse](https://discourse.pi-hole.net/t/how-do-i-configure-my-devices-to-use-pi-hole-as-their-dns-server/245) for more information on this step.
@@ -71,7 +71,7 @@ If you really want to flex your new ad-blocking muscles, you can try browsing so
 Now access the pi-hole's web interface by entering its IP address into your web browser's address bar (or `http://pi.hole` should work too). You should see the pi-hole dashboard and some statistics (they will be very low at this stage). Once you log in using the password you were given during installation, you'll see some pretty graphs too:
 
 <div class="wp-block-image">
-<img src="images/pi-hole-web.png" />
+<img src="images/pi-hole-web.webp" />
 </div>
 
 You can also tweak your pi-hole's settings, like whitelist and blacklist domains, disable permanently or temporarily, as well as access the stats for blocked queries, and more.
@@ -79,5 +79,5 @@ You can also tweak your pi-hole's settings, like whitelist and blacklist domains
 Occasionally, you'll want to upgrade your pi-hole installation. The web interface includes an update notification when one is available. If you have enabled SSH, you can log in remotely, otherwise you'll have to reconnect the monitor and keyboard. When logged in, simply run the command `pihole -up`.
 
 <div class="wp-block-image">
-<img src="images/pi-hole-update.png" />
+<img src="images/pi-hole-update.webp" />
 </div>

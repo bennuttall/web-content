@@ -28,7 +28,7 @@ said, these are Pi 1s, so they're ARMv6. We had to build on a Pi 1 to get an ARM
 took 2 hours 30 minutes to build numpy alone. But we kept busy...
 
 <figure class="wp-block-image">
-<a href="https://xkcd.com/303/"><img src="images/compiling.png" /></a>
+<a href="https://xkcd.com/303/"><img src="images/compiling.webp" /></a>
 </figure>
 
 ## PyPI and Python wheels
@@ -85,7 +85,7 @@ The problem is:
 When you type `pip install numpy`, the flow goes like this:
 
 <figure class="wp-block-image">
-<img src="images/flowchart.png" />
+<img src="images/flowchart.webp" />
 </figure>
 
 So, you're on a Raspberry Pi. You type `pip install numpy`. It goes through the flow shown above.
@@ -112,7 +112,7 @@ community has documented how you build tensorflow, and he distributes the wheel.
 ## Fine, I'll build my own package repository...
 
 <figure class="wp-block-image">
-<img src="images/bender.jpg" />
+<img src="images/bender.webp" />
 </figure>
 
 So, enter piwheels.
@@ -177,7 +177,7 @@ Donald Stufft accepted the suggestion and made the change to allow ARMv6 and ARM
 both!
 
 <figure class="wp-block-image">
-<a href="https://github.com/pypa/warehouse/issues/2003"><img src="images/github-pypi-armv7l.png" /></a>
+<a href="https://github.com/pypa/warehouse/issues/2003"><img src="images/github-pypi-armv7l.webp" /></a>
 </figure>
 
 This means you can now upload ARM wheels to PyPI, if you set the repository URL in your `~/.pypirc`
@@ -240,7 +240,7 @@ it up to five. "I'll be done in no time", I thought. But the output I was gettin
 same as one Pi.
 
 <figure class="wp-block-image">
-<img src="images/terminator.png" />
+<img src="images/terminator.webp" />
 <figcaption>Using terminator to monitor all the Pis at once</figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ and adding to master's iptables any more.
 
 
 <figure class="wp-block-image">
-<img src="images/terminator-multi.png" />
+<img src="images/terminator-multi.webp" />
 <figcaption>ALL the cloud Pis</figcaption>
 </figure>
 
@@ -292,7 +292,7 @@ sudo pip3 install <package> --extra-index-url https://www.piwheels.hostedpi.com/
 Some graphs Dave generated from the build data:
 
 <figure class="wp-block-image">
-<img src="images/builds-over-time.png" class="wp-image-2380 size-full" decoding="async"
+<img src="images/builds-over-time.webp" class="wp-image-2380 size-full" decoding="async"
 loading="lazy" sizes="auto, (max-width: 399px) 100vw, 399px" width="399" height="283" />
 <figcaption>Builds over time</figure>
 </figure>
@@ -301,7 +301,7 @@ You can see the first two weeks of build time with a single Pi, then it quickly 
 introduced more Pis.
 
 <figure class="wp-block-image">
-<img src="images/builds-per-pi-over-time.png" class="wp-image-2381 size-full" decoding="async"
+<img src="images/builds-per-pi-over-time.webp" class="wp-image-2381 size-full" decoding="async"
 loading="lazy" sizes="auto, (max-width: 399px) 100vw, 399px" width="399" height="283" />
 <figcaption>Builds per Pi over time</figure>
 </figure>
@@ -310,7 +310,7 @@ Reasons for failure: some releases are registered but nothing is uploaded, so th
 build. Then there are a fraction of import errors, synax errors and so on:
 
 <figure class="wp-block-image">
-<img src="images/reasons-for-failure.png" class="size-full wp-image-2384" decoding="async"
+<img src="images/reasons-for-failure.webp" class="size-full wp-image-2384" decoding="async"
 loading="lazy" sizes="auto, (max-width: 481px) 100vw, 481px" width="481" height="255" />
 <figcaption>Reasons for failure</figure>
 </figure>
@@ -376,7 +376,7 @@ to build it, not actually installing their package, funny things can happen:
 
 Huge thanks to Mythic Beasts for providing me with the cloud Pis.
 
-<a href="https://www.mythic-beasts.com/order/rpi"><img src="images/mythic-beasts-pi-hosting.png" /></a>
+<a href="https://www.mythic-beasts.com/order/rpi"><img src="images/mythic-beasts-pi-hosting.webp" /></a>
 
 Thanks also to [Dave Jones](https://twitter.com/waveform80) for his contributions.
 

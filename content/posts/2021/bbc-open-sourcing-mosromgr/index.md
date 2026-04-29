@@ -8,7 +8,7 @@ communications between newsroom computers and servers where media files such as 
 stored.
 
 <figure class="wp-block-image">
-<img src="images/mos.jpg" />
+<img src="images/mos.webp" />
 </figure>
 
 Production teams create running orders using

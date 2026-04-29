@@ -4,7 +4,7 @@ Python 3.x that comes with your distribution (18.04 comes with Python 3.6, and 2
 you can install older or newer versions, from 2.3 (!) to the latest prerelease version of Python 3.
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2019-05-18-22-48-48.png" />
+<img src="images/Screenshot-from-2019-05-18-22-48-48.webp" />
 </figure>
 
 The way PPAs (Personal Package Archives) work is that someone maintains a personal set of apt
@@ -76,6 +76,6 @@ pip install pyjokes
 Deactivate a virtualenv with `deactivate` and activate with e.g. `workon py311`:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot-from-2019-05-21-11-48-23.png" class="wp-image-104" decoding="async"
+<img src="images/Screenshot-from-2019-05-21-11-48-23.webp" class="wp-image-104" decoding="async"
 loading="lazy" sizes="auto, (max-width: 734px) 100vw, 734px" width="734" height="488" />
 </figure>

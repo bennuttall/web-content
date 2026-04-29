@@ -9,7 +9,7 @@ McElderry's *The Climb*. This caught on through early- and mid- December and so
 the Facebook group that it was talked about on the radio and on television.
 
 <figure class="wp-block-image">
-<img src="images/rage.jpg" />
+<img src="images/rage.webp" />
 </figure>
 
 I joined the group and when it came to the time to buy it, I did! I've never paid for a download
@@ -48,7 +48,7 @@ intend to honour this. Also, the group affiliated itself with a homeless charity
 raised over £80,000 for them to far, which is fantastic!
 
 <figure class="wp-block-image">
-<img src="images/rage1.jpg" />
+<img src="images/rage1.webp" />
 </figure>
 
 Read more on [BBC News](http://news.bbc.co.uk/1/hi/entertainment/8423340.stm).

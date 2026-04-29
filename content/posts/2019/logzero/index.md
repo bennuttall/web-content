@@ -29,7 +29,7 @@ The output is automatically coloured:
 <div class="wp-block-image">
 
 <figure class="aligncenter">
-<img src="images/2019-04-15-003052_1440x900_scrot.png" class="wp-image-78" decoding="async"
+<img src="images/2019-04-15-003052_1440x900_scrot.webp" class="wp-image-78" decoding="async"
 loading="lazy" width="659" height="422" />
 </figure>
 
@@ -106,7 +106,7 @@ Now this will produce the more succinct:
 
 <div class="wp-block-image">
 <figure class="aligncenter">
-<img src="images/Screenshot-from-2019-04-15-00-34-27.png" />
+<img src="images/Screenshot-from-2019-04-15-00-34-27.webp" />
 <figcaption>logzero in use in my meme-overflow project</figcaption>
 </figure>
 </div>

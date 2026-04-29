@@ -8,7 +8,7 @@ technology, making lives easier for journalists, and they drive innovation withi
 New Labs are based at New Broadcasting House in London, so I'll be partly based there:
 
 <figure class="wp-block-image">
-<img src="images/IMG_20191121_131150-700x933.jpg" />
+<img src="images/IMG_20191121_131150-700x933.webp" />
 <figcaption>W1A</figcaption>
 </figure>
 

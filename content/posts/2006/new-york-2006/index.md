@@ -85,70 +85,70 @@ Here are a few photos from the trip:
 		</style>
 <div class="gallery galleryid-1037 gallery-columns-3 gallery-size-thumbnail" id="gallery-51"><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/times-square.0-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/times-square.0-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_0049-125x125.jpg" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0090-150x150.jpg" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0120-150x150.jpg" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0256-150x150.jpg" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0258-150x150.jpg" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0354-150x150.jpg" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0440.3-150x150.jpg" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0448.6-150x150.jpg" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0454.1-150x150.jpg" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0502.4-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_0049-125x125.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0515.0-150x150.jpg" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0674-150x150.jpg" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0741.1-150x150.jpg" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0834-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0090-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0912-150x150.jpg" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0913-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0120-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0926-150x150.jpg" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0951-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0256-150x150.webp" width="125"/>
 </dt></dl><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0964-150x150.jpg" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0972-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0258-150x150.webp" width="125"/>
 </dt></dl><br style="clear: both"/><dl class="gallery-item">
 <dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/n1194102475_399222_7081610-150x150.jpg" width="125"/>
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0354-150x150.webp" width="125"/>
+</dt></dl><dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0440.3-150x150.webp" width="125"/>
+</dt></dl><dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0448.6-150x150.webp" width="125"/>
+</dt></dl><br style="clear: both"/><dl class="gallery-item">
+<dt class="gallery-icon portrait">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0454.1-150x150.webp" width="125"/>
+</dt></dl><dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0502.4-150x150.webp" width="125"/>
+</dt></dl><dl class="gallery-item">
+<dt class="gallery-icon portrait">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0515.0-150x150.webp" width="125"/>
+</dt></dl><br style="clear: both"/><dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0674-150x150.webp" width="125"/>
+</dt></dl><dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0741.1-150x150.webp" width="125"/>
+</dt></dl><dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0834-150x150.webp" width="125"/>
+</dt></dl><br style="clear: both"/><dl class="gallery-item">
+<dt class="gallery-icon portrait">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0912-150x150.webp" width="125"/>
+</dt></dl><dl class="gallery-item">
+<dt class="gallery-icon portrait">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0913-150x150.webp" width="125"/>
+</dt></dl><dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0926-150x150.webp" width="125"/>
+</dt></dl><br style="clear: both"/><dl class="gallery-item">
+<dt class="gallery-icon portrait">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0951-150x150.webp" width="125"/>
+</dt></dl><dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0964-150x150.webp" width="125"/>
+</dt></dl><dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0972-150x150.webp" width="125"/>
+</dt></dl><br style="clear: both"/><dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/n1194102475_399222_7081610-150x150.webp" width="125"/>
 </dt></dl>
 <br style="clear: both"/>
 </div>

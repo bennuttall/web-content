@@ -81,7 +81,7 @@ This meant we could edit the upcoming newsletter as if it were a WordPress post 
 (repeatable) fields in sections for news, projects and articles – along with the intro paragraph:
 
 <figure class="wp-block-image">
-<img src="images/piweekly-acf1.png" />
+<img src="images/piweekly-acf1.webp" />
 </figure>
 
 Initially this would only be viewed in the back-end of WordPress and not be public facing, and was
@@ -175,7 +175,7 @@ homepage ("Check out our latest issue") for a row of the grid to show the images
 issues. I think it looks *much* nicer this way:
 
 <figure class="wp-block-image">
-<img src="images/piweekly-archive.png" />
+<img src="images/piweekly-archive.webp" />
 </figure>
 
 The most recent feature I've added was one essentially by request. Most of the link submission

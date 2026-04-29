@@ -8,13 +8,13 @@ and into directories. When you're focused on a directory, it shows you the conte
 hand pane:
 
 <figure class="wp-block-image">
-<img src="images/2019-04-14-233911_1440x900_scrot.png" />
+<img src="images/2019-04-14-233911_1440x900_scrot.webp" />
 </figure>
 
 When you're focused on any kind of text file, it shows you a preview of the contents in the pane:
 
 <figure class="wp-block-image">
-<img src="images/2019-04-14-234053_1440x900_scrot.png" />
+<img src="images/2019-04-14-234053_1440x900_scrot.webp" />
 </figure>
 
 If you hit the right arrow key it opens it in your default editor (e.g. nano or vim), then quitting

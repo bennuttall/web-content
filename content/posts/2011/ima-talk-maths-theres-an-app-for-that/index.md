@@ -3,7 +3,7 @@ Darren Dancey: "Maths – There's an App For
 That!"](http://imamathsblogger.blogspot.co.uk/2011/12/dr-darren-dancey-maths-theres-app-for.html)*
 
 <figure class="wp-block-image">
-<img src="images/ima_logo.gif" />
+<img src="images/ima_logo.webp" />
 </figure>
 
 This North West regional talk was delivered by Manchester Metropolitan University's Computer Science

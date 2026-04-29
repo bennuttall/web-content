@@ -1,5 +1,5 @@
 <figure class="wp-block-image">
-<img src="images/ben-summersalt-768x1024.jpg" />
+<img src="images/ben-summersalt-768x1024.webp" />
 </figure>
 
 I did a backflip off a rock in to a river on a kayaking trip one day. My friend Leif took this

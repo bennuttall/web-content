@@ -5,7 +5,7 @@ a programme about parkour, rather it is made up of sections, parkour being one f
 sure when it'll be broadcast, I'll keep you posted.
 
 <figure class="wp-block-image">
-<img src="images/hattrick.png" />
+<img src="images/hattrick.webp" />
 </figure>
 
 Dave kindly gave me, Will and Jin a lift, and Lukos brought JC in his car with him so there was a
@@ -29,7 +29,7 @@ short, after waiting for the bus, it got full, leaving a group of us behind, so 
 waiting they managed to get 5 or so taxis to take the remaining groups back to Sheffield.
 
 <figure class="wp-block-image">
-<img src="images/brandnew.jpg" />
+<img src="images/brandnew.webp" />
 </figure>
 
 Our taxi consisted of Shane, Dez and myself in the back, and some random Chinese guy in the

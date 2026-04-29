@@ -12,7 +12,7 @@ with a new look and moved into the Raspberry Pi website as the [Foundation's off
 newsletter](https://www.raspberrypi.org/weekly/).
 
 <figure class="wp-block-image">
-<a href="https://www.raspberrypi.org/weekly/"><img src="images/raspberry-pi-weekly-archive-700x502.png" /></a>
+<a href="https://www.raspberrypi.org/weekly/"><img src="images/raspberry-pi-weekly-archive-700x502.webp" /></a>
 <figcaption>All past issues are available to browse on the website</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Job](/blog/2013/11/pi-weekly-evolution-dream-job/)* and you can see how I announ
 *[Announcing Pi Weekly](/blog/2013/06/announcing-pi-weekly/).*
 
 <figure class="wp-block-image">
-<a href="https://www.raspberrypi.org/weekly/"><img src="images/raspberry-pi-weekly.png" /></a>
+<a href="https://www.raspberrypi.org/weekly/"><img src="images/raspberry-pi-weekly.webp" /></a>
 </figure>
 
 Be sure to check out the new Raspberry Pi Weekly!

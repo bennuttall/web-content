@@ -4,7 +4,7 @@ it's the way you test something out, or check to see if something's working
 because it's usually the simplest way of testing simple functionality.
 
 <figure class="wp-block-image">
-<img src="images/ebenjava1.jpg" />
+<img src="images/ebenjava1.webp" />
 </figure>
 
 Warriors of programming language wars often cite their own language's "hello
@@ -32,7 +32,7 @@ programming language. The "hello world" for Scratch is simple - and very visual!
 1. Drag a **say Hello!** block into the workspace on the right
 
     <figure class="wp-block-image">
-    <img src="images/scratch2-1.png" />
+    <img src="images/scratch2-1.webp" />
     </figure>
 
 1. Change the text to `Hello world`
@@ -40,7 +40,7 @@ programming language. The "hello world" for Scratch is simple - and very visual!
 1. Click on the block to run the code
 
 <figure class="wp-block-image">
-<img src="images/scratch2-2.png" />
+<img src="images/scratch2-2.webp" />
 </figure>
 
 ## 2. Python
@@ -61,7 +61,7 @@ possible.
 1. Click the **Run** button
 
 <figure class="wp-block-image">
-<img src="images/python3-1.png" />
+<img src="images/python3-1.webp" />
 </figure>
 
 ## 3. Ruby / Sonic Pi
@@ -79,7 +79,7 @@ a form of Ruby.
 1. Press **Run**
 
 <figure class="wp-block-image">
-<img src="images/sonic-pi-1.png" />
+<img src="images/sonic-pi-1.webp" />
 </figure>
 
 Unfortunately, "hello world" does not do Sonic Pi justice in the
@@ -106,7 +106,7 @@ ruby hello.rb
 ```
 
 <figure class="wp-block-image">
-<img src="images/ruby-1.png" />
+<img src="images/ruby-1.webp" />
 </figure>
 
 ## 4. JavaScript
@@ -127,7 +127,7 @@ web browser using the Web Inspector console, but it still counts!
 1. Press **Enter** to run
 
 <figure class="wp-block-image">
-<img src="images/javascript-1.png" />
+<img src="images/javascript-1.webp" />
 </figure>
 
 You can also install NodeJS on the Raspberry Pi, and write server-side
@@ -157,7 +157,7 @@ bash hello.sh
 ```
 
 <figure class="wp-block-image">
-<img src="images/bash-1.png" />
+<img src="images/bash-1.webp" />
 </figure>
 
 Note you'd usually see a "hashbang" at the top of the script (`#!/bin/bash`) but
@@ -196,7 +196,7 @@ java Hello
 ```
 
 <figure class="wp-block-image">
-<img src="images/java-1.png" />
+<img src="images/java-1.webp" />
 </figure>
 
 I could *almost* remember the "hello world" for Java off the top of my head, but
@@ -234,7 +234,7 @@ gcc -o hello hello.c
 ```
 
 <figure class="wp-block-image">
-<img src="images/c-1.png" />
+<img src="images/c-1.webp" />
 </figure>
 
 Note that in the previous examples, only one command was required to run the
@@ -277,7 +277,7 @@ g++ -o hellopp hello.cpp
 ```
 
 <figure class="wp-block-image">
-<img src="images/cpp-1.png" />
+<img src="images/cpp-1.webp" />
 </figure>
 
 Readers familiar with C/C++ will notice I have not included the main function
@@ -306,7 +306,7 @@ perl hello.sh
 ```
 
 <figure class="wp-block-image">
-<img src="images/perl-1.png" />
+<img src="images/perl-1.webp" />
 </figure>
 
 Again, I learned Perl at university, but unlike Java I have managed to
@@ -341,7 +341,7 @@ some fun hacking your virtual world with code.
 1. Click the **Run** button
 
 <figure class="wp-block-image">
-<img src="images/mcpi-1.png" />
+<img src="images/mcpi-1.webp" />
 </figure>
 
 Finally, let's look at the Sense HAT Emulator. This tool provides a graphical representation of the
@@ -366,7 +366,7 @@ of hardware. Since the Sense HAT includes an 8x8 LED display, we can use its
 1. Click the **Run** button
 
 <figure class="wp-block-image">
-<img src="images/sense-emu-1.png" />
+<img src="images/sense-emu-1.webp" />
 </figure>
 
 ## More

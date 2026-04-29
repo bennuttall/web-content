@@ -25,7 +25,7 @@ from it we actually were, so I directed us back to the Morton Lab where Paul had
 on to. Half One, we got there.
 
 <figure class="wp-block-image">
-<img src="images/1027425315_0f4a088915_o-700x525.jpg" />
+<img src="images/1027425315_0f4a088915_o-700x525.webp" />
 </figure>
 
 Despite our late appearance at the jam, we had a great time, did some good training and got lots of

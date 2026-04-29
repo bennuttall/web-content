@@ -66,5 +66,5 @@ a PDF or view the individual articles online. It comprises:
     Robin Muilwijk, Internet and e-government advisor
 
 <figure class="wp-block-image">
-<a href="https://opensource.com/yearbook"><img src="images/contributor_horiz.png" /></a>
+<a href="https://opensource.com/yearbook"><img src="images/contributor_horiz.webp" /></a>
 </figure>

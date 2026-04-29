@@ -25,7 +25,7 @@ You'll need these four keys to connect to your Twitter account from your Python 
 these keys with anyone, as they can be used without the account's password. If you share your code
 online, *make sure you don't include these keys*.
 
-![](images/twitter-apps.png)
+![](images/twitter-apps.webp)
 
 To access the Twitter API from Python, you'll need to install the
 [Twython](https://github.com/ryanmcgrath/twython) library. Install this using
@@ -69,7 +69,7 @@ print("Tweeted: {}".format(message))
 
 Save and run this file. It should send a tweet saying "Hello world!" from your account.
 
-![](images/twitter-hello-world.png)
+![](images/twitter-hello-world.webp)
 
 If you get an error, check that your API keys were copied correctly.
 
@@ -155,7 +155,7 @@ Raspberry Pi at home, or even use a [hosted Raspberry Pi](https://www.mythic-bea
 
 ## Physical components
 
-![](images/rpi-physical.jpg)
+![](images/rpi-physical.webp)
 
 With a Raspberry Pi, you can easily add physical components, such as buttons and LEDs, to your
 Twitter program. For example, you could set it to send a random tweet when a physical button is
@@ -203,7 +203,7 @@ class MyStreamer(TwythonStreamer):
             led.off()
 ```
 
-![](images/sense-hat.jpg)
+![](images/sense-hat.webp)
 
 Or scroll the tweet on a Sense HAT display:
 
@@ -246,7 +246,7 @@ Twitter bot [on GitHub](https://github.com/pyjokes/pyjokes-bot).
 I recently made another Twitter bot that tweets [on this day](https://twitter.com/raspberrypi_otd)
 links to previous years' content from the Raspberry Pi Foundation's blog.
 
-![](images/rpi-otd.png)
+![](images/rpi-otd.webp)
 
 It's a little more complex because it maintains a (single-table) database of all the historical blog
 posts, but the bot code is very simple. It just queries the database for all posts with a date

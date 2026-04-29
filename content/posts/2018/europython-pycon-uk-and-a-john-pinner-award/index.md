@@ -3,14 +3,14 @@ EuroPython and PyCon UK – (almost) every year since 2014. I've been to EuroPyt
 and Rimini, and this year it came to the UK – specifically, the beautiful city of Edinburgh.
 
 <figure class="wp-block-image">
-<img src="images/europython-badge.jpg" />
+<img src="images/europython-badge.webp" />
 </figure>
 
 I presented a new iteration of my Python and Raspberry Pi poster at both conferences this year
 (click to download):
 
 <figure class="wp-block-image">
-<a href="https://files.bennuttall.com/PyCon-UK-Poster-A1.pdf"><img src="images/PyCon-UK-Poster-A1.png" /></a>
+<a href="https://files.bennuttall.com/PyCon-UK-Poster-A1.pdf"><img src="images/PyCon-UK-Poster-A1.webp" /></a>
 </figure>
 
 The talk I developed for this year's conference season was entitled *Programming paradigms for

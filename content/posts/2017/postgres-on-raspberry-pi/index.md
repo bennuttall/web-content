@@ -29,7 +29,7 @@ postgresql-client-common -y
 ```
 
 <figure class="wp-block-image">
-<img src="images/postgres-install.png"" />
+<img src="images/postgres-install.webp"" />
 </figure>
 
 When that's complete, switch to the Postgres user to configure the database:
@@ -51,7 +51,7 @@ When prompted, enter a password (and remember what it is), select `n` for superu
 the next two questions.
 
 <figure class="wp-block-image">
-<img src="images/postgres-createuser.png"" />
+<img src="images/postgres-createuser.webp"" />
 </figure>
 
 Now connect to Postgres using the shell and create a test database:
@@ -97,7 +97,7 @@ test=> select * from people;
 ```
 
 <figure class="wp-block-image">
-<img src="images/postgres-query.png" />
+<img src="images/postgres-query.webp" />
 </figure>
 
 ```
@@ -140,7 +140,7 @@ and leave the rest of the fields blank (or as they were). Click OK and you'll fi
 in the side panel on the left.
 
 <figure class="wp-block-image">
-<img src="images/pgadmin-connect.png" />
+<img src="images/pgadmin-connect.webp" />
 </figure>
 
 To connect to your Pi's database with pgAdmin from another computer, you'll first need to edit the
@@ -158,7 +158,7 @@ Note the version number may be different if you're using an older Raspbian image
 distribution.
 
 <figure class="wp-block-image">
-<img src="images/postgres-config.png" />
+<img src="images/postgres-config.webp" />
 </figure>
 
 Once that's done, open pgAdmin on your other computer and create a new connection. This time, in
@@ -166,7 +166,7 @@ addition to giving the connection a name, enter the Pi's IP address as the host 
 by hovering over the WiFi icon in the taskbar or by typing `hostname -I` in a terminal).
 
 <figure class="wp-block-image">
-<img src="images/pgadmin-remote.png" />
+<img src="images/pgadmin-remote.webp" />
 </figure>
 
 Whether you connected locally or remotely, click to open `Server Groups > Servers > test >
@@ -174,7 +174,7 @@ Schemas > public > Tables`, right-click the `people` table and select `View Data
 100 Rows`. You'll now see the data you entered earlier.
 
 <figure class="wp-block-image">
-<img src="images/pgadmin-view.png" />
+<img src="images/pgadmin-view.webp" />
 </figure>
 
 You can now create and modify databases and tables, manage users, and write your own custom queries
@@ -263,7 +263,7 @@ Note this uses a safe method of injecting strings into queries. You don't want t
 [little bobby tables](https://xkcd.com/327/)!
 
 <figure class="wp-block-image">
-<img src="images/python-postgres.png" />
+<img src="images/python-postgres.webp" />
 </figure>
 
 Now you know the basics. If you want to take Postgres further, check out this article on [Full Stack

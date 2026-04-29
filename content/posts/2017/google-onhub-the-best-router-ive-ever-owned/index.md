@@ -17,7 +17,7 @@ it certainly does make things easy. You can add other users to be a "manager" of
 allows them to control it from the app too.
 
 <figure class="wp-block-image">
-<img src="images/onhub-google-wi-fi-router-700x445.png" />
+<img src="images/onhub-google-wi-fi-router-700x445.webp" />
 </figure>
 
 It's important to note that the OnHub is only a router, not a modem. It only has an Ethernet port
@@ -39,9 +39,9 @@ internet and locally. The app can tell you the status of your network while you'
 too:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot_20170319-002702-169x300.png" />
-<img src="images/Screenshot_20170319-003806-169x300.png" />
-<img src="images/Screenshot_20170319-195940-169x300.png" />
+<img src="images/Screenshot_20170319-002702-169x300.webp" />
+<img src="images/Screenshot_20170319-003806-169x300.webp" />
+<img src="images/Screenshot_20170319-195940-169x300.webp" />
 </figure>
 
 I've always preferred a wired connection to wireless, as it tends to be faster, and way more
@@ -55,16 +55,16 @@ that the app shows you all the devices on your network, and their IP address (al
 192.168.86.x range), which makes it easy to connect to a headless Pi I just plugged in:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot_20170319-002847-169x300.png" />
-<img src="images/Screenshot_20170319-002918-169x300.png" />
+<img src="images/Screenshot_20170319-002847-169x300.webp" />
+<img src="images/Screenshot_20170319-002918-169x300.webp" />
 </figure>
 
 It's really easy to reserve IPs for your devices:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot_20170319-003125-169x300.png" />
-<img src="images/Screenshot_20170319-004026-169x300.png" />
-<img src="images/Screenshot_20170319-012350-169x300.png" />
+<img src="images/Screenshot_20170319-003125-169x300.webp" />
+<img src="images/Screenshot_20170319-004026-169x300.webp" />
+<img src="images/Screenshot_20170319-012350-169x300.webp" />
 </figure>
 
 The one difficulty I had was with **port forwarding**. Now, in theory, this is dead simple. The app
@@ -73,8 +73,8 @@ for your device in order to set up port forwarding, but that's no problem. Any r
 didn't seem to work, and I didn't understand why.
 
 <figure class="wp-block-image">
-<img src="images/Screenshot_20170319-003152-169x300.png" />
-<img src="images/Screenshot_20170319-005930-169x300.png" />
+<img src="images/Screenshot_20170319-003152-169x300.webp" />
+<img src="images/Screenshot_20170319-005930-169x300.webp" />
 </figure>
 
 Of course, searching online for help only gave me [simple
@@ -94,7 +94,7 @@ previously, the hub's own WAN IP was a local IP, given by the Netgear modem, but
 deal with outside requests, needed to be an external IP. I needed to give it my ISP's info.
 
 <figure class="wp-block-image">
-<img src="images/Screenshot_20170319-003140-169x300.png" />
+<img src="images/Screenshot_20170319-003140-169x300.webp" />
 </figure>
 
 I tried this, and ended up having to restart the setup procedure on both devices multiple times, but
@@ -102,20 +102,20 @@ eventually, managed to get it sorted – and port forwarding worked at last! I t
 gateway, and [online tortoise cam](https://github.com/waveform80/pistreaming/):
 
 <figure class="wp-block-image">
-<img src="images/C3waSuzWAAE58On.jpglarge-300x169.jpeg" />
+<img src="images/C3waSuzWAAE58On.jpglarge-300x169.webp" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/Screenshot_20170313-155855-169x300.png" />
+<img src="images/Screenshot_20170313-155855-169x300.webp" />
 </figure>
 
 The app also lets you perform a speed test, both on your internet connection and WiFi speed, and you
 can see historical data on your average speed each day:
 
 <figure class="wp-block-image">
-<img src="images/Screenshot_20170319-195446-169x300.png" />
-<img src="images/Screenshot_20170319-195526-169x300.png" />
-<img src="images/Screenshot_20170319-195635-169x300.png" />
+<img src="images/Screenshot_20170319-195446-169x300.webp" />
+<img src="images/Screenshot_20170319-195526-169x300.webp" />
+<img src="images/Screenshot_20170319-195635-169x300.webp" />
 </figure>
 
 The OnHub only has a single Ethernet port for connecting another device, so if you need to connect

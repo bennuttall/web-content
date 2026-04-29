@@ -11,7 +11,7 @@ and a card type (a number or a symbol). There are four regular colour cards, and
 cards which are black.
 
 <figure class="wp-block-image">
-<a href="https://en.wikipedia.org/wiki/Uno_(card_game)"><img src="images/uno.jpg" /></a>
+<a href="https://en.wikipedia.org/wiki/Uno_(card_game)"><img src="images/uno.webp" /></a>
 </figure>
 
 Each player is dealt a hand of 7 cards, and they take turns to play a card, trying to become the
@@ -46,7 +46,7 @@ I started building up an `UnoGame` class, where a deck of UnoCard instances was 
 needed to contain a complete set of Uno cards, which I determined from this image on Wikipedia:
 
 <figure class="wp-block-image">
-<a href="https://en.wikipedia.org/wiki/Uno_(card_game)"><img src="images/uno-card-set.png" /></a>
+<a href="https://en.wikipedia.org/wiki/Uno_(card_game)"><img src="images/uno-card-set.webp" /></a>
 </figure>
 
 So it turns out there are digit cards 0-9 (and then 1-9 repeated) for each of the four colours, and two of
@@ -153,7 +153,7 @@ next. I wonder if PyGame Zero or guizero would be suitable. Watch this space!
 Update: I made a graphical game with pgzero:
 
 <figure class="wp-block-image">
-<img src="images/pgz_screenshot.png" />
+<img src="images/pgz_screenshot.webp" />
 </figure>
 
 ## The code

@@ -39,7 +39,7 @@ pre-installed. It also provides separate instances of **pip**, one for each vers
 - The command `pip3` installs packages for Python 3.7 and is located at `/usr/bin/pip3`
 
 <figure class="wp-block-image">
-<img src="images/pi-python-cmds.png" />
+<img src="images/pi-python-cmds.webp" />
 </figure>
 
 It's useful to verify your own state of affairs when it comes to the `python` and `pip` commands
@@ -70,7 +70,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 ```
 
 <figure class="wp-block-image">
-<img src="images/bashrc.png" />
+<img src="images/bashrc.webp" />
 </figure>
 
 If your Python 3 is located elsewhere, this should be corrected in the first line.
@@ -95,7 +95,7 @@ Now the environment has been created and activated. You'll see that `(flashlylig
 your prompt:
 
 <figure class="wp-block-image">
-<img src="images/flashylights-activated-prompt.png" />
+<img src="images/flashylights-activated-prompt.webp" />
 </figure>
 
 Now that the environment is activated, things have changed. The `python` now points at a completely
@@ -104,7 +104,7 @@ directory for your environment and placed a copy of the Python 3 binary, the pip
 inside it. Now type `which python` and `which pip` to see where they're located:
 
 <figure class="wp-block-image">
-<img src="images/flashylights-activated-cmds.png" />
+<img src="images/flashylights-activated-cmds.webp" />
 </figure>
 
 Now if you run a Python program, you can run it with `python` instead of `python3`, and you can use

@@ -112,7 +112,7 @@ now drop missed edges and get better accuracy as a result (see
 factory for the best results, particularly with Pi 1 or Pi Zero.
 
 <figure class="wp-block-image">
-<img src="images/00100lPORTRAIT_00100_BURST20190212100033676_COVER.jpg" />
+<img src="images/00100lPORTRAIT_00100_BURST20190212100033676_COVER.webp" />
 </figure>
 
 ## Source/values
@@ -153,7 +153,7 @@ We also added [graphviz](https://www.graphviz.org/) diagrams for all the example
 think helps visualise the examples:
 
 <figure class="wp-block-image">
-<img src="images/robot_pots_1.png" />
+<img src="images/robot_pots_1.webp" />
 </figure>
 
 ## Other improvements

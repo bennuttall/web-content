@@ -2,7 +2,7 @@ I drove 4,500 miles across America visiting schools, universities and hackspaces
 about Raspberry Pi.
 
 <figure class="wp-block-image">
-<img src="images/usa-final.png" />
+<img src="images/usa-final.webp" />
 <figcaption>New York City to Salt Lake City, the long way around</figcaption>
 </figure>
 

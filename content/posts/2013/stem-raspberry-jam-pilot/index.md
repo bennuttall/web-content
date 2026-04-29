@@ -62,7 +62,7 @@ Dreamweaver. However some of them seemed more excited about [Code Club](http://w
 being run after school – so that's something!
 
 <figure class="wp-block-image">
-<img src="images/Stem-13.jpg" />
+<img src="images/Stem-13.webp" />
 </figure>
 
 For the afternoon session we moved on to the Python activities I'd written late the previous night!
@@ -96,7 +96,7 @@ Koans](https://github.com/gregmalcolm/python_koans/wiki), but for kids). From th
 a few more ideas about how it can work. Well, watch this space.
 
 <figure class="wp-block-image">
-<img src="images/Stem-33.jpg" />
+<img src="images/Stem-33.webp" />
 </figure>
 
 Huge thanks to MOSI, STEMNET, Donna, Dan, and all the ambassadors who volunteered their time and

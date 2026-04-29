@@ -3,7 +3,7 @@ Starting today, shops and newsagents are stocking a computer magazine called
 this magazine comes with a free computer—literally stuck to the front cover. It's the newest
 Raspberry Pi release, called Pi Zero. This computer also goes on sale around the world for just $5.
 
-![](images/20151109_162259.jpg)
+![](images/20151109_162259.webp)
 
 Pi Zero is a tiny device and contains the first generation Raspberry Pi's BCM2835 chip, safely
 overclocked to 1GHz. Pi Zero packs the same great GPU as the regular Raspberry Pi, and comes with
@@ -34,7 +34,7 @@ and others.
 
 First look at Pi Zero:
 
-![](images/IMG_4054-low.jpg)
+![](images/IMG_4054-low.webp)
 
 What will you need? If you want to use it like a full computer, you'll need a Micro SD card and some
 cables:
@@ -101,7 +101,7 @@ GPIO header to the Pi Zero and attach your board and a battery pack. Write some 
 motors, build a chassis, maybe add some sensors, and you have yourself a very cheap but equally
 nifty robot.
 
-![](images/LEGOZERO4.jpg)
+![](images/LEGOZERO4.webp)
 
 ## Weightlessness
 
@@ -123,4 +123,4 @@ will arise and we'll see a host of new and exciting miniature add-on boards, suc
 controllers and LED boards, perfectly sitting aboard the Zero with the mounting holes in the
 corners. Let's wait and see what happens!
 
-![](images/pi-zero_f7.png)
+![](images/pi-zero_f7.webp)

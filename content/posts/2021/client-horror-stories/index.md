@@ -6,7 +6,7 @@ excellent podcast *[Client Horror Stories](https://clienthorrorstories.com/)*. T
 available on clienthorrorstories.com:
 
 <figure class="wp-block-image">
-<a href="https://clienthorrorstories.com/e/that-time-you-had-to-develop-two-apps-a-day-every-day-for-a-19-years-old-boss-with-ben-nuttall/"><img src="images/client-horror-stories.png" /></a>
+<a href="https://clienthorrorstories.com/e/that-time-you-had-to-develop-two-apps-a-day-every-day-for-a-19-years-old-boss-with-ben-nuttall/"><img src="images/client-horror-stories.webp" /></a>
 </figure>
 
 Thanks to [Morgan](https://westegg.com/) for having me on!

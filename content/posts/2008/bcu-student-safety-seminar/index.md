@@ -52,7 +52,7 @@ I haven't got any pictures from the seminar but here's one of me (looking rather
 reason) on the River Kent in Kendal in the Lake District last weekend:
 
 <figure class="wp-block-image">
-<img src="images/n504867040_1323269_1957-300x225.jpg" />
+<img src="images/n504867040_1323269_1957-300x225.webp" />
 </figure>
 
 Plenty of trips planned for this year. I'm going to try to run as many beginner trips as I do

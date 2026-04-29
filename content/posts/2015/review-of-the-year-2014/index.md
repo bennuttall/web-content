@@ -9,7 +9,7 @@ talk, my first keynote, and many more talks throughout the year! I gave over 40 
 in 2014, up from 32 in 2013.
 
 <figure class="wp-block-image">
-<img src="images/ep2014-badge-225x300.jpg" />
+<img src="images/ep2014-badge-225x300.webp" />
 <figcaption>My favourite conference badge of the year</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ See my full list of talks with links to videos and slides on my
 [talks page](/talks/).
 
 <figure class="wp-block-image">
-<img src="images/lvl1-colour-300x229.jpg" />
+<img src="images/lvl1-colour-300x229.webp" />
 <figcaption>Speaking at a hackspace in America</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ I also got to meet creator of the world wide web Tim Berners-Lee at the Open Dat
 where I was supporting Amy Mather who was speaking at the event.
 
 <figure class="wp-block-image">
-<img src="images/10704227_10152382311046863_5540039080284094591_o-225x300.jpg" />
+<img src="images/10704227_10152382311046863_5540039080284094591_o-225x300.webp" />
 <figcaption>Meeting Tim Berners-Lee with Amy and Dan Mather</figcaption>
 </figure>
 
@@ -59,12 +59,12 @@ conducted with me at [Oggcamp](http://oggcamp.org/)
 about my work on the Raspberry Pi Education Team
 
 <figure class="wp-block-image">
-<img src="images/1486653_10151926059031863_974877116_n-300x225.jpg" />
+<img src="images/1486653_10151926059031863_974877116_n-300x225.webp" />
 <figcaption>Linux Voice</figcaption>
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/lxf-225x300.jpg" />
+<img src="images/lxf-225x300.webp" />
 <figcaption>Me on the front of Linux Format magazine</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ and hackspaces. I had a brilliant experience, met some great people and spread t
 the Foundation is doing.
 
 <figure class="wp-block-image">
-<img src="images/usa-final-700x196.png" />
+<img src="images/usa-final-700x196.webp" />
 </figure>
 
 The places I visited:
@@ -130,7 +130,7 @@ The website now features:
 - and more!
 
 <figure class="wp-block-image">
-<img src="images/raspi-www-300x216.png" />
+<img src="images/raspi-www-300x216.webp" />
 <figcaption>raspberrypi.org in early January 2015</figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ Python modules which can be found on PyPI and installed with pip:
   my year of public GitHub contributions looks like:
 
 <figure class="wp-block-image">
-<img src="images/github-2014-700x282.png" />
+<img src="images/github-2014-700x282.webp" />
 </figure>
 
 ## 2015

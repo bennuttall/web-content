@@ -24,7 +24,7 @@ I then moved to Cambridge to work at the Foundation and was regularly updated wi
 along, and got to see pictures like this:
 
 <figure class="wp-block-image">
-<img src="images/amy-recording-225x300.jpg" />
+<img src="images/amy-recording-225x300.webp" />
 </figure>
 
 The guys worked hard on the animation through December and January and we released it this week!

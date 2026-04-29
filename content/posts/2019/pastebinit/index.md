@@ -19,7 +19,7 @@ pastebinit <filename>
 pastebinit then returns the URL for your paste:
 
 <figure class="wp-block-image">
-<img src="images/2019-05-08-140007_1824x984_scrot.png" />
+<img src="images/2019-05-08-140007_1824x984_scrot.webp" />
 </figure>
 
 The default pastebin provider in Raspbian is paste.debian.net and Ubuntu have their own at

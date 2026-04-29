@@ -46,7 +46,7 @@ Twitter cards and general [OpenGraph](https://ogp.me/) tags for other social med
 [Mastodon](https://mastodon.social/):
 
 <figure class="wp-block-image">
-<img src="images/og.png" />
+<img src="images/og.webp" />
 </figure>
 
 I didn't spend very long building the new site, and I enjoyed working on it. It's quite satisfying
@@ -96,7 +96,7 @@ posted about [the death of Ronnie Corbett](/blog/2016/03/fork-handles/) in 2016,
 [GitHub](https://github.com/bennuttall/handles).
 
 <figure class="wp-block-image">
-<img src="images/media-city.jpg" />
+<img src="images/media-city.webp" />
 <figcaption>BBC at Media City</figcaption>
 </figure>
 

@@ -2,7 +2,7 @@ The piwheels project provides pre-compiled Python packages for Raspberry Pi
 users, saving them considerable time and effort.
 
 <div class="wp-block-image">
-<img src="images/piwheels.png" />
+<img src="images/piwheels.webp" />
 </div>
 
 I wrote about piwheels a little over a year ago - I remember Red Hatter [Jeff
@@ -20,7 +20,7 @@ saves lots of time and effort, and makes it much easier for Raspberry Pi users
 to dive in and get started with their projects.
 
 <div class="wp-block-image">
-<img src="images/raspberry-pi-4.jpg" />
+<img src="images/raspberry-pi-4.webp" />
 </div>
 
 ## How does it work?
@@ -49,7 +49,7 @@ The Pis are all on an IPv6-only network in a "Pi Cloud" - a brilliant service
 provided by Cambridge-based hosting company [Mythic Beasts](https://www.mythic-beasts.com/order/rpi).
 
 <div class="wp-block-image">
-<img src="images/pi-cloud.png" />
+<img src="images/pi-cloud.webp" />
 </div>
 
 ## Downloads and trends
@@ -85,7 +85,7 @@ can see the quick takeover of Python 3.7 from 3.5 when Raspbian Buster was
 released:
 
 <div class="wp-block-image">
-<img src="images/pyvers.png" />
+<img src="images/pyvers.webp" />
 </div>
 
 See more trends in our [stats blog posts](https://blog.piwheels.org/tag/stats/).
@@ -112,7 +112,7 @@ its dependencies are automatically calculated, and added to the package's
 project page:
 
 <div class="wp-block-image">
-<img src="images/numpy-deps.png" />
+<img src="images/numpy-deps.webp" />
 </div>
 
 ## What next for piwheels?
