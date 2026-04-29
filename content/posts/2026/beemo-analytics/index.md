@@ -73,17 +73,17 @@ release for PyPI, and configured it to automatically build the analytics site on
 I now have a content-aware bot-aware self-hosted analytics site for my website:
 
 <figure class="wp-block-image">
-<a href="https://files.bennuttall.com/beemo-analytics-demo"><img src="images/beemo-analytics.png" /></a>
+<a href="https://files.bennuttall.com/beemo-analytics-demo"><img src="images/beemo-analytics.webp" /></a>
 <figcaption>Beemo analytics</figcaption>
 </figure>
 
 <figure class="wp-block-image">
-<a href="https://files.bennuttall.com/beemo-analytics-demo"><img src="images/beemo-analytics-2.png" /></a>
+<a href="https://files.bennuttall.com/beemo-analytics-demo"><img src="images/beemo-analytics-2.webp" /></a>
 <figcaption>Top posts</figcaption>
 </figure>
 
 <figure class="wp-block-image">
-<a href="https://files.bennuttall.com/beemo-analytics-demo"><img src="images/beemo-analytics-3.png" /></a>
+<a href="https://files.bennuttall.com/beemo-analytics-demo"><img src="images/beemo-analytics-3.webp" /></a>
 <figcaption>Best of the rest</figcaption>
 </figure>
 

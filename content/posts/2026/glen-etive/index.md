@@ -18,7 +18,7 @@ emergency contacts on the lock screen. I *just happened* to be in Scotland at th
 to pick up my phone from him in Langholm on the way home, before I'd got around to replacing it.
 
 <figure class="wp-block-image">
-<img src="images/found-lost-phone.jpg" />
+<img src="images/found-lost-phone.webp" />
 <figcaption>The found lost phone, with the last photo taken</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ envious of the amazing photos I've seen of people running what I now know is cal
 falls](https://www.ukriversguidebook.co.uk/rivers/scotland/west-highlands/photos/river-etive-right-angle-falls)".
 
 <figure class="wp-block-image">
-<img src="images/maps.png" />
+<img src="images/maps.webp" />
 <figcaption>It's a <em>really</em> long drive</figcaption>
 </figure>
 
@@ -43,20 +43,20 @@ We arrived at the Kingshouse Hotel, where we were staying (in the bunkhouse next
 find a stag gracefully meandering the hotel car park:
 
 <figure class="wp-block-image">
-<img src="images/kingshouse-stag.jpg" />
+<img src="images/kingshouse-stag.webp" />
 </figure>
 
 In the morning we woke to this amazing view:
 
 <figure class="wp-block-image">
-<img src="images/kingshouse-view.jpg" />
+<img src="images/kingshouse-view.webp" />
 <figcaption>The morning view from the Kingshouse Hotel</figcaption>
 </figure>
 
 We drove a few minutes to the river in the stunning Glen Etive:
 
 <figure class="wp-block-image">
-<img src="images/glen-etive.jpg" />
+<img src="images/glen-etive.webp" />
 <figcaption>Glen Etive</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ we stopped to scout everything to make sure we were prepared. Here's a video of 
 falls: [https://www.youtube.com/shorts/-pzJEMfXEcw](https://www.youtube.com/shorts/-pzJEMfXEcw)
 
 <figure class="wp-block-image">
-<img src="images/etive-kayakers.jpg" />
+<img src="images/etive-kayakers.webp" />
 </figure>
 
 <figure class="wp-block-image">
@@ -74,7 +74,7 @@ falls: [https://www.youtube.com/shorts/-pzJEMfXEcw](https://www.youtube.com/shor
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/etive-connah.jpg" />
+<img src="images/etive-connah.webp" />
 <figcaption>Connah</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Finally we arrived at "right angle falls". It's a 20-foot waterfall with a right
 before the drop, so you've got to make sure you don't capsize right above it!
 
 <figure class="wp-block-image">
-<img src="images/etive-right-angle-falls.jpg" />
+<img src="images/etive-right-angle-falls.webp" />
 <figcaption>Right angle falls</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ you and send you down the fall backwards or upside-down, which is a little terri
 all successfully made our way down it without issue!
 
 <figure class="wp-block-image">
-<img src="images/etive-after-ra-falls.jpg" />
+<img src="images/etive-after-ra-falls.webp" />
 <figcaption>Right after the falls</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Another angle:
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/etive-matt-after-ra-falls.jpg" />
+<img src="images/etive-matt-after-ra-falls.webp" />
 <figcaption>Matt after we did right angle falls</figcaption>
 </figure>
 
