@@ -11,11 +11,11 @@ think) Windows 10. But it works perfectly well in Wine on Linux, so I can still 
 just has a teeny tiny resolution and looks silly on my 42" monitor.
 
 <figure class="wp-block-image">
-<img src="images/fsm-screenshot-huge-monitor.png" />
+<img src="images/fsm-screenshot-huge-monitor.webp" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/fsm-swfc.png" />
+<img src="images/fsm-swfc.webp" />
 </figure>
 
 I wondered if I could get [Claude](https://claude.ai) to extract data from the game files. I pointed
@@ -45,7 +45,7 @@ to do it they could do so without needing an AI tool of their own. It's now on
 [fsm.bennuttall.com](https://fsm.bennuttall.com/)
 
 <figure class="wp-block-image">
-<a href="https://fsm.bennuttall.com/"><img src="images/fsm-website.png" /></a>
+<a href="https://fsm.bennuttall.com/"><img src="images/fsm-website.webp" /></a>
 <figcaption>fsm.bennuttall.com</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ player-managers](https://fsm.bennuttall.com/stats/player-managers/) and [stadium
 capacity](https://fsm.bennuttall.com/stats/stadiums/).
 
 <figure class="wp-block-image">
-<a href="https://fsm.bennuttall.com/stats/"><img src="images/fsm-stats.png" /></a>
+<a href="https://fsm.bennuttall.com/stats/"><img src="images/fsm-stats.webp" /></a>
 </figure>
 
 One thing that stands out in top player stats is a set of highly rated players from a club called
@@ -107,7 +107,7 @@ Weah](https://fsm.bennuttall.com/clubs/ac-milan/#george-weah) and
 [Romario](https://fsm.bennuttall.com/clubs/spare/#unknown-romario).
 
 <figure class="wp-block-image">
-<a href="https://fsm.bennuttall.com/stats/"><img src="images/fsm-ea-all-stars.png" /></a>
+<a href="https://fsm.bennuttall.com/stats/"><img src="images/fsm-ea-all-stars.webp" /></a>
 <figcaption>EA All Stars</figcaption>
 </figure>
 
@@ -263,11 +263,11 @@ trying to extract the stadium graphics, to no avail. I was hoping to extract one
 club:
 
 <figure class="wp-block-image">
-<a href="https://fsm.bennuttall.com/stadiums/highbury/"><img src="images/fsm-highbury.png" /></a>
+<a href="https://fsm.bennuttall.com/stadiums/highbury/"><img src="images/fsm-highbury.webp" /></a>
 <figcaption>Highbury</figcaption>
 </figure>
 
 <figure class="wp-block-image">
-<a href="https://www.youtube.com/watch?v=S8Ir0qe_7p8"><img src="images/fsm-the-end.png" /></a>
+<a href="https://www.youtube.com/watch?v=S8Ir0qe_7p8"><img src="images/fsm-the-end.webp" /></a>
 <figcaption>The end?</figcaption>
 </figure>
