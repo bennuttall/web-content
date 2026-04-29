@@ -1,4 +1,4 @@
-modified: '2023-10-25T11:10:30'
+modified: '2026-04-30T00:51:30+01:00'
 published: '2023-10-25T11:10:29'
 tags:
 - bbc
@@ -9,3 +9,4 @@ tags:
 - pycon
 - talks
 title: PyCon UK 2023 talks
+og_image: images/ben-pycon-uk.webp
