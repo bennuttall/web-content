@@ -1,10 +1,12 @@
 There's a football manager game I got for my birthday when I was nine years old: [FIFA Soccer
 Manager](https://www.mobygames.com/game/6314/fifa-soccer-manager/)
 97. I spent countless hours playing it as a child, trying to win the league, the cup or just avoid
-getting the sack! 2 years later I got a newer manager game with better graphics and more complex
+getting the sack! Two years later I got a newer manager game with better graphics and more complex
 gameplay but it ran incredibly slow and I didn't enjoy playing it at all, so I stuck with the 1997
-one. Every couple of years I get it out again and spend an evening basking in nostalgia and reliving
-the experience. Originally it was made for Windows 95, and it was still working on Windows until (I
+one.
+
+Every couple of years I get it out again and spend an evening basking in nostalgia and reliving the
+experience. Originally it was made for Windows 95, and it was still working on Windows until (I
 think) Windows 10. But it works perfectly well in Wine on Linux, so I can still play it today. It
 just has a teeny tiny resolution and looks silly on my 42" monitor.
 
@@ -33,11 +35,11 @@ all players and clubs, not just the English leagues.
 
 Once I was happy with the CSV files, all future queries would be scripted against these files so I
 could be sure it was coming from extracted data and not extracting from the game data again or even
-hallucinating. I then asked for a more compehensive website of all the data, with lots of
+hallucinating. I then asked for a more comprehensive website of all the data, with lots of
 interlinking. I was really impressed with what it put together, and I spent some time diving deeper
 into the data and making tweaks to the website.
 
-I wanted to produce a set of Python code to make this process reproducable, so if anyone else wanted
+I wanted to produce a set of Python code to make this process reproducible, so if anyone else wanted
 to do it they could do so without needing an AI tool of their own. It's now on
 [GitHub](https://github.com/bennuttall/fsm-97-data), and I've published the website too:
 [fsm.bennuttall.com](https://fsm.bennuttall.com/)
@@ -53,7 +55,7 @@ make it easy to find what you're looking for, or explore the data looking for in
 ## Stats, trivia and EA All Stars
 
 I always found it annoying that it only ever used short versions of team names like "Sheffield W"
-instead of "[Sheffield Wednesday](https://fsm.bennuttall.com/teams/sheffield-wednesday/)",
+instead of "[Sheffield Wednesday](https://fsm.bennuttall.com/clubs/sheffield-wednesday/)",
 purely to keep the strings short enough to use everywhere. I had Claude correct them to their proper
 titles. Stadium names are not used in the game, but they all exist in the game data, albeit with odd
 mistakes sometimes, like "[Bramall Lane
@@ -63,23 +65,23 @@ much of the game data, but felt these changes were reasonable.
 
 One thing I found interesting was that there's data in there that isn't used in the game at all.
 Players go by first initial and Surname, like "D. Beckham", but the data has "[David
-Beckham](https://fsm.bennuttall.com/teams/manchester-united/#david-beckham)". It has all the
+Beckham](https://fsm.bennuttall.com/clubs/manchester-united/#david-beckham)". It has all the
 manager names of all English leagues and a few others, but they're never used in game. Same for club
 nicknames and stadium names (and sometimes town/city and even first line of address!).
 
 This revealed oddities like P. Shilton in the game actually being former England goalkeeper [Peter
-Shilton](https://fsm.bennuttall.com/teams/leyton-orient/#peter-shilton), who really did play for
-[Leyton Orient](https://fsm.bennuttall.com/teams/leyton-orient/) until 1997, at the age of 47;
+Shilton](https://fsm.bennuttall.com/clubs/leyton-orient/#peter-shilton), who really did play for
+[Leyton Orient](https://fsm.bennuttall.com/clubs/leyton-orient/) until 1997, at the age of 47;
 and oddly, Olympic decathlon champion [Daley
-Thompson](https://fsm.bennuttall.com/teams/mansfield-town/#daley-thompson) at [Mansfield
-Town](https://fsm.bennuttall.com/teams/mansfield-town/) (an easter egg).
+Thompson](https://fsm.bennuttall.com/clubs/mansfield-town/#daley-thompson) at [Mansfield
+Town](https://fsm.bennuttall.com/clubs/mansfield-town/) (an easter egg).
 
-I didn't realise there are some clubs who shared stadiums, which is reflected in the game. I wonder
-if you managed [Wimbledon](https://fsm.bennuttall.com/teams/wimbledon/) and expanded the stadium
-([Selhurst Park](https://fsm.bennuttall.com/stadiums/selhurst-park/)), if you played against
-[Crystal Palace](https://fsm.bennuttall.com/teams/crystal-palace/) away, would you see the
-ground at its default appearance or would you in fact see your own upgraded home stadium? One to
-try! (The Reddit community confirms they do appear as different stadiums!)
+I didn't realise there were some clubs that shared stadiums, which is reflected in the game. I
+wonder if you managed [Wimbledon](https://fsm.bennuttall.com/clubs/wimbledon/) and expanded the
+stadium ([Selhurst Park](https://fsm.bennuttall.com/stadiums/selhurst-park/)), if you played against
+[Crystal Palace](https://fsm.bennuttall.com/clubs/crystal-palace/) away, would you see the ground at
+its default appearance or would you in fact see your own upgraded home stadium? (The Reddit
+community confirms they do appear as different stadiums!)
 
 I made sure the extracted data was aware of the concept of shared stadiums, and it also picked up on
 the fact that some of the clubs' managers were also listed as players for the same club - a once
@@ -96,7 +98,7 @@ capacity](https://fsm.bennuttall.com/stats/stadiums/).
 </figure>
 
 One thing that stands out in top player stats is a set of highly rated players from a club called
-"[EA All Stars](https://fsm.bennuttall.com/teams/ea-all-stars/)". None of these are real players —
+"[EA All Stars](https://fsm.bennuttall.com/clubs/ea-all-stars/)". None of these are real players —
 they're actually the game developers and other staff who worked on the game. The Assistant Producer
 [Mark Bergan](https://fsm.bennuttall.com/clubs/ea-all-stars/#mark-bergan) made himself one of the
 best rated players in the whole game, rated as highly as [David
@@ -195,7 +197,8 @@ the number of days elapsed since 30 December 1899 (the same base date used by Mi
 the game's internal date system). The two bytes are combined as:
 
 ```
-days = stats[35] + stats[36] * 256 dob  = date(1899, 12, 30) + timedelta(days=days)
+days = stats[35] + stats[36] * 256
+dob  = date(1899, 12, 30) + timedelta(days=days)
 ```
 
 This is a WORD (16-bit), so the maximum representable date is day 65,535 — 5 October 2079. After
@@ -207,7 +210,7 @@ the 2020s), but it's known that the game has limitations in endurance.
 
 ## Full motion video cutscenes
 
-The game features a number of full motion video cutscenes. These included specially-filmed
+The game features a number of full motion video cutscenes. These include specially-filmed
 live-action football footage, heavily tinted blue/purple, with overlaid title text in a
 typewriter-style font. They were shown when you won or lost a cup final, won the league, got
 promoted, relegated, or sacked. There was also an intro and a closing credits video.
@@ -231,7 +234,9 @@ ffmpeg -i INPUT.TGQ -c:v libx264 -c:a aac OUTPUT.mp4
 Docs and explanation of the video files can be found here:
 [github.com/bennuttall/fsm-97-data/blob/main/docs/videos.md](https://github.com/bennuttall/fsm-97-data/blob/main/docs/videos.md)
 
+<figure class="wp-block-image">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AgQDXbmpIKA?si=KASZvIvw091DlPaq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
 
 ## Credits
 
@@ -239,7 +244,9 @@ The end credits are something of a masterpiece. The game developers and all the 
 the game are credited, along with childhood photos and aspects of what they worked on, including
 example lines of C/C++ code, stadium sketches, colours and coordinates, specs and more:
 
+<figure class="wp-block-image">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S8Ir0qe_7p8?si=z0i5-yXJKGEoDjnz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
 
 Since many of these staffers are also included in the game, I was able to create a [credits
 page](https://fsm.bennuttall.com/credits/) listing them and link to their player listings on the [EA
@@ -247,11 +254,13 @@ All Stars](https://fsm.bennuttall.com/clubs/ea-all-stars/).
 
 ## Join the project
 
-If you have a copy of the game, head over to the GitHub page and see if you can extract the data
-yourself, and have a play with it, maybe find things I've not found yet.
+If you have a copy of the game, head over to the [GitHub](https://github.com/bennuttall/fsm-97-data)
+page and see if you can extract the data yourself, and have a play with it, maybe find things I've
+not found yet.
 
 There are a few other things I'd like to investigate. I wasted a bunch of time (and Claude usage)
-trying to extract the stadium graphics, to no avail:
+trying to extract the stadium graphics, to no avail. I was hoping to extract one of these for each
+club:
 
 <figure class="wp-block-image">
 <a href="https://fsm.bennuttall.com/stadiums/highbury/"><img src="images/fsm-highbury.png" /></a>
