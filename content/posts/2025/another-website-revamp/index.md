@@ -63,6 +63,11 @@ The source code for the site generator is available on my GitHub. I called it
 [PyPI](https://pypi.org/project/beemo/). I'll try to make it more generalised to be useful to
 others.
 
+<figure class="wp-block-image">
+<a href="https://github.com/bennuttall/beemo"><img src="images/beemo.webp" /></a>
+<figcaption>Beemo</figcaption>
+</figure>
+
 ## Content
 
 I wrote a [script](https://gist.github.com/bennuttall/5505efe6f52b875e4c4a547374af5bfb) to pull all

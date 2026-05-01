@@ -3,6 +3,11 @@ generator](/blog/2025/08/another-website-revamp/) called [Beemo](https://pypi.or
 I went on to use it as the generator for a few other websites I manage, and made a few enhancements
 along the way.
 
+<figure class="wp-block-image">
+<a href="https://github.com/bennuttall/beemo"><img src="images/beemo.webp" /></a>
+<figcaption>Beemo</figcaption>
+</figure>
+
 Recently I had the idea to use [lars](/blog/2020/06/lars/) (a web server log analyser written by
 Dave Jones) as the basis of an analytics site builder. We use lars in the
 [piwheels](https://www.piwheels.org/) project to count [wheel
