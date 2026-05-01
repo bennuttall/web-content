@@ -3,6 +3,11 @@ Anne](http://twitter.com/missphilbin), [Clive](http://twitter.com/clivebeale) a
 by the Linux Voice team about [Raspberry Pi](http://www.raspberrypi.org)'s views on computing
 education.
 
+<figure class="wp-block-image">
+<img src="images/pi-top-img-4.webp" />
+<figcaption>Raspberry Pi Education Team</figcaption>
+</figure>
+
 Linux Voice is a fantastic new free software magazine which was funded by a crowdfunding campaign
 on Indiegogo at the end of last year. I backed it as soon as I heard about it, and I eagerly
 anticipated the arrival of its first issue. We're now five issues in and I've loved every one – the

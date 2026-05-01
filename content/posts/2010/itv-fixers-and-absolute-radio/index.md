@@ -46,7 +46,11 @@ numbers like [33 550 336](http://en.wikipedia.org/wiki/Perfect_number), [9 814 0
 356](http://en.wikipedia.org/wiki/9814072356_(number))...) so the even numbers have little appeal as
 they're common and have many factors or are factors of other regular numbers, which pushes me to go
 for the primes. Having said that, 6 is a wonderfully interesting number as it is the smallest
-perfect number (the sum of its factors 1, 2 and 3 is 6), and 2 is the only even prime.  
+perfect number (the sum of its factors 1, 2 and 3 is 6), and 2 is the only even prime.
+
+<figure class="wp-block-image">
+<img src="images/ITV-Fixers-animation-logo.webp" />
+</figure>
   
 Recently I was contacted by an organisation called ITV Fixers, which is a project to give 16-25 year
 olds the chance to do something to help others in their area of interest or something they are
@@ -61,12 +65,12 @@ speak about the project during the official launch.
 replying to people on Twitter. He makes such an effort to reply to people who mention him in tweets,
 which is a great thing for him to do. If you remember reading on this very blog almost a year ago, I
 posted explaining what had led me to start using Twitter ([Tweet
-Tweet](http://www.bennuttall.com/blog/2009/04/tweet-tweet.html)); it was due to a blog post of
-Dave's in which he explained the one-way system of connection (as opposed to becoming someone's
-friend on Facebook, Twitter lets you follow someone to see their tweets without them having to see
-yours, only whose they decide to follow). He explained then that he always tried to reply to people
-who sent him tweets, which made up for him not following people back, and still meant that he could
-use the service the way he wanted (i.e. following only people he wanted to.  
+Tweet](/blog/2009/04/tweet-tweet/)); it was due to a blog post of Dave's in which he explained the
+one-way system of connection (as opposed to becoming someone's friend on Facebook, Twitter lets you
+follow someone to see their tweets without them having to see yours, only whose they decide to
+follow). He explained then that he always tried to reply to people who sent him tweets, which made
+up for him not following people back, and still meant that he could use the service the way he
+wanted (i.e. following only people he wanted to.  
   
 I happened to mention Dave in a tweet a couple of weeks ago ('Googlewhack' was trending at the
 time), without demanding or expecting a reply, but one came. I replied back and so did he again. The

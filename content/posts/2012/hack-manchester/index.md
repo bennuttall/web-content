@@ -12,6 +12,10 @@ challenge and set off to build a tool to find the film set with the largest [bir
 party](http://2.bp.blogspot.com/_Fw8biBy5Ras/Sb-QFSl36lI/AAAAAAAAA5o/ax1QpmNx6yU/s400/vintage+birthday+party.jpg)
 (most common birthday per film, among actors in the same film).
 
+<figure class="wp-block-image">
+<img src="images/hack-manchester-team.webp" />
+</figure>
+
 We decided the [data provided](ftp://ftp.sunet.se/pub/tv+movies/imdb/) was too poorly formatted, and
 because any alternatives (such as the [Open Movie Database](http://www.omdb.org/movie)) required
 sign-up and prior approval, we ended up scraping [IMDB](http://www.imdb.com/) for the [actor
@@ -129,6 +133,10 @@ Heap](http://twitter.com/mheap) and [Tim Hastings](http://twitter.com/timhasting
 [Andy](http://twitter.com/moorcroftlad); a [Thoughtworks](http://www.thoughtworks.com/) team with
 [Daley](http://twitter.com/dchetwynd), and so on. I had plenty of people to chat to while taking
 breaks (I drank a lot of coffee) – and met a bunch of new people too.
+
+<figure class="wp-block-image">
+<img src="images/hack-manchester-pres.webp" />
+</figure>
 
 It came to the closing and the winners of each category was named, and had a chance to give a short
 demo of their project. Some amazing stuff went on show – it was great to see so much innovation from

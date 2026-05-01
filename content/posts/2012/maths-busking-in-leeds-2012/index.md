@@ -64,37 +64,17 @@ comfortable. It really pays off when you see somebody enjoying and appreciating 
 offer them. I love public engagement as a hobby, and I admire anyone who does it for a living or on
 a more regular basis.
 
-<p>
-<style type="text/css">
-			#gallery-32 {
-				margin: auto;
-			}
-			#gallery-32 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-32 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-32 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-63 gallery-columns-3 gallery-size-thumbnail" id="gallery-32"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/MathsBusking2012LFoS-007-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/MathsBusking2012LFoS-012-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/MathsBusking2012LFoS-027-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
-</div>
-</p>
+<figure class="wp-block-image">
+<img src="images/MathsBusking2012LFoS 007.webp" />
+</figure>
+
+<figure class="wp-block-image">
+<img src="images/MathsBusking2012LFoS 012.webp" />
+</figure>
+
+<figure class="wp-block-image">
+<img src="images/MathsBusking2012LFoS 027.webp" />
+</figure>
 
 For more information, of if you would like to book some Maths Buskers for a school, a science
 festival or any other event you can get in touch with the organisers at

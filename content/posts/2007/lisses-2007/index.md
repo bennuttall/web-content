@@ -8,9 +8,15 @@ decker, might I add!) to Evry Courcouronnes and tried to find our way to the hot
 an hour or so of walking through the Parisian suburbs in the dark, I was starting to get a little
 concerned, we went on...and on...and on...until suddenly Danny shouted out in ecstasy "it's there –
 the Dame Du Lac!" which I took me be a good sign immediately, seeing as we'd been told that the
-hotel was a short walk from the Dame. (Note: the Dame Du Lac (Lady of the Lake) is a man-made
-architectural climbing structure in the Park Du Lac (Park of the Lake), which is commonly used to
-practise parkour on)
+hotel was a short walk from the Dame.
+
+<figure class="wp-block-image">
+<img src="images/lisses8.webp" />
+<figcaption>La Dame Du Lac</figcaption>
+</figure>
+
+*(Note: the Dame Du Lac (Lady of the Lake) is a man-made architectural climbing structure in the Park
+Du Lac (Park of the Lake), which is commonly used to practise parkour on)*
 
 We eventually found the hotel and sorted our rooms out, showered and went out in search for food,
 the venture lasted hours and we found nowhere open (this was a Sunday evening) so we went back to

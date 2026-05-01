@@ -9,7 +9,7 @@ something on the dame du lac..." (at which point I immediately guessed what he w
 was shocked!) and then sent me this photo he had taken just a few days before:
 
 <figure class="wp-block-image">
-<img src="images/lisses14-700x525.webp" />
+<img src="images/IMG_0264.webp" />
 </figure>
 
 That is all that was written on the paper so the guy decided to Google my name in search for me, and

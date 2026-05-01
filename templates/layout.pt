@@ -16,12 +16,12 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@ben_nuttall" />
     <tal:block tal:condition="not (post or page)">
-      <meta name="twitter:image" content="${site.config.base_url}/finn.jpg" />
-      <meta property="og:image" content="${site.config.base_url}/finn.jpg" />
+      <meta name="twitter:image" content="${site.config.base_url}/finn.webp" />
+      <meta property="og:image" content="${site.config.base_url}/finn.webp" />
     </tal:block>
     <tal:block tal:condition="(post and not post.og_image) or (page and not page.og_image)">
-      <meta name="twitter:image" content="${site.config.base_url}/finn.jpg" />
-      <meta property="og:image" content="${site.config.base_url}/finn.jpg" />
+      <meta name="twitter:image" content="${site.config.base_url}/finn.webp" />
+      <meta property="og:image" content="${site.config.base_url}/finn.webp" />
     </tal:block>
     <style id='wp-emoji-styles-inline-css' type='text/css'>
       img.wp-smiley, img.emoji {

@@ -1,4 +1,4 @@
-modified: '2025-08-23T14:02:15+01:00'
+modified: '2026-04-30T23:01:01+01:00'
 published: '2009-04-14T19:00:00'
 tags:
 - web-development
@@ -6,3 +6,4 @@ tags:
 - internet-explorer
 - meta
 title: Version 3 and Problems with IE
+og_image: images/W3C_and_Internet_Explorer_box_models.webp

@@ -4,7 +4,7 @@ featuring their coverage of me explaining my [nontransitive
 dice](http://en.wikipedia.org/wiki/Nontransitive_dice) session! Also some screen time with
 [Sam](http://mightaswell.co.uk/) of [Manchester Girl Geeks](http://manchester.girlgeekdinners.com/)
 (who gave a brilliant keynote); [Tom Crick](http://twitter.com/DrTomCrick) (Cardiff Metropolitan
-University); and of course, organiser [Alan O'Donahoe](http://twitter.com/teknoteacher).
+University); and of course, organiser [Alan O'Donohoe](http://twitter.com/teknoteacher).
 
 I had a great time at the event, got to witness a real sensation of excitement for computer science
 amongst children. It's really encouraging that we're finally harnessing that energy and hopefully

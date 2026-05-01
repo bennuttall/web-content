@@ -39,7 +39,7 @@ so can be doubled) then you are left with a negative width, which is impossible,
 disappears! The diagram below should explain this clearer:
 
 <figure class="wp-block-image">
-<a href="http://upload.wikimedia.org/wikipedia/commons/b/bd/W3C_and_Internet_Explorer_box_models.png"><img src="http://upload.wikimedia.org/wikipedia/commons/b/bd/W3C_and_Internet_Explorer_box_models.png" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS_box_model"><img src="W3C_and_Internet_Explorer_box_models.webp" /></a>
 </figure>
   
 It's things like this that make web design much harder than it should be, because although everyone

@@ -1,5 +1,10 @@
-I just read an article on BBC News. All quotes are taken directly from that article. The link is at
-the bottom of this post.
+I just read an article on BBC News: [Norwich City kit published on internet by boy ahead of
+launch](http://www.bbc.co.uk/news/uk-england-norfolk-17767236). All quotes are taken directly from
+that article.
+
+<figure class="wp-block-image">
+<a href="http://www.bbc.co.uk/news/uk-england-norfolk-17767236"><img src="images/chris-brown-norwich-fan.webp" /></a>
+</figure>
 
 > Norwich City kit published on internet by boy ahead of launch
 

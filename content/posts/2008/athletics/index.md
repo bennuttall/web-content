@@ -16,7 +16,7 @@ string attached to your wait to measure how far you pulled it and read the readi
 which was 70cm, which was the highest they'd had all day, then I got 74cm on my second go.
 
 <figure class="wp-block-image">
-<img src="images/IMG_1398.JPG" />
+<img src="images/IMG_1398.webp" />
 <figcaption>Smashing the records</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ and land on a super soft crash mat on your back is in this event - you couldn't 
 anywhere else.
 
 <figure class="wp-block-image">
-<img src="images/IMG_1400.JPG" />
+<img src="images/IMG_1400.webp" />
 <figcaption>Jordan, Lewis and Will at the EIS</figcaption>
 </figure>
 

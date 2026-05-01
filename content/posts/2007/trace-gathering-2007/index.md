@@ -76,6 +76,10 @@ Many thanks to [Jason](http://www.tracehq.com/) and [Dave](http://www.norther
 organising and running an awesome week of meeting people and training in a fantastic atmosphere.
 Also thanks to all the Trace reps who made it what it was. Roll on TRACE 08!
 
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BdLuudtUh4k?si=xK2eRK35nqTXYnNK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
+
 Most of the photos courtesy of [Shane Rounce](http://www.shanerouce.com/). Check out his
 photographic display at [Flickr](http://www.flickr.com/shanerounce).
 

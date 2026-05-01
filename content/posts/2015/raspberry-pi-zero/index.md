@@ -81,7 +81,7 @@ Be sure to wire up your LEDs and switch carefully and correctly. Write some code
 <a href="https://www.raspberrypi.org/blog/gpio-zero-a-friendly-python-api-for-physical-computing/">GPIO Zero</a>)
 to make the LEDs flash when the tilt switch is activated, then add a battery pack and prepare to shine!
 
-![](images/IMG_0752.JPG)
+![](images/IMG_0752.webp)
 
 ### Paintables: Zero conductive paint circuits
 
@@ -90,7 +90,7 @@ such as LEDs made for wearable projects, and write code to have them flash. Not 
 sounds—and easy to try out different ideas on different bits of paper. Try writing out words or
 patterns or make your own circuit puzzles for people to play.
 
-![](images/IMG_0740-2.JPG)
+![](images/IMG_0740-2.webp)
 
 ### Drive-ables: Zero robot
 
@@ -111,7 +111,7 @@ helium balloons with a camera module taking pictures or video the whole journey,
 make use of the Zero in his next high-altitude balloon flight. Although the Zero doesn't have a CSI
 camera port, you can always use a USB webcam instead of the official camera module.
 
-![](images/P1010529.JPG)
+![](images/P1010529.webp)
 
 ## Zero add-on boards?
 

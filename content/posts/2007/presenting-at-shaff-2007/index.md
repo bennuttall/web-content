@@ -3,6 +3,10 @@ for Daniel Ilabaca to present the parkour films and do a talk on parkour at
 [ShAFF](http://www.shaff.co.uk/) – the Sheffield Adventure Film Festival (Daniel couldn't make it as
 he's currently filming in India), anyway, Luke asked if I could step in for him.
 
+<figure class="wp-block-image">
+<img src="images/ShAFF_2007_Poster.webp" />
+</figure>
+
 So I spent most of Thursday afternoon sorting things out with Luke over msn, trying to ascertain
 exactly what I would have to talk about and what the films were and then speaking to Matt Heason
 (the guy who runs ShAFF). I didn't have much time to prepare (as it was in two days' time), but I

@@ -3,6 +3,10 @@ Edinburgh organised by a group of local tech guys. It's the first one they've ru
 from the idea they had to get a bunch of web folk together for a fun conference and social
 gathering.
 
+<figure class="wp-block-image">
+<img src="images/2012-04-13 17.49.35.webp" />
+</figure>
+
 Held in the heart of the wonderful and beautiful city of Edinburgh, near the castle, it was quite a
 trek for us in Preston, but the 3.5 hours easily passed with us hopping on Virgin's 'First Class'
 wifi (we were sitting near First Class) and chatting about tech, code, games, hacking and whatnot
@@ -81,7 +85,9 @@ of course we enjoyed the whisky. Following this we all proceeded to the pub. A r
 few of us ([Derick](http://twitter.com/derickr), [Rob](http://twitter.com/akrabat),
 [Michael](http://twitter.com/mgdm), [Volker](http://twitter.com/__edorian) & I) went to a quieter
 pub for a chat, had a couple of beers followed by a couple of whiskies before heading back to our
-hotels to rest for the hack day. The hack day involved people a variety of things, whatever they
+hotels to rest for the hack day.
+
+The hack day involved people a variety of things, whatever they
 wanted to. Some did development on a project from a list of suggestions, others took the time to do
 something they didn't get chance to do at work. At the Magma table some of us did [Zend Framework
 2](http://framework.zend.com/zf2) tutorials, [Adrian](http://twitter.com/adrianhardy) worked on an
@@ -92,11 +98,28 @@ side of the assertEquals to that. Then we ran PHPUnit on the suite and output th
 json object in a file, which we then read in and displayed the results back to the user to inform
 them of their progress through the challenges, like the way the Ruby one does. We made a certain
 amount of progress at the hack day before heading home on the train. We continued work on the koans
-on the train back to Manchester and had the framework fully working by the time we got home. I then
-put the project on github and we intend to plan and implement a full set of tests which will teach
-the student how the constructs of PHP works. So there you have it – the [PHP
+on the train back to Manchester and had the framework fully working by the time we got home.
+
+<figure class="wp-block-image">
+<img src="images/2012-04-14 11.28.13.webp" />
+</figure>
+
+I then put the project on github and we intend to plan and implement a full set of tests which will
+teach the student how the constructs of PHP works. So there you have it – the [PHP
 Koans](https://github.com/bennuttall/PHP-Koans) – watch out for a full release in coming months. We
 hope to announce/launch it at [PHPNW](http://phpnw.org.uk/) in August in a lightning talk.
+
+<figure class="wp-block-image">
+<img src="images/2012-04-13 11.58.07.webp" />
+</figure>
+
+<figure class="wp-block-image">
+<img src="images/2012-04-13 14.03.21.webp" />
+</figure>
+
+<figure class="wp-block-image">
+<img src="images/2012-04-13 14.45.26.webp" />
+</figure>
 
 Nothing more to be said other than that I had a fantastic time – thanks so much to the organisers
 [Joe](http://twitter.com/juokaz), [Dale](http://twitter.com/daleharvey),

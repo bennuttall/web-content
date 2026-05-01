@@ -11,7 +11,7 @@ entered 10 years, the loop would have to run 10 times), which was kind of fiddly
 you don't know what a for loop is, it's quite common in many programming languages, and here's a
 brief explanation:
 
-```matlab
+```
 for i = 1:10
     a = 2*i
 end
@@ -50,6 +50,10 @@ move the the left), the if statement checks to see whether j is divisible by 2: 
 y-coordinates increment by 1; if not, they decrement. This makes the boat (and all its related
 shapes, again not shown) move up and down alternately. The assignment handout included a video of an
 animation worth 90% and it was much simpler than mine so I should have scored fairly well.
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SBGpr8i57ho?si=-NB8YAgOkFpdFyXJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
 
 Once I had this finished and submitted I had to get on with my Java assignment: to make a simple
 sketching program in Java, as an applet for HTML. About 24 hours before the deadline I hadn't done

@@ -96,11 +96,9 @@ Here you can see a wide variety of helpful information inferred from the data, i
 - Under `releases`:
   - There's a variable key name, which contains an array...
 
-Unfortunately, structa is not published on PyPI yet, so for now you have to install it from
+structa can be installed from [PyPI](https://pypi.org/project/structa/) and its source is on
 [GitHub](https://github.com/waveform80/structa):
 
 ```
-git clone https://github.com/waveform80/structa
-cd structa
-pip install .
+pip install structa
 ```
