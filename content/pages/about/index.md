@@ -27,5 +27,5 @@ services to the Python community
 - GitHub: [github.com/bennuttall](https://github.com/bennuttall)
 - LinkedIn: [linkedin.com/in/ben-td-nuttall](https://linkedin.com/in/ben-td-nuttall)
 - BlueSky: [bsky.app/profile/bennuttall.bsky.social](https://bsky.app/profile/bennuttall.bsky.social)
-- Twitter: [twitter.com/ben_nuttall](https://twitter.com/ben_nuttall)
+- Twitter: [x.com/ben_nuttall](https://x.com/ben_nuttall)
 - Flickr: [flickr.com/photos/ben_nuttall](https://flickr.com/photos/ben_nuttall)

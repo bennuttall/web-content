@@ -35,13 +35,6 @@
           Tags: <a tal:repeat="tag post.tags" href="/blog/tags/${tag}">${tag.replace("-", " ")}</a>
         </div>
       </div>
-      <div class="small-12 medium-8 columns">
-        <ul>
-          <li><a href="/blog/">See more posts</a></li>
-          <li><a href="/blog/archive/">See the archive</a></li>
-          <li><a href="/blog/tags/">See all tags</a></li>
-        </ul>
-      </div>
     </div>
   </section>
 </div>
