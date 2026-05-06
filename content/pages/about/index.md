@@ -29,3 +29,14 @@ services to the Python community
 - BlueSky: [bsky.app/profile/bennuttall.bsky.social](https://bsky.app/profile/bennuttall.bsky.social)
 - Twitter: [x.com/ben_nuttall](https://x.com/ben_nuttall)
 - Flickr: [flickr.com/photos/ben_nuttall](https://flickr.com/photos/ben_nuttall)
+- YouTube: [youtube.com/@BenNuttall](https://www.youtube.com/@BenNuttall)
+
+### More links
+
+- Wikipedia: [wikipedia.org/wiki/User:Spk_ben](https://en.wikipedia.org/wiki/User:Spk_ben)
+- Launchpad: [launchpad.net/~bennuttall](https://launchpad.net/~bennuttall)
+- OpenBenches: [openbenches.org/user/10020](https://openbenches.org/user/10020)
+- raspberrypi.com: [raspberrypi.com/news/author/bennuttall/](https://www.raspberrypi.com/news/author/bennuttall/)
+- raspberrypi.org: [raspberrypi.org/blog/author/bennuttall/](https://www.raspberrypi.org/blog/author/bennuttall/)
+- Opensource.com: [opensource.com/users/bennuttall](https://opensource.com/users/bennuttall)
+- BBC News Labs: [bbc.co.uk/rdnewslabs/author/?id=author-ben-nuttall020823161834](https://www.bbc.co.uk/rdnewslabs/author/?id=author-ben-nuttall020823161834)
