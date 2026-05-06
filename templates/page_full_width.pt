@@ -13,17 +13,14 @@
   <div metal:fill-slot="title" tal:omit-tag="1">${page.title}</div>
 
   <section metal:fill-slot="content">
-    <div>
-      <div class="row">
-        <div class="small-12 columns">
-          <h1>${page.title}</h1>
-        </div>
+    <div class="row">
+      <div class="small-12 columns">
+        <h1>${page.title}</h1>
       </div>
-      <div class="row">
-        <div class="small-12 columns entry-content">
-          <div tal:content="structure page.html"></div>
-        </div>
+      <div class="small-12 columns entry-content">
+        <div tal:content="structure page.html"></div>
       </div>
+      <div class="small-12 medium-8 columns">&nbsp;</div>
     </div>
   </section>
 </div>

@@ -23,6 +23,7 @@
           Tags: <a tal:repeat="tag post.tags" href="/blog/tags/${tag}">${tag.replace("-", " ")}</a>
         </div>
       </div>
+      <div class="small-12 medium-8 columns">&nbsp;</div>
     </div>
   </section>
 </div>
