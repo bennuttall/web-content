@@ -14,14 +14,23 @@
     <div class="row">
       <div class="small-12 medium-8 columns">
         <h1>Blog</h1>
-      </div>
-      <div class="small-12 medium-8 columns" tal:repeat="post site.posts">
-        <time datetime="${post.published.isoformat(timespec='seconds')}" title="${post.published.isoformat(timespec='seconds')}">${post.published.strftime("%-d %B %Y")}</time>
-        <h2><a href="/${post.link}" tal:content="structure post.title"></a></h2>
-        <p tal:content="structure post.excerpt"></p>
-        <div class="callout primary tags">
-          Tags: <a tal:repeat="tag post.tags" href="/blog/tags/${tag}">${tag.replace("-", " ")}</a>
+        <div tal:repeat="post site.posts[:10]">
+          <time datetime="${post.published.isoformat(timespec='seconds')}" title="${post.published.isoformat(timespec='seconds')}">${post.published.strftime("%-d %B %Y")}</time>
+          <h2><a href="/${post.link}" tal:content="structure post.title"></a></h2>
+          <p tal:content="structure post.excerpt"></p>
+          <div class="callout primary tags">
+            Tags: <a tal:repeat="tag post.tags" href="/blog/tags/${tag}">${tag.replace("-", " ")}</a>
+          </div>
         </div>
+      </div>
+      <div class="small-12 medium-4 columns">
+        <h3>Archive</h3>
+        <ul>
+          <li><a href="/blog/archive/">All</a></li>
+          <li tal:repeat="year site.archive.keys()">
+            <a href="/blog/${year}/">${year}</a>
+          </li>
+        </ul>
       </div>
       <div class="small-12 medium-8 columns">&nbsp;</div>
     </div>
