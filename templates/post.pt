@@ -43,13 +43,7 @@
             <nav tal:condition="next_post" class="next"><a href="/${next_post.link}" rel="next" tal:content="structure next_post.title"></a> &raquo;</nav>
           </div>
         </div>
-        <div class="small-12 medium-8 columns">
-          <ul>
-            <li><a href="/blog/">See all posts</a></li>
-            <li><a href="/blog/archive/">See the archive</a></li>
-            <li><a href="/blog/tags/">See all tags</a></li>
-          </ul>
-        </div>
+        <div class="small-12 medium-8 columns">&nbsp;</div>
       </div>
     </div>
   </section>
