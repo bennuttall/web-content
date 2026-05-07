@@ -35,6 +35,7 @@
         <h3>Archive</h3>
         <ul>
           <li><a href="/blog/archive/">All</a></li>
+          <li><a href="/blog/tags/">Tags</a></li>
           <li tal:repeat="year site.archive.keys()">
             <a href="/blog/${year}/">${year}</a>
           </li>
