@@ -64,18 +64,15 @@ h1, h1 a:link, h1 a:visited, h2 a:link, h2 a:visited {
 }
 
 body {
-  position: relative;
+  display: flex;
+  flex-direction: column;
   margin: 0;
   min-height: 100%;
-  padding-bottom: 280px;
   font-family: "Roboto", Arial, sans-serif;
 }
 
 footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
+  margin-top: auto;
   background: #159ed5;
   color: white;
   font-family: "Roboto Condensed", Arial, sans-serif;
@@ -234,6 +231,12 @@ figure {
 .wp-block-image img {
   display: block;
   max-width: 100%;
+  height: auto;
+}
+
+.wp-block-image iframe {
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
   height: auto;
 }
 

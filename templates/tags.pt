@@ -11,23 +11,27 @@
   <div metal:fill-slot="title" tal:omit-tag="1">Tags</div>
 
   <section metal:fill-slot="content">
-    <div>
-      <div class="row">
-        <div class="small-12 columns">
-          <h1>Tags</h1>
-        </div>
+    <div class="row">
+      <div class="small-12 columns">
+        <h1>Tags</h1>
       </div>
-      <div class="row">
-        <div class="small-12 medium-8 columns">
-          <ul>
-            <li tal:repeat="(tag, posts) site.tags.items()">
-              <a href="/blog/tags/${tag}/">${tag.replace("-", " ")}</a> (${len(posts)})
-            </li>
-          </ul>
-        </div>
+    </div>
+    <div class="row">
+      <div class="small-12 medium-8 columns">
+        <ul>
+          <li tal:repeat="(tag, posts) site.tags.items()">
+            <a href="/blog/tags/${tag}/">${tag.replace("-", " ")}</a> (${len(posts)})
+          </li>
+        </ul>
       </div>
-      <div class="row">
-        <div class="small-12 medium-8 columns">&nbsp;</div>
+      <div class="small-12 medium-4 columns">
+        <h3>Archive</h3>
+        <ul>
+          <li><a href="/blog/archive/">All</a></li>
+          <li tal:repeat="year site.archive.keys()">
+            <a href="/blog/${year}/">${year}</a>
+          </li>
+        </ul>
       </div>
     </div>
   </section>
