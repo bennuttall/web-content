@@ -299,6 +299,13 @@ figcaption a:link, figcaption a:hover {
   cursor: pointer;
 }
 
+@media (max-width: 640px) {
+  .gallery-thumbs img {
+    width: 50px;
+    height: 38px;
+  }
+}
+
 .gallery-thumbs a:hover img {
   opacity: 1;
 }
