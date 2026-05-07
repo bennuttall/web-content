@@ -92,6 +92,7 @@
             <li><a href="/blog/">Blog index</a></li>
             <li><a href="/blog/archive/">Archive</a></li>
             <li><a href="/blog/tags/">Tags</a></li>
+            <li><a href="/images/">Images</a></li>
             <li><a href="/blog/atom.xml">Atom feed</a></li>
           </ul>
         </div>

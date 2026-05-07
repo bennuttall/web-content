@@ -313,3 +313,10 @@ figcaption a:link, figcaption a:hover {
 .gallery-thumbs a:hover img {
   opacity: 1;
 }
+
+.image-grid img {
+  width: 80px;
+  height: 60px;
+  object-fit: cover;
+  margin: 0.1rem 0;
+}

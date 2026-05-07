@@ -1,0 +1,30 @@
+<div metal:use-macro="layout">
+  <div metal:fill-slot="head" tal:omit-tag="1">
+    <meta name="description" content="${page.description}" />
+    <meta property="og:url" content="${site.config.base_url}/${page.slug}/" />
+    <meta property="og:title" content="${page.title}" />
+    <meta property="og:description" content="${page.description}" />
+    <meta name="twitter:title" content="${page.title}" />
+    <meta name="twitter:description" content="${page.description}" />
+    <meta tal:condition="page.og_image" property="og:image" content="${site.config.base_url}/${page.slug}/${page.og_image}" />
+    <meta tal:condition="page.og_image" name="twitter:image" content="${site.config.base_url}/${page.slug}/${page.og_image}" />
+  </div>
+
+  <div metal:fill-slot="title" tal:omit-tag="1">${page.title}</div>
+
+  <section metal:fill-slot="content">
+    <div class="row">
+      <div class="small-12 columns">
+        <h1>${page.title}</h1>
+      </div>
+      <div class="small-12 columns image-grid">
+        <tal:block repeat="post site.posts">
+          <tal:block repeat="image post.images">
+            <a href="/${post.link}/"><img src="/${post.link}/images/${image.name}" title="${post.title}" /></a>
+          </tal:block>
+        </tal:block>
+      </div>
+      <div class="small-12 medium-8 columns">&nbsp;</div>
+    </div>
+  </section>
+</div>
