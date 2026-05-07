@@ -13,7 +13,7 @@ RewriteRule ^blog/2016/03/gpio-zero/?$ /blog/2016/02/gpio-zero/ [R=301,L]
 RewriteRule ^blog/2018/03/speedy-python-package-installation-for-raspberry-pi/?$ /blog/2018/10/speedy-python-package-installation-for-raspberry-pi/ [R=301,L]
 
 # Blogger
-RewriteRule ^(blog/)?2010/03/year-of-twitter.html$  [L,R=301]
+RewriteRule ^(blog/)?2010/03/year-of-twitter.html$ /blog/2010/03/a-year-of-twitter/ [L,R=301]
 RewriteRule ^(blog/)?2010/02/itv-fixers-absute-radio.html$ /blog/2010/02/itv-fixers-and-absolute-radio/ [L,R=301]
 RewriteRule ^(blog/)?2010/02/goodbye-blogger.html$ /blog/2010/02/goodbye-blogger/ [L,R=301]
 RewriteRule ^(blog/)?2010/01/midnight-ice-climb-up-helvlyn.html$ /blog/2010/01/midnight-ice-climb-helvellyn/ [L,R=301]
