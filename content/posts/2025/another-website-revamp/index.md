@@ -7,6 +7,11 @@ big hit, like [The surreal experience of my first developer
 job](/blog/2021/04/the-surreal-experience-of-my-first-developer-job/) which sat at the top of
 [Hacker News](https://news.ycombinator.com/item?id=28058816) for a whole day.
 
+<figure class="wp-block-image">
+<img src="images/website.webp" />
+<figcaption>bennuttall.com 2025</figcaption>
+</figure>
+
 My regular site revamping has been documented over the years...
 
 > I decided I needed a new website template so I made one
