@@ -84,6 +84,10 @@ footer .fat-footer {
   text-align: left;
 }
 
+footer .fat-footer ul li {
+  list-style-type: none;
+}
+
 footer h4 {
   color: white;
   font-family: "Roboto Condensed", Arial, sans-serif;
