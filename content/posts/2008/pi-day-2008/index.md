@@ -2,8 +2,8 @@
 diameter, symbolised by the [greek letter Pi](http://en.wikipedia.org/wiki/Pi_%28letter%29),
 approximately 3.14159265358979323846264338327 (not rounded)
 
-**Pi Day** – A geek holiday held to celebrate the mathematical constant Pi, observed on March 14 (3/14
-in the American date format)
+**Pi Day** – A geek holiday held to celebrate the mathematical constant Pi, observed on March 14
+(3/14 in the American date format)
 
 We celebrated Pi Day 2008 in style. My Maths class were particularly excited about it, and I'd
 brought in some pies and cakes and other circular food, as well as a half-moon cake (because there
@@ -25,67 +25,77 @@ something in nature, space, the truth about life ... who knows?
 
 Read more about Pi on wikipedia: [http://en.wikipedia.org/wiki/Pi](http://en.wikipedia.org/wiki/Pi)
 
-<p>
-		<style type="text/css">
-			#gallery-44 {
-				margin: auto;
-			}
-			#gallery-44 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-44 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-44 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1147 gallery-columns-3 gallery-size-thumbnail" id="gallery-44"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0370.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0377.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_0388.resized-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0389.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0390.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0387.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0391.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0376.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0379.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0372.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0371.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0380.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0384.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0385.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-10">
+<img src="images/IMG_0387.webp" />
+</figure>
+
+<figure id="gallery-11">
+<img src="images/IMG_0388.webp" />
+</figure>
+
+<figure id="gallery-12">
+<img src="images/IMG_0389.webp" />
+</figure>
+
+<figure id="gallery-13">
+<img src="images/IMG_0390.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/IMG_0371.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/IMG_0372.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/IMG_0376.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/IMG_0377.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/IMG_0379.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/IMG_0380.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/IMG_0384.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/IMG_0385.webp" />
+</figure>
+
+<figure id="gallery-14">
+<img src="images/IMG_0391.webp" />
+</figure>
+
+<figure id="gallery-1">
+<img src="images/IMG_0370.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-10"><img src="images/IMG_0387.webp" /></a>
+<a href="#gallery-11"><img src="images/IMG_0388.webp" /></a>
+<a href="#gallery-12"><img src="images/IMG_0389.webp" /></a>
+<a href="#gallery-13"><img src="images/IMG_0390.webp" /></a>
+<a href="#gallery-2"><img src="images/IMG_0371.webp" /></a>
+<a href="#gallery-3"><img src="images/IMG_0372.webp" /></a>
+<a href="#gallery-4"><img src="images/IMG_0376.webp" /></a>
+<a href="#gallery-5"><img src="images/IMG_0377.webp" /></a>
+<a href="#gallery-6"><img src="images/IMG_0379.webp" /></a>
+<a href="#gallery-7"><img src="images/IMG_0380.webp" /></a>
+<a href="#gallery-8"><img src="images/IMG_0384.webp" /></a>
+<a href="#gallery-9"><img src="images/IMG_0385.webp" /></a>
+<a href="#gallery-14"><img src="images/IMG_0391.webp" /></a>
+<a href="#gallery-1"><img src="images/IMG_0370.webp" /></a>
+</div>
 </div>

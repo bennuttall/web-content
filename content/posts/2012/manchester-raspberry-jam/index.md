@@ -21,6 +21,31 @@ the word '[Yahoo](http://en.wikipedia.org/wiki/Yahoo!)' that often appeared was 
 and my first delivered tech solution at age 11 involving a series of coloured [floppy
 disks](http://en.wikipedia.org/wiki/Floppy_disk#3+1.E2.81.842-inch_floppy_disk_.28.22Microfloppy.22.29).
 
+<div class="gallery">
+<figure id="gallery-14">
+<img src="images/7361037286_bc89dc7150_b.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/7175808479_a06cf04101_b.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/7361030136_2f2c7c2a9f_b.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/7361027628_854f527f2b_b.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-14"><img src="images/7361037286_bc89dc7150_b.webp" /></a>
+<a href="#gallery-5"><img src="images/7175808479_a06cf04101_b.webp" /></a>
+<a href="#gallery-9"><img src="images/7361030136_2f2c7c2a9f_b.webp" /></a>
+<a href="#gallery-8"><img src="images/7361027628_854f527f2b_b.webp" /></a>
+</div>
+</div>
+
 I kicked things off by initialising a barcamp-style talks grid, and encouraged people to give talks
 or demos – we had a Python tutorial, talks on Linux for beginners and 3D printing a RasPi case, and
 a demo of a Raspberry Pi / [Arduino](http://www.arduino.cc/) hybrid implementation of the game
@@ -49,6 +74,26 @@ just went back to her Pi and started typing away. She'd remembered all the thing
 tutorial, and tried to recreate the examples shown. With a little help from me (syntax only) she
 managed to build a command line based 'game' making use of user input and randomly generated
 numbers. These kids have serious potential. When given the opportunity, they make awesome stuff.
+
+<div class="gallery">
+<figure id="gallery-2">
+<img src="images/2012-07-14-13.47.13.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/7175811295_76a93b35d2_b.webp" />
+</figure>
+
+<figure id="gallery-15">
+<img src="images/python.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-2"><img src="images/2012-07-14-13.47.13.webp" /></a>
+<a href="#gallery-6"><img src="images/7175811295_76a93b35d2_b.webp" /></a>
+<a href="#gallery-15"><img src="images/python.webp" /></a>
+</div>
+</div>
 
 Once we packed everything away I got together with the guys from the [Blackpool Linux User
 Group](http://blackpoollug.blogspot.co.uk/) and we began recording for the [Full Circle
@@ -83,75 +128,50 @@ I think it's fair to say that everyone who comes to one of these events finds so
 the Pi they didn't know before – the skills sharing nature of the Jam is to be praised and I would
 encourage anyone of any age or experience to attend one – or start their own!
 
-Update: a few pictures from Jams I & II:
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/2012-07-14-10.47.13.webp" />
+</figure>
 
-<p>
-<style type="text/css">
-			#gallery-31 {
-				margin: auto;
-			}
-			#gallery-31 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-31 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-31 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-146 gallery-columns-3 gallery-size-thumbnail" id="gallery-31"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/7175788997_fb4a4deaeb_b-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/python-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/7361037286_bc89dc7150_b-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/7175806021_7f126cffee_b-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/7175808479_a06cf04101_b-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/7175811295_76a93b35d2_b-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/7360996062_37e99f4c20_b-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/7361027628_854f527f2b_b-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/7361032156_599f343f38_b-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/7361033148_b2df741cb8_b-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/7361033532_9ac8b89cfd_b-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/7361036618_c40ed879d3_b-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/7361030136_2f2c7c2a9f_b-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-07-14-10.47.13-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-07-14-13.47.13-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<figure id="gallery-3">
+<img src="images/7175788997_fb4a4deaeb_b.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/7175806021_7f126cffee_b.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/7360996062_37e99f4c20_b.webp" />
+</figure>
+
+<figure id="gallery-10">
+<img src="images/7361032156_599f343f38_b.webp" />
+</figure>
+
+<figure id="gallery-11">
+<img src="images/7361033148_b2df741cb8_b.webp" />
+</figure>
+
+<figure id="gallery-12">
+<img src="images/7361033532_9ac8b89cfd_b.webp" />
+</figure>
+
+<figure id="gallery-13">
+<img src="images/7361036618_c40ed879d3_b.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/2012-07-14-10.47.13.webp" /></a>
+<a href="#gallery-3"><img src="images/7175788997_fb4a4deaeb_b.webp" /></a>
+<a href="#gallery-4"><img src="images/7175806021_7f126cffee_b.webp" /></a>
+<a href="#gallery-7"><img src="images/7360996062_37e99f4c20_b.webp" /></a>
+<a href="#gallery-10"><img src="images/7361032156_599f343f38_b.webp" /></a>
+<a href="#gallery-11"><img src="images/7361033148_b2df741cb8_b.webp" /></a>
+<a href="#gallery-12"><img src="images/7361033532_9ac8b89cfd_b.webp" /></a>
+<a href="#gallery-13"><img src="images/7361036618_c40ed879d3_b.webp" /></a>
 </div>
-</p>
+</div>
 
 Photos courtesy of [Les Pounder's Flickr](http://www.flickr.com/photos/45703688@N07/sets/72157630039787875/)
 and [Dan Hett's blog](http://blog.danhett.com/)

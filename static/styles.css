@@ -252,3 +252,50 @@ figure {
 figcaption a:link, figcaption a:hover {
   color: white;
 }
+
+.gallery {
+  margin: 20px 0;
+}
+
+.gallery figure {
+  display: none;
+  margin: 0;
+}
+
+.gallery figure:first-of-type {
+  display: block;
+}
+
+.gallery:has(figure:target) figure:first-of-type:not(:target) {
+  display: none;
+}
+
+.gallery figure:target {
+  display: block;
+}
+
+.gallery figure img {
+  width: 100%;
+  max-height: 500px;
+  object-fit: contain;
+  background: #000;
+}
+
+.gallery-thumbs {
+  display: flex;
+  gap: 6px;
+  margin-top: 6px;
+  flex-wrap: wrap;
+}
+
+.gallery-thumbs img {
+  width: 80px;
+  height: 60px;
+  object-fit: cover;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.gallery-thumbs a:hover img {
+  opacity: 1;
+}

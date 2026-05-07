@@ -65,15 +65,15 @@ offer them. I love public engagement as a hobby, and I admire anyone who does it
 a more regular basis.
 
 <figure class="wp-block-image">
-<img src="images/MathsBusking2012LFoS 007.webp" />
+<img src="images/MathsBusking2012LFoS_007.webp" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/MathsBusking2012LFoS 012.webp" />
+<img src="images/MathsBusking2012LFoS_012.webp" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/MathsBusking2012LFoS 027.webp" />
+<img src="images/MathsBusking2012LFoS_027.webp" />
 </figure>
 
 For more information, of if you would like to book some Maths Buskers for a school, a science

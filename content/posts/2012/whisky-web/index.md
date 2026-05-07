@@ -4,7 +4,7 @@ from the idea they had to get a bunch of web folk together for a fun conference
 gathering.
 
 <figure class="wp-block-image">
-<img src="images/2012-04-13 17.49.35.webp" />
+<img src="images/2012-04-13_17.49.35.webp" />
 </figure>
 
 Held in the heart of the wonderful and beautiful city of Edinburgh, near the castle, it was quite a
@@ -101,7 +101,7 @@ amount of progress at the hack day before heading home on the train. We continue
 on the train back to Manchester and had the framework fully working by the time we got home.
 
 <figure class="wp-block-image">
-<img src="images/2012-04-14 11.28.13.webp" />
+<img src="images/2012-04-14_11.28.13.webp" />
 </figure>
 
 I then put the project on github and we intend to plan and implement a full set of tests which will
@@ -110,15 +110,15 @@ Koans](https://github.com/bennuttall/PHP-Koans) – watch out for a full release
 hope to announce/launch it at [PHPNW](http://phpnw.org.uk/) in August in a lightning talk.
 
 <figure class="wp-block-image">
-<img src="images/2012-04-13 11.58.07.webp" />
+<img src="images/2012-04-13_11.58.07.webp" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/2012-04-13 14.03.21.webp" />
+<img src="images/2012-04-13_14.03.21.webp" />
 </figure>
 
 <figure class="wp-block-image">
-<img src="images/2012-04-13 14.45.26.webp" />
+<img src="images/2012-04-13_14.45.26.webp" />
 </figure>
 
 Nothing more to be said other than that I had a fantastic time – thanks so much to the organisers

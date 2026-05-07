@@ -108,6 +108,91 @@ can't remember exactly what my confused brain conjured up at the time but I seem
 being something along the lines "They're not mine, but they're sort of similar. They'll do." – I
 thanked and congratulated John and we headed back up to where the others were stood. Phew!
 
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/6736_215603215532_534170532_7800138_5273021_n.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/6736_215605455532_534170532_7800341_8067648_n.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/6736_215612695532_534170532_7800774_5523970_n.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/DSC01148.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/DSC01149.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/DSC01159.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/DSC01178.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/IMG_2567.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/IMG_2569.webp" />
+</figure>
+
+<figure id="gallery-10">
+<img src="images/IMG_2571.webp" />
+</figure>
+
+<figure id="gallery-11">
+<img src="images/IMG_2572.webp" />
+</figure>
+
+<figure id="gallery-12">
+<img src="images/IMG_2573.webp" />
+</figure>
+
+<figure id="gallery-13">
+<img src="images/IMG_2574.webp" />
+</figure>
+
+<figure id="gallery-14">
+<img src="images/IMG_2579.webp" />
+</figure>
+
+<figure id="gallery-15">
+<img src="images/IMG_2585.webp" />
+</figure>
+
+<figure id="gallery-16">
+<img src="images/IMG_2587.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/6736_215603215532_534170532_7800138_5273021_n.webp" /></a>
+<a href="#gallery-2"><img src="images/6736_215605455532_534170532_7800341_8067648_n.webp" /></a>
+<a href="#gallery-3"><img src="images/6736_215612695532_534170532_7800774_5523970_n.webp" /></a>
+<a href="#gallery-4"><img src="images/DSC01148.webp" /></a>
+<a href="#gallery-5"><img src="images/DSC01149.webp" /></a>
+<a href="#gallery-6"><img src="images/DSC01159.webp" /></a>
+<a href="#gallery-7"><img src="images/DSC01178.webp" /></a>
+<a href="#gallery-8"><img src="images/IMG_2567.webp" /></a>
+<a href="#gallery-9"><img src="images/IMG_2569.webp" /></a>
+<a href="#gallery-10"><img src="images/IMG_2571.webp" /></a>
+<a href="#gallery-11"><img src="images/IMG_2572.webp" /></a>
+<a href="#gallery-12"><img src="images/IMG_2573.webp" /></a>
+<a href="#gallery-13"><img src="images/IMG_2574.webp" /></a>
+<a href="#gallery-14"><img src="images/IMG_2579.webp" /></a>
+<a href="#gallery-15"><img src="images/IMG_2585.webp" /></a>
+<a href="#gallery-16"><img src="images/IMG_2587.webp" /></a>
+</div>
+</div>
+
 That day shook me up a bit, but the next river we did in France was fairly easy-going, and the next
 was big but not as scary. Then we had two days away from water as we headed up to [l'Alpe
 d'Huez](http://en.wikipedia.org/wiki/L'alpe_d'huez) which is a ski resort in the Winter; mountain
@@ -195,26 +280,26 @@ got Sara to tell the guy he'd been in an accident and taken to hospital, which w
 bringing it back for him. He was fine and didn't mind and gave her his driving license (Miles had
 left his driving licence as deposit, but my cheaper bike hadn't required a deposit).
 
-I took mine back, gave it to the guy, he didn't really say anything at first of acknowledge that I
-was there. I pointed out that I was returning his bike and he took it from me, sill saying nothing.
-I said "Ok?" and as he wheeled it off, still not really saying anything, I presumed everything was
-ok and that I had been excused. I said "Ok then, thank you. Bye.", just to confirm that I was going
-to go. He finally said "Ok. Bye bye." Then after a few seconds said "No wait ... no bye bye!" ... he
-was calling me back. He pointed at the bike and said "Broken!" Hmm. I don't know much about bikes
-but I was pretty sure that bike wasn't broken. I had just been riding it fine. "Sorry?? What's the
-problem?" I asked. "Broken!" he said. I tried to convey my look of confusion to him in order to get
-some more information out of him about his allegations, which seemed to work as he pointed to the
-centre of the back wheel where the chain can be notched onto the gears. I gave him my confused look
-again and he said "[Derailleur](http://en.wikipedia.org/wiki/Derailleur)!". At this point I urged
-the others to join me to try to work out between us what he was trying to say. He pointed again and
-repeated "Derailleur!" and the others knew what a derailleur was. I didn't. He was claiming it was
-bent. I couldn't tell if it was or not. The others said it seemed to look a little bent but looked
-ok, until he shifted it into a really high gear which when he demonstrated how the chain would
-always fall off when the wheel span in this high gear, because the derailleur was bent. Miles
-suggested bending it back but he explained how this was not possible. He wanted me to pay €32 for a
-replacement derailleur. He hadn't taken a monetary deposit or kept my passport or anything, yet he
-demanded a sum of money which was more than I had paid to hire the bike. I didn't think this was
-fair. Surely it's part of the cost of having a hire business, that eventually the equipment
+I took mine back, gave it to the guy, he didn't really say anything at first, or even acknowledge
+that I was there. I pointed out that I was returning his bike and he took it from me, sill saying
+nothing. I said "Ok?" and as he wheeled it off, still not really saying anything, I presumed
+everything was ok and that I had been excused. I said "Ok then, thank you. Bye.", just to confirm
+that I was going to go. He finally said "Ok. Bye bye." Then after a few seconds said "No wait ... no
+bye bye!" ... he was calling me back. He pointed at the bike and said "Broken!" Hmm. I don't know
+much about bikes but I was pretty sure that bike wasn't broken. I had just been riding it fine.
+"Sorry?? What's the problem?" I asked. "Broken!" he said. I tried to convey my look of confusion to
+him in order to get some more information out of him about his allegations, which seemed to work as
+he pointed to the centre of the back wheel where the chain can be notched onto the gears. I gave him
+my confused look again and he said "[Derailleur](http://en.wikipedia.org/wiki/Derailleur)!". At this
+point I urged the others to join me to try to work out between us what he was trying to say. He
+pointed again and repeated "Derailleur!" and the others knew what a derailleur was. I didn't. He was
+claiming it was bent. I couldn't tell if it was or not. The others said it seemed to look a little
+bent but looked ok, until he shifted it into a really high gear which when he demonstrated how the
+chain would always fall off when the wheel span in this high gear, because the derailleur was bent.
+Miles suggested bending it back but he explained how this was not possible. He wanted me to pay €32
+for a replacement derailleur. He hadn't taken a monetary deposit or kept my passport or anything,
+yet he demanded a sum of money which was more than I had paid to hire the bike. I didn't think this
+was fair. Surely it's part of the cost of having a hire business, that eventually the equipment
 depreciates with use and needs fixing or replacing, and I think it's unfair to put blame for damage
 on one person unless through reckless use. I wasn't going to pay him for a repair on something he'd
 hired to many people before me. I told him this and said I was going to go. He said he was going to
@@ -230,6 +315,56 @@ of Miles' bike so I could hardly complain. The annoying thing is I felt cheated.
 charged me €54 at the start of the day I'd have paid up and felt lucky it was much cheaper than
 Miles', but the fact that he'd claimed damages and demanded a further payment put a downer on the
 whole thing. But these things happen.
+
+<div class="gallery">
+<figure id="gallery-17">
+<img src="images/IMG_2589.webp" />
+</figure>
+
+<figure id="gallery-18">
+<img src="images/IMG_2590.webp" />
+</figure>
+
+<figure id="gallery-19">
+<img src="images/IMG_2593.webp" />
+</figure>
+
+<figure id="gallery-20">
+<img src="images/IMG_2595.webp" />
+</figure>
+
+<figure id="gallery-21">
+<img src="images/IMG_2599.webp" />
+</figure>
+
+<figure id="gallery-22">
+<img src="images/IMG_2605.webp" />
+</figure>
+
+<figure id="gallery-23">
+<img src="images/IMG_2606.webp" />
+</figure>
+
+<figure id="gallery-24">
+<img src="images/IMG_2611.webp" />
+</figure>
+
+<figure id="gallery-25">
+<img src="images/IMG_2612.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-17"><img src="images/IMG_2589.webp" /></a>
+<a href="#gallery-18"><img src="images/IMG_2590.webp" /></a>
+<a href="#gallery-19"><img src="images/IMG_2593.webp" /></a>
+<a href="#gallery-20"><img src="images/IMG_2595.webp" /></a>
+<a href="#gallery-21"><img src="images/IMG_2599.webp" /></a>
+<a href="#gallery-22"><img src="images/IMG_2605.webp" /></a>
+<a href="#gallery-23"><img src="images/IMG_2606.webp" /></a>
+<a href="#gallery-24"><img src="images/IMG_2611.webp" /></a>
+<a href="#gallery-25"><img src="images/IMG_2612.webp" /></a>
+</div>
+</div>
 
 That night was our last night with the group as Miles and I were headed North-East to Austria while
 the others headed home after a couple more days of biking. We went for a nice meal at the resort,
@@ -334,71 +469,3 @@ trip across America, avoiding the chain stores and only buying from independent 
 and hotels) and started my next one. We were home (as in Sheffield) an hour before we were supposed
 to leave France, which was an achievement. What was even more of an achievement was that I returned
 alive with all my kit in tact, albeit a little more second-hand-looking.
-
-<p>
-<style type="text/css">
-			#gallery-37 {
-				margin: auto;
-			}
-			#gallery-37 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-37 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-37 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-306 gallery-columns-3 gallery-size-thumbnail" id="gallery-37"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/6736_215603215532_534170532_7800138_5273021_n-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/6736_215605455532_534170532_7800341_8067648_n-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/6736_215612695532_534170532_7800774_5523970_n-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSC01148-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSC01149-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSC01159-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSC01178-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2612.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2605.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2607.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2608.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2596.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2598.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2589.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2590.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
-</div>
-</p>

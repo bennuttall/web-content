@@ -107,70 +107,112 @@ to Jason and Dave and all the reps for the event. And to Blake and Cable – ple
 I look forward to reading your version of events at Trace soon! I also hope we can arranged to meet
 up to train together soon. All the best, guys. Stay safe (and I hope your arm is ok, Blake!).
 
-<p>
-<style type="text/css">
-			#gallery-42 {
-				margin: auto;
-			}
-			#gallery-42 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-42 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-42 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1238 gallery-columns-3 gallery-size-thumbnail" id="gallery-42"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0921.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0926.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0929.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0935.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_0936.resized-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0944.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0947.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0945.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0962.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0954.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0980.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0974.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0985.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0982.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/n761565042_3654872_5783-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/IMG_0921.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/IMG_0925.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/IMG_0926.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/IMG_0929.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/IMG_0935.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/IMG_0936.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/IMG_0944.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/IMG_0945.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/IMG_0947.webp" />
+</figure>
+
+<figure id="gallery-10">
+<img src="images/IMG_0950.webp" />
+</figure>
+
+<figure id="gallery-11">
+<img src="images/IMG_0954.webp" />
+</figure>
+
+<figure id="gallery-12">
+<img src="images/IMG_0957.webp" />
+</figure>
+
+<figure id="gallery-13">
+<img src="images/IMG_0962.webp" />
+</figure>
+
+<figure id="gallery-14">
+<img src="images/IMG_0964.webp" />
+</figure>
+
+<figure id="gallery-15">
+<img src="images/IMG_0965.webp" />
+</figure>
+
+<figure id="gallery-16">
+<img src="images/IMG_0972.webp" />
+</figure>
+
+<figure id="gallery-17">
+<img src="images/IMG_0974.webp" />
+</figure>
+
+<figure id="gallery-18">
+<img src="images/IMG_0980.webp" />
+</figure>
+
+<figure id="gallery-19">
+<img src="images/IMG_0982.webp" />
+</figure>
+
+<figure id="gallery-20">
+<img src="images/IMG_0985.webp" />
+</figure>
+
+<figure id="gallery-21">
+<img src="images/n761565042_3654872_5783.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/IMG_0921.webp" /></a>
+<a href="#gallery-2"><img src="images/IMG_0925.webp" /></a>
+<a href="#gallery-3"><img src="images/IMG_0926.webp" /></a>
+<a href="#gallery-4"><img src="images/IMG_0929.webp" /></a>
+<a href="#gallery-5"><img src="images/IMG_0935.webp" /></a>
+<a href="#gallery-6"><img src="images/IMG_0936.webp" /></a>
+<a href="#gallery-7"><img src="images/IMG_0944.webp" /></a>
+<a href="#gallery-8"><img src="images/IMG_0945.webp" /></a>
+<a href="#gallery-9"><img src="images/IMG_0947.webp" /></a>
+<a href="#gallery-10"><img src="images/IMG_0950.webp" /></a>
+<a href="#gallery-11"><img src="images/IMG_0954.webp" /></a>
+<a href="#gallery-12"><img src="images/IMG_0957.webp" /></a>
+<a href="#gallery-13"><img src="images/IMG_0962.webp" /></a>
+<a href="#gallery-14"><img src="images/IMG_0964.webp" /></a>
+<a href="#gallery-15"><img src="images/IMG_0965.webp" /></a>
+<a href="#gallery-16"><img src="images/IMG_0972.webp" /></a>
+<a href="#gallery-17"><img src="images/IMG_0974.webp" /></a>
+<a href="#gallery-18"><img src="images/IMG_0980.webp" /></a>
+<a href="#gallery-19"><img src="images/IMG_0982.webp" /></a>
+<a href="#gallery-20"><img src="images/IMG_0985.webp" /></a>
+<a href="#gallery-21"><img src="images/n761565042_3654872_5783.webp" /></a>
 </div>
-</p>
+</div>

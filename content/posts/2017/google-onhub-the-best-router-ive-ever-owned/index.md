@@ -96,13 +96,13 @@ deal with outside requests, needed to be an external IP. I needed to give it my 
 <figure class="wp-block-image">
 <img src="images/Screenshot_20170319-003140-169x300.webp" />
 </figure>
-
+    
 I tried this, and ended up having to restart the setup procedure on both devices multiple times, but
 eventually, managed to get it sorted – and port forwarding worked at last! I then had a working SSH
 gateway, and [online tortoise cam](https://github.com/waveform80/pistreaming/):
 
 <figure class="wp-block-image">
-<img src="images/C3waSuzWAAE58On.jpglarge-300x169.webp" />
+<img src="images/IMG_20170401_123741.webp" />
 </figure>
 
 <figure class="wp-block-image">

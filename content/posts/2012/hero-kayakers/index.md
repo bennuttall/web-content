@@ -1,23 +1,36 @@
 Last Wednesday, 26th September 2012, two friends and I took advantage of the rainfall and headed to
 the River Irwell in Bury to paddle from *Nuttall Park* to the Burrs Activity Centre. Upon arrival at
 the park the rain began again, and as we approached the bank to put on, the water was extremely high
-and running very fast:
-
-<figure class="wp-block-image">
-<img src="images/DSCF1012.webp" />
-</figure>
+and running very fast.
 
 We got on and within a couple of minutes we hit the gorge section, which I would say was pushing
 grade four. Not particularly technical, but rather severe in its volume, with very big waves and
 rapids:
 
-<figure class="wp-block-image">
+<div class="gallery">
+<figure id="gallery-6">
+<img src="images/DSCF1012.webp" />
+</figure>
+
+<figure id="gallery-7">
 <img src="images/DSCF1015.webp" />
 </figure>
 
-<figure class="wp-block-image">
+<figure id="gallery-8">
 <img src="images/DSCF1016.webp" />
 </figure>
+
+<figure id="gallery-9">
+<img src="images/DSCF1017.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-6"><img src="images/DSCF1012.webp" /></a>
+<a href="#gallery-7"><img src="images/DSCF1015.webp" /></a>
+<a href="#gallery-8"><img src="images/DSCF1016.webp" /></a>
+<a href="#gallery-9"><img src="images/DSCF1017.webp" /></a>
+</div>
+</div>
 
 About half way through the gorge we spotted something orange ahead, as we got closer we noticed it
 was a person wearing a life jacket, clinging to a branch. We immediately got out to see what we
@@ -45,14 +58,14 @@ bruised and battered (though no serious cuts or gashes) and obviously very shake
 he had a scratch on his head (at this point it occurs to me he wasn't wearing a helmet!) – he said
 he'd done it last week, on another river.
 
-Shortly after, some rescue workers arrived on the path
-above and I signalled to them where I was. There were a few minutes of deliberation before they
-threw a throwline (Palm, might I add – the same ones we all had) down to me and instructed me to
-wrap it around both of us a few times – I did so, and they sent another one down telling me to do
-the same – so the two of us were now roped together with the ends tied to trees above. We heard and
-saw a helicopter above us, and more and more rescuers appeared above the bank. A few times they
-shouted things down to me, one of which was whether he could walk out. I didn't think so but asked
-him, he said yes, so I relayed and added that he was barefoot.
+Shortly after, some rescue workers arrived on the path above and I signalled to them where I was.
+There were a few minutes of deliberation before they threw a throwline (Palm, might I add – the same
+ones we all had) down to me and instructed me to wrap it around both of us a few times – I did so,
+and they sent another one down telling me to do the same – so the two of us were now roped together
+with the ends tied to trees above. We heard and saw a helicopter above us, and more and more
+rescuers appeared above the bank. A few times they shouted things down to me, one of which was
+whether he could walk out. I didn't think so but asked him, he said yes, so I relayed and added that
+he was barefoot.
 
 Some time later a couple of them
 (from Fire & Rescue) approached us from the side. They asked him his name and asked if he thought he
@@ -140,81 +153,48 @@ Also here's a photo of today's Manchester Evening News with the picture the fire
 three of us:
 
 <figure class="wp-block-image">
-<img src="images/hero-966x1024.webp" />
+<img src="images/hero.webp" />
 </figure>
 
-<p>
-<style type="text/css">
-			#gallery-29 {
-				margin: auto;
-			}
-			#gallery-29 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-29 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-29 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-328 gallery-columns-3 gallery-size-thumbnail" id="gallery-29"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1005-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1008-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1009-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1010-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1011-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1012-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1015-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1016-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1017-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF1020-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/emysi-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/ram_kayakers_smalljpg_497x350-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF1018.resized-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3781.resized-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3788.resized-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-11">
+<img src="images/emysi.webp" />
+</figure>
+
+<figure id="gallery-1">
+<img src="images/DSCF1005.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/DSCF1008.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/DSCF1009.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/DSCF1010.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/DSCF1011.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-11"><img src="images/emysi.webp" /></a>
+<a href="#gallery-1"><img src="images/DSCF1005.webp" /></a>
+<a href="#gallery-2"><img src="images/DSCF1008.webp" /></a>
+<a href="#gallery-3"><img src="images/DSCF1009.webp" /></a>
+<a href="#gallery-4"><img src="images/DSCF1010.webp" /></a>
+<a href="#gallery-5"><img src="images/DSCF1011.webp" /></a>
 </div>
-</p>
+</div>
 
 Update 9th May 2013: We received an award from the fire service.
 
 <figure class="wp-block-image">
-<img src="images/ram_kayakers_smalljpg_497x350.webp" />
+<img src="images/ram_kayakers.webp" />
 <figcaption>Receiving the Chief Fire Officer's Commendation for bravery at a presentation in the Ramsbottom Fire Station</figcaption>
 </figure>
 

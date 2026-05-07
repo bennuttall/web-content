@@ -70,41 +70,82 @@ around the halls of residence (like I looked round last year).
 
 I can see it's going to be a wicked three years. Watch this space.
 
-<p>
-<style type="text/css">
-			#gallery-41 {
-				margin: auto;
-			}
-			#gallery-41 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-41 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-41 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1256 gallery-columns-3 gallery-size-thumbnail" id="gallery-41"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/flatmates-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/n1109019763_142009_2609-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/n1109019763_142026_8388-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/wallrun-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/n504867040_1323269_1957-125x125.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-8">
+<img src="images/flatmates.webp" />
+</figure>
+
+<figure id="gallery-1">
+<img src="images/IMG_1541.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/IMG_1568.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/IMG_1569.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/Oct_08_014.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/Oct_08_021.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/Oct_08_025.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/Oct_08_044.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/img_050.webp" />
+</figure>
+
+<figure id="gallery-10">
+<img src="images/img_051.webp" />
+</figure>
+
+<figure id="gallery-11">
+<img src="images/n1109019763_142009_2609.webp" />
+</figure>
+
+<figure id="gallery-12">
+<img src="images/n1109019763_142026_8388.webp" />
+</figure>
+
+<figure id="gallery-13">
+<img src="images/n504867040_1323269_1957.webp" />
+</figure>
+
+<figure id="gallery-14">
+<img src="images/wallrun.webp" />
+</figure>
+
+<figure id="gallery-15">
+<img src="images/wallrun2.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-8"><img src="images/flatmates.webp" /></a>
+<a href="#gallery-1"><img src="images/IMG_1541.webp" /></a>
+<a href="#gallery-2"><img src="images/IMG_1568.webp" /></a>
+<a href="#gallery-3"><img src="images/IMG_1569.webp" /></a>
+<a href="#gallery-4"><img src="images/Oct_08_014.webp" /></a>
+<a href="#gallery-5"><img src="images/Oct_08_021.webp" /></a>
+<a href="#gallery-6"><img src="images/Oct_08_025.webp" /></a>
+<a href="#gallery-7"><img src="images/Oct_08_044.webp" /></a>
+<a href="#gallery-9"><img src="images/img_050.webp" /></a>
+<a href="#gallery-10"><img src="images/img_051.webp" /></a>
+<a href="#gallery-11"><img src="images/n1109019763_142009_2609.webp" /></a>
+<a href="#gallery-12"><img src="images/n1109019763_142026_8388.webp" /></a>
+<a href="#gallery-13"><img src="images/n504867040_1323269_1957.webp" /></a>
+<a href="#gallery-14"><img src="images/wallrun.webp" /></a>
+<a href="#gallery-15"><img src="images/wallrun2.webp" /></a>
 </div>
-</p>
+</div>

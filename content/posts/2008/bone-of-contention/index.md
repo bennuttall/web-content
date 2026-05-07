@@ -67,52 +67,47 @@ Network teams left to be read out (in reverse order, naturally), one went, it wa
 that wasn't use either, then came our Unit's name ... "Woodseats Network – 1st Place!" and we were
 presented with the trophy.
 
-<p>
-<style type="text/css">
-			#gallery-45 {
-				margin: auto;
-			}
-			#gallery-45 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-45 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-45 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1011 gallery-columns-3 gallery-size-thumbnail" id="gallery-45"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0345.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0346.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0355.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0356.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0353.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0358.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0366.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0367.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_0363.resized-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-6">
+<img src="images/IMG_0363.webp" />
+</figure>
+
+<figure id="gallery-1">
+<img src="images/IMG_0345.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/IMG_0353.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/IMG_0354.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/IMG_0355.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/IMG_0356.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/IMG_0366.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/IMG_0367.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-6"><img src="images/IMG_0363.webp" /></a>
+<a href="#gallery-1"><img src="images/IMG_0345.webp" /></a>
+<a href="#gallery-2"><img src="images/IMG_0353.webp" /></a>
+<a href="#gallery-3"><img src="images/IMG_0354.webp" /></a>
+<a href="#gallery-4"><img src="images/IMG_0355.webp" /></a>
+<a href="#gallery-5"><img src="images/IMG_0356.webp" /></a>
+<a href="#gallery-7"><img src="images/IMG_0366.webp" /></a>
+<a href="#gallery-8"><img src="images/IMG_0367.webp" /></a>
 </div>
-</p>
+</div>

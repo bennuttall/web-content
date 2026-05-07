@@ -94,6 +94,146 @@ although I did all the falls and drops, I still feel I would like to go back and
 some time again – to have another go at Garnett Bridge Falls where I got trashed – I can't let it
 defeat me!
 
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/IMGP3375.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/IMGP3376.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/IMGP3377.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/IMGP3378.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/IMGP3379.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/IMGP3380.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/IMGP3381.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/IMGP3382.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/IMGP3383.webp" />
+</figure>
+
+<figure id="gallery-10">
+<img src="images/IMGP3384.webp" />
+</figure>
+
+<figure id="gallery-11">
+<img src="images/IMGP3391.webp" />
+</figure>
+
+<figure id="gallery-12">
+<img src="images/IMGP3392.webp" />
+</figure>
+
+<figure id="gallery-13">
+<img src="images/IMGP3394.webp" />
+</figure>
+
+<figure id="gallery-14">
+<img src="images/IMGP3397.webp" />
+</figure>
+
+<figure id="gallery-15">
+<img src="images/IMGP3398.webp" />
+</figure>
+
+<figure id="gallery-16">
+<img src="images/IMGP3399.webp" />
+</figure>
+
+<figure id="gallery-17">
+<img src="images/IMG_2210.webp" />
+</figure>
+
+<figure id="gallery-18">
+<img src="images/Jan_09_006.webp" />
+</figure>
+
+<figure id="gallery-19">
+<img src="images/Jan_09_017.webp" />
+</figure>
+
+<figure id="gallery-20">
+<img src="images/Jan_09_018.webp" />
+</figure>
+
+<figure id="gallery-21">
+<img src="images/Jan_09_019.webp" />
+</figure>
+
+<figure id="gallery-22">
+<img src="images/Jan_09_022.webp" />
+</figure>
+
+<figure id="gallery-23">
+<img src="images/Jan_09_024.webp" />
+</figure>
+
+<figure id="gallery-24">
+<img src="images/Jan_09_025.webp" />
+</figure>
+
+<figure id="gallery-25">
+<img src="images/lewb.webp" />
+</figure>
+
+<figure id="gallery-26">
+<img src="images/trashed.webp" />
+</figure>
+
+<figure id="gallery-27">
+<img src="images/trashed2.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/IMGP3375.webp" /></a>
+<a href="#gallery-2"><img src="images/IMGP3376.webp" /></a>
+<a href="#gallery-3"><img src="images/IMGP3377.webp" /></a>
+<a href="#gallery-4"><img src="images/IMGP3378.webp" /></a>
+<a href="#gallery-5"><img src="images/IMGP3379.webp" /></a>
+<a href="#gallery-6"><img src="images/IMGP3380.webp" /></a>
+<a href="#gallery-7"><img src="images/IMGP3381.webp" /></a>
+<a href="#gallery-8"><img src="images/IMGP3382.webp" /></a>
+<a href="#gallery-9"><img src="images/IMGP3383.webp" /></a>
+<a href="#gallery-10"><img src="images/IMGP3384.webp" /></a>
+<a href="#gallery-11"><img src="images/IMGP3391.webp" /></a>
+<a href="#gallery-12"><img src="images/IMGP3392.webp" /></a>
+<a href="#gallery-13"><img src="images/IMGP3394.webp" /></a>
+<a href="#gallery-14"><img src="images/IMGP3397.webp" /></a>
+<a href="#gallery-15"><img src="images/IMGP3398.webp" /></a>
+<a href="#gallery-16"><img src="images/IMGP3399.webp" /></a>
+<a href="#gallery-17"><img src="images/IMG_2210.webp" /></a>
+<a href="#gallery-18"><img src="images/Jan_09_006.webp" /></a>
+<a href="#gallery-19"><img src="images/Jan_09_017.webp" /></a>
+<a href="#gallery-20"><img src="images/Jan_09_018.webp" /></a>
+<a href="#gallery-21"><img src="images/Jan_09_019.webp" /></a>
+<a href="#gallery-22"><img src="images/Jan_09_022.webp" /></a>
+<a href="#gallery-23"><img src="images/Jan_09_024.webp" /></a>
+<a href="#gallery-24"><img src="images/Jan_09_025.webp" /></a>
+<a href="#gallery-25"><img src="images/lewb.webp" /></a>
+<a href="#gallery-26"><img src="images/trashed.webp" /></a>
+<a href="#gallery-27"><img src="images/trashed2.webp" /></a>
+</div>
+</div>
+
 Anyway here's a short video of me getting trashed – you only see how I picked the wrong line and me
 getting tipped over badly, then the film cuts as the guy filming (broken ribs Biddy) runs round to
 see if I'm alright:
@@ -101,62 +241,3 @@ see if I'm alright:
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oPTsIS-IJ6I?si=bRK0m92ozhnIBO1a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
-
-<p>
-<style type="text/css">
-			#gallery-38 {
-				margin: auto;
-			}
-			#gallery-38 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-38 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-38 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1304 gallery-columns-3 gallery-size-thumbnail" id="gallery-38"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMGP3376-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMGP3379-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMGP3380-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMGP3382-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMGP3384-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMGP3392-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMGP3397-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMGP3398-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMGP3399-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lewb-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/trashed-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/trashed2-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
-</div>
-</p>

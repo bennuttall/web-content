@@ -7,9 +7,25 @@ The pre-barcamp social was held at the West Coast Rock Café, where
 [Robie](http://twitter.com/robiebasak) and I had a "Big Pig" Burger and
 [Ash](http://twitter.com/wisemonkeyash) had a 20oz steak. Don't believe me? Here it is:
 
-<figure class="wp-block-image">
+<div class="gallery">
+<figure id="gallery-10">
 <img src="images/reobm.webp" />
 </figure>
+
+<figure id="gallery-8">
+<img src="images/kdgch.webp" />
+</figure>
+
+<figure id="gallery-1">
+<img src="images/2012-09-28-22.06.58.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-10"><img src="images/reobm.webp" /></a>
+<a href="#gallery-8"><img src="images/kdgch.webp" /></a>
+<a href="#gallery-1"><img src="images/2012-09-28-22.06.58.webp" /></a>
+</div>
+</div>
 
 We had some laughs and I discussed music with [Alex](http://twitter.com/alexturgid) (aka "The Error
 Messages Guy"), which led to me debating with [Mike](http://twitter.com/mheap) about which [Tony
@@ -28,7 +44,8 @@ watched me enter my phone's unlock pattern, and told me he had. He also went rou
 identities:
 
 <figure class="wp-block-image">
-<img src="images/freakyclown.webp" />
+<img src="images/2012-09-29-12.50.57.webp" />
+<figcaption>The many aliases of freakyclown</figcaption>
 </figure>
 
 Following an intro talk from the utterly amazing organisers [Lally](http://twitter.com/lallyd) and
@@ -70,10 +87,11 @@ do anything like that...
 > — Ben Nuttall (@Ben_Nuttall) <a href="https://twitter.com/Ben_Nuttall/status/252139633759105024"
 > data-datetime="2012-09-29T20:15:47+00:00">September 29, 2012</a>
 
-This was followed by more drinking and a couple of games of [Werewolf](http://werewolv.es/):
+This was followed by more drinking and a couple of games of Werewolf:
 
 <figure class="wp-block-image">
-<img src="images/tyefy-1024x768.webp" />
+<img src="images/tyefy.webp" />
+<figcaption>Werewolf</figcaption>
 </figure>
 
 I've never played Werewolf before, and the rules weren't explained before we started playing, so I
@@ -96,7 +114,7 @@ talked about [Adventure Time](http://en.wikipedia.org/wiki/Adventure_Time). I th
 Rubik's Cube so fast it fell apart in my hands:
 
 <figure class="wp-block-image">
-<img src="images/rubiks-cube.webp" />
+<img src="images/6m6zht.webp" />
 </figure>
 
 A few people asked me what the reason behind the emerging micro meme 'MORNING BEN' they had
@@ -125,62 +143,37 @@ Had a fantastic weekend – great to catch up with friends and meet new people. 
 at places like Barcamp, where people share my sense of humour and geekery! Where would I be without
 it? Probably [here](http://www.youtube.com/watch?v=gWJIQm9qH-w).
 
-<p>
-<style type="text/css">
-			#gallery-28 {
-				margin: auto;
-			}
-			#gallery-28 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-28 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-28 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-321 gallery-columns-3 gallery-size-thumbnail" id="gallery-28"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/image_1272446197-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/76086560-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/ij6yz-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/kdgch-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/ohovyq-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/reobm-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/tyefy-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/vdmtj-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-28-22.06.58-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-29-10.56.49-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-29-12.50.57-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-30-12.16.42-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-6">
+<img src="images/76086560.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/2012-09-29-10.56.49.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/2012-09-30-12.16.42.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/ij6yz.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/ohovyq.webp" />
+</figure>
+
+<figure id="gallery-12">
+<img src="images/vdmtj.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-6"><img src="images/76086560.webp" /></a>
+<a href="#gallery-2"><img src="images/2012-09-29-10.56.49.webp" /></a>
+<a href="#gallery-4"><img src="images/2012-09-30-12.16.42.webp" /></a>
+<a href="#gallery-7"><img src="images/ij6yz.webp" /></a>
+<a href="#gallery-9"><img src="images/ohovyq.webp" /></a>
+<a href="#gallery-12"><img src="images/vdmtj.webp" /></a>
 </div>
-</p>
+</div>

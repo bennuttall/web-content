@@ -88,45 +88,42 @@ have more info on the BBC thing – all I know at present is that it's for a pro
 Out](http://www.bbc.co.uk/insideout) and should be shown in September. They're also filming some
 more parkour in Sheffield soon.
 
-<style type="text/css">
-			#gallery-47 {
-				margin: auto;
-			}
-			#gallery-47 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-47 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-47 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1130 gallery-columns-3 gallery-size-thumbnail" id="gallery-47"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/trace1-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/trace2-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/trace3-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/trace4-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/trace5-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/trace6-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/trace7-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/trace1.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/trace2.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/trace3.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/trace4.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/trace5.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/trace6.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/trace7.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/trace1.webp" /></a>
+<a href="#gallery-2"><img src="images/trace2.webp" /></a>
+<a href="#gallery-3"><img src="images/trace3.webp" /></a>
+<a href="#gallery-4"><img src="images/trace4.webp" /></a>
+<a href="#gallery-5"><img src="images/trace5.webp" /></a>
+<a href="#gallery-6"><img src="images/trace6.webp" /></a>
+<a href="#gallery-7"><img src="images/trace7.webp" /></a>
+</div>
 </div>

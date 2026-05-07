@@ -4,12 +4,61 @@ geographical area racking up points from taking part in various activities at ba
 the mapped area. My team, Team Toe, went out to try and win the competition, and got off to a great
 start...
 
+<figure class="wp-block-image">
+<img src="images/n500961862_363844_6487.webp" />
+</figure>
+
 Friday night was the start of the competition, where we had to all compete in a mini competition in
 order to decide the starting positions (i.e. the team finishing first would set off first, the
 second team a minute later and so on) and we finished third, which was a good start. The activity
 was called The Glow Company Challenge, where (in the dark) we had to throw glow sticks to a member
 of our team to catch in a fishing net, and they had to catch one of each colours. We finished in
 under 3 minutes, and came third, so we were given our starting time of 10:02 for Saturday.
+
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/IMG_0979.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/IMG_0980.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/IMG_2349-756454.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/IMG_2372-757509.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/IMG_2562-761465.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/IMG_2564-710972.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/IMG_2571-708382.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/teampice006.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/IMG_0979.webp" /></a>
+<a href="#gallery-2"><img src="images/IMG_0980.webp" /></a>
+<a href="#gallery-3"><img src="images/IMG_2349-756454.webp" /></a>
+<a href="#gallery-4"><img src="images/IMG_2372-757509.webp" /></a>
+<a href="#gallery-5"><img src="images/IMG_2562-761465.webp" /></a>
+<a href="#gallery-6"><img src="images/IMG_2564-710972.webp" /></a>
+<a href="#gallery-7"><img src="images/IMG_2571-708382.webp" /></a>
+<a href="#gallery-8"><img src="images/teampice006.webp" /></a>
+</div>
+</div>
 
 Saturday's event, the main part of the competition, which was to last 7 hours, from 10:02 to 5:02
 (points deducted per minute late). We planned our route and completed a variety of bases and made
@@ -49,6 +98,76 @@ and since parkour means that I practise that sort of thing (on different terrain
 I was loving it! An assault course made up of ladders, rope and things in between piles of bales of
 hay. Great!
 
+<div class="gallery">
+<figure id="gallery2-1">
+<img src="images/IMG_2380-760139.webp" />
+</figure>
+
+<figure id="gallery2-2">
+<img src="images/IMG_2385-799569.webp" />
+</figure>
+
+<figure id="gallery2-3">
+<img src="images/IMG_2390-750880.webp" />
+</figure>
+
+<figure id="gallery2-4">
+<img src="images/IMG_2403-786252.webp" />
+</figure>
+
+<figure id="gallery2-5">
+<img src="images/IMG_2406-759936.webp" />
+</figure>
+
+<figure id="gallery2-6">
+<img src="images/IMG_2411-789766.webp" />
+</figure>
+
+<figure id="gallery2-7">
+<img src="images/IMG_2422-715303.webp" />
+</figure>
+
+<figure id="gallery2-8">
+<img src="images/IMG_2429-705165.webp" />
+</figure>
+
+<figure id="gallery2-9">
+<img src="images/IMG_2439-720705.webp" />
+</figure>
+
+<figure id="gallery2-10">
+<img src="images/IMG_2461-760397.webp" />
+</figure>
+
+<figure id="gallery2-11">
+<img src="images/IMG_2465-749994.webp" />
+</figure>
+
+<figure id="gallery2-12">
+<img src="images/IMG_2466-713212.webp" />
+</figure>
+
+<figure id="gallery2-13">
+<img src="images/IMG_2468-776053.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery2-1"><img src="images/IMG_2380-760139.webp" /></a>
+<a href="#gallery2-2"><img src="images/IMG_2385-799569.webp" /></a>
+<a href="#gallery2-3"><img src="images/IMG_2390-750880.webp" /></a>
+<a href="#gallery2-4"><img src="images/IMG_2403-786252.webp" /></a>
+<a href="#gallery2-5"><img src="images/IMG_2406-759936.webp" /></a>
+<a href="#gallery2-6"><img src="images/IMG_2411-789766.webp" /></a>
+<a href="#gallery2-7"><img src="images/IMG_2422-715303.webp" /></a>
+<a href="#gallery2-8"><img src="images/IMG_2429-705165.webp" /></a>
+<a href="#gallery2-9"><img src="images/IMG_2439-720705.webp" /></a>
+<a href="#gallery2-10"><img src="images/IMG_2461-760397.webp" /></a>
+<a href="#gallery2-11"><img src="images/IMG_2465-749994.webp" /></a>
+<a href="#gallery2-12"><img src="images/IMG_2466-713212.webp" /></a>
+<a href="#gallery2-13"><img src="images/IMG_2468-776053.webp" /></a>
+</div>
+</div>
+
 Anyway, we came 6th in total, out of 36 teams, which was pretty good, all things considered. We were
 completely knackered on Saturday night and Sunday morning, so we couldn't really give it our all.
 Regardless, we had a fantastic weekend, and although we came home prizeless, we enjoyed it and
@@ -61,93 +180,24 @@ skipton on Sunday morning (I'll be in Southport on Saturday for my Gran's 90th b
 this page for a write-up (and vLog) of the 4-day expedition.
 
 The Apex site has now been updated and now includes all the details of what happened on the event,
-including an article about the rescue.
+including an article about the rescue. It was also covered in the Sheffield Star and Doncaster Star:
 
-<p>
-<style type="text/css">
-			#gallery-50 {
-				margin: auto;
-			}
-			#gallery-50 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-50 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-50 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-990 gallery-columns-3 gallery-size-thumbnail" id="gallery-50"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/doncasterstar-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0979-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0980-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2349-756454-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2372-757509-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2380-760139-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2385-799569-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2390-750880-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2422-715303-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2439-720705-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2466-713212-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2468-776053-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2562-761465-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2564-710972-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_2571-708382-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/n500961862_363844_6487-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/sheffieldstar-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/teampice006-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
-</div>
-</p>
+<figure class="wp-block-image">
+<img src="images/sheffieldstar.webp" />
+</figure>
+
+<figure class="wp-block-image">
+<img src="images/doncasterstar.webp" />
+</figure>
 
 Here are some links to the media coverage of the incident:
 
-- "[Autumn 2006 Event -- Report](http://www.apexchallenge.co.uk/pastevents/autumn2006/report.htm)"
+- [Autumn 2006 Event -- Report](https://web.archive.org/web/20190723152342/https://apexchallenge.co.uk/pastevents/autumn2006/report.htm)
 -- Apex Challenge website
-- "[Hitting the Headlines](http://www.apexchallenge.co.uk/pastevents/autumn2006/mediacoverage.htm)"
+- [Hitting the Headlines](http://www.apexchallenge.co.uk/pastevents/autumn2006/mediacoverage.htm)
 -- Apex Challenge website
-- "[Scouts Praised after Rescue
-Drama](http://web.archive.org/web/20070812112629/http://www.scouts.org.uk/Features/Weekend/2006/16Oct10WE.htm)"
+- [Scouts Praised after Rescue
+Drama](http://web.archive.org/web/20070812112629/http://www.scouts.org.uk/Features/Weekend/2006/16Oct10WE.htm)
 -- UK Scouts website
 - "Scouts in Mountain Rescue Effort" -- Community Newswire
 - "Scouts in peak rescue drama" -- Sheffield Star, page 5

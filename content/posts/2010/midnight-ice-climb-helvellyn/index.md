@@ -35,140 +35,215 @@ our position and where we were headed.
 Anyway, they say a picture is worth a thousand words so here's the rest of the story in several
 thousand words' worth of photographs:
 
-<p>
-<style type="text/css">
-			#gallery-36 {
-				margin: auto;
-			}
-			#gallery-36 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-36 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-36 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1340 gallery-columns-4 gallery-size-thumbnail" id="gallery-36"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0097.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0089.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0101.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0102.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0108.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0107.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0109.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF0121.resized-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0119.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0122.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0126.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0125.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0127.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0131.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0130.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0132.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0135.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0134.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/DSCF0137.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0557.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0559.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0558.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0564.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0563.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0566.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0565.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0570.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0569.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0572.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0571.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0577.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0574.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0579.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0578.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0581.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0580.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_0582.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/DSCF0089.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/DSCF0096.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/DSCF0097.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/DSCF0101.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/DSCF0102.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/DSCF0104.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/DSCF0107.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/DSCF0108.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/DSCF0109.webp" />
+</figure>
+
+<figure id="gallery-10">
+<img src="images/DSCF0111.webp" />
+</figure>
+
+<figure id="gallery-11">
+<img src="images/DSCF0112.webp" />
+</figure>
+
+<figure id="gallery-12">
+<img src="images/DSCF0118.webp" />
+</figure>
+
+<figure id="gallery-13">
+<img src="images/DSCF0119.webp" />
+</figure>
+
+<figure id="gallery-14">
+<img src="images/DSCF0121.webp" />
+</figure>
+
+<figure id="gallery-15">
+<img src="images/DSCF0122.webp" />
+</figure>
+
+<figure id="gallery-16">
+<img src="images/DSCF0125.webp" />
+</figure>
+
+<figure id="gallery-17">
+<img src="images/DSCF0126.webp" />
+</figure>
+
+<figure id="gallery-18">
+<img src="images/DSCF0127.webp" />
+</figure>
+
+<figure id="gallery-19">
+<img src="images/DSCF0132.webp" />
+</figure>
+
+<figure id="gallery-20">
+<img src="images/DSCF0133.webp" />
+</figure>
+
+<figure id="gallery-21">
+<img src="images/DSCF0134.webp" />
+</figure>
+
+<figure id="gallery-22">
+<img src="images/DSCF0137.webp" />
+</figure>
+
+<figure id="gallery-23">
+<img src="images/IMG_0556.webp" />
+</figure>
+
+<figure id="gallery-24">
+<img src="images/IMG_0557.webp" />
+</figure>
+
+<figure id="gallery-25">
+<img src="images/IMG_0558.webp" />
+</figure>
+
+<figure id="gallery-26">
+<img src="images/IMG_0559.webp" />
+</figure>
+
+<figure id="gallery-27">
+<img src="images/IMG_0563.webp" />
+</figure>
+
+<figure id="gallery-28">
+<img src="images/IMG_0564.webp" />
+</figure>
+
+<figure id="gallery-29">
+<img src="images/IMG_0565.webp" />
+</figure>
+
+<figure id="gallery-30">
+<img src="images/IMG_0566.webp" />
+</figure>
+
+<figure id="gallery-31">
+<img src="images/IMG_0569.webp" />
+</figure>
+
+<figure id="gallery-32">
+<img src="images/IMG_0570.webp" />
+</figure>
+
+<figure id="gallery-33">
+<img src="images/IMG_0571.webp" />
+</figure>
+
+<figure id="gallery-34">
+<img src="images/IMG_0572.webp" />
+</figure>
+
+<figure id="gallery-35">
+<img src="images/IMG_0573.webp" />
+</figure>
+
+<figure id="gallery-36">
+<img src="images/IMG_0574.webp" />
+</figure>
+
+<figure id="gallery-37">
+<img src="images/IMG_0577.webp" />
+</figure>
+
+<figure id="gallery-38">
+<img src="images/IMG_0578.webp" />
+</figure>
+
+<figure id="gallery-39">
+<img src="images/IMG_0579.webp" />
+</figure>
+
+<figure id="gallery-40">
+<img src="images/IMG_0580.webp" />
+</figure>
+
+<figure id="gallery-41">
+<img src="images/IMG_0582.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/DSCF0089.webp" /></a>
+<a href="#gallery-2"><img src="images/DSCF0096.webp" /></a>
+<a href="#gallery-3"><img src="images/DSCF0097.webp" /></a>
+<a href="#gallery-4"><img src="images/DSCF0101.webp" /></a>
+<a href="#gallery-5"><img src="images/DSCF0102.webp" /></a>
+<a href="#gallery-6"><img src="images/DSCF0104.webp" /></a>
+<a href="#gallery-7"><img src="images/DSCF0107.webp" /></a>
+<a href="#gallery-8"><img src="images/DSCF0108.webp" /></a>
+<a href="#gallery-9"><img src="images/DSCF0109.webp" /></a>
+<a href="#gallery-10"><img src="images/DSCF0111.webp" /></a>
+<a href="#gallery-11"><img src="images/DSCF0112.webp" /></a>
+<a href="#gallery-12"><img src="images/DSCF0118.webp" /></a>
+<a href="#gallery-13"><img src="images/DSCF0119.webp" /></a>
+<a href="#gallery-14"><img src="images/DSCF0121.webp" /></a>
+<a href="#gallery-15"><img src="images/DSCF0122.webp" /></a>
+<a href="#gallery-16"><img src="images/DSCF0125.webp" /></a>
+<a href="#gallery-17"><img src="images/DSCF0126.webp" /></a>
+<a href="#gallery-18"><img src="images/DSCF0127.webp" /></a>
+<a href="#gallery-19"><img src="images/DSCF0132.webp" /></a>
+<a href="#gallery-20"><img src="images/DSCF0133.webp" /></a>
+<a href="#gallery-21"><img src="images/DSCF0134.webp" /></a>
+<a href="#gallery-22"><img src="images/DSCF0137.webp" /></a>
+<a href="#gallery-23"><img src="images/IMG_0556.webp" /></a>
+<a href="#gallery-24"><img src="images/IMG_0557.webp" /></a>
+<a href="#gallery-25"><img src="images/IMG_0558.webp" /></a>
+<a href="#gallery-26"><img src="images/IMG_0559.webp" /></a>
+<a href="#gallery-27"><img src="images/IMG_0563.webp" /></a>
+<a href="#gallery-28"><img src="images/IMG_0564.webp" /></a>
+<a href="#gallery-29"><img src="images/IMG_0565.webp" /></a>
+<a href="#gallery-30"><img src="images/IMG_0566.webp" /></a>
+<a href="#gallery-31"><img src="images/IMG_0569.webp" /></a>
+<a href="#gallery-32"><img src="images/IMG_0570.webp" /></a>
+<a href="#gallery-33"><img src="images/IMG_0571.webp" /></a>
+<a href="#gallery-34"><img src="images/IMG_0572.webp" /></a>
+<a href="#gallery-35"><img src="images/IMG_0573.webp" /></a>
+<a href="#gallery-36"><img src="images/IMG_0574.webp" /></a>
+<a href="#gallery-37"><img src="images/IMG_0577.webp" /></a>
+<a href="#gallery-38"><img src="images/IMG_0578.webp" /></a>
+<a href="#gallery-39"><img src="images/IMG_0579.webp" /></a>
+<a href="#gallery-40"><img src="images/IMG_0580.webp" /></a>
+<a href="#gallery-41"><img src="images/IMG_0582.webp" /></a>
 </div>
-</p>
+</div>
 
 P.S. Just so you know, we got home safely, although exhausted, with a touch of frostbite on Gordon's
 part. Tip: never be the one everyone asks to open their food because you're only wearing one pair of

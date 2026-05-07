@@ -10,10 +10,10 @@ weekend, we split the load between us and headed up to Hallam to start warming u
 I just happened to bump into my older brother on Hallam as we were warming up, which was nice, and
 he enjoyed seeing some parkour in action. We moved on to the Odeon shortly after, where we must have
 spent a considerable amount of time training, within which, Jason unfortunately clipped his knee
-awkwardly on a wall on his way back from attempting a sizey kong-to-precision (or...'cat precision'
-I think they call it...), which kept his mostly out of action the rest of the session, but he still
-got to see the Sheffield spots, and took particular liking to one in particular, I'm sure he'll be
-out there giving it his all when he next gets the chance.
+awkwardly on a wall on his way back from attempting a sizey kong-to-precision (or ... 'cat
+precision' I think they call it...), which kept his mostly out of action the rest of the session,
+but he still got to see the Sheffield spots, and took particular liking to one in particular, I'm
+sure he'll be out there giving it his all when he next gets the chance.
 
 We went all round from Hallam to Sheffield Uni and the English Department, hitting the spots we knew
 we could train on without causing any grief, as it was a weekday. Jin owned everything. Need I say
@@ -27,12 +27,12 @@ Tomorrow is training in Hathersage and Grindleford. I'm training from about 2:00
 trip (in Grindleford...) is over, and everyone else goes home, I get to join the group, tag along
 and get on with the rural training.
 
-Saturday will be awesome, and better still if it' some of those amazingly summery days, like
-03/03/06. That was fantastic. It will be nice to show others around Sheffield, see what
-possibilities they see and what they think of the sort of thing we do here. We love it, so will
-they.
+Saturday will be awesome, and better still if it's one of those amazingly summery days, like
+[03/06/06](https://www.youtube.com/watch?v=JJbyw5XMJQg). That was fantastic. It will be nice to show
+others around Sheffield, see what possibilities they see and what they think of the sort of thing we
+do here. We love it, so will they.
 
-**Friday in the Peak District**
+## Friday in the Peak District
 
 Yesterday I joined the group at Padley Gorge, we did some training on the rocks along the stream. It
 was fantastic, I was so impressed at what that part of the Peak District had to offer in that
@@ -55,48 +55,42 @@ Manchester tomorrow too.
 
 Photos courtesy of [Jin's blog](http://jinetics.blogspot.co.uk/2006/07/peak-district-trip.html):
 
-<p>
-<style type="text/css">
-			#gallery-52 {
-				margin: auto;
-			}
-			#gallery-52 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-52 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-52 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1028 gallery-columns-3 gallery-size-thumbnail" id="gallery-52"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/P1030152-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/P1030169-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/P1030171-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/P1030172-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/P1030175-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/P1030196-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
-</div>
-</p>
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/P1030152.webp" />
+</figure>
 
-**Saturday in Sheffield**
+<figure id="gallery-2">
+<img src="images/P1030169.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/P1030171.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/P1030172.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/P1030175.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/P1030196.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/P1030152.webp" /></a>
+<a href="#gallery-2"><img src="images/P1030169.webp" /></a>
+<a href="#gallery-3"><img src="images/P1030171.webp" /></a>
+<a href="#gallery-4"><img src="images/P1030172.webp" /></a>
+<a href="#gallery-5"><img src="images/P1030175.webp" /></a>
+<a href="#gallery-6"><img src="images/P1030196.webp" /></a>
+</div>
+</div>
+
+## Saturday in Sheffield
 
 Today didn't go as well as it was meant to, but nevertheless I got some good training in with Paul.
 Dave and the others at the campsite got up at 5:30am to go train at Padley Gorge, so they were all
@@ -120,7 +114,7 @@ station in Manchester to go to UMIST with us.
 
 Me and Sam have been watching all the parkour videos on my computer since we got back.
 
-**Sunday in Manchester**
+## Sunday in Manchester
 
 A fantastic day of training today!
 

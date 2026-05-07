@@ -5,62 +5,65 @@ first time, which was great, even though it is a bit touristy.
 
 Photos:
 
-<p>
-<style type="text/css">
-			#gallery-48 {
-				margin: auto;
-			}
-			#gallery-48 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-48 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-48 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1111 gallery-columns-3 gallery-size-thumbnail" id="gallery-48"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_4473-735692-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_4499-730098-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_4505-773186-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_4508-770005-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_4519-727970-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_4560-773405-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_4577-771876-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_4590-703426-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_4599-796964-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_4600-704257-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/n61111457_33169511_5401-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/IMG_4473-735692.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/IMG_4499-730098.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/IMG_4505-773186.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/IMG_4508-770005.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/IMG_4519-727970.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/IMG_4560-773405.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/IMG_4577-771876.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/IMG_4590-703426.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/IMG_4599-796964.webp" />
+</figure>
+
+<figure id="gallery-10">
+<img src="images/IMG_4600-704257.webp" />
+</figure>
+
+<figure id="gallery-11">
+<img src="images/n61111457_33169511_5401.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/IMG_4473-735692.webp" /></a>
+<a href="#gallery-2"><img src="images/IMG_4499-730098.webp" /></a>
+<a href="#gallery-3"><img src="images/IMG_4505-773186.webp" /></a>
+<a href="#gallery-4"><img src="images/IMG_4508-770005.webp" /></a>
+<a href="#gallery-5"><img src="images/IMG_4519-727970.webp" /></a>
+<a href="#gallery-6"><img src="images/IMG_4560-773405.webp" /></a>
+<a href="#gallery-7"><img src="images/IMG_4577-771876.webp" /></a>
+<a href="#gallery-8"><img src="images/IMG_4590-703426.webp" /></a>
+<a href="#gallery-9"><img src="images/IMG_4599-796964.webp" /></a>
+<a href="#gallery-10"><img src="images/IMG_4600-704257.webp" /></a>
+<a href="#gallery-11"><img src="images/n61111457_33169511_5401.webp" /></a>
 </div>
-</p>
+</div>
 
 And here's the video:
 

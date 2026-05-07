@@ -2,6 +2,11 @@ I've now hosted four Raspberry Jams in Manchester. I [posted about the first and
 second](/blog/2012/07/manchester-raspberry-jam/), here's a summary of what went on at III &
 IV.
 
+<figure class="wp-block-image">
+<img src="images/2012-08-11_10.50.26.webp" />
+<figcaption>Manchester Raspberry Jam III</figcaption>
+</figure>
+
 The August Manchester Raspberry Jam kicked off when [Kat](http://twitter.com/BinaryKitten) opened up
 the [Madlab](http://www.madlab.org.uk/) and I gave an opening talk about what had been going on in
 the news in the [Raspberry Pi](http://www.raspberrypi.org/) community, featuring announcements like
@@ -47,6 +52,117 @@ app](https://play.google.com/store/apps/details?id=org.xbmc.android.remote&featu
 on my phone and tablet and I can select something to watch on either device and tell it to play on
 the TV, then use as a remote control. The future is here.
 
+
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/2012-08-11_10.49.51.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/2012-08-11_10.49.59.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/2012-08-11_10.55.46.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/2012-08-11_11.37.00.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/2012-08-11_12.29.32.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/2012-08-11_12.29.58.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/2012-08-11_12.30.05.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/2012-08-11_12.37.19.webp" />
+</figure>
+
+<figure id="gallery-10">
+<img src="images/2012-08-11_12.48.01.webp" />
+</figure>
+
+<figure id="gallery-11">
+<img src="images/2012-08-11_12.48.20.webp" />
+</figure>
+
+<figure id="gallery-12">
+<img src="images/2012-08-11_13.21.46.webp" />
+</figure>
+
+<figure id="gallery-13">
+<img src="images/2012-08-11_13.39.07.webp" />
+</figure>
+
+<figure id="gallery-14">
+<img src="images/2012-08-11_13.39.33.webp" />
+</figure>
+
+<figure id="gallery-15">
+<img src="images/2012-08-11_13.40.23.webp" />
+</figure>
+
+<figure id="gallery-16">
+<img src="images/2012-08-11_14.11.28.webp" />
+</figure>
+
+<figure id="gallery-17">
+<img src="images/2012-08-11_14.44.33.webp" />
+</figure>
+
+<figure id="gallery-18">
+<img src="images/2012-08-11_14.44.53.webp" />
+</figure>
+
+<figure id="gallery-19">
+<img src="images/2012-08-11_14.59.00.webp" />
+</figure>
+
+<figure id="gallery-20">
+<img src="images/2012-08-11_17.10.27.webp" />
+</figure>
+
+<figure id="gallery-21">
+<img src="images/2012-08-11_21.02.21.webp" />
+</figure>
+
+<figure id="gallery-22">
+<img src="images/2012-08-11_21.02.24.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/2012-08-11_10.49.51.webp" /></a>
+<a href="#gallery-2"><img src="images/2012-08-11_10.49.59.webp" /></a>
+<a href="#gallery-4"><img src="images/2012-08-11_10.55.46.webp" /></a>
+<a href="#gallery-5"><img src="images/2012-08-11_11.37.00.webp" /></a>
+<a href="#gallery-6"><img src="images/2012-08-11_12.29.32.webp" /></a>
+<a href="#gallery-7"><img src="images/2012-08-11_12.29.58.webp" /></a>
+<a href="#gallery-8"><img src="images/2012-08-11_12.30.05.webp" /></a>
+<a href="#gallery-9"><img src="images/2012-08-11_12.37.19.webp" /></a>
+<a href="#gallery-10"><img src="images/2012-08-11_12.48.01.webp" /></a>
+<a href="#gallery-11"><img src="images/2012-08-11_12.48.20.webp" /></a>
+<a href="#gallery-12"><img src="images/2012-08-11_13.21.46.webp" /></a>
+<a href="#gallery-13"><img src="images/2012-08-11_13.39.07.webp" /></a>
+<a href="#gallery-14"><img src="images/2012-08-11_13.39.33.webp" /></a>
+<a href="#gallery-15"><img src="images/2012-08-11_13.40.23.webp" /></a>
+<a href="#gallery-16"><img src="images/2012-08-11_14.11.28.webp" /></a>
+<a href="#gallery-17"><img src="images/2012-08-11_14.44.33.webp" /></a>
+<a href="#gallery-18"><img src="images/2012-08-11_14.44.53.webp" /></a>
+<a href="#gallery-19"><img src="images/2012-08-11_14.59.00.webp" /></a>
+<a href="#gallery-20"><img src="images/2012-08-11_17.10.27.webp" /></a>
+<a href="#gallery-21"><img src="images/2012-08-11_21.02.21.webp" /></a>
+<a href="#gallery-22"><img src="images/2012-08-11_21.02.24.webp" /></a>
+</div>
+</div>
+
 A month later and we're back in Madlab for Manchester Raspberry Jam IV – again I begin with a recap
 of the news: [Revision 2.0](http://www.raspberrypi.org/archives/1929), [Made In the
 UK](http://www.raspberrypi.org/archives/1925) and [Make Your Own
@@ -57,6 +173,11 @@ Simon fires up his pink lego kit again (and eventually ends up blowing it up som
 newcomer called [Ian](https://twitter.com/istacey) started work on a project which would allow the
 [Pi to work as Time Machine](https://twitter.com/istacey/status/244841519239028736) to back up his
 Mac!
+
+<figure id="gallery-1">
+<img src="images/2012-09-08_10.53.09.webp" />
+<figcaption>Manchester Raspberry Jam IV</figcaption>
+</figure>
 
 Later on in the morning a 10 year old kid came up to me and asked if I could teach him some Python
 (I'd put that up as a sharable skill on the wall) – I said I'd love to, and asked what he wanted to
@@ -98,79 +219,52 @@ things happening all around me! The Pi is a wonder and we all thank the foundati
 work in getting it to where it is – and look forward to see where it goes next! Thanks again also to
 Madlab for hosting the events. I really don't know how we'd do this if the space wasn't available.
 
-<p>
-<style type="text/css">
-			#gallery-30 {
-				margin: auto;
-			}
-			#gallery-30 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-30 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-30 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-200 gallery-columns-3 gallery-size-thumbnail" id="gallery-30"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-10.50.26-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-10.55.46-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-11.37.00-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-12.48.20-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-13.21.46-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-13.40.23-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-14.11.28-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-14.44.33-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-14.44.53-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-11-17.10.27-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-08-12-22.53.13-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2012-09-08-10.53.09-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-08-10.53.29-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-08-12.17.20-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/2012-09-08-15.19.11-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/A2Qrzg_CIAAUNF--150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/A2RAI30CEAEjldQ-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/A2Sr-y5CYAASMwd-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery2-2">
+<img src="images/2012-09-08_10.53.29.webp" />
+</figure>
+
+<figure id="gallery2-3">
+<img src="images/2012-09-08_12.17.20.webp" />
+</figure>
+
+<figure id="gallery2-4">
+<img src="images/2012-09-08_15.19.11.webp" />
+</figure>
+
+<figure id="gallery2-5">
+<img src="images/A2Qrzg_CIAAUNF.webp" />
+</figure>
+
+<figure id="gallery2-6">
+<img src="images/A2RAI30CEAEjldQ.webp" />
+</figure>
+
+<figure id="gallery2-7">
+<img src="images/A2Sr-y5CYAASMwd.webp" />
+</figure>
+
+<figure id="gallery2-8">
+<img src="images/opjcs.webp" />
+</figure>
+
+<figure id="gallery2-9">
+<img src="images/postits.webp" />
+</figure>
+
+<figure id="gallery2-10">
+<img src="images/y20sn.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery2-2"><img src="images/2012-09-08_10.53.29.webp" /></a>
+<a href="#gallery2-3"><img src="images/2012-09-08_12.17.20.webp" /></a>
+<a href="#gallery2-4"><img src="images/2012-09-08_15.19.11.webp" /></a>
+<a href="#gallery2-5"><img src="images/A2Qrzg_CIAAUNF.webp" /></a>
+<a href="#gallery2-6"><img src="images/A2RAI30CEAEjldQ.webp" /></a>
+<a href="#gallery2-7"><img src="images/A2Sr-y5CYAASMwd.webp" /></a>
+<a href="#gallery2-8"><img src="images/opjcs.webp" /></a>
+<a href="#gallery2-9"><img src="images/postits.webp" /></a>
+<a href="#gallery2-10"><img src="images/y20sn.webp" /></a>
 </div>
-</p>
+</div>

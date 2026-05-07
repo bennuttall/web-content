@@ -9,6 +9,10 @@ with other delegates, until around midnight – then Mike gave me a kickstarter 
 PHP Deploy tool – which I've used before, but never written build scripts for, so that was a really
 useful session – well in to the morning!
 
+<figure class="wp-block-image">
+<img src="images/8068757946_2702a23df8_b.webp" />
+</figure>
+
 Arriving at the conference centre bright and early, donning our new PHPNW12 red helper t-shirts we
 got people registered and handed name badges out. Once we had everyone settled in, the event kicked
 off with a truly inspiring talk from Google's [Ade Oshineye](https://twitter.com/ade_oshineye) on
@@ -47,70 +51,88 @@ Another great conference – it gets better every year, without ever having been
 for organising, and to all the sponsors and delegates for making it an awesome event. It really
 reminded me how great the PHP community is.
 
-I will close with a statement expressing my opinion of Drupal:
-
-<figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ussCHoQttyQ?si=1F20xUz7bnYdI9GN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/2012-10-06_09.41.05.webp" />
 </figure>
 
-<p>
-<style type="text/css">
-			#gallery-27 {
-				margin: auto;
-			}
-			#gallery-27 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-27 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-27 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-389 gallery-columns-3 gallery-size-thumbnail" id="gallery-27"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/8059834378_ef1b762e03_o-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/8059940985_1170a1cbc9_o-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/8059942849_2ebed92a1e_o-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/8066243473_5f3048948e_o-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/8066315134_b3cc6e9c72_o-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/8068755334_619e29ff07_b-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/8068757946_2702a23df8_b-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/8068760650_122e04c692_b-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/8068764472_a766ce309f_b-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/8058727214_071c316a83_o.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/8058863294_5d5fbf462d_o.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<figure id="gallery-2">
+<img src="images/2012-10-06_17.52.55.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/2012-10-07_10.01.22.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/8058727214_071c316a83_o.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/8058863294_5d5fbf462d_o.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/8059834378_ef1b762e03_o.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/8059940985_1170a1cbc9_o.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/8059942849_2ebed92a1e_o.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/8066240954_f3aa31469a_o.webp" />
+</figure>
+
+<figure id="gallery-10">
+<img src="images/8066243473_5f3048948e_o.webp" />
+</figure>
+
+<figure id="gallery-11">
+<img src="images/8066315134_b3cc6e9c72_o.webp" />
+</figure>
+
+<figure id="gallery-12">
+<img src="images/8068755334_619e29ff07_b.webp" />
+</figure>
+
+<figure id="gallery-14">
+<img src="images/8068760650_122e04c692_b.webp" />
+</figure>
+
+<figure id="gallery-15">
+<img src="images/8068764472_a766ce309f_b.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/2012-10-06_09.41.05.webp" /></a>
+<a href="#gallery-2"><img src="images/2012-10-06_17.52.55.webp" /></a>
+<a href="#gallery-3"><img src="images/2012-10-07_10.01.22.webp" /></a>
+<a href="#gallery-4"><img src="images/8058727214_071c316a83_o.webp" /></a>
+<a href="#gallery-5"><img src="images/8058863294_5d5fbf462d_o.webp" /></a>
+<a href="#gallery-6"><img src="images/8059834378_ef1b762e03_o.webp" /></a>
+<a href="#gallery-7"><img src="images/8059940985_1170a1cbc9_o.webp" /></a>
+<a href="#gallery-8"><img src="images/8059942849_2ebed92a1e_o.webp" /></a>
+<a href="#gallery-9"><img src="images/8066240954_f3aa31469a_o.webp" /></a>
+<a href="#gallery-10"><img src="images/8066243473_5f3048948e_o.webp" /></a>
+<a href="#gallery-11"><img src="images/8066315134_b3cc6e9c72_o.webp" /></a>
+<a href="#gallery-12"><img src="images/8068755334_619e29ff07_b.webp" /></a>
+<a href="#gallery-14"><img src="images/8068760650_122e04c692_b.webp" /></a>
+<a href="#gallery-15"><img src="images/8068764472_a766ce309f_b.webp" /></a>
 </div>
-</p>
+</div>
 
 Photo credit
 [akrabat](http://www.flickr.com/photos/akrabat/sets/72157631719100336/with/8066285897/), [Stuart
 Herbert](http://www.flickr.com/photos/stuartherbert/sets/72157631714133430/with/8058863294/) and
 [vcrgardener](http://www.flickr.com/photos/87765987@N06/sets/72157631724963151/with/8068759789/)
+
+I will close with a statement expressing my opinion of Drupal:
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ussCHoQttyQ?si=1F20xUz7bnYdI9GN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>

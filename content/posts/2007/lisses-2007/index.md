@@ -11,12 +11,107 @@ the Dame Du Lac!" which I took me be a good sign immediately, seeing as we'd bee
 hotel was a short walk from the Dame.
 
 <figure class="wp-block-image">
-<img src="images/lisses8.webp" />
+<img src="images/1332427623_040ec3e79c_o.webp" />
 <figcaption>La Dame Du Lac</figcaption>
 </figure>
 
 *(Note: the Dame Du Lac (Lady of the Lake) is a man-made architectural climbing structure in the Park
 Du Lac (Park of the Lake), which is commonly used to practise parkour on)*
+
+<div class="gallery">
+<figure id="gallery-1">
+<img src="images/1332404807_c4910f9763_o.webp" />
+</figure>
+
+<figure id="gallery-2">
+<img src="images/1332412125_2d069f9bd7_o.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/1332422833_fd4894049b_o.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/1332430647_825561ce21_o.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/1332440409_a65333b719_o.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/1333255816_780e624fe9_o.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/1333261080_effd145a95_o.webp" />
+</figure>
+
+<figure id="gallery-10">
+<img src="images/1333266992_5868b32141_o.webp" />
+</figure>
+
+<figure id="gallery-13">
+<img src="images/1333286152_64cd66b9aa_o.webp" />
+</figure>
+
+<figure id="gallery-14">
+<img src="images/1333289246_8144306138_o.webp" />
+</figure>
+
+<figure id="gallery-15">
+<img src="images/1333296584_8a01788420_o.webp" />
+</figure>
+
+<figure id="gallery-16">
+<img src="images/1333303098_a77e86a10e_o.webp" />
+</figure>
+
+<figure id="gallery-17">
+<img src="images/1333305658_33855b6785_o.webp" />
+</figure>
+
+<figure id="gallery-18">
+<img src="images/1333308130_17446b5848_o.webp" />
+</figure>
+
+<figure id="gallery-19">
+<img src="images/1333320156_13a1986541_o.webp" />
+</figure>
+
+<figure id="gallery-22">
+<img src="images/2204523775_0ab6d95486_o.webp" />
+</figure>
+
+<figure id="gallery-23">
+<img src="images/2205313080_e0885d9acb_o.webp" />
+</figure>
+
+<figure id="gallery-24">
+<img src="images/Dame-001.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-1"><img src="images/1332404807_c4910f9763_o.webp" /></a>
+<a href="#gallery-2"><img src="images/1332412125_2d069f9bd7_o.webp" /></a>
+<a href="#gallery-3"><img src="images/1332422833_fd4894049b_o.webp" /></a>
+<a href="#gallery-5"><img src="images/1332430647_825561ce21_o.webp" /></a>
+<a href="#gallery-7"><img src="images/1332440409_a65333b719_o.webp" /></a>
+<a href="#gallery-8"><img src="images/1333255816_780e624fe9_o.webp" /></a>
+<a href="#gallery-9"><img src="images/1333261080_effd145a95_o.webp" /></a>
+<a href="#gallery-10"><img src="images/1333266992_5868b32141_o.webp" /></a>
+<a href="#gallery-13"><img src="images/1333286152_64cd66b9aa_o.webp" /></a>
+<a href="#gallery-14"><img src="images/1333289246_8144306138_o.webp" /></a>
+<a href="#gallery-15"><img src="images/1333296584_8a01788420_o.webp" /></a>
+<a href="#gallery-16"><img src="images/1333303098_a77e86a10e_o.webp" /></a>
+<a href="#gallery-17"><img src="images/1333305658_33855b6785_o.webp" /></a>
+<a href="#gallery-18"><img src="images/1333308130_17446b5848_o.webp" /></a>
+<a href="#gallery-19"><img src="images/1333320156_13a1986541_o.webp" /></a>
+<a href="#gallery-22"><img src="images/2204523775_0ab6d95486_o.webp" /></a>
+<a href="#gallery-23"><img src="images/2205313080_e0885d9acb_o.webp" /></a>
+<a href="#gallery-24"><img src="images/Dame-001.webp" /></a>
+</div>
+</div>
 
 We eventually found the hotel and sorted our rooms out, showered and went out in search for food,
 the venture lasted hours and we found nowhere open (this was a Sunday evening) so we went back to
@@ -102,6 +197,14 @@ I tried to find the secret message at the Dame, featured in the post before this
 that it had been replaced by the guy who found it with his own message, so I took it home as a
 keepsake and replaced it with my own message. Cool, eh?
 
+<figure class="wp-block-image">
+<img src="images/IMG_0264.webp" />
+</figure>
+
+<figure class="wp-block-image">
+<img src="images/IMG_2634.webp" />
+</figure>
+
 We were gutted to have to leave on the Sunday, but it had been such a rewarding trip – we'd all
 learned so much, achieved so much and experienced so much, it was everything we hoped it would be
 and more. The only disappointment for me was that we didn't meet and train with many other people.
@@ -111,6 +214,42 @@ with traceurs from all over Europe. I was hoping that David Belle would come hom
 Parkour Event in Berlin](http://saiyangarden.blogspot.com/2007/08/airwaves-parkour-night.html) and
 be out training in Lisses, but we heard from the guy in Evry that he was visiting his sister in
 Iceland after the thing in Berlin :(. Maybe next year I'll get to meet him...
+
+<div class="gallery">
+
+<figure id="gallery2-6">
+<img src="images/1332436145_b95098e71e_o.webp" />
+</figure>
+
+<figure id="gallery2-11">
+<img src="images/1333271876_826b9e6910_o.webp" />
+</figure>
+
+<figure id="gallery2-12">
+<img src="images/1333282674_851d5aeba0_o.webp" />
+</figure>
+
+<figure id="gallery2-20">
+<img src="images/1333322256_1822300be5_o.webp" />
+</figure>
+
+<figure id="gallery2-21">
+<img src="images/1333325590_aed7cdb9b3_o.webp" />
+</figure>
+
+<figure id="gallery2-27">
+<img src="images/lisses_sdb.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery2-6"><img src="images/1332436145_b95098e71e_o.webp" /></a>
+<a href="#gallery2-11"><img src="images/1333271876_826b9e6910_o.webp" /></a>
+<a href="#gallery2-12"><img src="images/1333282674_851d5aeba0_o.webp" /></a>
+<a href="#gallery2-20"><img src="images/1333322256_1822300be5_o.webp" /></a>
+<a href="#gallery2-21"><img src="images/1333325590_aed7cdb9b3_o.webp" /></a>
+<a href="#gallery2-27"><img src="images/lisses_sdb.webp" /></a>
+</div>
+</div>
 
 We had to head off early on Sunday morning to give us plenty of time to get to Paris to get the
 Eurostar back to London, so we didn't get chance to train in Lisses before departing. We were lucky
@@ -134,69 +273,3 @@ on that next coach no problem.
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8nThFKp55zk?si=ZW5ycBHpus71yDLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
-
-<p>
-<style type="text/css">
-			#gallery-46 {
-				margin: auto;
-			}
-			#gallery-46 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-46 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-46 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-954 gallery-columns-3 gallery-size-thumbnail" id="gallery-46"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/evry-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lisses1-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lisses2-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lisses3-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lisses4-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lisses5-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lisses6-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lisses7-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lisses8-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lisses9-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lisses10-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/lisses11-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/lisses12-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/lisses14-125x125.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
-</div>
-</p>

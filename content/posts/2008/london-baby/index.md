@@ -69,74 +69,122 @@ the back of a bank statement I had in my bag!
 So after my morning lectures and the maths test today I got my new laptop set up and here we are. I
 took many photos in London at the weekend.
 
-<p>
-<style type="text/css">
-			#gallery-40 {
-				margin: auto;
-			}
-			#gallery-40 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-40 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-40 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1276 gallery-columns-3 gallery-size-thumbnail" id="gallery-40"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1586.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1580.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1612.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1606.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1683.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1677.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1732.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1731.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1787.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1776.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_1750.resized-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1749.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_1748.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/G5D0284QueensR.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/G5D0306QueensR.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/G5D0307QueensR.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-2">
+<img src="images/G5D0306QueensR.webp" />
+</figure>
+
+<figure id="gallery-1">
+<img src="images/G5D0284QueensR.webp" />
+</figure>
+
+<figure id="gallery-3">
+<img src="images/G5D0307QueensR.webp" />
+</figure>
+
+<figure id="gallery-4">
+<img src="images/IMG_1586.webp" />
+</figure>
+
+<figure id="gallery-5">
+<img src="images/IMG_1593.webp" />
+</figure>
+
+<figure id="gallery-6">
+<img src="images/IMG_1612.webp" />
+</figure>
+
+<figure id="gallery-7">
+<img src="images/IMG_1645.webp" />
+</figure>
+
+<figure id="gallery-8">
+<img src="images/IMG_1654.webp" />
+</figure>
+
+<figure id="gallery-9">
+<img src="images/IMG_1677.webp" />
+</figure>
+
+<figure id="gallery-10">
+<img src="images/IMG_1683.webp" />
+</figure>
+
+<figure id="gallery-11">
+<img src="images/IMG_1689.webp" />
+</figure>
+
+<figure id="gallery-12">
+<img src="images/IMG_1701.webp" />
+</figure>
+
+<figure id="gallery-13">
+<img src="images/IMG_1704.webp" />
+</figure>
+
+<figure id="gallery-14">
+<img src="images/IMG_1731.webp" />
+</figure>
+
+<figure id="gallery-15">
+<img src="images/IMG_1732.webp" />
+</figure>
+
+<figure id="gallery-16">
+<img src="images/IMG_1745.webp" />
+</figure>
+
+<figure id="gallery-17">
+<img src="images/IMG_1747.webp" />
+</figure>
+
+<figure id="gallery-18">
+<img src="images/IMG_1748.webp" />
+</figure>
+
+<figure id="gallery-19">
+<img src="images/IMG_1749.webp" />
+</figure>
+
+<figure id="gallery-20">
+<img src="images/IMG_1750.webp" />
+</figure>
+
+<figure id="gallery-21">
+<img src="images/IMG_1751.webp" />
+</figure>
+
+<figure id="gallery-22">
+<img src="images/IMG_1776.webp" />
+</figure>
+
+<figure id="gallery-23">
+<img src="images/IMG_1787.webp" />
+</figure>
+
+<div class="gallery-thumbs">
+<a href="#gallery-2"><img src="images/G5D0306QueensR.webp" /></a>
+<a href="#gallery-1"><img src="images/G5D0284QueensR.webp" /></a>
+<a href="#gallery-3"><img src="images/G5D0307QueensR.webp" /></a>
+<a href="#gallery-4"><img src="images/IMG_1586.webp" /></a>
+<a href="#gallery-5"><img src="images/IMG_1593.webp" /></a>
+<a href="#gallery-6"><img src="images/IMG_1612.webp" /></a>
+<a href="#gallery-7"><img src="images/IMG_1645.webp" /></a>
+<a href="#gallery-8"><img src="images/IMG_1654.webp" /></a>
+<a href="#gallery-9"><img src="images/IMG_1677.webp" /></a>
+<a href="#gallery-10"><img src="images/IMG_1683.webp" /></a>
+<a href="#gallery-11"><img src="images/IMG_1689.webp" /></a>
+<a href="#gallery-12"><img src="images/IMG_1701.webp" /></a>
+<a href="#gallery-13"><img src="images/IMG_1704.webp" /></a>
+<a href="#gallery-14"><img src="images/IMG_1731.webp" /></a>
+<a href="#gallery-15"><img src="images/IMG_1732.webp" /></a>
+<a href="#gallery-16"><img src="images/IMG_1745.webp" /></a>
+<a href="#gallery-17"><img src="images/IMG_1747.webp" /></a>
+<a href="#gallery-18"><img src="images/IMG_1748.webp" /></a>
+<a href="#gallery-19"><img src="images/IMG_1749.webp" /></a>
+<a href="#gallery-20"><img src="images/IMG_1750.webp" /></a>
+<a href="#gallery-21"><img src="images/IMG_1751.webp" /></a>
+<a href="#gallery-22"><img src="images/IMG_1776.webp" /></a>
+<a href="#gallery-23"><img src="images/IMG_1787.webp" /></a>
 </div>
-</p>
+</div>
