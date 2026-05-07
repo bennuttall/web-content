@@ -6,9 +6,11 @@ RewriteRule ^files/([^/]+)?$ https://files.bennuttall.com/$1 [L,R=301]
 RewriteRule ^contact/?$ /about/ [L,R=301]
 RewriteRule ^feed/?$ /blog/atom.xml [L,R=301]
 RewriteRule ^atom.xml$ /blog/atom.xml [L,R=301]
-RewriteRule ^blog/tags/gpio-zero/?$ /blog/tags/gpiozero/ [R=301,L]
-RewriteRule ^tag/([^/]+)/?$ /blog/tags/$1/ [R=301,L]
 RewriteRule ^([0-9]{4})/?$ /blog/$1 [R=301,L]
+RewriteRule ^tag/([^/]+)/?$ /blog/tags/$1/ [R=301,L]
+RewriteRule ^blog/tags/gpio-zero/?$ /blog/tags/gpiozero/ [R=301,L]
+RewriteRule ^blog/2016/03/gpio-zero/?$ /blog/2016/02/gpio-zero/ [R=301,L]
+RewriteRule ^blog/2018/03/speedy-python-package-installation-for-raspberry-pi/?$ /blog/2018/10/speedy-python-package-installation-for-raspberry-pi/ [R=301,L]
 
 # Blogger
 RewriteRule ^(blog/)?2010/03/year-of-twitter.html$  [L,R=301]

@@ -1,17 +1,18 @@
 One of the most exciting starter activities to do with a Raspberry Pi is something you can't do on
-your regular PC or laptop—make something happen in the real world, such as flash an LED or control a
-motor. If you've done anything like this before, you probably did it with Python using the
-<a href="https://pypi.python.org/pypi/RPi.GPIO">RPi.GPIO</a> library, which has been
-used in countless projects. There's now an even simpler way to interact with physical components: a
-new friendly Python API called <a href="https://gpiozero.readthedocs.org/">GPIO Zero</a>.
+your regular PC or laptop — make something happen in the real world, such as flash an LED or control
+a motor. If you've done anything like this before, you probably did it with Python using the <a
+href="https://pypi.python.org/pypi/RPi.GPIO">RPi.GPIO</a> library, which has been used in countless
+projects. There's now an even simpler way to interact with physical components: a new friendly
+Python API called <a href="https://gpiozero.readthedocs.org/">GPIO Zero</a>.
 
-![](images/leds.webp)
+<figure class="wp-block-image">
+<img src="images/leds.webp" />
+</figure>
 
-I recently wrote about [Raspberry Pi Zero](/blog/2015/raspberry-pi-zero/),
-the $5 computer
-and latest edition to the world of affordable hardware. Although the names are similar, the GPIO
-Zero and Raspberry Pi Zero projects are unrelated and are not coupled. The GPIO Zero library is made
-to work on all Raspberry Pi models, and is compatible with both Python 2 and Python 3.
+I recently wrote about [Raspberry Pi Zero](/blog/2015/raspberry-pi-zero/), the $5 computer and
+latest edition to the world of affordable hardware. Although the names are similar, the GPIO Zero
+and Raspberry Pi Zero projects are unrelated and are not coupled. The GPIO Zero library is made to
+work on all Raspberry Pi models, and is compatible with both Python 2 and Python 3.
 
 The RPi.GPIO library is bare bones and provides all the essential functionality to do simple things
 with the Pi's GPIO pins—set up pins as inputs or outputs, read inputs, set outputs high or low, and
@@ -19,7 +20,9 @@ so on. GPIO Zero is built on top of this and provides a collection of simple int
 components, so rather than setting pin 2 high to turn on an LED, you have an LED object and you turn
 it on.
 
-![](images/raspio-portsplus.webp)
+<figure class="wp-block-image">
+<img src="images/raspio-portsplus.webp" />
+</figure>
 
 ## Getting started
 
@@ -30,7 +33,9 @@ purpose and the rest are general purpose. Refer to
 <a href="https://pinout.xyz/">pinout.xyz</a> for more information, or use a
 <a href="https://rasp.io/portsplus/">port label</a>:
 
-![](images/led-gpio17.webp)
+<figure class="wp-block-image">
+<img src="images/led-gpio17.webp" />
+</figure>
 
 Blink an LED with the following code:
 
@@ -89,7 +94,9 @@ full color control.
 There's even an interface for TrafficLights. Provide the pin numbers the red, amber, and green
 lights are connected to, then control with:
 
-![](images/pi-traffic.webp)
+<figure class="wp-block-image">
+<img src="images/pi-traffic.webp" />
+</figure>
 
 ```python
 lights = TrafficLights(2, 3, 4)
@@ -108,7 +115,9 @@ and so on.
 The simplest input device is a push button, and the interface provided makes it easy to control
 programs with button presses:
 
-![](images/tactile-push-button.webp)
+<figure class="wp-block-image">
+<img src="images/tactile-push-button.webp" />
+</figure>
 
 ```python
 from gpiozero import Button
@@ -183,7 +192,9 @@ before turning back to red, in the usual way.
 Swapping out a button for another input device, such as a basic sensor, can open up a world of
 interesting projects. Instead of a button, use a motion sensor:
 
-![](images/pir-module.webp)
+<figure class="wp-block-image">
+<img src="images/pir-module.webp" />
+</figure>
 
 ```python
 from gpiozero import MotionSensor
@@ -280,7 +291,9 @@ lights.leds[4].blink()
 
 The Ryanteck TrafficHAT:
 
-![](images/traffichat.webp)
+<figure class="wp-block-image">
+<img src="images/traffichat.webp" />
+</figure>
 
 ```python
 from gpiozero import TrafficHat
@@ -300,7 +313,9 @@ defined within the class.
 
 Connect up two motors and make a chassis and you have yourself a Raspberry Pi robot:
 
-![](images/budgetroboticskit.webp)
+<figure class="wp-block-image">
+<img src="images/budgetroboticskit.webp" />
+</figure>
 
 ```python
 from gpiozero import Robot
@@ -324,11 +339,9 @@ Zero-powered robot programmed with GPIO Zero and
 GPIO Zero and PyGame Zero do work very well together - perfect for creating on-screen interfaces for
 GPIO components.
 
-<img src="https://opensource.com/sites/default/files/2016-02_nuttall_f10.png"
-title="Pi Zero powered robot programmed with GPIO Zero and PyGame Zero"
-class="media-image attr__typeof__foaf:Image img__fid__309851 img__view_mode__default attr__format__default attr__field_file_image_alt_text[und][0][value]__Pi Zero powered robot programmed with GPIO and PyGame attr__field_file_image_title_text[und][0][value]__Pi attr__field_file_image_caption[und][0][value]__ attr__field_file_image_caption[und][0][format]__panopoly_wysiwyg_text attr__field_folder[und]__9404"
-typeof="foaf:Image" loading="lazy" width="520" height="390"
-alt="Pi Zero powered robot programmed with GPIO Zero and PyGame Zero" />
+<figure class="wp-block-image">
+<img src="images/budgetroboticskit.webp" />
+</figure>
 
 ## Try it now!
 
@@ -350,8 +363,7 @@ regular Python shell, or install IPython and use that.
 
 Read more about GPIO Zero:
 
-- <a href="https://gpiozero.readthedocs.org/en/rest-docs/">Full documentation on
-  readthedocs</a>
+- <a href="https://gpiozero.readthedocs.org/">Full documentation on readthedocs</a>
 - <a href="https://github.com/gpiozero/gpiozero">GPIO Zero source on GitHub</a>
 - <a href="https://www.raspberrypi.org/magpi/issues/39/">GPIO Zero in The MagPi #39</a>
 - <a href="https://www.raspberrypi.org/blog/gpio-zero-a-friendly-python-api-for-physical-computing/">GPIO Zero: Developing a new friendly Python API for Physical Computing</a>
