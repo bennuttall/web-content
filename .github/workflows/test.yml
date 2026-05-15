@@ -24,6 +24,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install beemo
 
+      - name: Check for non-webp images
+        run: make check-images
+
       - name: Build the site
         env:
           BEEMO_CONFIG: config.yml
