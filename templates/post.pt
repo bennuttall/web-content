@@ -1,7 +1,8 @@
-<div metal:use-macro="layout">
+<main metal:use-macro="layout">
   <div metal:fill-slot="head" tal:omit-tag="1">
     <meta name="description" content="${post.excerpt}" />
-    <meta property="og:url" content="${site.config.base_url}/${post.link}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="${site.config.base_url}/${post.link}/" />
     <meta property="og:title" content="${post.title}" />
     <meta property="og:description" content="${post.excerpt}" />
     <meta name="twitter:title" content="${post.title}" />
@@ -12,40 +13,47 @@
 
   <div metal:fill-slot="title" tal:omit-tag="1" tal:content="structure post.title"></div>
 
-  <section metal:fill-slot="content">
-    <div class="row">
-      <div class="small-12 columns">
-        <div class="postmeta">
-          <div><a href="/blog/">Blog</a> &raquo; <a href="/blog/${post.published.year}">${post.published.year}</a> &raquo; <a href="/blog/${post.published.strftime('%Y/%m')}/">${post.published.strftime("%B")}</a></div>
-          <div>Published <time datetime="${post.published.isoformat(timespec='seconds')}" title="${post.published.isoformat(timespec='seconds')}">${post.published.strftime("%-d %B %Y")}</time></div>
-          <div tal:condition="post.modified_diff">Modified <time datetime="${post.modified.isoformat(timespec='seconds')}" title="${post.modified.isoformat(timespec='seconds')}">${post.modified.strftime("%-d %B %Y")}</time></div>
-        </div>
-        <h1 tal:content="structure post.title"></h1>
-      </div>
-    </div>
-    <div class="row">
-      <div class="small-12 medium-8 columns">
-        <div class="entry-content">
+  <main metal:fill-slot="content" class="site-main">
+    <div class="container layout">
+      <article class="reading">
+        <header class="post-header">
+          <nav class="breadcrumb" aria-label="Breadcrumb">
+            <a href="/blog/">Blog</a> /
+            <a href="/blog/${post.published.year}/">${post.published.year}</a> /
+            <a href="/blog/${post.published.strftime('%Y/%m')}/">${post.published.strftime("%B")}</a>
+          </nav>
+          <div class="post-meta">
+            <span>Published <time datetime="${post.published.isoformat(timespec='seconds')}" title="${post.published.isoformat(timespec='seconds')}">${post.published.strftime("%-d %B %Y")}</time></span>
+            <span tal:condition="post.modified_diff">Updated <time datetime="${post.modified.isoformat(timespec='seconds')}" title="${post.modified.isoformat(timespec='seconds')}">${post.modified.strftime("%-d %B %Y")}</time></span>
+          </div>
+          <h1 tal:content="structure post.title"></h1>
+        </header>
+
+        <div class="prose">
           <div tal:content="structure post.html"></div>
         </div>
-        <div class="callout primary tags">
-          Tags: <a tal:repeat="tag post.tags" href="/blog/tags/${tag}">${tag.replace("-", " ")}</a>
+
+        <div class="tags" tal:condition="post.tags">
+          <span class="tags-label">Tags</span>
+          <a tal:repeat="tag post.tags" href="/blog/tags/${tag}/">${tag.replace("-", " ")}</a>
         </div>
-        <div class="callout primary prevnext">
-          <nav tal:condition="prev_post" class="prev">&laquo; <a href="/${prev_post.link}" rel="prev" tal:content="structure prev_post.title"></a></nav>
-          <nav tal:condition="next_post" class="next"><a href="/${next_post.link}" rel="next" tal:content="structure next_post.title"></a> &raquo;</nav>
-        </div>
-      </div>
-      <div class="small-12 medium-4 columns">
-        <h3>Archive</h3>
-        <ul>
-          <li><a href="/blog/archive/">All</a></li>
-          <li><a href="/blog/tags/">Tags</a></li>
-          <li tal:repeat="year site.archive.keys()">
-            <a href="/blog/${year}/">${year}</a>
-          </li>
-        </ul>
-      </div>
+
+        <nav class="post-nav" tal:condition="prev_post or next_post" aria-label="Post navigation">
+          <a tal:condition="prev_post" class="prev" href="/${prev_post.link}/" rel="prev">&larr; <span tal:content="structure prev_post.title"></span></a>
+          <a tal:condition="next_post" class="next" href="/${next_post.link}/" rel="next"><span tal:content="structure next_post.title"></span> &rarr;</a>
+        </nav>
+      </article>
+
+      <aside class="side-col">
+        <nav class="widget" aria-label="Archive">
+          <h2 class="widget-title">Archive</h2>
+          <ul class="widget-list">
+            <li><a href="/blog/archive/">All posts</a></li>
+            <li><a href="/blog/tags/">Tags</a></li>
+            <li tal:repeat="year site.archive.keys()"><a href="/blog/${year}/">${year}</a></li>
+          </ul>
+        </nav>
+      </aside>
     </div>
-  </section>
-</div>
+  </main>
+</main>

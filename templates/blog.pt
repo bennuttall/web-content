@@ -1,39 +1,42 @@
-<div metal:use-macro="layout">
+<main metal:use-macro="layout">
   <div metal:fill-slot="head" tal:omit-tag="1">
-    <meta name="description" content="Ben Nuttall blog" />
-    <meta property="og:url" content="${site.config.base_url}/${link}" />
-    <meta property="og:title" content="Ben Nuttall blog" />
-    <meta property="og:description" content="Ben Nuttall blog" />
-    <meta name="twitter:title" content="Ben Nuttall blog" />
-    <meta name="twitter:description" content="Ben Nuttall blog" />
+    <meta name="description" content="Ben Nuttall's blog" />
+    <meta property="og:url" content="${site.config.base_url}/${link}/" />
+    <meta property="og:title" content="Ben Nuttall's blog" />
+    <meta property="og:description" content="Ben Nuttall's blog" />
+    <meta name="twitter:title" content="Ben Nuttall's blog" />
+    <meta name="twitter:description" content="Ben Nuttall's blog" />
   </div>
 
   <div metal:fill-slot="title" tal:omit-tag="1">Blog</div>
 
-  <section metal:fill-slot="content">
-    <div class="row">
-      <div class="small-12 medium-8 columns">
-        <h1>Blog</h1>
-        <div tal:repeat="post site.posts[:10]">
-          <time datetime="${post.published.isoformat(timespec='seconds')}" title="${post.published.isoformat(timespec='seconds')}">${post.published.strftime("%-d %B %Y")}</time>
-          <h2><a href="/${post.link}" tal:content="structure post.title"></a></h2>
-          <p tal:content="structure post.excerpt"></p>
-          <div class="callout primary tags">
-            Tags: <a tal:repeat="tag post.tags" href="/blog/tags/${tag}">${tag.replace("-", " ")}</a>
-          </div>
+  <main metal:fill-slot="content" class="site-main">
+    <div class="container layout">
+      <div>
+        <h1 class="page-title">Blog</h1>
+        <div class="post-list">
+          <article class="post-summary" tal:repeat="post site.posts[:10]">
+            <time datetime="${post.published.isoformat(timespec='seconds')}" title="${post.published.isoformat(timespec='seconds')}">${post.published.strftime("%-d %B %Y")}</time>
+            <h2><a href="/${post.link}/" tal:content="structure post.title"></a></h2>
+            <p tal:content="structure post.excerpt"></p>
+            <div class="tags">
+              <a tal:repeat="tag post.tags" href="/blog/tags/${tag}/">${tag.replace("-", " ")}</a>
+            </div>
+          </article>
         </div>
+        <p><a href="/blog/archive/">Browse the full archive &rarr;</a></p>
       </div>
-      <div class="small-12 medium-4 columns">
-        <h3>Archive</h3>
-        <ul>
-          <li><a href="/blog/archive/">All</a></li>
-          <li><a href="/blog/tags/">Tags</a></li>
-          <li tal:repeat="year site.archive.keys()">
-            <a href="/blog/${year}/">${year}</a>
-          </li>
-        </ul>
-      </div>
-      <div class="small-12 medium-8 columns">&nbsp;</div>
+
+      <aside class="side-col">
+        <nav class="widget" aria-label="Archive">
+          <h2 class="widget-title">Archive</h2>
+          <ul class="widget-list">
+            <li><a href="/blog/archive/">All posts</a></li>
+            <li><a href="/blog/tags/">Tags</a></li>
+            <li tal:repeat="year site.archive.keys()"><a href="/blog/${year}/">${year}</a></li>
+          </ul>
+        </nav>
+      </aside>
     </div>
-  </section>
-</div>
+  </main>
+</main>

@@ -1,4 +1,4 @@
-<div metal:use-macro="layout">
+<main metal:use-macro="layout">
   <div metal:fill-slot="head" tal:omit-tag="1">
     <meta name="description" content="${page.description}" />
     <meta property="og:url" content="${site.config.base_url}/${page.slug}/" />
@@ -12,15 +12,14 @@
 
   <div metal:fill-slot="title" tal:omit-tag="1">${page.title}</div>
 
-  <section metal:fill-slot="content">
-    <div class="row">
-      <div class="small-12 columns">
-        <h1>${page.title}</h1>
-      </div>
-      <div class="small-12 medium-8 columns entry-content">
-        <div tal:content="structure page.html"></div>
-      </div>
-      <div class="small-12 medium-8 columns">&nbsp;</div>
+  <main metal:fill-slot="content" class="site-main">
+    <div class="container layout">
+      <article>
+        <h1 class="page-title">${page.title}</h1>
+        <div class="prose">
+          <div tal:content="structure page.html"></div>
+        </div>
+      </article>
     </div>
-  </section>
-</div>
+  </main>
+</main>
