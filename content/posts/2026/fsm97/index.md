@@ -25,7 +25,7 @@ than internal game data. It found everything in the file `SM97.DAT` and was very
 answer simple questions like which is the biggest stadium or who is the best rated player.
 
 I asked it to make an HTML page summarising all the data. It produced this:
-[https://files.bennuttall.com/fsm97/](https://files.bennuttall.com/fsm97/)
+[https://files.bennuttall.com/fsm97.html](https://files.bennuttall.com/fsm97.html)
 
 I asked it to create CSV files of all the data it found, so I could make sense of it and make sure
 it looked right. There were a few issues with it messing up the data but it was easily able to fix
