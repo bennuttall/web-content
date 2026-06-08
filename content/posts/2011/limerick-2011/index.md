@@ -31,52 +31,26 @@ the group. I personally looked at the data we had been given, analysed the trend
 of option prices over time and ran a Monte Carlo simulation in MATLAB to demonstrate the
 effectiveness of the strategy.
 
-<p>
-<style type="text/css">
-			#gallery-33 {
-				margin: auto;
-			}
-			#gallery-33 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-33 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-33 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-304 gallery-columns-4 gallery-size-thumbnail" id="gallery-33"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0238-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0236-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0234-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0231-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0239-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0240-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0241-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0244-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="lk1-1"><img src="images/IMAG0238.webp" /></figure>
+<figure id="lk1-2"><img src="images/IMAG0236.webp" /></figure>
+<figure id="lk1-3"><img src="images/IMAG0234.webp" /></figure>
+<figure id="lk1-4"><img src="images/IMAG0231.webp" /></figure>
+<figure id="lk1-5"><img src="images/IMAG0239.webp" /></figure>
+<figure id="lk1-6"><img src="images/IMAG0240.webp" /></figure>
+<figure id="lk1-7"><img src="images/IMAG0241.webp" /></figure>
+<figure id="lk1-8"><img src="images/IMAG0244.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#lk1-1"><img src="images/IMAG0238.webp" /></a>
+<a href="#lk1-2"><img src="images/IMAG0236.webp" /></a>
+<a href="#lk1-3"><img src="images/IMAG0234.webp" /></a>
+<a href="#lk1-4"><img src="images/IMAG0231.webp" /></a>
+<a href="#lk1-5"><img src="images/IMAG0239.webp" /></a>
+<a href="#lk1-6"><img src="images/IMAG0240.webp" /></a>
+<a href="#lk1-7"><img src="images/IMAG0241.webp" /></a>
+<a href="#lk1-8"><img src="images/IMAG0244.webp" /></a>
 </div>
-</p>
+</div>
 
 The second week was the study group so the lecture theatre was filled out with academics as well as
 the students who had stayed on. I chose to work on a problem in Electricity Prices and Demand Side
@@ -93,50 +67,24 @@ small and simple or bigger and more complex problems alike. It gave us both the 
 that this is something we could do with our lives, applying our skills in such a real and meaningful
 way which could lead to significant results in personal, small or large scale industry problems.
 
-<p>
-<style type="text/css">
-			#gallery-34 {
-				margin: auto;
-			}
-			#gallery-34 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-34 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-34 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-304 gallery-columns-4 gallery-size-thumbnail" id="gallery-34"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMAG0251-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0252-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0255-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0256-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0257-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0276-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0279-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="lk2-1"><img src="images/IMAG0251.webp" /></figure>
+<figure id="lk2-2"><img src="images/IMAG0252.webp" /></figure>
+<figure id="lk2-3"><img src="images/IMAG0255.webp" /></figure>
+<figure id="lk2-4"><img src="images/IMAG0256.webp" /></figure>
+<figure id="lk2-5"><img src="images/IMAG0257.webp" /></figure>
+<figure id="lk2-6"><img src="images/IMAG0276.webp" /></figure>
+<figure id="lk2-7"><img src="images/IMAG0279.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#lk2-1"><img src="images/IMAG0251.webp" /></a>
+<a href="#lk2-2"><img src="images/IMAG0252.webp" /></a>
+<a href="#lk2-3"><img src="images/IMAG0255.webp" /></a>
+<a href="#lk2-4"><img src="images/IMAG0256.webp" /></a>
+<a href="#lk2-5"><img src="images/IMAG0257.webp" /></a>
+<a href="#lk2-6"><img src="images/IMAG0276.webp" /></a>
+<a href="#lk2-7"><img src="images/IMAG0279.webp" /></a>
 </div>
-</p>
+</div>
 
 A couple of times during the trip, I arranged Skype calls with [Peter
 Rowlett](http://twitter.com/peterrowlett), where he interviewed by about the study group and
@@ -170,100 +118,58 @@ with Applications using
 MATLAB*](https://www.mathworks.co.uk/matlabcentral/fileexchange/2374-dynamical-systems-with-applications-using-matlab).
 Quite a coincidence!
 
-<p>
-<style type="text/css">
-			#gallery-35 {
-				margin: auto;
-			}
-			#gallery-35 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-35 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-35 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-304 gallery-columns-4 gallery-size-thumbnail" id="gallery-35"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0282-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0284-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0285-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0286-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0287-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0288-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0289-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0290-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0292-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0296-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0299-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0307-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0308-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0309-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0311-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0315-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0316-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0317-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0320-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0321-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0323-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0326-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0327-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMAG0335-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="lk3-1"><img src="images/IMAG0282.webp" /></figure>
+<figure id="lk3-2"><img src="images/IMAG0284.webp" /></figure>
+<figure id="lk3-3"><img src="images/IMAG0285.webp" /></figure>
+<figure id="lk3-4"><img src="images/IMAG0286.webp" /></figure>
+<figure id="lk3-5"><img src="images/IMAG0287.webp" /></figure>
+<figure id="lk3-6"><img src="images/IMAG0288.webp" /></figure>
+<figure id="lk3-7"><img src="images/IMAG0289.webp" /></figure>
+<figure id="lk3-8"><img src="images/IMAG0290.webp" /></figure>
+<figure id="lk3-9"><img src="images/IMAG0292.webp" /></figure>
+<figure id="lk3-10"><img src="images/IMAG0296.webp" /></figure>
+<figure id="lk3-11"><img src="images/IMAG0299.webp" /></figure>
+<figure id="lk3-12"><img src="images/IMAG0307.webp" /></figure>
+<figure id="lk3-13"><img src="images/IMAG0308.webp" /></figure>
+<figure id="lk3-14"><img src="images/IMAG0309.webp" /></figure>
+<figure id="lk3-15"><img src="images/IMAG0311.webp" /></figure>
+<figure id="lk3-16"><img src="images/IMAG0315.webp" /></figure>
+<figure id="lk3-17"><img src="images/IMAG0316.webp" /></figure>
+<figure id="lk3-18"><img src="images/IMAG0317.webp" /></figure>
+<figure id="lk3-19"><img src="images/IMAG0320.webp" /></figure>
+<figure id="lk3-20"><img src="images/IMAG0321.webp" /></figure>
+<figure id="lk3-21"><img src="images/IMAG0323.webp" /></figure>
+<figure id="lk3-22"><img src="images/IMAG0326.webp" /></figure>
+<figure id="lk3-23"><img src="images/IMAG0327.webp" /></figure>
+<figure id="lk3-24"><img src="images/IMAG0335.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#lk3-1"><img src="images/IMAG0282.webp" /></a>
+<a href="#lk3-2"><img src="images/IMAG0284.webp" /></a>
+<a href="#lk3-3"><img src="images/IMAG0285.webp" /></a>
+<a href="#lk3-4"><img src="images/IMAG0286.webp" /></a>
+<a href="#lk3-5"><img src="images/IMAG0287.webp" /></a>
+<a href="#lk3-6"><img src="images/IMAG0288.webp" /></a>
+<a href="#lk3-7"><img src="images/IMAG0289.webp" /></a>
+<a href="#lk3-8"><img src="images/IMAG0290.webp" /></a>
+<a href="#lk3-9"><img src="images/IMAG0292.webp" /></a>
+<a href="#lk3-10"><img src="images/IMAG0296.webp" /></a>
+<a href="#lk3-11"><img src="images/IMAG0299.webp" /></a>
+<a href="#lk3-12"><img src="images/IMAG0307.webp" /></a>
+<a href="#lk3-13"><img src="images/IMAG0308.webp" /></a>
+<a href="#lk3-14"><img src="images/IMAG0309.webp" /></a>
+<a href="#lk3-15"><img src="images/IMAG0311.webp" /></a>
+<a href="#lk3-16"><img src="images/IMAG0315.webp" /></a>
+<a href="#lk3-17"><img src="images/IMAG0316.webp" /></a>
+<a href="#lk3-18"><img src="images/IMAG0317.webp" /></a>
+<a href="#lk3-19"><img src="images/IMAG0320.webp" /></a>
+<a href="#lk3-20"><img src="images/IMAG0321.webp" /></a>
+<a href="#lk3-21"><img src="images/IMAG0323.webp" /></a>
+<a href="#lk3-22"><img src="images/IMAG0326.webp" /></a>
+<a href="#lk3-23"><img src="images/IMAG0327.webp" /></a>
+<a href="#lk3-24"><img src="images/IMAG0335.webp" /></a>
 </div>
-</p>
+</div>
 
 Unfortunately I had some sad news on the night we left – a friend called to say one of my friends
 from the university canoe club, Dave Evans, had died in a climbing accident on Mont Blanc. This was

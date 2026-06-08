@@ -25,82 +25,28 @@ project – not only because of the delivery of the technical solutions involved
 websites we made looked brilliant. I would be proud to say I worked on a site and would often show
 people the finished product. Here is a selection of the projects I worked on at OH Digital:
 
-<p>
-<style type="text/css">
-			#gallery-3 {
-				margin: auto;
-			}
-			#gallery-3 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-3 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-3 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-3"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/laf-150x150.webp" width="125"/>
-</dt>
-<dd class="wp-caption-text gallery-caption" id="gallery-3-970">
-				Literature Across Frontiers
-				</dd></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/diabetes-150x150.webp" width="125"/>
-</dt>
-<dd class="wp-caption-text gallery-caption" id="gallery-3-969">
-				Help Beat Diabetes
-				</dd></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/fallow-150x150.webp" width="125"/>
-</dt>
-<dd class="wp-caption-text gallery-caption" id="gallery-3-961">
-				Fallow Café
-				</dd></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/prolificnorth-150x150.webp" width="125"/>
-</dt>
-<dd class="wp-caption-text gallery-caption" id="gallery-3-907">
-				Prolific North
-				</dd></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/incognito-150x150.webp" width="125"/>
-</dt>
-<dd class="wp-caption-text gallery-caption" id="gallery-3-904">
-				Incognito
-				</dd></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/home-150x150.webp" width="125"/>
-</dt>
-<dd class="wp-caption-text gallery-caption" id="gallery-3-902">
-				Home MCR
-				</dd></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/haelo-150x150.webp" width="125"/>
-</dt>
-<dd class="wp-caption-text gallery-caption" id="gallery-3-901">
-				Haelo
-				</dd></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/creativetourist-150x150.webp" width="125"/>
-</dt>
-<dd class="wp-caption-text gallery-caption" id="gallery-3-900">
-				Creative Tourist
-				</dd></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/compcomms-150x150.webp" width="125"/>
-</dt>
-<dd class="wp-caption-text gallery-caption" id="gallery-3-899">
-				Comprehensive Communications
-				</dd></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-3-1"><img src="images/laf.webp" /></figure>
+<figure id="gallery-3-2"><img src="images/diabetes.webp" /></figure>
+<figure id="gallery-3-3"><img src="images/fallow.webp" /></figure>
+<figure id="gallery-3-4"><img src="images/prolificnorth.webp" /></figure>
+<figure id="gallery-3-5"><img src="images/incognito.webp" /></figure>
+<figure id="gallery-3-6"><img src="images/home.webp" /></figure>
+<figure id="gallery-3-7"><img src="images/haelo.webp" /></figure>
+<figure id="gallery-3-8"><img src="images/creativetourist.webp" /></figure>
+<figure id="gallery-3-9"><img src="images/compcomms.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-3-1"><img src="images/laf.webp" /></a>
+<a href="#gallery-3-2"><img src="images/diabetes.webp" /></a>
+<a href="#gallery-3-3"><img src="images/fallow.webp" /></a>
+<a href="#gallery-3-4"><img src="images/prolificnorth.webp" /></a>
+<a href="#gallery-3-5"><img src="images/incognito.webp" /></a>
+<a href="#gallery-3-6"><img src="images/home.webp" /></a>
+<a href="#gallery-3-7"><img src="images/haelo.webp" /></a>
+<a href="#gallery-3-8"><img src="images/creativetourist.webp" /></a>
+<a href="#gallery-3-9"><img src="images/compcomms.webp" /></a>
 </div>
-</p>
+</div>
 
 ## Manchester Raspberry Jam
 
@@ -119,46 +65,22 @@ recorded](http://mcrraspjam.org.uk/jam-16-videos/) by a volunteer AV Team (thank
 [Les](http://twitter.com/biglesp), [Dan](http://twitter.com/methoddan),
 [Olly](http://twitter.com/ollyclarkdotorg) & [Tony](http://twitter.com/TonyH1212)).
 
-<p>
-<style type="text/css">
-			#gallery-4 {
-				margin: auto;
-			}
-			#gallery-4 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-4 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-4 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-4"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/8536533874_22634b3169_o.resized-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/BPCekVbCMAE7ZD9-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_2030.resized-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_2040.resized-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2013-07-13-16.01.00.resized-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2013-07-13-13.49.43.resized-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-4-1"><img src="images/8536533874_22634b3169_o.webp" /></figure>
+<figure id="gallery-4-2"><img src="images/BPCekVbCMAE7ZD9.webp" /></figure>
+<figure id="gallery-4-3"><img src="images/IMG_2030.webp" /></figure>
+<figure id="gallery-4-4"><img src="images/IMG_2040.webp" /></figure>
+<figure id="gallery-4-5"><img src="images/2013-07-13-16.01.00.webp" /></figure>
+<figure id="gallery-4-6"><img src="images/2013-07-13-13.49.43.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-4-1"><img src="images/8536533874_22634b3169_o.webp" /></a>
+<a href="#gallery-4-2"><img src="images/BPCekVbCMAE7ZD9.webp" /></a>
+<a href="#gallery-4-3"><img src="images/IMG_2030.webp" /></a>
+<a href="#gallery-4-4"><img src="images/IMG_2040.webp" /></a>
+<a href="#gallery-4-5"><img src="images/2013-07-13-16.01.00.webp" /></a>
+<a href="#gallery-4-6"><img src="images/2013-07-13-13.49.43.webp" /></a>
 </div>
-</p>
+</div>
 
 A particular success of the Raspberry Jam has been one of the young people I have mentored for the
 last couple of years – 14 year old [Amy Mather](http://twitter.com/minigirlgeek) (known as Mini Girl
@@ -185,37 +107,16 @@ Award](http://europa.eu/rapid/press-release_IP-13-1047_en.htm?locale=en) present
 I'm very proud of everything she's achieved and I'm pleased to have been lucky enough to be one of
 the many people who helped her along the way – and given her the chance to shine.
 
-<p>
-<style type="text/css">
-			#gallery-5 {
-				margin: auto;
-			}
-			#gallery-5 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-5 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-5 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-5"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/BFB3rybCYAAnngX-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_6409-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/2013-03-09-15.44.07.resized-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-5-1"><img src="images/BFB3rybCYAAnngX.webp" /></figure>
+<figure id="gallery-5-2"><img src="images/IMG_6409.webp" /></figure>
+<figure id="gallery-5-3"><img src="images/2013-03-09-15.44.07.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-5-1"><img src="images/BFB3rybCYAAnngX.webp" /></a>
+<a href="#gallery-5-2"><img src="images/IMG_6409.webp" /></a>
+<a href="#gallery-5-3"><img src="images/2013-03-09-15.44.07.webp" /></a>
 </div>
-</p>
+</div>
 
 ## STEM
 
@@ -229,34 +130,14 @@ Raspberry Pi sessions run by the STEM team with a team of trained Ambassadors �
 colleges around the North West, introducing young people to programming and making projects with the
 Raspberry Pi.
 
-<p>
-<style type="text/css">
-			#gallery-6 {
-				margin: auto;
-			}
-			#gallery-6 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 50%;
-			}
-			#gallery-6 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-6 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1761 gallery-columns-2 gallery-size-thumbnail" id="gallery-6"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/Stem-33-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/Stem-13-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-6-1"><img src="images/Stem-33.webp" /></figure>
+<figure id="gallery-6-2"><img src="images/Stem-13.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-6-1"><img src="images/Stem-33.webp" /></a>
+<a href="#gallery-6-2"><img src="images/Stem-13.webp" /></a>
 </div>
-</p>
+</div>
 
 ## Pi Weekly
 
@@ -282,37 +163,16 @@ Project. I volunteered as a mentor and coach at each of the events in 2013 up to
 ran sessions in Python, HTML/CSS, WordPress and using the Raspberry Pi. I recently revamped the
 website and set up a Pi Weekly style newsletter we now send out to parents and supporters.
 
-<p>
-<style type="text/css">
-			#gallery-7 {
-				margin: auto;
-			}
-			#gallery-7 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-7 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-7 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-7"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/20131208-_MG_0729-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/mcrcoderdojo-team-1038x576-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/11456435666_bc502ba274_b-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-7-1"><img src="images/20131208-_MG_0729.webp" /></figure>
+<figure id="gallery-7-2"><img src="images/mcrcoderdojo-team-1038x576.webp" /></figure>
+<figure id="gallery-7-3"><img src="images/11456435666_bc502ba274_b.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-7-1"><img src="images/20131208-_MG_0729.webp" /></a>
+<a href="#gallery-7-2"><img src="images/mcrcoderdojo-team-1038x576.webp" /></a>
+<a href="#gallery-7-3"><img src="images/11456435666_bc502ba274_b.webp" /></a>
 </div>
-</p>
+</div>
 
 ## User groups and Conferences
 
@@ -331,37 +191,16 @@ these user groups throughout the year, the majority related to Raspberry Pi. I g
 talks in 2013, including a discussion panel at the Raspberry Jamboree and a couple of talks at user
 groups in Berlin.
 
-<p>
-<style type="text/css">
-			#gallery-8 {
-				margin: auto;
-			}
-			#gallery-8 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-8 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-8 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-8"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/809478229-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/BFecPaWCQAASu_9-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/vlcsnap-2013-04-13-00h19m41s85-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-8-1"><img src="images/809478229.webp" /></figure>
+<figure id="gallery-8-2"><img src="images/BFecPaWCQAASu_9.webp" /></figure>
+<figure id="gallery-8-3"><img src="images/vlcsnap-2013-04-13-00h19m41s85.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-8-1"><img src="images/809478229.webp" /></a>
+<a href="#gallery-8-2"><img src="images/BFecPaWCQAASu_9.webp" /></a>
+<a href="#gallery-8-3"><img src="images/vlcsnap-2013-04-13-00h19m41s85.webp" /></a>
 </div>
-</p>
+</div>
 
 I also attended the first Raspberry Jamboree (Manchester), my
 first [MozFest](http://mozillafestival.org/) (London), my second Oggcamp (Liverpool), my third
@@ -409,37 +248,16 @@ Life](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/award-
 the Greater Manchester Fire & Rescue Service: [River Rescuers Presented with Bravery
 Award](http://www.manchesterfire.gov.uk/updates/news/09may2013_brave_river_rescue_commendation.aspx)
 
-<p>
-<style type="text/css">
-			#gallery-9 {
-				margin: auto;
-			}
-			#gallery-9 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-9 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-9 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-9"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3781.resized-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/DSCF3788.resized-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/ram_kayakers_smalljpg_497x350-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-9-1"><img src="images/DSCF3781.webp" /></figure>
+<figure id="gallery-9-2"><img src="images/DSCF3788.webp" /></figure>
+<figure id="gallery-9-3"><img src="images/ram_kayakers_smalljpg_497x350.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-9-1"><img src="images/DSCF3781.webp" /></a>
+<a href="#gallery-9-2"><img src="images/DSCF3788.webp" /></a>
+<a href="#gallery-9-3"><img src="images/ram_kayakers_smalljpg_497x350.webp" /></a>
 </div>
-</p>
+</div>
 
 ## Raspberry Pi Foundation & 2014
 
@@ -453,53 +271,29 @@ opportunity to move. I moved at the end of November, two weeks after my final Ja
 success, and a great chance for me to show the Foundation what I've been building up over the last
 18 months.
 
-<p>
-<style type="text/css">
-			#gallery-10 {
-				margin: auto;
-			}
-			#gallery-10 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-10 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-10 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail" id="gallery-10"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/team-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/ben-opening-talk-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/clive-bullet-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/jam-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/cake3-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/10902018066_8456108310_b-125x125.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-10-1"><img src="images/team.webp" /></figure>
+<figure id="gallery-10-2"><img src="images/ben-opening-talk.webp" /></figure>
+<figure id="gallery-10-3"><img src="images/clive-bullet.webp" /></figure>
+<figure id="gallery-10-4"><img src="images/jam.webp" /></figure>
+<figure id="gallery-10-5"><img src="images/cake3.webp" /></figure>
+<figure id="gallery-10-6"><img src="images/10902018066_8456108310_b.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-10-1"><img src="images/team.webp" /></a>
+<a href="#gallery-10-2"><img src="images/ben-opening-talk.webp" /></a>
+<a href="#gallery-10-3"><img src="images/clive-bullet.webp" /></a>
+<a href="#gallery-10-4"><img src="images/jam.webp" /></a>
+<a href="#gallery-10-5"><img src="images/cake3.webp" /></a>
+<a href="#gallery-10-6"><img src="images/10902018066_8456108310_b.webp" /></a>
 </div>
-</p>
+</div>
 
 Around the time this happened I had just started taking driving lessons again, and I managed to pass
 my test a week before I moved to Cambridge – although I didn't get a car until around Christmas.
 Finally at the age of 25 I am no longer a pedestrian!
 
 <figure class="wp-block-image">
-<img src="images/ben-pass-test-168x300.webp" />
+<img src="images/ben-pass-test.webp" />
 </figure>
 
 My role at the Foundation will be in development and outreach. Initially I'll be working on a revamp
