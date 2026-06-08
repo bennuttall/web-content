@@ -74,83 +74,46 @@ to Jannowitzbrücke and while waiting to meet Sam for dinner, I was lucky enoug
 wonderful rainbow over the river — and it was visible as a full semi-circle — which I don't think
 I've ever seen before!
 
-<p>
-<style type="text/css">
-			#gallery-11 {
-				margin: auto;
-			}
-			#gallery-11 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-11 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-11 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-11"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_151624-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_152144-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_153500-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_160303-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_160337-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_160435-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_161036-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_162811-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_164325-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_164335-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_164454-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_164507-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_164831-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_170415-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_181612-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_184933-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_185345-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130911_185506-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-11-1"><img src="images/IMG_20130911_151624.webp" /></figure>
+<figure id="gallery-11-2"><img src="images/IMG_20130911_152144.webp" /></figure>
+<figure id="gallery-11-3"><img src="images/IMG_20130911_153500.webp" /></figure>
+<figure id="gallery-11-4"><img src="images/IMG_20130911_160303.webp" /></figure>
+<figure id="gallery-11-5"><img src="images/IMG_20130911_160337.webp" /></figure>
+<figure id="gallery-11-6"><img src="images/IMG_20130911_160435.webp" /></figure>
+<figure id="gallery-11-7"><img src="images/IMG_20130911_161036.webp" /></figure>
+<figure id="gallery-11-8"><img src="images/IMG_20130911_162811.webp" /></figure>
+<figure id="gallery-11-9"><img src="images/IMG_20130911_164325.webp" /></figure>
+<figure id="gallery-11-10"><img src="images/IMG_20130911_164335.webp" /></figure>
+<figure id="gallery-11-11"><img src="images/IMG_20130911_164454.webp" /></figure>
+<figure id="gallery-11-12"><img src="images/IMG_20130911_164507.webp" /></figure>
+<figure id="gallery-11-13"><img src="images/IMG_20130911_164831.webp" /></figure>
+<figure id="gallery-11-14"><img src="images/IMG_20130911_170415.webp" /></figure>
+<figure id="gallery-11-15"><img src="images/IMG_20130911_181612.webp" /></figure>
+<figure id="gallery-11-16"><img src="images/IMG_20130911_184933.webp" /></figure>
+<figure id="gallery-11-17"><img src="images/IMG_20130911_185345.webp" /></figure>
+<figure id="gallery-11-18"><img src="images/IMG_20130911_185506.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-11-1"><img src="images/IMG_20130911_151624.webp" /></a>
+<a href="#gallery-11-2"><img src="images/IMG_20130911_152144.webp" /></a>
+<a href="#gallery-11-3"><img src="images/IMG_20130911_153500.webp" /></a>
+<a href="#gallery-11-4"><img src="images/IMG_20130911_160303.webp" /></a>
+<a href="#gallery-11-5"><img src="images/IMG_20130911_160337.webp" /></a>
+<a href="#gallery-11-6"><img src="images/IMG_20130911_160435.webp" /></a>
+<a href="#gallery-11-7"><img src="images/IMG_20130911_161036.webp" /></a>
+<a href="#gallery-11-8"><img src="images/IMG_20130911_162811.webp" /></a>
+<a href="#gallery-11-9"><img src="images/IMG_20130911_164325.webp" /></a>
+<a href="#gallery-11-10"><img src="images/IMG_20130911_164335.webp" /></a>
+<a href="#gallery-11-11"><img src="images/IMG_20130911_164454.webp" /></a>
+<a href="#gallery-11-12"><img src="images/IMG_20130911_164507.webp" /></a>
+<a href="#gallery-11-13"><img src="images/IMG_20130911_164831.webp" /></a>
+<a href="#gallery-11-14"><img src="images/IMG_20130911_170415.webp" /></a>
+<a href="#gallery-11-15"><img src="images/IMG_20130911_181612.webp" /></a>
+<a href="#gallery-11-16"><img src="images/IMG_20130911_184933.webp" /></a>
+<a href="#gallery-11-17"><img src="images/IMG_20130911_185345.webp" /></a>
+<a href="#gallery-11-18"><img src="images/IMG_20130911_185506.webp" /></a>
 </div>
-</p>
+</div>
 
 Sam arrived and we ate at the [Ming Dynasty](http://ming-dynastie.de/) before entering c-base. This
 night was the meeting of the [Ubuntu User Group](http://ubuntu-berlin.de/) – which I was looking
@@ -233,40 +196,18 @@ wrong meal, and made me feel really awkward that I'd been charged for an extra d
 thought he was just ripping me off, and him being rude when taking my money just made it worse. A
 very odd end to the night!
 
-<p>
-<style type="text/css">
-			#gallery-12 {
-				margin: auto;
-			}
-			#gallery-12 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-12 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-12 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-12"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130912_191150-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130912_185854-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130912_185240-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130912_155439-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-12-1"><img src="images/IMG_20130912_191150.webp" /></figure>
+<figure id="gallery-12-2"><img src="images/IMG_20130912_185854.webp" /></figure>
+<figure id="gallery-12-3"><img src="images/IMG_20130912_185240.webp" /></figure>
+<figure id="gallery-12-4"><img src="images/IMG_20130912_155439.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-12-1"><img src="images/IMG_20130912_191150.webp" /></a>
+<a href="#gallery-12-2"><img src="images/IMG_20130912_185854.webp" /></a>
+<a href="#gallery-12-3"><img src="images/IMG_20130912_185240.webp" /></a>
+<a href="#gallery-12-4"><img src="images/IMG_20130912_155439.webp" /></a>
 </div>
-</p>
+</div>
 
 I then tried to get hold of Sam, as I was staying at his house again, but couldn't reach him so I
 texted his housemate James to see if he was at home. He replied to say he was heading out to a party
@@ -296,40 +237,18 @@ afternoon! After spending the first two nights with Sam, I then moved on to my 
 rest of the week — an [airbnb](https://www.airbnb.co.uk/) place Martin had recommended — a lovely
 couple with a baby, who rent out the spacious spare bedroom in their Kreuzberg apartment.
 
-<p>
-<style type="text/css">
-			#gallery-13 {
-				margin: auto;
-			}
-			#gallery-13 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-13 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-13 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-13"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130913_202200-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130914_112826-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130915_183728-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130917_165909.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-13-1"><img src="images/IMG_20130913_202200.webp" /></figure>
+<figure id="gallery-13-2"><img src="images/IMG_20130914_112826.webp" /></figure>
+<figure id="gallery-13-3"><img src="images/IMG_20130915_183728.webp" /></figure>
+<figure id="gallery-13-4"><img src="images/IMG_20130917_165909.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-13-1"><img src="images/IMG_20130913_202200.webp" /></a>
+<a href="#gallery-13-2"><img src="images/IMG_20130914_112826.webp" /></a>
+<a href="#gallery-13-3"><img src="images/IMG_20130915_183728.webp" /></a>
+<a href="#gallery-13-4"><img src="images/IMG_20130917_165909.webp" /></a>
 </div>
-</p>
+</div>
 
 The next day I returned to Co.up for the OpenTechSchool Python Workshop (Python for Absolute
 Beginners). We had about 30 people turn up for the workshop — and about 12 coaches. Once we were set
@@ -347,37 +266,16 @@ pointed him to the rest of the OpenTechSchool material, and suggested he looked 
 Intro](https://github.com/madlabU18/python-intro) project and got him started with [Python
 Challenge](http://www.pythonchallenge.com/) which he really enjoyed.
 
-<p>
-<style type="text/css">
-			#gallery-14 {
-				margin: auto;
-			}
-			#gallery-14 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-14 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-14 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-3 gallery-size-thumbnail" id="gallery-14"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130914_142405-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130914_163100-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130914_182252-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-14-1"><img src="images/IMG_20130914_142405.webp" /></figure>
+<figure id="gallery-14-2"><img src="images/IMG_20130914_163100.webp" /></figure>
+<figure id="gallery-14-3"><img src="images/IMG_20130914_182252.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-14-1"><img src="images/IMG_20130914_142405.webp" /></a>
+<a href="#gallery-14-2"><img src="images/IMG_20130914_163100.webp" /></a>
+<a href="#gallery-14-3"><img src="images/IMG_20130914_182252.webp" /></a>
 </div>
-</p>
+</div>
 
 On Monday I took a walk from the apartment in Kreuzberg to Checkpoint Charlie, and initially just
 wandered around the checkpoint to take in what was there. Starbucks, McDonald's and Domino's Pizza.
@@ -387,59 +285,30 @@ culture during the divide, various stories of resistance and people daringly cro
 any way they could, all the events around the fall of the wall and the politics of rebuilding
 society in Europe.
 
-<p>
-<style type="text/css">
-			#gallery-15 {
-				margin: auto;
-			}
-			#gallery-15 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-15 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-15 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-15"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_142118.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_142936.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_143043.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_145146.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_161758.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_165907.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_172109.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_172208.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_172251.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_172257.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-15-1"><img src="images/IMG_20130916_142118.webp" /></figure>
+<figure id="gallery-15-2"><img src="images/IMG_20130916_142936.webp" /></figure>
+<figure id="gallery-15-3"><img src="images/IMG_20130916_143043.webp" /></figure>
+<figure id="gallery-15-4"><img src="images/IMG_20130916_145146.webp" /></figure>
+<figure id="gallery-15-5"><img src="images/IMG_20130916_161758.webp" /></figure>
+<figure id="gallery-15-6"><img src="images/IMG_20130916_165907.webp" /></figure>
+<figure id="gallery-15-7"><img src="images/IMG_20130916_172109.webp" /></figure>
+<figure id="gallery-15-8"><img src="images/IMG_20130916_172208.webp" /></figure>
+<figure id="gallery-15-9"><img src="images/IMG_20130916_172251.webp" /></figure>
+<figure id="gallery-15-10"><img src="images/IMG_20130916_172257.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-15-1"><img src="images/IMG_20130916_142118.webp" /></a>
+<a href="#gallery-15-2"><img src="images/IMG_20130916_142936.webp" /></a>
+<a href="#gallery-15-3"><img src="images/IMG_20130916_143043.webp" /></a>
+<a href="#gallery-15-4"><img src="images/IMG_20130916_145146.webp" /></a>
+<a href="#gallery-15-5"><img src="images/IMG_20130916_161758.webp" /></a>
+<a href="#gallery-15-6"><img src="images/IMG_20130916_165907.webp" /></a>
+<a href="#gallery-15-7"><img src="images/IMG_20130916_172109.webp" /></a>
+<a href="#gallery-15-8"><img src="images/IMG_20130916_172208.webp" /></a>
+<a href="#gallery-15-9"><img src="images/IMG_20130916_172251.webp" /></a>
+<a href="#gallery-15-10"><img src="images/IMG_20130916_172257.webp" /></a>
 </div>
-</p>
+</div>
 
 Next I took a walk to Potsdamer Platz, which was thriving with traffic and is full of huge buildings
 and massive corporate advertising. It was raining pretty hard at the time too, so I kept walking on.
@@ -451,59 +320,30 @@ to walk further until I reached [Brandenburger Tor](http://en.wikipedia.org/wiki
 the iconic former gate in the city divide. I took a few pictures of the arch before receiving word
 from Sam that he would be heading to cbase.
 
-<p>
-<style type="text/css">
-			#gallery-16 {
-				margin: auto;
-			}
-			#gallery-16 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-16 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-16 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-16"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_174637.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_174913.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_180543.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_181507.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_181900.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_181914.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_181946.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_182151.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_182500.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130916_183335.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-16-1"><img src="images/IMG_20130916_174637.webp" /></figure>
+<figure id="gallery-16-2"><img src="images/IMG_20130916_174913.webp" /></figure>
+<figure id="gallery-16-3"><img src="images/IMG_20130916_180543.webp" /></figure>
+<figure id="gallery-16-4"><img src="images/IMG_20130916_181507.webp" /></figure>
+<figure id="gallery-16-5"><img src="images/IMG_20130916_181900.webp" /></figure>
+<figure id="gallery-16-6"><img src="images/IMG_20130916_181914.webp" /></figure>
+<figure id="gallery-16-7"><img src="images/IMG_20130916_181946.webp" /></figure>
+<figure id="gallery-16-8"><img src="images/IMG_20130916_182151.webp" /></figure>
+<figure id="gallery-16-9"><img src="images/IMG_20130916_182500.webp" /></figure>
+<figure id="gallery-16-10"><img src="images/IMG_20130916_183335.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-16-1"><img src="images/IMG_20130916_174637.webp" /></a>
+<a href="#gallery-16-2"><img src="images/IMG_20130916_174913.webp" /></a>
+<a href="#gallery-16-3"><img src="images/IMG_20130916_180543.webp" /></a>
+<a href="#gallery-16-4"><img src="images/IMG_20130916_181507.webp" /></a>
+<a href="#gallery-16-5"><img src="images/IMG_20130916_181900.webp" /></a>
+<a href="#gallery-16-6"><img src="images/IMG_20130916_181914.webp" /></a>
+<a href="#gallery-16-7"><img src="images/IMG_20130916_181946.webp" /></a>
+<a href="#gallery-16-8"><img src="images/IMG_20130916_182151.webp" /></a>
+<a href="#gallery-16-9"><img src="images/IMG_20130916_182500.webp" /></a>
+<a href="#gallery-16-10"><img src="images/IMG_20130916_183335.webp" /></a>
 </div>
-</p>
+</div>
 
 I headed off to meet him there. It was the Symphony Stammtisch, a drinks meetup for users of the PHP
 framework Symphony. Like the Ubuntu event, not a lot was organised for the meeting, and so Sam and I
@@ -573,59 +413,30 @@ up — so I hope between them and others they can make it happen! Maybe next tim
 attend a Jam. The slides from my talk are available
 [here](https://docs.google.com/presentation/d/1mtmHHvlau5LAR-4MtvNDRSBouh0vDtymXlf3fs6QVng/present#slide=id.ge34ffa37_010).
 
-<p>
-<style type="text/css">
-			#gallery-17 {
-				margin: auto;
-			}
-			#gallery-17 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-17 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-17 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-17"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130917_103628.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130917_191513.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/809478229-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/BUZBf3wIcAAnTv8-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/highres_285527462-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/highres_285527502-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/highres_285527572-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/highres_285527712-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/highres_285527732-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/highres_285527792-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-17-1"><img src="images/IMG_20130917_103628.webp" /></figure>
+<figure id="gallery-17-2"><img src="images/IMG_20130917_191513.webp" /></figure>
+<figure id="gallery-17-3"><img src="images/809478229.webp" /></figure>
+<figure id="gallery-17-4"><img src="images/BUZBf3wIcAAnTv8.webp" /></figure>
+<figure id="gallery-17-5"><img src="images/highres_285527462.webp" /></figure>
+<figure id="gallery-17-6"><img src="images/highres_285527502.webp" /></figure>
+<figure id="gallery-17-7"><img src="images/highres_285527572.webp" /></figure>
+<figure id="gallery-17-8"><img src="images/highres_285527712.webp" /></figure>
+<figure id="gallery-17-9"><img src="images/highres_285527732.webp" /></figure>
+<figure id="gallery-17-10"><img src="images/highres_285527792.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-17-1"><img src="images/IMG_20130917_103628.webp" /></a>
+<a href="#gallery-17-2"><img src="images/IMG_20130917_191513.webp" /></a>
+<a href="#gallery-17-3"><img src="images/809478229.webp" /></a>
+<a href="#gallery-17-4"><img src="images/BUZBf3wIcAAnTv8.webp" /></a>
+<a href="#gallery-17-5"><img src="images/highres_285527462.webp" /></a>
+<a href="#gallery-17-6"><img src="images/highres_285527502.webp" /></a>
+<a href="#gallery-17-7"><img src="images/highres_285527572.webp" /></a>
+<a href="#gallery-17-8"><img src="images/highres_285527712.webp" /></a>
+<a href="#gallery-17-9"><img src="images/highres_285527732.webp" /></a>
+<a href="#gallery-17-10"><img src="images/highres_285527792.webp" /></a>
 </div>
-</p>
+</div>
 
 The next morning I was due to check out of my airbnb accommodation, so I packed my bags and started
 the day by returning to the East London café for breakfast — this time trying their pancakes, which
@@ -649,44 +460,20 @@ taking another route), and hopped off and retrieved my bag from where I'd left i
 Now running late, I waited for the next train and continued my journey, and texted my contact at the
 accommodation to let him know.
 
-<p>
-<style type="text/css">
-			#gallery-18 {
-				margin: auto;
-			}
-			#gallery-18 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-18 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-18 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-18"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130919_123906.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130919_140134.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130919_141131.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130919_143000.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130919_143205.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-18-1"><img src="images/IMG_20130919_123906.webp" /></figure>
+<figure id="gallery-18-2"><img src="images/IMG_20130919_140134.webp" /></figure>
+<figure id="gallery-18-3"><img src="images/IMG_20130919_141131.webp" /></figure>
+<figure id="gallery-18-4"><img src="images/IMG_20130919_143000.webp" /></figure>
+<figure id="gallery-18-5"><img src="images/IMG_20130919_143205.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-18-1"><img src="images/IMG_20130919_123906.webp" /></a>
+<a href="#gallery-18-2"><img src="images/IMG_20130919_140134.webp" /></a>
+<a href="#gallery-18-3"><img src="images/IMG_20130919_141131.webp" /></a>
+<a href="#gallery-18-4"><img src="images/IMG_20130919_143000.webp" /></a>
+<a href="#gallery-18-5"><img src="images/IMG_20130919_143205.webp" /></a>
 </div>
-</p>
+</div>
 
 I arrived, collected my key, dropped my bags off and did some clothes washing. Then I went to c-base
 and spent some time there with Sam (Carlisle). We discussed cryptoparties, crypto in general, PGP,
@@ -735,74 +522,40 @@ went in to a general souvenir shop, where I saw an odd souvenir — a t-shirt wi
 thought it was funny so I bought one. I wandered around some more and was generally fed up of trying
 to be a tourist, and of the rain, so I headed home.
 
-<p>
-<style type="text/css">
-			#gallery-19 {
-				margin: auto;
-			}
-			#gallery-19 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-19 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-19 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-19"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130919_192600.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_142513.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_144416.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_144730.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_145634.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_145854.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_150226.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_150837.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_150924.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_151853.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_155212.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_161328.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_170308.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130920_171721.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_005304.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-19-1"><img src="images/IMG_20130919_192600.webp" /></figure>
+<figure id="gallery-19-2"><img src="images/IMG_20130920_142513.webp" /></figure>
+<figure id="gallery-19-3"><img src="images/IMG_20130920_144416.webp" /></figure>
+<figure id="gallery-19-4"><img src="images/IMG_20130920_144730.webp" /></figure>
+<figure id="gallery-19-5"><img src="images/IMG_20130920_145634.webp" /></figure>
+<figure id="gallery-19-6"><img src="images/IMG_20130920_145854.webp" /></figure>
+<figure id="gallery-19-7"><img src="images/IMG_20130920_150226.webp" /></figure>
+<figure id="gallery-19-8"><img src="images/IMG_20130920_150837.webp" /></figure>
+<figure id="gallery-19-9"><img src="images/IMG_20130920_150924.webp" /></figure>
+<figure id="gallery-19-10"><img src="images/IMG_20130920_151853.webp" /></figure>
+<figure id="gallery-19-11"><img src="images/IMG_20130920_155212.webp" /></figure>
+<figure id="gallery-19-12"><img src="images/IMG_20130920_161328.webp" /></figure>
+<figure id="gallery-19-13"><img src="images/IMG_20130920_170308.webp" /></figure>
+<figure id="gallery-19-14"><img src="images/IMG_20130920_171721.webp" /></figure>
+<figure id="gallery-19-15"><img src="images/IMG_20130921_005304.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-19-1"><img src="images/IMG_20130919_192600.webp" /></a>
+<a href="#gallery-19-2"><img src="images/IMG_20130920_142513.webp" /></a>
+<a href="#gallery-19-3"><img src="images/IMG_20130920_144416.webp" /></a>
+<a href="#gallery-19-4"><img src="images/IMG_20130920_144730.webp" /></a>
+<a href="#gallery-19-5"><img src="images/IMG_20130920_145634.webp" /></a>
+<a href="#gallery-19-6"><img src="images/IMG_20130920_145854.webp" /></a>
+<a href="#gallery-19-7"><img src="images/IMG_20130920_150226.webp" /></a>
+<a href="#gallery-19-8"><img src="images/IMG_20130920_150837.webp" /></a>
+<a href="#gallery-19-9"><img src="images/IMG_20130920_150924.webp" /></a>
+<a href="#gallery-19-10"><img src="images/IMG_20130920_151853.webp" /></a>
+<a href="#gallery-19-11"><img src="images/IMG_20130920_155212.webp" /></a>
+<a href="#gallery-19-12"><img src="images/IMG_20130920_161328.webp" /></a>
+<a href="#gallery-19-13"><img src="images/IMG_20130920_170308.webp" /></a>
+<a href="#gallery-19-14"><img src="images/IMG_20130920_171721.webp" /></a>
+<a href="#gallery-19-15"><img src="images/IMG_20130921_005304.webp" /></a>
 </div>
-</p>
+</div>
 
 I chilled out a bit in my room, and later on received a text from Sam (Tuke) who invited me to go
 for a drink with him and some Free Software Foundation colleagues and friends so I headed to Wedding
@@ -859,80 +612,44 @@ some interesting areas, and we ate at a brilliant grill place. We then proceeded
 [Liberacion](http://www.kinzig9.de/liberacion.html), where Jana left us and Paul and I had a drink
 and a chat.
 
-<p>
-<style type="text/css">
-			#gallery-20 {
-				margin: auto;
-			}
-			#gallery-20 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-20 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-20 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-20"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_155434.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_160115.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_170235.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_170405.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_170427.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_170512.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_170852.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_181516.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_184509.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_192021.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_192039.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_222206.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_222644.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_223339.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_223709.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_223831.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130921_235325.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-20-1"><img src="images/IMG_20130921_155434.webp" /></figure>
+<figure id="gallery-20-2"><img src="images/IMG_20130921_160115.webp" /></figure>
+<figure id="gallery-20-3"><img src="images/IMG_20130921_170235.webp" /></figure>
+<figure id="gallery-20-4"><img src="images/IMG_20130921_170405.webp" /></figure>
+<figure id="gallery-20-5"><img src="images/IMG_20130921_170427.webp" /></figure>
+<figure id="gallery-20-6"><img src="images/IMG_20130921_170512.webp" /></figure>
+<figure id="gallery-20-7"><img src="images/IMG_20130921_170852.webp" /></figure>
+<figure id="gallery-20-8"><img src="images/IMG_20130921_181516.webp" /></figure>
+<figure id="gallery-20-9"><img src="images/IMG_20130921_184509.webp" /></figure>
+<figure id="gallery-20-10"><img src="images/IMG_20130921_192021.webp" /></figure>
+<figure id="gallery-20-11"><img src="images/IMG_20130921_192039.webp" /></figure>
+<figure id="gallery-20-12"><img src="images/IMG_20130921_222206.webp" /></figure>
+<figure id="gallery-20-13"><img src="images/IMG_20130921_222644.webp" /></figure>
+<figure id="gallery-20-14"><img src="images/IMG_20130921_223339.webp" /></figure>
+<figure id="gallery-20-15"><img src="images/IMG_20130921_223709.webp" /></figure>
+<figure id="gallery-20-16"><img src="images/IMG_20130921_223831.webp" /></figure>
+<figure id="gallery-20-17"><img src="images/IMG_20130921_235325.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-20-1"><img src="images/IMG_20130921_155434.webp" /></a>
+<a href="#gallery-20-2"><img src="images/IMG_20130921_160115.webp" /></a>
+<a href="#gallery-20-3"><img src="images/IMG_20130921_170235.webp" /></a>
+<a href="#gallery-20-4"><img src="images/IMG_20130921_170405.webp" /></a>
+<a href="#gallery-20-5"><img src="images/IMG_20130921_170427.webp" /></a>
+<a href="#gallery-20-6"><img src="images/IMG_20130921_170512.webp" /></a>
+<a href="#gallery-20-7"><img src="images/IMG_20130921_170852.webp" /></a>
+<a href="#gallery-20-8"><img src="images/IMG_20130921_181516.webp" /></a>
+<a href="#gallery-20-9"><img src="images/IMG_20130921_184509.webp" /></a>
+<a href="#gallery-20-10"><img src="images/IMG_20130921_192021.webp" /></a>
+<a href="#gallery-20-11"><img src="images/IMG_20130921_192039.webp" /></a>
+<a href="#gallery-20-12"><img src="images/IMG_20130921_222206.webp" /></a>
+<a href="#gallery-20-13"><img src="images/IMG_20130921_222644.webp" /></a>
+<a href="#gallery-20-14"><img src="images/IMG_20130921_223339.webp" /></a>
+<a href="#gallery-20-15"><img src="images/IMG_20130921_223709.webp" /></a>
+<a href="#gallery-20-16"><img src="images/IMG_20130921_223831.webp" /></a>
+<a href="#gallery-20-17"><img src="images/IMG_20130921_235325.webp" /></a>
 </div>
-</p>
+</div>
 
 On Sunday I met Sam (Carlisle) at c-base again. I rang the doorbell (a three button mouse) when I
 arrived and said I was there to meet Sam Carlisle. The guy just said "he's not here yet" and just
@@ -951,34 +668,14 @@ in objects, they get scanned in and reprinted. An awesome idea I'm sure will be 
 point in the future — and when we start to see things like that, it'll be the start of something
 big! We ordered some pizza and then headed to the Pirate Election Party!
 
-<p>
-<style type="text/css">
-			#gallery-21 {
-				margin: auto;
-			}
-			#gallery-21 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 50%;
-			}
-			#gallery-21 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-21 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-2 gallery-size-thumbnail" id="gallery-21"><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130919_161950.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130919_162015.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-21-1"><img src="images/IMG_20130919_161950.webp" /></figure>
+<figure id="gallery-21-2"><img src="images/IMG_20130919_162015.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-21-1"><img src="images/IMG_20130919_161950.webp" /></a>
+<a href="#gallery-21-2"><img src="images/IMG_20130919_162015.webp" /></a>
 </div>
-</p>
+</div>
 
 I was surprised to see so many people there — about 300, I think. There was a crowd standing about
 in an open area with a bar, and some screens and cameras and stuff going on in a room inside. The
@@ -996,50 +693,24 @@ real mix of people there — anarchists, punks, rockers, hippies, techies and mo
 we were involved in were very odd, others quite interesting and thought provoking. It was quite
 exhausting! We went off for a kebab at one point, returned for another beer and left around 11pm.
 
-<p>
-<style type="text/css">
-			#gallery-22 {
-				margin: auto;
-			}
-			#gallery-22 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-22 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-22 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-22"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130922_172611.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130922_180140.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130922_181343.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130922_181920.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130922_183422.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130922_184548.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130922_215728.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-22-1"><img src="images/IMG_20130922_172611.webp" /></figure>
+<figure id="gallery-22-2"><img src="images/IMG_20130922_180140.webp" /></figure>
+<figure id="gallery-22-3"><img src="images/IMG_20130922_181343.webp" /></figure>
+<figure id="gallery-22-4"><img src="images/IMG_20130922_181920.webp" /></figure>
+<figure id="gallery-22-5"><img src="images/IMG_20130922_183422.webp" /></figure>
+<figure id="gallery-22-6"><img src="images/IMG_20130922_184548.webp" /></figure>
+<figure id="gallery-22-7"><img src="images/IMG_20130922_215728.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-22-1"><img src="images/IMG_20130922_172611.webp" /></a>
+<a href="#gallery-22-2"><img src="images/IMG_20130922_180140.webp" /></a>
+<a href="#gallery-22-3"><img src="images/IMG_20130922_181343.webp" /></a>
+<a href="#gallery-22-4"><img src="images/IMG_20130922_181920.webp" /></a>
+<a href="#gallery-22-5"><img src="images/IMG_20130922_183422.webp" /></a>
+<a href="#gallery-22-6"><img src="images/IMG_20130922_184548.webp" /></a>
+<a href="#gallery-22-7"><img src="images/IMG_20130922_215728.webp" /></a>
 </div>
-</p>
+</div>
 
 On Monday I went to the FSFE office to meet Sam (Tuke) and went for lunch with him and his
 colleagues. We ate at a place called [*White Trash*](http://www.whitetrashfastfood.com/) and had
@@ -1089,74 +760,40 @@ stadium and all sorts on this land, all plastered in huge advertising and corpor
 many slogans painted around the area, such as "Fuck off Media Spree". Unfortunately YAAM has already
 been sold off to be used for the same purpose, so the messages are now in vein.
 
-<p>
-<style type="text/css">
-			#gallery-23 {
-				margin: auto;
-			}
-			#gallery-23 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-23 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-23 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-23"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_130709.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_144311.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_152920.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_153326.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_154520.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_160241.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_160625.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_161147.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_161218.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_161248.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_163850.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_164350.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_164353.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_164358.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_165747.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-23-1"><img src="images/IMG_20130923_130709.webp" /></figure>
+<figure id="gallery-23-2"><img src="images/IMG_20130923_144311.webp" /></figure>
+<figure id="gallery-23-3"><img src="images/IMG_20130923_152920.webp" /></figure>
+<figure id="gallery-23-4"><img src="images/IMG_20130923_153326.webp" /></figure>
+<figure id="gallery-23-5"><img src="images/IMG_20130923_154520.webp" /></figure>
+<figure id="gallery-23-6"><img src="images/IMG_20130923_160241.webp" /></figure>
+<figure id="gallery-23-7"><img src="images/IMG_20130923_160625.webp" /></figure>
+<figure id="gallery-23-8"><img src="images/IMG_20130923_161147.webp" /></figure>
+<figure id="gallery-23-9"><img src="images/IMG_20130923_161218.webp" /></figure>
+<figure id="gallery-23-10"><img src="images/IMG_20130923_161248.webp" /></figure>
+<figure id="gallery-23-11"><img src="images/IMG_20130923_163850.webp" /></figure>
+<figure id="gallery-23-12"><img src="images/IMG_20130923_164350.webp" /></figure>
+<figure id="gallery-23-13"><img src="images/IMG_20130923_164353.webp" /></figure>
+<figure id="gallery-23-14"><img src="images/IMG_20130923_164358.webp" /></figure>
+<figure id="gallery-23-15"><img src="images/IMG_20130923_165747.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-23-1"><img src="images/IMG_20130923_130709.webp" /></a>
+<a href="#gallery-23-2"><img src="images/IMG_20130923_144311.webp" /></a>
+<a href="#gallery-23-3"><img src="images/IMG_20130923_152920.webp" /></a>
+<a href="#gallery-23-4"><img src="images/IMG_20130923_153326.webp" /></a>
+<a href="#gallery-23-5"><img src="images/IMG_20130923_154520.webp" /></a>
+<a href="#gallery-23-6"><img src="images/IMG_20130923_160241.webp" /></a>
+<a href="#gallery-23-7"><img src="images/IMG_20130923_160625.webp" /></a>
+<a href="#gallery-23-8"><img src="images/IMG_20130923_161147.webp" /></a>
+<a href="#gallery-23-9"><img src="images/IMG_20130923_161218.webp" /></a>
+<a href="#gallery-23-10"><img src="images/IMG_20130923_161248.webp" /></a>
+<a href="#gallery-23-11"><img src="images/IMG_20130923_163850.webp" /></a>
+<a href="#gallery-23-12"><img src="images/IMG_20130923_164350.webp" /></a>
+<a href="#gallery-23-13"><img src="images/IMG_20130923_164353.webp" /></a>
+<a href="#gallery-23-14"><img src="images/IMG_20130923_164358.webp" /></a>
+<a href="#gallery-23-15"><img src="images/IMG_20130923_165747.webp" /></a>
 </div>
-</p>
+</div>
 
 We then took a walk over the river and she pointed out a house that belonged to a Turkish man during
 the divided city years, who built things in and around his house out of other people's trash —
@@ -1178,53 +815,26 @@ OpenTechSchool. The young boy from the Isle of Man, Reuben, showed up and I work
 Turtle exercise in Python. I later returned to the Astronaut picture in the dark to witness the flag
 appearance — very cool indeed!
 
-<p>
-<style type="text/css">
-			#gallery-24 {
-				margin: auto;
-			}
-			#gallery-24 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-24 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-24 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-24"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_170104.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_170810.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_172030.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_174206.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130923_175247.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_000241.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_000512.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_124758.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-24-1"><img src="images/IMG_20130923_170104.webp" /></figure>
+<figure id="gallery-24-2"><img src="images/IMG_20130923_170810.webp" /></figure>
+<figure id="gallery-24-3"><img src="images/IMG_20130923_172030.webp" /></figure>
+<figure id="gallery-24-4"><img src="images/IMG_20130923_174206.webp" /></figure>
+<figure id="gallery-24-5"><img src="images/IMG_20130923_175247.webp" /></figure>
+<figure id="gallery-24-6"><img src="images/IMG_20130924_000241.webp" /></figure>
+<figure id="gallery-24-7"><img src="images/IMG_20130924_000512.webp" /></figure>
+<figure id="gallery-24-8"><img src="images/IMG_20130924_124758.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-24-1"><img src="images/IMG_20130923_170104.webp" /></a>
+<a href="#gallery-24-2"><img src="images/IMG_20130923_170810.webp" /></a>
+<a href="#gallery-24-3"><img src="images/IMG_20130923_172030.webp" /></a>
+<a href="#gallery-24-4"><img src="images/IMG_20130923_174206.webp" /></a>
+<a href="#gallery-24-5"><img src="images/IMG_20130923_175247.webp" /></a>
+<a href="#gallery-24-6"><img src="images/IMG_20130924_000241.webp" /></a>
+<a href="#gallery-24-7"><img src="images/IMG_20130924_000512.webp" /></a>
+<a href="#gallery-24-8"><img src="images/IMG_20130924_124758.webp" /></a>
 </div>
-</p>
+</div>
 
 Tuesday was my last full day in Berlin — I revisited the East Wall Gallery and walked all the way
 along it, taking pictures of the more interesting paintings. Unfortunately it was raining so wasn't
@@ -1239,95 +849,54 @@ desk was open for my flight. I went for a coffee, checked my bag in and proceede
 and eventually to the gate in plenty of time. Much less stressful than the journey two weeks prior!
 Lesson learned.
 
-<p>
-<style type="text/css">
-			#gallery-25 {
-				margin: auto;
-			}
-			#gallery-25 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 25%;
-			}
-			#gallery-25 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-25 .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>
-<div class="gallery galleryid-1385 gallery-columns-4 gallery-size-thumbnail" id="gallery-25"><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_125242.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_125249.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_125613.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_125653.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_125950.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_130059.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_130104.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_130210.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_130318.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_130550.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" sizes="auto, (max-width: 125px) 100vw, 125px" src="images/IMG_20130924_130643.resized-125x125.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_130722.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_130830.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_130834.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_130849.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_131011.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_132113.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_132225.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_132342.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_132418.resized-150x150.webp" width="125"/>
-</dt></dl><br style="clear: both"/><dl class="gallery-item">
-<dt class="gallery-icon landscape">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_132551.resized-150x150.webp" width="125"/>
-</dt></dl><dl class="gallery-item">
-<dt class="gallery-icon portrait">
-<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="125" loading="lazy" src="images/IMG_20130924_132755.resized-150x150.webp" width="125"/>
-</dt></dl>
-<br style="clear: both"/>
+<div class="gallery">
+<figure id="gallery-25-1"><img src="images/IMG_20130924_125242.webp" /></figure>
+<figure id="gallery-25-2"><img src="images/IMG_20130924_125249.webp" /></figure>
+<figure id="gallery-25-3"><img src="images/IMG_20130924_125613.webp" /></figure>
+<figure id="gallery-25-4"><img src="images/IMG_20130924_125653.webp" /></figure>
+<figure id="gallery-25-5"><img src="images/IMG_20130924_125950.webp" /></figure>
+<figure id="gallery-25-6"><img src="images/IMG_20130924_130059.webp" /></figure>
+<figure id="gallery-25-7"><img src="images/IMG_20130924_130104.webp" /></figure>
+<figure id="gallery-25-8"><img src="images/IMG_20130924_130210.webp" /></figure>
+<figure id="gallery-25-9"><img src="images/IMG_20130924_130318.webp" /></figure>
+<figure id="gallery-25-10"><img src="images/IMG_20130924_130550.webp" /></figure>
+<figure id="gallery-25-11"><img src="images/IMG_20130924_130643.webp" /></figure>
+<figure id="gallery-25-12"><img src="images/IMG_20130924_130722.webp" /></figure>
+<figure id="gallery-25-13"><img src="images/IMG_20130924_130830.webp" /></figure>
+<figure id="gallery-25-14"><img src="images/IMG_20130924_130834.webp" /></figure>
+<figure id="gallery-25-15"><img src="images/IMG_20130924_130849.webp" /></figure>
+<figure id="gallery-25-16"><img src="images/IMG_20130924_131011.webp" /></figure>
+<figure id="gallery-25-17"><img src="images/IMG_20130924_132113.webp" /></figure>
+<figure id="gallery-25-18"><img src="images/IMG_20130924_132225.webp" /></figure>
+<figure id="gallery-25-19"><img src="images/IMG_20130924_132342.webp" /></figure>
+<figure id="gallery-25-20"><img src="images/IMG_20130924_132418.webp" /></figure>
+<figure id="gallery-25-21"><img src="images/IMG_20130924_132551.webp" /></figure>
+<figure id="gallery-25-22"><img src="images/IMG_20130924_132755.webp" /></figure>
+<div class="gallery-thumbs">
+<a href="#gallery-25-1"><img src="images/IMG_20130924_125242.webp" /></a>
+<a href="#gallery-25-2"><img src="images/IMG_20130924_125249.webp" /></a>
+<a href="#gallery-25-3"><img src="images/IMG_20130924_125613.webp" /></a>
+<a href="#gallery-25-4"><img src="images/IMG_20130924_125653.webp" /></a>
+<a href="#gallery-25-5"><img src="images/IMG_20130924_125950.webp" /></a>
+<a href="#gallery-25-6"><img src="images/IMG_20130924_130059.webp" /></a>
+<a href="#gallery-25-7"><img src="images/IMG_20130924_130104.webp" /></a>
+<a href="#gallery-25-8"><img src="images/IMG_20130924_130210.webp" /></a>
+<a href="#gallery-25-9"><img src="images/IMG_20130924_130318.webp" /></a>
+<a href="#gallery-25-10"><img src="images/IMG_20130924_130550.webp" /></a>
+<a href="#gallery-25-11"><img src="images/IMG_20130924_130643.webp" /></a>
+<a href="#gallery-25-12"><img src="images/IMG_20130924_130722.webp" /></a>
+<a href="#gallery-25-13"><img src="images/IMG_20130924_130830.webp" /></a>
+<a href="#gallery-25-14"><img src="images/IMG_20130924_130834.webp" /></a>
+<a href="#gallery-25-15"><img src="images/IMG_20130924_130849.webp" /></a>
+<a href="#gallery-25-16"><img src="images/IMG_20130924_131011.webp" /></a>
+<a href="#gallery-25-17"><img src="images/IMG_20130924_132113.webp" /></a>
+<a href="#gallery-25-18"><img src="images/IMG_20130924_132225.webp" /></a>
+<a href="#gallery-25-19"><img src="images/IMG_20130924_132342.webp" /></a>
+<a href="#gallery-25-20"><img src="images/IMG_20130924_132418.webp" /></a>
+<a href="#gallery-25-21"><img src="images/IMG_20130924_132551.webp" /></a>
+<a href="#gallery-25-22"><img src="images/IMG_20130924_132755.webp" /></a>
 </div>
-</p>
+</div>
 
 In summary, I had a brilliant time in Berlin. It was a really relaxing holiday and I got to meet
 some great people, have really interesting conversations and see what life in Berlin is like. I'll
