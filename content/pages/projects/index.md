@@ -60,6 +60,15 @@ fsm-97-data is a project for extracting data from FIFA Soccer Manager 1997 game 
 - [Website](https://fsm.bennuttall.com)
 - [GitHub](https://github.com/bennuttall/fsm-97-data)
 
+## greatgramps
+
+greatgramps is a family tree static site generator for GRAMPS databases
+
+- [PyPI](https://pypi.org/project/greatgramps)
+- [GitHub](https://github.com/bennuttall/greatgramps)
+- [ReadTheDocs](https://greatgramps.readthedocs.io)
+- [Demo](https://gramps.bennuttall.com/I0000/people/I0000/)
+
 ## More
 
 See more on my GitHub profile: [github.com/bennuttall](https://github.com/bennuttall/)
