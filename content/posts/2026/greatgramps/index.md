@@ -4,14 +4,19 @@ scanned them all in to make digital copies, and then I looked to see if Ubuntu h
 software. I found [GRAMPS](https://www.gramps-project.org/), the brilliantly backronymed
 *Genealogical Research and Analysis Management Programming System*.
 
+<figure>
+<img src="images/greatgramps_50-01.webp" />
+<figcaption>GRAMPS</figcaption>
+</figure>
+
 I spent some time entering all the names and dates into GRAMPS, combining the data from five
 different trees. I quickly got the hang of GRAMPS, and found it quite a useful tool for visualising
 and navigating the tree. I proceeded to ask my parents for more info on family members, filling in
 gaps and adding detail. I then went into the [family history helpdesk at Manchester Central
 Library](https://mlfhs.uk/helpdesk) to learn about how to conduct research and go further back than
 the paper trees did. I got some guidance and continued my research at home using
-[FreeBMD](https://www.freebmd.org.uk/), [FamilySearch](https://www.familysearch.org/) and
-later, [Ancestry](https://www.ancestry.co.uk/).
+[FreeBMD](https://www.freebmd.org.uk/), [FamilySearch](https://www.familysearch.org/) and later,
+[Ancestry](https://www.ancestry.co.uk/).
 
 I found Ancestry useful for finding actual records, but I found myself having to maintain a separate
 tree online as well as my GRAMPS tree on my computer, in order for Ancestry to be useful. Ancestry
@@ -22,38 +27,38 @@ either. Ancestry being on the web means you can share it with others, but even i
 subscription, your family can't see the records you've collected without their own subscription.
 
 Ancestry does let you download the images of records you've found, such as birth, baptism, marriage,
-death and buirial records, and Census returns. I made an effort to download any records relating to
+death and burial records, and Census returns. I made an effort to download any records relating to
 direct ancestors, and keep them organised, but I didn't originally bother to associate them with
 events in GRAMPS because it didn't seem worth the effort.
 
 Recently, I wondered how easy it would be to access the data in my GRAMPS database with Python, and
 potentially make a static site from the data. I guided [Claude](https://claude.ai) in the experiment
-and like usual, made quick progress and it soon became obvious I would be able to build something
+and as usual, made quick progress and it soon became obvious I would be able to build something
 useful. I aimed to build a static site generator so I could host a browsable tree I could share with
 family. This was not just possible but *easy* because GRAMPS itself is written in Python, and has a
 Python library for accessing data from a database, so there was no reverse-engineering or guesswork.
 
 I created a homepage with an overview of the family tree, individual pages for each person in the
-tree, then added lists of ancestors and descendants, tree views, maps of event locations and quickly
-got something I could click around and explore. I found with it being a generated static site,
-clicking around is lightning fast — there's nothing to compute and nothing to wait for.
+tree, then added lists of ancestors and descendants, tree views, maps of event locations, and
+quickly got something I could click around and explore. I found with it being a generated static
+site, clicking around is lightning fast — there's nothing to compute and nothing to wait for.
 
 While building out the features I wanted, step-by-step with Claude, I tried creating events for a
 few Census returns and attached the images I got from Ancestry. It allowed me to view them within a
 person's life events in a way I thought would be worth adding, so I began to do this for as many
 ancestors as possible. In doing so I ended up scripting automations for common tasks, which
-eleviated the workload I'd have doing this in the GRAMPS UI. I had a command to create a Census
+alleviated the workload I'd have had doing this in the GRAMPS UI. I had a command to create a Census
 event with an image, one to list someone's children, and one to add people in bulk to an event,
 which would give me a preview to indicate the ages at the time so I could verify from the Ancestry
 record and the image itself. I did this for a few different tasks and turned it into a CLI.
 
-I kept adding features to the interface, and I'm pleased with what I've ended with — I have a
+I kept adding features to the interface, and I'm pleased with what I've ended up with — I have a
 private self-hosted site I can share with my family, and it's inspired me to add more detail to the
 tree because I can see images and maps alongside the data. Hopefully it will be useful to other
 people, and maybe even inspire people to create their own family tree in GRAMPS.
 
-I also put together a demo tree generator, so I could build a website for a fake tree showcasing
-the features.
+I also put together a demo tree generator, so I could build a website for a fake tree showcasing the
+features.
 
 As well as the CLI for reading from and managing data in GRAMPS, I also added a PDF tree generator
 so I can generate [ancestor](https://gramps.bennuttall.com/ancestors.pdf),
