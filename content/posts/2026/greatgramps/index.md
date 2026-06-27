@@ -61,9 +61,9 @@ I also put together a demo tree generator, so I could build a website for a fake
 features.
 
 As well as the CLI for reading from and managing data in GRAMPS, I also added a PDF tree generator
-so I can generate [ancestor](https://gramps.bennuttall.com/ancestors.pdf),
-[descendant](https://gramps.bennuttall.com/descendants.pdf) and
-[hourglass](https://gramps.bennuttall.com/hourglass.pdf) charts as printable PDFs.
+so I can generate [ancestor](https://gramps.bennuttall.com/I0000/ancestors.pdf),
+[descendant](https://gramps.bennuttall.com/I0000/descendants.pdf) and
+[hourglass](https://gramps.bennuttall.com/I0000/hourglass.pdf) charts as printable PDFs.
 
 <figure>
 <img src="images/greatgramps_32-34.webp" />
@@ -156,3 +156,5 @@ Some screenshots from my demo tree:
 <a href="#gallery-12"><img src="images/greatgramps_31-19.webp" /></a>
 </div>
 </div>
+
+This is yet another project I've been able to build out lightning fast with Claude.
