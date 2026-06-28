@@ -1,4 +1,5 @@
 published: '2026-06-27T01:53:01+01:00'
+modified: '2026-06-28T23:19:11+01:00'
 tags:
 - python
 - claude
@@ -10,5 +11,5 @@ tags:
 - genealogy
 - gramps
 - greatgramps
-title: "greatgramps: a static site generator for GRAMPS family trees"
+title: "greatgramps: a static site generator for Gramps family trees"
 og_image: images/greatgramps.webp
