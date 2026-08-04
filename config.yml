@@ -11,7 +11,8 @@ build:
 
 logs:
   logs_dir: apache2
-  pattern: "bennuttall.com-access*"
+  pattern: "bennuttall.com-access*gz"
+  live_pattern: "bennuttall.com-access*"
 
 analytics:
   output_dir: analytics
