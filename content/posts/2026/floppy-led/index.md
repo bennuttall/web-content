@@ -22,5 +22,11 @@ each of three disks, and labelled them with a coloured sticker to match.
 A udev monitor in Python detects the floppy drive event, reads the text file to determine the
 colour, and (using gpiozero, obviously) lights up the appropriate LED.
 
+Claude figured out the part I'd got stuck on last time:
+
+> No native media-change signalling. USB floppy bridges don't tell Linux when a disk is swapped, so
+> detection relies on udisks2's periodic polling of removable drives (it re-probes every couple of
+> seconds and fires a fresh change uevent when the state changes).
+
 See the instructions and code on GitHub:
 [github.com/bennuttall/floppy-led](https://github.com/bennuttall/floppy-led)
