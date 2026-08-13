@@ -26,8 +26,9 @@
 
       <aside class="side-col">
         <nav class="widget" aria-label="Archive">
-          <h2 class="widget-title">Jump to year</h2>
+          <h2 class="widget-title">Archive</h2>
           <ul class="widget-list">
+            <li><a href="/blog/archive/">All posts</a></li>
             <li><a href="/blog/tags/">Tags</a></li>
             <li tal:repeat="year site.archive.keys()"><a href="/blog/${year}/">${year}</a></li>
           </ul>
