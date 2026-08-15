@@ -67,6 +67,19 @@ NAND.
 
 ![](images/bb1.webp)
 
+```python
+from gpiozero import LED, Button
+from gpiozero.tools import all_values, any_values, negated
+from signal import pause
+
+in_1 = Button(2)
+in_2 = Button(3)
+
+out_1 = LED(17)
+out_2 = LED(27)
+out_3 = LED(22)
+```
+
 To define the AND of the two buttons, you'll need to use the `all_values` function from
 `gpiozero.tools`; `all_values` yields `True` if *all* of the inputs are `True`, which is an AND
 gate:
