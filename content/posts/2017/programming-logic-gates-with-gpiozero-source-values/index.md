@@ -1,5 +1,7 @@
 Here's an article I wrote for [The Magpi #55](https://magazine.raspberrypi.com/issues/55)
 
+![](images/magpi55.webp)
+
 Source/values is easy to get started with, and takes a keen mind to master. There's some magic going
 on beneath the hood! You will learn how it all works, and put it into action by creating logic gates
 (AND, OR, and NAND), using LEDs and buttons.
@@ -63,6 +65,8 @@ to. The buttons represent two inputs; the LEDs three outputs. You're going to pr
 to represent the binary AND of the two inputs, the second to represent the OR, and the third the
 NAND.
 
+![](images/bb1.webp)
+
 To define the AND of the two buttons, you'll need to use the `all_values` function from
 `gpiozero.tools`; `all_values` yields `True` if *all* of the inputs are `True`, which is an AND
 gate:
@@ -90,3 +94,5 @@ Finally, if you're running this code from a file rather than a Python shell, the
 because (with no buttons pressed), it's the only gate that's active according to the rules. Try
 pressing the buttons in different combinations to check your logic! Now try programming some more
 logic gates: XOR, NOR, and XNOR.
+
+![](images/bb2.webp)
