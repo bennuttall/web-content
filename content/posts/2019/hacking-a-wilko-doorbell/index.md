@@ -112,9 +112,9 @@ Add a loop to look for these key presses and play notes when they're pressed:
 
 ```python
 while True:
-    events = getkey()
+    events = get_key()
     for event in events:
-        if event.evtype == 'Key' andevent.code[-1] in 'ASDFGHJK':
+        if event.evtype == 'Key' and event.code[-1] in 'ASDFGHJK':
             if event.state:
                 tb.play(keys[event.code[-1]])
             else:
@@ -139,7 +139,7 @@ def play(tune):
         tb.play(note)
         sleep(float(duration))
     tb.stop()
-    
+
 tune = [
     ('C#4', 0.2), ('D4', 0.2),  (None, 0.2),
     ('Eb4', 0.2), ('E4', 0.2),  (None, 0.6),
@@ -160,7 +160,7 @@ play(tune)
 
 The easiest way to initially test the camera is to open a Terminal and type:
 
-```python
+```
 raspistill -k
 ```
 
@@ -201,7 +201,7 @@ on and the chime makes its sound.
 
 Optionally, you can choose to rewire the power to the receiver so that it comes from the Pi instead
 of batteries. Since it takes two AA batteries (1.5 V each), it requires ~3 V. You can power it from
-the Pi by connecting the black wire to GND and the red wire to 3V3 (we soldered outs straight to a
+the Pi by connecting the black wire to GND and the red wire to 3V3 (we soldered ours straight to a
 3V3 pin hole on a Pi Zero). And of course, if you prefer your own jingle, you can disconnect the
 speaker.
 
@@ -220,9 +220,9 @@ from gpiozero import Button
 
 doorbell = Button(21)
 
-button.wait_for_press()
+doorbell.wait_for_press()
 print("Pressed")
-button.wait_for_release()
+doorbell.wait_for_release()
 print("Released")
 ```
 
@@ -242,7 +242,7 @@ Take a look inside the doorbell
 <figure>
 <img src="images/doorbell-marked.webp" />
 <figcaption>
-Take a look inside the doorbell
+Connecting the doorbell wiring to the Pi's GPIO pins
 </figcaption>
 </figure>
 
