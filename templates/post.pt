@@ -50,7 +50,7 @@
           <ul class="widget-list">
             <li><a href="/blog/archive/">All posts</a></li>
             <li><a href="/blog/tags/">Tags</a></li>
-            <li tal:repeat="year site.archive.keys()"><a href="/blog/${year}/">${year}</a></li>
+            <li tal:repeat="(year, posts) site.archive.items()"><a href="/blog/${year}/">${year} (${len(posts)})</a></li>
           </ul>
         </nav>
       </aside>
