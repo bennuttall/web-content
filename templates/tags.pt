@@ -23,8 +23,8 @@
         <nav class="widget" aria-label="Archive">
           <h2 class="widget-title">Archive</h2>
           <ul class="widget-list">
-            <li><a href="/blog/archive/">All posts</a></li>
-            <li><a href="/blog/tags/">Tags</a></li>
+            <li><a href="/blog/archive/">All posts (${len(site.posts)})</a></li>
+            <li><a href="/blog/tags/">Tags (${len(site.tags)})</a></li>
             <li tal:repeat="(year, posts) site.archive.items()"><a href="/blog/${year}/">${year} (${len(posts)})</a></li>
           </ul>
         </nav>
