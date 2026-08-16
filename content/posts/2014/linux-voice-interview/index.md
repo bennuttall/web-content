@@ -25,3 +25,11 @@ Education](http://www.linuxvoice.com/education-education-education/)
 
 The interview was also published on
 [opensource.com](http://opensource.com/education/14/6/raspberry-pi-schools)
+
+[Download a PDF of the article](images/Linux-Voice-Issue-002_pp46-51.pdf)
+
+![](images/Linux-Voice-Issue-002_pp46-47.webp)
+
+![](images/Linux-Voice-Issue-002_pp48-49.webp)
+
+![](images/Linux-Voice-Issue-002_pp50-51.webp)
