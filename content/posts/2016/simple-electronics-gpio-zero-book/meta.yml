@@ -6,5 +6,6 @@ tags:
 - python
 - raspberry-pi
 - raspberry-pi-foundation
+- magpi
 title: Simple Electronics with GPIO Zero book
 og_image: images/GPIOZeroSpread-300x213.webp

@@ -4,5 +4,6 @@ tags:
 - gpiozero
 - python
 - raspberry-pi
+- magpi
 title: What's new in GPIO Zero v1.2?
 og_image: images/distancesensor-300x300.webp

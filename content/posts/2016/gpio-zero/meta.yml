@@ -4,5 +4,6 @@ tags:
 - raspberry-pi
 - gpiozero
 - gpio
+- magpi
 title: GPIO Zero
 og_image: images/budgetroboticskit.webp

@@ -4,5 +4,6 @@ tags:
 - python
 - raspberry-pi
 - gpiozero
+- magpi
 title: Hacking a Wilko doorbell
 og_image: images/doorbell-pi.webp
