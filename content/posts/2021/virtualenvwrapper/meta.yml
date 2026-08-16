@@ -4,5 +4,6 @@ tags:
 - pip
 - python
 - virtualenv
+- tooling
 title: virtualenvwrapper
 og_image: images/pi-python-cmds.webp
