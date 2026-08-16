@@ -378,6 +378,10 @@ Ireland again ([I went in 2011](/blog/2011/07/limerick-2011/ "Limerick 2011")).
 I gave my talk *Pioneering the Future of Computing Education* – you'll find the [slides on
 slideshare.](http://www.slideshare.net/bennuttall/pioneering-the-future-of-computing-education-pycon-ireland)
 
+The talk was mentioned in Jesette Garcia's write-up for Linux Voice Issue #10:
+
+![](images/Linux-Voice-Issue-010_p17.webp)
+
 <div class="gallery">
 <figure id="gallery5-1">
 <img src="images/IMG_20141010_155918.webp" />
