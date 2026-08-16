@@ -14,8 +14,16 @@
     <div class="container layout">
       <div>
         <h1 class="page-title">Tags</h1>
-        <div class="tag-cloud">
-          <a tal:repeat="(tag, posts) site.tags.items()" href="/blog/tags/${tag}/">${tag.replace("-", " ")} <span class="count">${len(posts)}</span></a>
+        <div tal:define="multi python: {t: p for t, p in site.tags.items() if len(p) > 1}; single python: {t: p for t, p in site.tags.items() if len(p) == 1}">
+          <div class="tag-cloud">
+            <a tal:repeat="(tag, posts) multi.items()" href="/blog/tags/${tag}/">${tag.replace("-", " ")} <span class="count">${len(posts)}</span></a>
+          </div>
+          <details class="tag-cloud-more" tal:condition="single">
+            <summary>Show all tags</summary>
+            <div class="tag-cloud">
+              <a tal:repeat="(tag, posts) single.items()" href="/blog/tags/${tag}/">${tag.replace("-", " ")} <span class="count">${len(posts)}</span></a>
+            </div>
+          </details>
         </div>
       </div>
 

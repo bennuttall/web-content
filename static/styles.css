@@ -1010,6 +1010,20 @@ figcaption,
   font-size: 0.85em;
 }
 
+.tag-cloud-more summary {
+  cursor: pointer;
+  color: var(--accent);
+  list-style: none;
+}
+
+.tag-cloud-more summary::-webkit-details-marker {
+  display: none;
+}
+
+.tag-cloud-more[open] summary {
+  margin-bottom: 1rem;
+}
+
 /* archive list */
 .archive-year {
   margin: 2rem 0;
